@@ -30,18 +30,20 @@ It contains the **exact data splits** used in the main experiments and ablations
 └── CITATION.cff
 ```
 
-For each (seed, dataset) pair, the split directory contains:
+For each (seed, dataset) pair, the split directory contains the following files. All files except `blind_test.json` are derived from the same 200-instance optimization set; different prompt-optimization methods consume different subsets of it according to their internal split convention.
 
-| File | Size | Role |
-|------|------|------|
-| `runtime_all.json`         | 200 | Full optimization set (used by PromptBreeder and DHOP). |
-| `runtime_train.json`       | 100 | 2-way train split (OPRO, GEPA). |
-| `runtime_dev.json`         | 100 | 2-way dev split (OPRO, GEPA). |
-| `runtime_train_test_train.json` | 80 | 3-way train split (PromptAgent). |
-| `runtime_train_test_test.json`  | 60 | 3-way dev split (PromptAgent). |
-| `runtime_test.json`        | 60  | 3-way test split (PromptAgent). |
-| `blind_test.json`          | 500 | Held-out test set, never visible during optimization. |
-| `sample_manifest.json`     | --- | Per-sample raw index provenance (split + index in the original HuggingFace/GitHub dataset). |
+| File | #Samples | Slice | Used by | Role |
+|------|:--------:|-------|---------|------|
+| `runtime_all.json`                | 200 | `runtime_all[:]` (all) | PromptBreeder, DHOP | Single optimization set (mode `single`). |
+| `runtime_train_test_train.json`   | 100 | `runtime_all[:100]`    | OPRO, GEPA          | Train half of the 2-way split (mode `two`). |
+| `runtime_train_test_test.json`    | 100 | `runtime_all[100:200]` | OPRO, GEPA          | Dev half of the 2-way split (mode `two`). |
+| `runtime_train.json`              | 80  | `runtime_all[:80]`     | PromptAgent         | Train portion of the 3-way split (mode `three`). |
+| `runtime_dev.json`                | 60  | `runtime_all[80:140]`  | PromptAgent         | Dev portion of the 3-way split (mode `three`). |
+| `runtime_test.json`               | 60  | `runtime_all[140:200]` | PromptAgent         | Test portion of the 3-way split (mode `three`). |
+| `blind_test.json`                 | 500 | held-out set           | all methods         | Final test set, never visible during optimization. |
+| `sample_manifest.json`            | --- | ---                    | ---                 | Per-sample raw index provenance (split + index in the original HuggingFace / GitHub dataset). |
+
+Note on naming: the `runtime_train_test_*` files predate the `runtime_train/dev/test` files. The former correspond to the 2-way train/dev split consumed by OPRO and GEPA, while the latter correspond to the 3-way train/dev/test split consumed by PromptAgent. Both groups of files are actively used.
 
 All JSON files share a common record schema with `text` and `entities` fields, where each entity has `text`, `label`, `start`, and `end`.
 
