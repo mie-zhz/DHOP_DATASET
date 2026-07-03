@@ -1,0 +1,1441 @@
+[
+  {
+    "text": "The series was greatly admired by such notable writers and critics of mystery and detective fiction as Ellery Queen (Frederic Dannay), Anthony Boucher, Vincent Starrett and Howard Haycraft.",
+    "entities": [
+      {
+        "text": "mystery and detective fiction",
+        "label": "literarygenre",
+        "start": 70,
+        "end": 99
+      },
+      {
+        "text": "Ellery Queen",
+        "label": "writer",
+        "start": 103,
+        "end": 115
+      },
+      {
+        "text": "Frederic Dannay",
+        "label": "writer",
+        "start": 117,
+        "end": 132
+      },
+      {
+        "text": "Anthony Boucher",
+        "label": "writer",
+        "start": 135,
+        "end": 150
+      },
+      {
+        "text": "Vincent Starrett",
+        "label": "writer",
+        "start": 152,
+        "end": 168
+      },
+      {
+        "text": "Howard Haycraft",
+        "label": "writer",
+        "start": 173,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "text": "Kingsley Amis set his novel, The Alteration (1976), in the 20th century, but major events in the Reformation did not take place, and Protestantism is limited to the breakaway Republic of New England.",
+    "entities": [
+      {
+        "text": "Kingsley Amis",
+        "label": "writer",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "The Alteration",
+        "label": "book",
+        "start": 29,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "Philip Roth ' s novel, The Plot Against America (2004), looks at an America where Franklin D. Roosevelt is defeated in 1940 in his bid for a third term as President of the United States, and Charles Lindbergh is elected, leading to a US that features increasing fascism and anti-Semitism.",
+    "entities": [
+      {
+        "text": "Philip Roth",
+        "label": "writer",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 16,
+        "end": 21
+      },
+      {
+        "text": "The Plot Against America",
+        "label": "book",
+        "start": 23,
+        "end": 47
+      },
+      {
+        "text": "Franklin D. Roosevelt",
+        "label": "person",
+        "start": 82,
+        "end": 103
+      },
+      {
+        "text": "Charles Lindbergh",
+        "label": "person",
+        "start": 191,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "Also, In the short story La Santa, by Nobel Prize winner Gabriel García Márquez a character is named after Zavattini.",
+    "entities": [
+      {
+        "text": "short story",
+        "label": "literarygenre",
+        "start": 13,
+        "end": 24
+      },
+      {
+        "text": "La Santa",
+        "label": "book",
+        "start": 25,
+        "end": 33
+      },
+      {
+        "text": "Gabriel García Márquez",
+        "label": "writer",
+        "start": 57,
+        "end": 79
+      },
+      {
+        "text": "Zavattini",
+        "label": "person",
+        "start": 107,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "text": "Writing for The Spectator in the UK, Graham Greene gave the film a mixed good review, characterizing the first half of the film as simple and direct and TRUE, but complaining that the second half displays a little less than life and that the last hour was permeated by banality and ennui.",
+    "entities": [
+      {
+        "text": "Graham Greene",
+        "label": "writer",
+        "start": 37,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "In 2005, Arkham House was awarded the World Fantasy Award for Small Press Achievements - the trophy at that time was a bust of H. P. Lovecraft.",
+    "entities": [
+      {
+        "text": "H. P. Lovecraft",
+        "label": "writer",
+        "start": 127,
+        "end": 142
+      }
+    ]
+  },
+  {
+    "text": "In 1971, as a response to the popularity of sexual guidebooks such as The Sensuous Woman (by J) and The Sensuous Man (by M), Asimov published The Sensuous Dirty Old Man under the byline Dr. ' A",
+    "entities": [
+      {
+        "text": "The Sensuous Woman",
+        "label": "book",
+        "start": 70,
+        "end": 88
+      },
+      {
+        "text": "J",
+        "label": "writer",
+        "start": 93,
+        "end": 94
+      },
+      {
+        "text": "The Sensuous Man",
+        "label": "book",
+        "start": 100,
+        "end": 116
+      },
+      {
+        "text": "M",
+        "label": "writer",
+        "start": 121,
+        "end": 122
+      },
+      {
+        "text": "Asimov",
+        "label": "writer",
+        "start": 125,
+        "end": 131
+      },
+      {
+        "text": "The Sensuous Dirty Old Man",
+        "label": "book",
+        "start": 142,
+        "end": 168
+      },
+      {
+        "text": "Dr. ' A",
+        "label": "person",
+        "start": 186,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "It is influenced by the tragedies of Sophocles and Seneca, and tells the story of princess Alvida of Norway, who is forcibly married off to the Goth king Torrismondo, when she is devoted to her childhood friend, king Germondo of Sweden.",
+    "entities": [
+      {
+        "text": "Sophocles",
+        "label": "writer",
+        "start": 37,
+        "end": 46
+      },
+      {
+        "text": "Seneca",
+        "label": "writer",
+        "start": 51,
+        "end": 57
+      },
+      {
+        "text": "Alvida",
+        "label": "person",
+        "start": 91,
+        "end": 97
+      },
+      {
+        "text": "Torrismondo",
+        "label": "person",
+        "start": 154,
+        "end": 165
+      },
+      {
+        "text": "Germondo",
+        "label": "person",
+        "start": 217,
+        "end": 225
+      }
+    ]
+  },
+  {
+    "text": "However, the resulting film, Conan the Barbarian (1982), was a combination of director John Milius ' ideas and plots from Conan stories (written also by Howard's successors, notably Lin Carter and L. Sprague de Camp).",
+    "entities": [
+      {
+        "text": "John Milius",
+        "label": "person",
+        "start": 87,
+        "end": 98
+      },
+      {
+        "text": "Conan",
+        "label": "person",
+        "start": 122,
+        "end": 127
+      },
+      {
+        "text": "Howard",
+        "label": "writer",
+        "start": 153,
+        "end": 159
+      },
+      {
+        "text": "Lin Carter",
+        "label": "writer",
+        "start": 182,
+        "end": 192
+      },
+      {
+        "text": "L. Sprague de Camp",
+        "label": "writer",
+        "start": 197,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "Some historians such as John Julius Norwich, despite their admiration for his furthering of historical methodology, consider Gibbon's hostile views on the Byzantine Empire flawed and blame him somewhat for the lack of interest shown in the subject throughout the 19th and early 20th centuries. John Julius Norwich, Byzantium (New York: Knopf, 1989); Byzantium: the apogee (London and New York: Viking Press, 1991).",
+    "entities": [
+      {
+        "text": "John Julius Norwich",
+        "label": "writer",
+        "start": 24,
+        "end": 43
+      },
+      {
+        "text": "Gibbon",
+        "label": "writer",
+        "start": 125,
+        "end": 131
+      },
+      {
+        "text": "John Julius Norwich",
+        "label": "writer",
+        "start": 294,
+        "end": 313
+      },
+      {
+        "text": "Byzantium",
+        "label": "location",
+        "start": 315,
+        "end": 324
+      },
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 326,
+        "end": 334
+      },
+      {
+        "text": "Byzantium",
+        "label": "location",
+        "start": 350,
+        "end": 359
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 373,
+        "end": 379
+      },
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 384,
+        "end": 392
+      }
+    ]
+  },
+  {
+    "text": "She later formed the Pagan Babies with friend Kat Bjelland, whom she met at the Satyricon club in Portland in 1984.",
+    "entities": [
+      {
+        "text": "Pagan Babies",
+        "label": "book",
+        "start": 21,
+        "end": 33
+      },
+      {
+        "text": "Kat Bjelland",
+        "label": "person",
+        "start": 46,
+        "end": 58
+      },
+      {
+        "text": "Satyricon club",
+        "label": "location",
+        "start": 80,
+        "end": 94
+      },
+      {
+        "text": "Portland",
+        "label": "location",
+        "start": 98,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "He received his first nomination for the Academy Award for Best Director for his circus drama The Greatest Show on Earth (1952), which won both the Academy Award for Best Picture and the Golden Globe Award for Best Motion Picture - Drama.",
+    "entities": []
+  },
+  {
+    "text": "Two decades later, Herbert's son Brian Herbert, along with Kevin J. Anderson, published two sequel s - Hunters of Dune (2006) and Sandworms of Dune (2007) - based in part on notes left behind by Frank Herbert for what he referred to as Dune 7, his own planned seventh novel in the Dune series.",
+    "entities": [
+      {
+        "text": "Herbert",
+        "label": "writer",
+        "start": 19,
+        "end": 26
+      },
+      {
+        "text": "Brian Herbert",
+        "label": "writer",
+        "start": 33,
+        "end": 46
+      },
+      {
+        "text": "Kevin J. Anderson",
+        "label": "writer",
+        "start": 59,
+        "end": 76
+      },
+      {
+        "text": "Hunters of Dune",
+        "label": "book",
+        "start": 103,
+        "end": 118
+      },
+      {
+        "text": "Sandworms of Dune",
+        "label": "book",
+        "start": 130,
+        "end": 147
+      },
+      {
+        "text": "Frank Herbert",
+        "label": "writer",
+        "start": 195,
+        "end": 208
+      },
+      {
+        "text": "Dune 7",
+        "label": "book",
+        "start": 236,
+        "end": 242
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 268,
+        "end": 273
+      }
+    ]
+  },
+  {
+    "text": "His name had sometimes been mentioned as a contender for the Nobel Prize in Literature, but in 1971, after losing to Aleksandr Solzhenitsyn, he wrote to a friend: That Nobel Prize! I hope I never hear it mentioned again.",
+    "entities": [
+      {
+        "text": "Aleksandr Solzhenitsyn",
+        "label": "writer",
+        "start": 117,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "text": "His most famous works are The Book of Healing, a philosophical and scientific encyclopedia, and The Canon of Medicine, a medical encyclopedia",
+    "entities": [
+      {
+        "text": "The Book of Healing",
+        "label": "book",
+        "start": 26,
+        "end": 45
+      },
+      {
+        "text": "The Canon of Medicine",
+        "label": "book",
+        "start": 96,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "text": "In December of the same year, allegations by Arkansas state troopers Larry Patterson and Roger Perry were first reported by David Brock in The American Spectator.",
+    "entities": [
+      {
+        "text": "Arkansas",
+        "label": "location",
+        "start": 45,
+        "end": 53
+      },
+      {
+        "text": "Larry Patterson",
+        "label": "person",
+        "start": 69,
+        "end": 84
+      },
+      {
+        "text": "Roger Perry",
+        "label": "person",
+        "start": 89,
+        "end": 100
+      },
+      {
+        "text": "David Brock",
+        "label": "writer",
+        "start": 124,
+        "end": 135
+      }
+    ]
+  },
+  {
+    "text": "Ansgar received the mission of evangelizing pagan Denmark, Norway and Sweden.",
+    "entities": [
+      {
+        "text": "Ansgar",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Another Gruelle family friends was Hoosier poet James Whitcomb Riley, whose poems The Elf-Child, later titled Little Orphant Annie! -- Orphant is correct -- not the comic strip-- (1885), and The Raggedy Man (1888), eventually formed the name for John Gruelle's iconic Raggedy Ann character.",
+    "entities": [
+      {
+        "text": "Gruelle",
+        "label": "person",
+        "start": 8,
+        "end": 15
+      },
+      {
+        "text": "Hoosier poet",
+        "label": "writer",
+        "start": 35,
+        "end": 47
+      },
+      {
+        "text": "James Whitcomb Riley",
+        "label": "writer",
+        "start": 48,
+        "end": 68
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 76,
+        "end": 81
+      },
+      {
+        "text": "John Gruelle",
+        "label": "person",
+        "start": 246,
+        "end": 258
+      }
+    ]
+  },
+  {
+    "text": "His best known works include the Our Ancestors trilogy (1952-1959), the Cosmicomics collection of short stories (1965), and the novels Invisible Cities (1972) and If on a winter's night a traveler (1979).",
+    "entities": [
+      {
+        "text": "Our Ancestors",
+        "label": "book",
+        "start": 33,
+        "end": 46
+      },
+      {
+        "text": "Cosmicomics",
+        "label": "book",
+        "start": 72,
+        "end": 83
+      },
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 128,
+        "end": 134
+      },
+      {
+        "text": "Invisible Cities",
+        "label": "book",
+        "start": 135,
+        "end": 151
+      },
+      {
+        "text": "If on a winter's night a traveler",
+        "label": "book",
+        "start": 163,
+        "end": 196
+      }
+    ]
+  },
+  {
+    "text": "In March 1938, Huxley's friend Anita Loos, a novelist and screenwriter, put him in touch with Metro-Goldwyn-Mayer (MGM), which hired him for Madame Curie which was originally to star Greta Garbo and be directed by George Cukor.",
+    "entities": [
+      {
+        "text": "Huxley",
+        "label": "writer",
+        "start": 15,
+        "end": 21
+      },
+      {
+        "text": "Anita Loos",
+        "label": "writer",
+        "start": 31,
+        "end": 41
+      },
+      {
+        "text": "Greta Garbo",
+        "label": "person",
+        "start": 183,
+        "end": 194
+      },
+      {
+        "text": "George Cukor",
+        "label": "person",
+        "start": 214,
+        "end": 226
+      }
+    ]
+  },
+  {
+    "text": "We can see its echo in the works of such very different writers as Daniel Defoe, William Makepeace Thackeray, the Brontës, Samuel Taylor Coleridge, T. S. Eliot and even Dorothy L. Sayers.",
+    "entities": [
+      {
+        "text": "Daniel Defoe",
+        "label": "writer",
+        "start": 67,
+        "end": 79
+      },
+      {
+        "text": "William Makepeace Thackeray",
+        "label": "writer",
+        "start": 81,
+        "end": 108
+      },
+      {
+        "text": "Brontës",
+        "label": "writer",
+        "start": 114,
+        "end": 121
+      },
+      {
+        "text": "Samuel Taylor Coleridge",
+        "label": "writer",
+        "start": 123,
+        "end": 146
+      },
+      {
+        "text": "T. S. Eliot",
+        "label": "writer",
+        "start": 148,
+        "end": 159
+      },
+      {
+        "text": "Dorothy L. Sayers",
+        "label": "writer",
+        "start": 169,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "text": "In the late 1980s, Coppola started considering concepts for a motion picture based upon the 19th-century novel The Adventures of Pinocchio, and in 1991 Coppola and Warner Bros. began discussing the project as well as two others involving the life of J. Edgar Hoover and the children's novel The Secret Garden.",
+    "entities": [
+      {
+        "text": "Coppola",
+        "label": "writer",
+        "start": 19,
+        "end": 26
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 105,
+        "end": 110
+      },
+      {
+        "text": "The Adventures of Pinocchio",
+        "label": "book",
+        "start": 111,
+        "end": 138
+      },
+      {
+        "text": "Coppola",
+        "label": "writer",
+        "start": 152,
+        "end": 159
+      },
+      {
+        "text": "J. Edgar Hoover",
+        "label": "writer",
+        "start": 250,
+        "end": 265
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 285,
+        "end": 290
+      },
+      {
+        "text": "The Secret Garden",
+        "label": "book",
+        "start": 291,
+        "end": 308
+      }
+    ]
+  },
+  {
+    "text": "Years later, Lead Me On would be chosen as the greatest Contemporary Christian album of all time by CCM Magazine.",
+    "entities": []
+  },
+  {
+    "text": "It is partially a science-fictional pastiche of Moby-Dick by Herman Melville.",
+    "entities": [
+      {
+        "text": "science-fictional",
+        "label": "literarygenre",
+        "start": 18,
+        "end": 35
+      },
+      {
+        "text": "Moby-Dick",
+        "label": "book",
+        "start": 48,
+        "end": 57
+      },
+      {
+        "text": "Herman Melville",
+        "label": "writer",
+        "start": 61,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "text": "At Analog, Bova won six Hugo Award s for Hugo Award for Best Professional Editor.",
+    "entities": [
+      {
+        "text": "Bova",
+        "label": "writer",
+        "start": 11,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "Diaries had been written by men in Chinese for some time, but in the early tenth century Ki no Tsurayuki chose to write his Tosa Nikki from the standpoint of a woman, in kana.",
+    "entities": [
+      {
+        "text": "Ki no Tsurayuki",
+        "label": "writer",
+        "start": 89,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "He dedicated his poem Fragments of Olympian Gossip to Viereck, a work in which Tesla ridiculed the scientific establishment of the day.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 17,
+        "end": 21
+      },
+      {
+        "text": "Viereck",
+        "label": "location",
+        "start": 54,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "text": "In the early 6th century BC, the Kingdom of Judah rebelled against the Neo-Babylonian Empire and was destroyed.",
+    "entities": []
+  },
+  {
+    "text": "Disraeli's early silver fork novels Vivian Grey (1826) and The Young Duke (1831) featured romanticised depictions of aristocratic life (despite his ignorance of it) with character sketches of well-known public figures lightly disguised.",
+    "entities": [
+      {
+        "text": "Disraeli",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "silver fork novels",
+        "label": "literarygenre",
+        "start": 17,
+        "end": 35
+      },
+      {
+        "text": "Vivian Grey",
+        "label": "book",
+        "start": 36,
+        "end": 47
+      },
+      {
+        "text": "The Young Duke",
+        "label": "book",
+        "start": 59,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "He reprised the role in Evil Under the Sun (1982) and Appointment with Death (1988).",
+    "entities": [
+      {
+        "text": "Evil Under the Sun",
+        "label": "book",
+        "start": 24,
+        "end": 42
+      },
+      {
+        "text": "Appointment with Death",
+        "label": "book",
+        "start": 54,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "text": "Alan Moore had this to say about the use of the Guy Fawkes motif adopted from his comic V for Vendetta, in an interview with Entertainment Weekly:",
+    "entities": [
+      {
+        "text": "Alan Moore",
+        "label": "writer",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Guy Fawkes",
+        "label": "person",
+        "start": 48,
+        "end": 58
+      },
+      {
+        "text": "V for Vendetta",
+        "label": "book",
+        "start": 88,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "She subsequently received critical acclaim for her performances in films such as Silkwood (1983), Mask (1985), The Witches of Eastwick (1987), and Moonstruck (1987), with the latter having earned her the Academy Award for Best Actress.",
+    "entities": []
+  },
+  {
+    "text": "In 1965, he founded with Daniel Weissbort the journal Modern Poetry in Translation, which involved bringing to the attention of the West the work of Czesław Miłosz, who would later go on to win the Nobel Prize in Literature.",
+    "entities": [
+      {
+        "text": "Daniel Weissbort",
+        "label": "writer",
+        "start": 25,
+        "end": 41
+      },
+      {
+        "text": "Czesław Miłosz",
+        "label": "writer",
+        "start": 149,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "In 1550, one year after Marguerite's death, a tributary poem, Hecatodistichon, was published in England.",
+    "entities": [
+      {
+        "text": "Marguerite",
+        "label": "writer",
+        "start": 24,
+        "end": 34
+      },
+      {
+        "text": "tributary poem",
+        "label": "literarygenre",
+        "start": 46,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "Adapted by Anne Washburn and directed by Laurence Olivier Award winner Richard Jones, and will be based on stories from the original series by Rod Serling, Charles Beaumont and Richard Matheson.",
+    "entities": [
+      {
+        "text": "Anne Washburn",
+        "label": "writer",
+        "start": 11,
+        "end": 24
+      },
+      {
+        "text": "Richard Jones",
+        "label": "person",
+        "start": 71,
+        "end": 84
+      },
+      {
+        "text": "Rod Serling",
+        "label": "writer",
+        "start": 143,
+        "end": 154
+      },
+      {
+        "text": "Charles Beaumont",
+        "label": "writer",
+        "start": 156,
+        "end": 172
+      },
+      {
+        "text": "Richard Matheson",
+        "label": "writer",
+        "start": 177,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Andy Warhol was commissioned in 1984 by collector and gallerist Alexander Iolas to produce work based on Leonardo da Vinci ' s The Last Supper for an exhibition at the old refectory of the Palazzo delle Stelline in Milan, opposite from the Santa Maria delle Grazie where Leonardo da Vinci's mural can be seen.",
+    "entities": [
+      {
+        "text": "Andy Warhol",
+        "label": "writer",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Alexander Iolas",
+        "label": "person",
+        "start": 64,
+        "end": 79
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "label": "person",
+        "start": 105,
+        "end": 122
+      },
+      {
+        "text": "Palazzo delle Stelline",
+        "label": "location",
+        "start": 189,
+        "end": 211
+      },
+      {
+        "text": "Milan",
+        "label": "location",
+        "start": 215,
+        "end": 220
+      },
+      {
+        "text": "Santa Maria delle Grazie",
+        "label": "location",
+        "start": 240,
+        "end": 264
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "label": "person",
+        "start": 271,
+        "end": 288
+      }
+    ]
+  },
+  {
+    "text": "He was the Playboy interview subject in December 1965, in a conversation conducted by Alvin Toffler.",
+    "entities": [
+      {
+        "text": "Alvin Toffler",
+        "label": "writer",
+        "start": 86,
+        "end": 99
+      }
+    ]
+  },
+  {
+    "text": "His fictional work, Redburn (1849), and his non-fiction White-Jacket (1850) were given better reviews but did not provide financial security.",
+    "entities": [
+      {
+        "text": "fictional work",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 18
+      },
+      {
+        "text": "Redburn",
+        "label": "book",
+        "start": 20,
+        "end": 27
+      },
+      {
+        "text": "White-Jacket",
+        "label": "book",
+        "start": 56,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "text": "Eventually, under the guidance of L. Sprague de Camp and Lin Carter, the stories were edited, revised, and sometimes rewritten.",
+    "entities": [
+      {
+        "text": "L. Sprague de Camp",
+        "label": "writer",
+        "start": 34,
+        "end": 52
+      },
+      {
+        "text": "Lin Carter",
+        "label": "writer",
+        "start": 57,
+        "end": 67
+      }
+    ]
+  },
+  {
+    "text": "He was a court poet of Udaya Varma (1446-1475) and the author of Krishnagatha, a poem which is considered a landmark in the development of Malayalam literature.",
+    "entities": [
+      {
+        "text": "Udaya Varma",
+        "label": "person",
+        "start": 23,
+        "end": 34
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 81,
+        "end": 85
+      },
+      {
+        "text": "Malayalam literature",
+        "label": "literarygenre",
+        "start": 139,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "See Gubbinal and The Snow Man for other experiments in perspective.",
+    "entities": []
+  },
+  {
+    "text": "Hasanaginica was the only authentic ballad included into La Guzla, an 1827 literary hoax of Prosper Mérimée.",
+    "entities": [
+      {
+        "text": "Hasanaginica",
+        "label": "book",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Prosper Mérimée",
+        "label": "writer",
+        "start": 92,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "Percy is known for his philosophical novels set in and around New Orleans; the first, The Moviegoer, won the U.S. National Book Award for Fiction.",
+    "entities": [
+      {
+        "text": "Percy",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "philosophical novels",
+        "label": "literarygenre",
+        "start": 23,
+        "end": 43
+      },
+      {
+        "text": "New Orleans",
+        "label": "location",
+        "start": 62,
+        "end": 73
+      },
+      {
+        "text": "The Moviegoer",
+        "label": "book",
+        "start": 86,
+        "end": 99
+      }
+    ]
+  },
+  {
+    "text": "The several characters live within a divided United States, in which the Empire of Japan takes the Pacific states, governing them as a puppet, Nazi Germany takes the East Coast of the United States and parts of the Midwest, with the remnants of the old United States ' government as the Neutral Zone, a buffer state between the two superpowers.",
+    "entities": [
+      {
+        "text": "Pacific states",
+        "label": "location",
+        "start": 99,
+        "end": 113
+      },
+      {
+        "text": "East Coast of the United States",
+        "label": "location",
+        "start": 166,
+        "end": 197
+      },
+      {
+        "text": "Midwest",
+        "label": "location",
+        "start": 215,
+        "end": 222
+      },
+      {
+        "text": "Neutral Zone",
+        "label": "location",
+        "start": 287,
+        "end": 299
+      }
+    ]
+  },
+  {
+    "text": "Among his awards for particular works were: Hugo Award s, in 1963 for The Dragon Masters, in 1967 for The Last Castle, and in 2010 for his memoir This is Me, Jack Vance!; a Nebula Award in 1966, also for The Last Castle; the Jupiter Award in 1975; the World Fantasy Award in 1990 for Lyonesse: Madouc.",
+    "entities": [
+      {
+        "text": "The Dragon Masters",
+        "label": "book",
+        "start": 70,
+        "end": 88
+      },
+      {
+        "text": "The Last Castle",
+        "label": "book",
+        "start": 102,
+        "end": 117
+      },
+      {
+        "text": "This is Me, Jack Vance!",
+        "label": "book",
+        "start": 146,
+        "end": 169
+      },
+      {
+        "text": "The Last Castle",
+        "label": "book",
+        "start": 204,
+        "end": 219
+      },
+      {
+        "text": "Lyonesse: Madouc",
+        "label": "book",
+        "start": 284,
+        "end": 300
+      }
+    ]
+  },
+  {
+    "text": "William wrote the Arthurian epic Gesta Regum Britanniae, in Latin hexameters, which he completed just after 1236.",
+    "entities": [
+      {
+        "text": "William",
+        "label": "writer",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "The title is taken from his poem The Negro Speaks of Rivers.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 28,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "Frances Yates in her 1966 study The Art of Memory argues that a brief passage of the Confessions, 10.8.12, in which Augustine writes of walking up a flight of stairs and entering the vast fields of memory technique for organizing large amounts of information.",
+    "entities": [
+      {
+        "text": "Frances Yates",
+        "label": "writer",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "The Art of Memory",
+        "label": "book",
+        "start": 32,
+        "end": 49
+      },
+      {
+        "text": "Confessions",
+        "label": "book",
+        "start": 85,
+        "end": 96
+      },
+      {
+        "text": "Augustine",
+        "label": "writer",
+        "start": 116,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "Other biographers, such as Peter Ackroyd, have offered a more sympathetic picture of More as both a sophisticated philosopher and man of letters, as well as a zealous Catholic who believed in the authority of the Holy See over Christendom.",
+    "entities": [
+      {
+        "text": "Peter Ackroyd",
+        "label": "writer",
+        "start": 27,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "The work was such a popular success that the poet wrote a sequel, Remedia Amoris (Remedies for Love).",
+    "entities": []
+  },
+  {
+    "text": "But in 1950, he starred as the teenager Bigger Thomas (Wright was 42) in an Argentina film version of Native Son.",
+    "entities": [
+      {
+        "text": "Bigger Thomas",
+        "label": "person",
+        "start": 40,
+        "end": 53
+      },
+      {
+        "text": "Wright",
+        "label": "person",
+        "start": 55,
+        "end": 61
+      },
+      {
+        "text": "Native Son",
+        "label": "book",
+        "start": 102,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "text": "On June 17, 1915, shortly after submitting his patent application for the doll's design, Johnny Gruelle applied for a registered trademark for the Raggedy Ann name, which he created by combining words from two of James Whitcomb Riley poems, The Raggedy Man and Little Orphant Annie.",
+    "entities": [
+      {
+        "text": "Johnny Gruelle",
+        "label": "person",
+        "start": 89,
+        "end": 103
+      },
+      {
+        "text": "James Whitcomb Riley",
+        "label": "writer",
+        "start": 213,
+        "end": 233
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 234,
+        "end": 239
+      }
+    ]
+  },
+  {
+    "text": "This uses the words of war poet Wilfred Owen ' s At a Calvary near the Ancre.",
+    "entities": [
+      {
+        "text": "Wilfred Owen",
+        "label": "writer",
+        "start": 32,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "He also gave a lecture at the Beethovensaal in Berlin on 13 October 1922, which appeared in Neue Rundschau in November 1922 in which he developed his eccentric defence of the Republic, based on extensive close readings of Novalis and Walt Whitman.",
+    "entities": [
+      {
+        "text": "Beethovensaal",
+        "label": "location",
+        "start": 30,
+        "end": 43
+      },
+      {
+        "text": "Berlin",
+        "label": "location",
+        "start": 47,
+        "end": 53
+      },
+      {
+        "text": "Novalis",
+        "label": "writer",
+        "start": 222,
+        "end": 229
+      },
+      {
+        "text": "Walt Whitman",
+        "label": "writer",
+        "start": 234,
+        "end": 246
+      }
+    ]
+  },
+  {
+    "text": "Rolling Stone magazine ranked him number 13 in its list of 100 Greatest Artists.",
+    "entities": []
+  },
+  {
+    "text": "Spears has earned numerous awards and accolades, including a Grammy Award; seven Guinness World Records; six MTV Video Music Awards, including the Michael Jackson Video Vanguard Award; seven Billboard Music Awards, including the Millennium Award; the inaugural Radio Disney Icon Award; the GLAAD Media Award ' s Vanguard Award and a star on the Hollywood Walk of Fame.",
+    "entities": [
+      {
+        "text": "Spears",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Guinness World Records",
+        "label": "book",
+        "start": 81,
+        "end": 103
+      },
+      {
+        "text": "Hollywood Walk of Fame",
+        "label": "location",
+        "start": 345,
+        "end": 367
+      }
+    ]
+  },
+  {
+    "text": "Landing in Boston, he devoted the rest of the month to a round of dinners with such notables as Ralph Waldo Emerson, Henry Wadsworth Longfellow, and his American publisher, James Thomas Fields.",
+    "entities": [
+      {
+        "text": "Boston",
+        "label": "location",
+        "start": 11,
+        "end": 17
+      },
+      {
+        "text": "Ralph Waldo Emerson",
+        "label": "writer",
+        "start": 96,
+        "end": 115
+      },
+      {
+        "text": "Henry Wadsworth Longfellow",
+        "label": "writer",
+        "start": 117,
+        "end": 143
+      },
+      {
+        "text": "James Thomas Fields",
+        "label": "writer",
+        "start": 173,
+        "end": 192
+      }
+    ]
+  },
+  {
+    "text": "It was during the 1960s that Warhol began to make paintings of iconic American objects such as dollar bills, mushroom cloud s, electric chair s, Campbell's Soup Cans, Coca-Cola bottles, celebrities such as Marilyn Monroe, Elvis Presley, Marlon Brando, Troy Donahue, Muhammad Ali, and Elizabeth Taylor, as well as newspaper headlines or photographs of police dogs attacking African-American protesters during the Birmingham campaign in the civil rights movement.",
+    "entities": [
+      {
+        "text": "Warhol",
+        "label": "writer",
+        "start": 29,
+        "end": 35
+      },
+      {
+        "text": "Marilyn Monroe",
+        "label": "person",
+        "start": 206,
+        "end": 220
+      },
+      {
+        "text": "Elvis Presley",
+        "label": "person",
+        "start": 222,
+        "end": 235
+      },
+      {
+        "text": "Marlon Brando",
+        "label": "person",
+        "start": 237,
+        "end": 250
+      },
+      {
+        "text": "Troy Donahue",
+        "label": "person",
+        "start": 252,
+        "end": 264
+      },
+      {
+        "text": "Muhammad Ali",
+        "label": "person",
+        "start": 266,
+        "end": 278
+      },
+      {
+        "text": "Elizabeth Taylor",
+        "label": "person",
+        "start": 284,
+        "end": 300
+      }
+    ]
+  },
+  {
+    "text": "Conversely, Joe Haldeman ' s 1974 anti-war, Hugo Award - and Nebula Award -winning science fiction novel The Forever War is popularly thought to be a direct reply to Starship Troopers, and though Haldeman has stated that it is actually a result of his personal experiences in the Vietnam War, he has admitted to being influenced by Starship Troopers.",
+    "entities": [
+      {
+        "text": "Joe Haldeman",
+        "label": "writer",
+        "start": 12,
+        "end": 24
+      },
+      {
+        "text": "science fiction novel",
+        "label": "literarygenre",
+        "start": 83,
+        "end": 104
+      },
+      {
+        "text": "The Forever War",
+        "label": "book",
+        "start": 105,
+        "end": 120
+      },
+      {
+        "text": "Starship Troopers",
+        "label": "book",
+        "start": 166,
+        "end": 183
+      },
+      {
+        "text": "Haldeman",
+        "label": "writer",
+        "start": 196,
+        "end": 204
+      },
+      {
+        "text": "Starship Troopers",
+        "label": "book",
+        "start": 332,
+        "end": 349
+      }
+    ]
+  },
+  {
+    "text": "February 2015 saw Ellis release his first album as Zarelli, Soft Rains on the Seriés Aphōnos label - a mostly instrumental synthesizer record, featuring the voice of Leonard Nimoy reading the Ray Bradbury short story There Will Come Soft Rains.",
+    "entities": [
+      {
+        "text": "Ellis",
+        "label": "person",
+        "start": 18,
+        "end": 23
+      },
+      {
+        "text": "Zarelli",
+        "label": "person",
+        "start": 51,
+        "end": 58
+      },
+      {
+        "text": "Leonard Nimoy",
+        "label": "person",
+        "start": 166,
+        "end": 179
+      },
+      {
+        "text": "Ray Bradbury",
+        "label": "writer",
+        "start": 192,
+        "end": 204
+      },
+      {
+        "text": "short story",
+        "label": "literarygenre",
+        "start": 205,
+        "end": 216
+      }
+    ]
+  }
+]

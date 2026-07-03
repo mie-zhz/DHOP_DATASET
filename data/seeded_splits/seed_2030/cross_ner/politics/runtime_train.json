@@ -1,0 +1,2539 @@
+[
+  {
+    "text": "During the First Hellenic Republic (1828-1832) and the reign of King Otto (1833-1863), the political parties were essentially based on clientage of the Great Powers: the Russian Party, the English Party, and the French Party.",
+    "entities": [
+      {
+        "text": "King Otto",
+        "label": "politician",
+        "start": 64,
+        "end": 73
+      },
+      {
+        "text": "Russian Party",
+        "label": "politicalparty",
+        "start": 170,
+        "end": 183
+      },
+      {
+        "text": "English Party",
+        "label": "politicalparty",
+        "start": 189,
+        "end": 202
+      },
+      {
+        "text": "French Party",
+        "label": "politicalparty",
+        "start": 212,
+        "end": 224
+      }
+    ]
+  },
+  {
+    "text": "The Scythians and Cimmerians took advantage of the bitter fighting among the Assyrians to raid Neo-Assyrian Empire colonies, with hordes of horse-borne marauders ravaging parts of Asia Minor and the Caucasus, where the vassal kings of Urartu and Lydia begged their Neo-Assyrian Empire overlord for help in vain.",
+    "entities": [
+      {
+        "text": "Asia Minor",
+        "label": "location",
+        "start": 180,
+        "end": 190
+      },
+      {
+        "text": "Caucasus",
+        "label": "location",
+        "start": 199,
+        "end": 207
+      }
+    ]
+  },
+  {
+    "text": "Kim Beazley led the party to the 1998 Australian federal election, winning 51 percent of the two-party-preferred vote but falling short on seats, and lost ground at the 2001 Australian federal election.",
+    "entities": [
+      {
+        "text": "Kim Beazley",
+        "label": "politician",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "1998 Australian federal election",
+        "label": "election",
+        "start": 33,
+        "end": 65
+      },
+      {
+        "text": "2001 Australian federal election",
+        "label": "election",
+        "start": 169,
+        "end": 201
+      }
+    ]
+  },
+  {
+    "text": "Other targets included Birmingham and Coventry, and strategically important cities, such as the naval base at Plymouth and the port of Kingston upon Hull.",
+    "entities": [
+      {
+        "text": "Birmingham",
+        "label": "location",
+        "start": 23,
+        "end": 33
+      },
+      {
+        "text": "Coventry",
+        "label": "location",
+        "start": 38,
+        "end": 46
+      },
+      {
+        "text": "Plymouth",
+        "label": "location",
+        "start": 110,
+        "end": 118
+      },
+      {
+        "text": "Kingston upon Hull",
+        "label": "location",
+        "start": 135,
+        "end": 153
+      }
+    ]
+  },
+  {
+    "text": "Page returned to cabinet after the 1934 Australian federal election, when the Country Party entered a new coalition with Joseph Lyons ' United Australia Party.",
+    "entities": [
+      {
+        "text": "1934 Australian federal election",
+        "label": "election",
+        "start": 35,
+        "end": 67
+      },
+      {
+        "text": "Country Party",
+        "label": "politicalparty",
+        "start": 78,
+        "end": 91
+      },
+      {
+        "text": "Joseph Lyons",
+        "label": "politician",
+        "start": 121,
+        "end": 133
+      },
+      {
+        "text": "United Australia Party",
+        "label": "politicalparty",
+        "start": 136,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "text": "In addition, students from Santa Ana College, Santiago Canyon College, Fullerton College, and Golden West College can local fixed route buses for free using their student ID.",
+    "entities": [
+      {
+        "text": "Santa Ana College",
+        "label": "organisation",
+        "start": 27,
+        "end": 44
+      },
+      {
+        "text": "Santiago Canyon College",
+        "label": "organisation",
+        "start": 46,
+        "end": 69
+      },
+      {
+        "text": "Fullerton College",
+        "label": "organisation",
+        "start": 71,
+        "end": 88
+      },
+      {
+        "text": "Golden West College",
+        "label": "organisation",
+        "start": 94,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "In Canada, BOCC has ten locations located in Markham, Scarborough (under the name GTA Toronto branch), Toronto (several branches, in North York and downtown), Mississauga, Vancouver, Montreal, and Calgary.",
+    "entities": [
+      {
+        "text": "BOCC",
+        "label": "organisation",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "Markham",
+        "label": "location",
+        "start": 45,
+        "end": 52
+      },
+      {
+        "text": "Scarborough",
+        "label": "location",
+        "start": 54,
+        "end": 65
+      },
+      {
+        "text": "GTA Toronto",
+        "label": "location",
+        "start": 82,
+        "end": 93
+      },
+      {
+        "text": "Toronto",
+        "label": "location",
+        "start": 103,
+        "end": 110
+      },
+      {
+        "text": "North York",
+        "label": "location",
+        "start": 133,
+        "end": 143
+      },
+      {
+        "text": "Mississauga",
+        "label": "location",
+        "start": 159,
+        "end": 170
+      },
+      {
+        "text": "Vancouver",
+        "label": "location",
+        "start": 172,
+        "end": 181
+      },
+      {
+        "text": "Montreal",
+        "label": "location",
+        "start": 183,
+        "end": 191
+      },
+      {
+        "text": "Calgary",
+        "label": "location",
+        "start": 197,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "During the Eurozone crisis, the two main parties, The People of Freedom and the Democratic Party, along with other minor political forces, supported the Monti cabinet, and eventually, after the 2013 Italian general election, formed a grand coalition in support of the Letta Cabinet, which, however, was opposed by a new major political force in parliament, the anti-establishment Five Star Movement.",
+    "entities": [
+      {
+        "text": "The People of Freedom",
+        "label": "politicalparty",
+        "start": 50,
+        "end": 71
+      },
+      {
+        "text": "Democratic Party",
+        "label": "politicalparty",
+        "start": 80,
+        "end": 96
+      },
+      {
+        "text": "Monti cabinet",
+        "label": "organisation",
+        "start": 153,
+        "end": 166
+      },
+      {
+        "text": "2013 Italian general election",
+        "label": "election",
+        "start": 194,
+        "end": 223
+      },
+      {
+        "text": "Letta Cabinet",
+        "label": "organisation",
+        "start": 268,
+        "end": 281
+      },
+      {
+        "text": "Five Star Movement",
+        "label": "politicalparty",
+        "start": 380,
+        "end": 398
+      }
+    ]
+  },
+  {
+    "text": "Celebrities donating included Chris Sacca (who offered to match other people's donations and ultimately gave $150,000), Rosie 'Donnell, Judd Apatow, Sia, John Legend, and Adele Stelter The number of members of the ACLU doubled in the time from the election to end of January to 1 million.",
+    "entities": [
+      {
+        "text": "ACLU",
+        "label": "organisation",
+        "start": 214,
+        "end": 218
+      }
+    ]
+  },
+  {
+    "text": "The Freedom Party was subsequently expelled from the Liberal International, and the remaining liberals seceded to found the Liberal Forum (Liberales Forum, member Liberal International, Alliance of Liberals and Democrats for Europe Party) in 1993.",
+    "entities": [
+      {
+        "text": "Freedom Party",
+        "label": "politicalparty",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "Liberal International",
+        "label": "organisation",
+        "start": 53,
+        "end": 74
+      },
+      {
+        "text": "Liberal Forum",
+        "label": "politicalparty",
+        "start": 124,
+        "end": 137
+      },
+      {
+        "text": "Liberales Forum",
+        "label": "politicalparty",
+        "start": 139,
+        "end": 154
+      },
+      {
+        "text": "Liberal International",
+        "label": "organisation",
+        "start": 163,
+        "end": 184
+      },
+      {
+        "text": "Alliance of Liberals and Democrats for Europe Party",
+        "label": "politicalparty",
+        "start": 186,
+        "end": 237
+      }
+    ]
+  },
+  {
+    "text": "The election was a rematch of the 1990 United States Senate election in North Carolina: between the Republican incumbent Jesse Helms and the Democratic nominee Harvey Gantt.",
+    "entities": [
+      {
+        "text": "1990 United States Senate election in North Carolina",
+        "label": "election",
+        "start": 34,
+        "end": 86
+      },
+      {
+        "text": "Jesse Helms",
+        "label": "politician",
+        "start": 121,
+        "end": 132
+      },
+      {
+        "text": "Harvey Gantt",
+        "label": "politician",
+        "start": 160,
+        "end": 172
+      }
+    ]
+  },
+  {
+    "text": "Incumbent Democrat Walter Mondale, who was originally appointed in 1964 (to fill the vacancy create when Hubert Humphrey was elected to the office of Vice President) and 1966 United States Senate election in Minnesota, defeated Republican challenger Phil Hansen.",
+    "entities": [
+      {
+        "text": "Walter Mondale",
+        "label": "politician",
+        "start": 19,
+        "end": 33
+      },
+      {
+        "text": "Hubert Humphrey",
+        "label": "politician",
+        "start": 105,
+        "end": 120
+      },
+      {
+        "text": "1966 United States Senate election in Minnesota",
+        "label": "election",
+        "start": 170,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "Johnson ran for governor three times: in 1947 Mississippi gubernatorial election, 1951 Mississippi gubernatorial election, and 1955 Mississippi gubernatorial election, but was unsuccessful.",
+    "entities": [
+      {
+        "text": "Johnson",
+        "label": "politician",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "1947 Mississippi gubernatorial election",
+        "label": "election",
+        "start": 41,
+        "end": 80
+      },
+      {
+        "text": "1951 Mississippi gubernatorial election",
+        "label": "election",
+        "start": 82,
+        "end": 121
+      },
+      {
+        "text": "1955 Mississippi gubernatorial election",
+        "label": "election",
+        "start": 127,
+        "end": 166
+      }
+    ]
+  },
+  {
+    "text": "The party was formed as Union of Christian and Centre Democrats in December 2002 upon the merger of the Christian Democratic Centre (CCD), the United Christian Democrats (CDU) and European Democracy (DE).",
+    "entities": [
+      {
+        "text": "Union of Christian and Centre Democrats",
+        "label": "organisation",
+        "start": 24,
+        "end": 63
+      },
+      {
+        "text": "Christian Democratic Centre",
+        "label": "politicalparty",
+        "start": 104,
+        "end": 131
+      },
+      {
+        "text": "CCD",
+        "label": "politicalparty",
+        "start": 133,
+        "end": 136
+      },
+      {
+        "text": "United Christian Democrats",
+        "label": "politicalparty",
+        "start": 143,
+        "end": 169
+      },
+      {
+        "text": "CDU",
+        "label": "politicalparty",
+        "start": 171,
+        "end": 174
+      },
+      {
+        "text": "European Democracy",
+        "label": "politicalparty",
+        "start": 180,
+        "end": 198
+      },
+      {
+        "text": "DE",
+        "label": "politicalparty",
+        "start": 200,
+        "end": 202
+      }
+    ]
+  },
+  {
+    "text": "Contending for the nomination were Gloria La Riva (also nominee of the Party for Socialism and Liberation), Cynthia McKinney (also nominee of the Green Party of the United States) Brian Moore (also nominee of the Socialist Party USA) and independent presidential candidate Ralph Nader.",
+    "entities": [
+      {
+        "text": "Gloria La Riva",
+        "label": "politician",
+        "start": 35,
+        "end": 49
+      },
+      {
+        "text": "Party for Socialism and Liberation",
+        "label": "politicalparty",
+        "start": 71,
+        "end": 105
+      },
+      {
+        "text": "Cynthia McKinney",
+        "label": "politician",
+        "start": 108,
+        "end": 124
+      },
+      {
+        "text": "Green Party of the United States",
+        "label": "politicalparty",
+        "start": 146,
+        "end": 178
+      },
+      {
+        "text": "Brian Moore",
+        "label": "politician",
+        "start": 180,
+        "end": 191
+      },
+      {
+        "text": "Socialist Party USA",
+        "label": "politicalparty",
+        "start": 213,
+        "end": 232
+      },
+      {
+        "text": "Ralph Nader",
+        "label": "politician",
+        "start": 273,
+        "end": 284
+      }
+    ]
+  },
+  {
+    "text": "Subsequently, the party allied itself with the New Liberal Movement in the formation of the Australian Democrats for the 1977 Australian federal election.",
+    "entities": [
+      {
+        "text": "New Liberal Movement",
+        "label": "politicalparty",
+        "start": 47,
+        "end": 67
+      },
+      {
+        "text": "Australian Democrats",
+        "label": "politicalparty",
+        "start": 92,
+        "end": 112
+      },
+      {
+        "text": "1977 Australian federal election",
+        "label": "election",
+        "start": 121,
+        "end": 153
+      }
+    ]
+  },
+  {
+    "text": "When this draft was discussed in 1929 by the judiciary committee of the Reichstag, the Social Democratic Party of Germany, the Communist Party of Germany, and the left-wing liberal German Democratic Party at first managed to mobilize a majority of 15 to 13 votes against Paragraph 296.",
+    "entities": [
+      {
+        "text": "Reichstag",
+        "label": "location",
+        "start": 72,
+        "end": 81
+      },
+      {
+        "text": "Social Democratic Party of Germany",
+        "label": "politicalparty",
+        "start": 87,
+        "end": 121
+      },
+      {
+        "text": "Communist Party of Germany",
+        "label": "politicalparty",
+        "start": 127,
+        "end": 153
+      },
+      {
+        "text": "German Democratic Party",
+        "label": "politicalparty",
+        "start": 181,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "196 He retained the seat in 2001 Northern Ireland local elections but lost it in 2005 Northern Ireland local elections to Fred Cobain of the Ulster Unionist Party.",
+    "entities": [
+      {
+        "text": "2001 Northern Ireland local elections",
+        "label": "election",
+        "start": 28,
+        "end": 65
+      },
+      {
+        "text": "2005 Northern Ireland local elections",
+        "label": "election",
+        "start": 81,
+        "end": 118
+      },
+      {
+        "text": "Fred Cobain",
+        "label": "politician",
+        "start": 122,
+        "end": 133
+      },
+      {
+        "text": "Ulster Unionist Party",
+        "label": "politicalparty",
+        "start": 141,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "text": "For the 1952 British Columbia general election, the coalition government between the British Columbia Liberal Party and British Columbia Conservative Party reformed the electoral system from first past the post to the alternative vote.",
+    "entities": [
+      {
+        "text": "1952 British Columbia general election",
+        "label": "election",
+        "start": 8,
+        "end": 46
+      },
+      {
+        "text": "British Columbia Liberal Party",
+        "label": "politicalparty",
+        "start": 85,
+        "end": 115
+      },
+      {
+        "text": "British Columbia Conservative Party",
+        "label": "politicalparty",
+        "start": 120,
+        "end": 155
+      }
+    ]
+  },
+  {
+    "text": "The party was founded on 5 January 1930 by the merger of the Hapoel Hatzair founded by A. D. Gordon and the original Ahdut HaAvoda (founded in 1919 from the right, more moderate, wing of the Zionist socialist Poale Zion led by David Ben-Gurion).",
+    "entities": [
+      {
+        "text": "Hapoel Hatzair",
+        "label": "politicalparty",
+        "start": 61,
+        "end": 75
+      },
+      {
+        "text": "A. D. Gordon",
+        "label": "politician",
+        "start": 87,
+        "end": 99
+      },
+      {
+        "text": "Ahdut HaAvoda",
+        "label": "politicalparty",
+        "start": 117,
+        "end": 130
+      },
+      {
+        "text": "David Ben-Gurion",
+        "label": "politician",
+        "start": 227,
+        "end": 243
+      }
+    ]
+  },
+  {
+    "text": "Norman Thomas, John Haynes Holmes, and Morris Ernst were anti-Communists who wanted to distance the ACLU from Communism; opposing them were Harry F. Ward, Corliss Lamont, and Elizabeth Gurley Flynn, who rejected any political test for ACLU leadership.",
+    "entities": [
+      {
+        "text": "ACLU",
+        "label": "organisation",
+        "start": 100,
+        "end": 104
+      },
+      {
+        "text": "ACLU",
+        "label": "organisation",
+        "start": 235,
+        "end": 239
+      }
+    ]
+  },
+  {
+    "text": "Representative Abraham Lincoln stated if it was allowed, a president could arbitrarily make war just as monarchs do and that the Constitutional Convention recognized that declaring war must not be in the hands of one man.",
+    "entities": [
+      {
+        "text": "Abraham Lincoln",
+        "label": "politician",
+        "start": 15,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "Michael Bloomberg, formerly a Democrat, was elected as a Republican in 2001 New York City mayoral election and 2005 New York City mayoral election, succeeding another Republican mayor, Rudy Giuliani, elected in 1993 and 1997 New York City mayoral election.",
+    "entities": [
+      {
+        "text": "Michael Bloomberg",
+        "label": "politician",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "2001 New York City mayoral election",
+        "label": "election",
+        "start": 71,
+        "end": 106
+      },
+      {
+        "text": "2005 New York City mayoral election",
+        "label": "election",
+        "start": 111,
+        "end": 146
+      },
+      {
+        "text": "Rudy Giuliani",
+        "label": "politician",
+        "start": 185,
+        "end": 198
+      },
+      {
+        "text": "1993 and 1997 New York City mayoral election",
+        "label": "election",
+        "start": 211,
+        "end": 255
+      }
+    ]
+  },
+  {
+    "text": "Joining forces for the 2003 parliamentary election, they achieved limited success, but more importantly managed to get into the coalition that formed the minority government (along with Democratic Party of Serbia, G17 Plus), providing it with critical parliamentary seats to keep the far-right radicals (Serbian Radical Party) at bay.",
+    "entities": [
+      {
+        "text": "2003 parliamentary election",
+        "label": "election",
+        "start": 23,
+        "end": 50
+      },
+      {
+        "text": "Democratic Party of Serbia",
+        "label": "politicalparty",
+        "start": 186,
+        "end": 212
+      },
+      {
+        "text": "G17 Plus",
+        "label": "politicalparty",
+        "start": 214,
+        "end": 222
+      },
+      {
+        "text": "Serbian Radical Party",
+        "label": "politicalparty",
+        "start": 304,
+        "end": 325
+      }
+    ]
+  },
+  {
+    "text": "The Eleventh Amendment was introduced by a Fianna Fáil - Progressive Democrats coalition government and was also supported by opposition parties Fine Gael and the Labour Party.",
+    "entities": [
+      {
+        "text": "Fianna Fáil",
+        "label": "politicalparty",
+        "start": 43,
+        "end": 54
+      },
+      {
+        "text": "Progressive Democrats",
+        "label": "politicalparty",
+        "start": 57,
+        "end": 78
+      },
+      {
+        "text": "Fine Gael",
+        "label": "politicalparty",
+        "start": 145,
+        "end": 154
+      },
+      {
+        "text": "Labour Party",
+        "label": "politicalparty",
+        "start": 163,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "The Weixian-Guangling-Nuanquan Campaign (蔚广暖战役) was a campaign fought in Wei (蔚) County and Warm Spring (Nuanquan 暖泉) of Chahar (province) and Guanling (广灵) of Shanxi, and it was a clash between the communist s and the former Kuomintang turned Japanese puppet regime force who rejoined the Kuomintang after World War II.",
+    "entities": [
+      {
+        "text": "Wei",
+        "label": "location",
+        "start": 73,
+        "end": 76
+      },
+      {
+        "text": "蔚",
+        "label": "location",
+        "start": 78,
+        "end": 79
+      },
+      {
+        "text": "Warm Spring",
+        "label": "location",
+        "start": 92,
+        "end": 103
+      },
+      {
+        "text": "Nuanquan",
+        "label": "location",
+        "start": 105,
+        "end": 113
+      },
+      {
+        "text": "暖泉",
+        "label": "location",
+        "start": 114,
+        "end": 116
+      },
+      {
+        "text": "Chahar",
+        "label": "location",
+        "start": 121,
+        "end": 127
+      },
+      {
+        "text": "Guanling",
+        "label": "location",
+        "start": 143,
+        "end": 151
+      },
+      {
+        "text": "广灵",
+        "label": "location",
+        "start": 153,
+        "end": 155
+      },
+      {
+        "text": "Shanxi",
+        "label": "location",
+        "start": 160,
+        "end": 166
+      },
+      {
+        "text": "Kuomintang",
+        "label": "politicalparty",
+        "start": 226,
+        "end": 236
+      },
+      {
+        "text": "Kuomintang",
+        "label": "politicalparty",
+        "start": 290,
+        "end": 300
+      }
+    ]
+  },
+  {
+    "text": "He assumed the name Alfonso XII, for although no king of united Spain had borne the name Alfonso XI, the Spanish monarchy was regarded as continuous with the more ancient monarchy represented by the 11 kings of Kingdom of Asturias, Kingdom of León and Kingdom of Castile also named Alfonso.",
+    "entities": []
+  },
+  {
+    "text": "Vice presidents Chen Cheng, Yen Chia-kan, and Lien Chan all served as premier concurrently as vice president during part of their terms, and vice president Annette Lu has at times been mentioned as a possible candidate for premiership.",
+    "entities": [
+      {
+        "text": "Chen Cheng",
+        "label": "politician",
+        "start": 16,
+        "end": 26
+      },
+      {
+        "text": "Yen Chia-kan",
+        "label": "politician",
+        "start": 28,
+        "end": 40
+      },
+      {
+        "text": "Lien Chan",
+        "label": "politician",
+        "start": 46,
+        "end": 55
+      },
+      {
+        "text": "Annette Lu",
+        "label": "politician",
+        "start": 156,
+        "end": 166
+      }
+    ]
+  },
+  {
+    "text": "Dupont was a member of the Progressive Conservative Party of Canada before 2003, when he supported the party's merger with the Canadian Alliance to create the Conservative Party of Canada.",
+    "entities": [
+      {
+        "text": "Dupont",
+        "label": "politician",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Progressive Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 27,
+        "end": 67
+      },
+      {
+        "text": "Canadian Alliance",
+        "label": "politicalparty",
+        "start": 127,
+        "end": 144
+      },
+      {
+        "text": "Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 159,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "text": "Adam confirmed through a press conference that the film would co-star David Alan Grier, Illeana Douglas, Diane Farr, and Larry Miller.",
+    "entities": []
+  },
+  {
+    "text": "The Sunday Herald reported on 29 January Randall, who stood as Conservative candidate against Gordon Brown in Dunfermline East at the 2001 United Kingdom general election and 2005 United Kingdom general election s and fought Dunfermline East at the 2003 Scottish Parliament election, was aged only 43.",
+    "entities": [
+      {
+        "text": "The Sunday Herald",
+        "label": "organisation",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "Randall",
+        "label": "politician",
+        "start": 41,
+        "end": 48
+      },
+      {
+        "text": "Gordon Brown",
+        "label": "politician",
+        "start": 94,
+        "end": 106
+      },
+      {
+        "text": "Dunfermline East",
+        "label": "location",
+        "start": 110,
+        "end": 126
+      },
+      {
+        "text": "2001 United Kingdom general election",
+        "label": "election",
+        "start": 134,
+        "end": 170
+      },
+      {
+        "text": "2005 United Kingdom general election",
+        "label": "election",
+        "start": 175,
+        "end": 211
+      },
+      {
+        "text": "Dunfermline East",
+        "label": "location",
+        "start": 225,
+        "end": 241
+      },
+      {
+        "text": "2003 Scottish Parliament election",
+        "label": "election",
+        "start": 249,
+        "end": 282
+      }
+    ]
+  },
+  {
+    "text": "Examples of some successful testimonial parties are the Party for the Animals, the Reformed Political Party, or the former Pacifist Socialist Party.",
+    "entities": [
+      {
+        "text": "Party for the Animals",
+        "label": "politicalparty",
+        "start": 56,
+        "end": 77
+      },
+      {
+        "text": "Reformed Political Party",
+        "label": "politicalparty",
+        "start": 83,
+        "end": 107
+      },
+      {
+        "text": "Pacifist Socialist Party",
+        "label": "politicalparty",
+        "start": 123,
+        "end": 147
+      }
+    ]
+  },
+  {
+    "text": "He made other unsuccessful attempts to be elected to the House of Commons at Glasgow Pollok in October 1974 United Kingdom general election, Roxburgh, Peebles and Selkirk at the 1979 United Kingdom general election, and the 1982 Glasgow Hillhead by-election; where he lost the traditionally Conservative seat to Roy Jenkins of the SDP.",
+    "entities": [
+      {
+        "text": "House of Commons",
+        "label": "organisation",
+        "start": 57,
+        "end": 73
+      },
+      {
+        "text": "Glasgow Pollok",
+        "label": "location",
+        "start": 77,
+        "end": 91
+      },
+      {
+        "text": "October 1974 United Kingdom general election",
+        "label": "election",
+        "start": 95,
+        "end": 139
+      },
+      {
+        "text": "Roxburgh, Peebles and Selkirk",
+        "label": "location",
+        "start": 141,
+        "end": 170
+      },
+      {
+        "text": "1979 United Kingdom general election",
+        "label": "election",
+        "start": 178,
+        "end": 214
+      },
+      {
+        "text": "1982 Glasgow Hillhead by-election",
+        "label": "election",
+        "start": 224,
+        "end": 257
+      },
+      {
+        "text": "Roy Jenkins",
+        "label": "politician",
+        "start": 312,
+        "end": 323
+      },
+      {
+        "text": "SDP",
+        "label": "politicalparty",
+        "start": 331,
+        "end": 334
+      }
+    ]
+  },
+  {
+    "text": "He went from place to place, in danger of his life, denouncing the errors of the Papacy and the abuses in the churches of Montrose, Dundee (where he escaped an attempt on his life), Ayr, Perth, Edinburgh, Leith, Haddington (where Knox accompanied him) and elsewhere.",
+    "entities": [
+      {
+        "text": "Montrose",
+        "label": "location",
+        "start": 122,
+        "end": 130
+      },
+      {
+        "text": "Dundee",
+        "label": "location",
+        "start": 132,
+        "end": 138
+      },
+      {
+        "text": "Ayr",
+        "label": "location",
+        "start": 182,
+        "end": 185
+      },
+      {
+        "text": "Perth",
+        "label": "location",
+        "start": 187,
+        "end": 192
+      },
+      {
+        "text": "Edinburgh",
+        "label": "location",
+        "start": 194,
+        "end": 203
+      },
+      {
+        "text": "Leith",
+        "label": "location",
+        "start": 205,
+        "end": 210
+      },
+      {
+        "text": "Haddington",
+        "label": "location",
+        "start": 212,
+        "end": 222
+      }
+    ]
+  },
+  {
+    "text": "She has received low scores from low-spending advocates (Club for Growth, 2016, 8%; Citizens Against Government Waste, 2015, 0%; National Taxpayers Union, 2015, 9%).",
+    "entities": [
+      {
+        "text": "Club for Growth",
+        "label": "organisation",
+        "start": 57,
+        "end": 72
+      },
+      {
+        "text": "Citizens Against Government Waste",
+        "label": "organisation",
+        "start": 84,
+        "end": 117
+      },
+      {
+        "text": "National Taxpayers Union",
+        "label": "organisation",
+        "start": 129,
+        "end": 153
+      }
+    ]
+  },
+  {
+    "text": "It was also the second-worst defeat of a sitting provincial government in Canada, eclipsed only by the 1987 New Brunswick general election, the 1935 Alberta general election, and the 1935 Prince Edward Island general election.",
+    "entities": [
+      {
+        "text": "1987 New Brunswick general election",
+        "label": "election",
+        "start": 103,
+        "end": 138
+      },
+      {
+        "text": "1935 Alberta general election",
+        "label": "election",
+        "start": 144,
+        "end": 173
+      },
+      {
+        "text": "1935 Prince Edward Island general election",
+        "label": "election",
+        "start": 183,
+        "end": 225
+      }
+    ]
+  },
+  {
+    "text": "In Belfast North at the 2017 United Kingdom general election, the Social Democratic and Labour Party (SDLP) were criticised for standing Martin McAuley as a paper candidate - a deliberately weak candidate, a 26-year-old with little experience, on the assumption that nationalist and Catholic voters would instead vote for Sinn Féin, instead of the unionist candidate Nigel Dodds (Democratic Unionist Party).",
+    "entities": [
+      {
+        "text": "Belfast North",
+        "label": "location",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "2017 United Kingdom general election",
+        "label": "election",
+        "start": 24,
+        "end": 60
+      },
+      {
+        "text": "Social Democratic and Labour Party",
+        "label": "politicalparty",
+        "start": 66,
+        "end": 100
+      },
+      {
+        "text": "SDLP",
+        "label": "politicalparty",
+        "start": 102,
+        "end": 106
+      },
+      {
+        "text": "Martin McAuley",
+        "label": "politician",
+        "start": 137,
+        "end": 151
+      },
+      {
+        "text": "Sinn Féin",
+        "label": "politicalparty",
+        "start": 322,
+        "end": 331
+      },
+      {
+        "text": "Nigel Dodds",
+        "label": "politician",
+        "start": 367,
+        "end": 378
+      },
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 380,
+        "end": 405
+      }
+    ]
+  },
+  {
+    "text": "In this respect, Casini and his followers have long tried to form the nucleus of a third force in Italian politics (e.g.: New Pole for Italy, With Monti for Italy, Popular Area).",
+    "entities": [
+      {
+        "text": "Casini",
+        "label": "politician",
+        "start": 17,
+        "end": 23
+      },
+      {
+        "text": "New Pole for Italy",
+        "label": "politicalparty",
+        "start": 122,
+        "end": 140
+      },
+      {
+        "text": "With Monti for Italy",
+        "label": "politicalparty",
+        "start": 142,
+        "end": 162
+      },
+      {
+        "text": "Popular Area",
+        "label": "politicalparty",
+        "start": 164,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "- and at least five other people, including Russian lawyer Natalia Veselnitskaya, Rinat Akhmetshin, a lobbyist and former Soviet army officer who met senior Trump campaign aides, Ike Kaveladze, British publicist Rob Goldstone, and translator Anatoli Samochornov.",
+    "entities": [
+      {
+        "text": "Soviet army",
+        "label": "organisation",
+        "start": 122,
+        "end": 133
+      },
+      {
+        "text": "Trump",
+        "label": "politician",
+        "start": 157,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "text": "The on June 19, 1945, was part of the strategic bombing campaign waged by the United States against military and civilian targets and population centers during the Japan home islands campaign in the closing stages of World War II.",
+    "entities": []
+  },
+  {
+    "text": "For the 2011 Peruvian general election, the party joined forces with We Are Peru and Possible Peru to form the Peru Possible Alliance.",
+    "entities": [
+      {
+        "text": "2011 Peruvian general election",
+        "label": "election",
+        "start": 8,
+        "end": 38
+      },
+      {
+        "text": "We Are Peru",
+        "label": "politicalparty",
+        "start": 69,
+        "end": 80
+      },
+      {
+        "text": "Possible Peru",
+        "label": "politicalparty",
+        "start": 85,
+        "end": 98
+      },
+      {
+        "text": "Peru Possible Alliance",
+        "label": "organisation",
+        "start": 111,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "That was TRUE, for example, for Synaspismos, Renewing Communist Ecological Left, Ecosocialists of Greece and Unitary Movement.",
+    "entities": [
+      {
+        "text": "Synaspismos",
+        "label": "politicalparty",
+        "start": 32,
+        "end": 43
+      },
+      {
+        "text": "Renewing Communist Ecological Left",
+        "label": "politicalparty",
+        "start": 45,
+        "end": 79
+      },
+      {
+        "text": "Ecosocialists of Greece",
+        "label": "politicalparty",
+        "start": 81,
+        "end": 104
+      },
+      {
+        "text": "Unitary Movement",
+        "label": "politicalparty",
+        "start": 109,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "On December 8, 2005, LaMarche announced her candidacy on the Maine Green Independent Party ticket for the 2006 Maine gubernatorial election against incumbent Maine Democratic Party John Baldacci.",
+    "entities": [
+      {
+        "text": "LaMarche",
+        "label": "politician",
+        "start": 21,
+        "end": 29
+      },
+      {
+        "text": "Maine Green Independent Party",
+        "label": "politicalparty",
+        "start": 61,
+        "end": 90
+      },
+      {
+        "text": "2006 Maine gubernatorial election",
+        "label": "election",
+        "start": 106,
+        "end": 139
+      },
+      {
+        "text": "Maine Democratic Party",
+        "label": "politicalparty",
+        "start": 158,
+        "end": 180
+      },
+      {
+        "text": "John Baldacci",
+        "label": "politician",
+        "start": 181,
+        "end": 194
+      }
+    ]
+  },
+  {
+    "text": "He was re-elected in the 1991 New Brunswick general election and 1995 New Brunswick general election but was defeated in 1999 New Brunswick general election.",
+    "entities": [
+      {
+        "text": "1991 New Brunswick general election",
+        "label": "election",
+        "start": 25,
+        "end": 60
+      },
+      {
+        "text": "1995 New Brunswick general election",
+        "label": "election",
+        "start": 65,
+        "end": 100
+      },
+      {
+        "text": "1999 New Brunswick general election",
+        "label": "election",
+        "start": 121,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "On February 3, 1865, Lincoln and Seward held a conference at Hampton Roads with three representatives of the Confederate government - Vice President Alexander H. Stephens, Senator Robert M. T. Hunter, and Assistant Secretary of War John Archibald Campbell - to discuss terms to end the war.",
+    "entities": [
+      {
+        "text": "Lincoln",
+        "label": "politician",
+        "start": 21,
+        "end": 28
+      },
+      {
+        "text": "Seward",
+        "label": "politician",
+        "start": 33,
+        "end": 39
+      },
+      {
+        "text": "Hampton Roads",
+        "label": "location",
+        "start": 61,
+        "end": 74
+      },
+      {
+        "text": "Confederate government",
+        "label": "organisation",
+        "start": 109,
+        "end": 131
+      },
+      {
+        "text": "Alexander H. Stephens",
+        "label": "politician",
+        "start": 149,
+        "end": 170
+      },
+      {
+        "text": "Robert M. T. Hunter",
+        "label": "politician",
+        "start": 180,
+        "end": 199
+      },
+      {
+        "text": "John Archibald Campbell",
+        "label": "politician",
+        "start": 232,
+        "end": 255
+      }
+    ]
+  },
+  {
+    "text": "Celebrities such as Rosario Dawson, Dolores Huerta, Gina Belafonte, Van Jones, Jesse Williams, Robert A. Nakamura and Karen L. Ishizuka, Kiran Gandhi, Michael Ealy, Saul Williams, Rodney Barnette, and others were included in the reinterpretations.",
+    "entities": []
+  },
+  {
+    "text": "This current got finally divided in a social liberal party, Danish Social Liberal Party (Det Radikale Venstre, member Liberal International, Alliance of Liberals and Democrats for Europe Party), and a conservative liberal party, Liberal Party (Venstre Danmarks liberale parti, member Liberal International, Alliance of Liberals and Democrats for Europe Party).",
+    "entities": [
+      {
+        "text": "Danish Social Liberal Party",
+        "label": "politicalparty",
+        "start": 60,
+        "end": 87
+      },
+      {
+        "text": "Det Radikale Venstre",
+        "label": "politicalparty",
+        "start": 89,
+        "end": 109
+      },
+      {
+        "text": "Liberal International",
+        "label": "organisation",
+        "start": 118,
+        "end": 139
+      },
+      {
+        "text": "Alliance of Liberals and Democrats for Europe Party",
+        "label": "politicalparty",
+        "start": 141,
+        "end": 192
+      },
+      {
+        "text": "Liberal Party",
+        "label": "politicalparty",
+        "start": 229,
+        "end": 242
+      },
+      {
+        "text": "Venstre Danmarks liberale parti",
+        "label": "politicalparty",
+        "start": 244,
+        "end": 275
+      },
+      {
+        "text": "Liberal International",
+        "label": "organisation",
+        "start": 284,
+        "end": 305
+      },
+      {
+        "text": "Alliance of Liberals and Democrats for Europe Party",
+        "label": "politicalparty",
+        "start": 307,
+        "end": 358
+      }
+    ]
+  },
+  {
+    "text": "The same boundaries were used in the 1922 United Kingdom general election, the 1923 United Kingdom general election, the 1924 United Kingdom general election, the 1929 United Kingdom general election, the 1931 United Kingdom general election, the 1935 United Kingdom general election and the 1945 United Kingdom general election.",
+    "entities": [
+      {
+        "text": "1922 United Kingdom general election",
+        "label": "election",
+        "start": 37,
+        "end": 73
+      },
+      {
+        "text": "1923 United Kingdom general election",
+        "label": "election",
+        "start": 79,
+        "end": 115
+      },
+      {
+        "text": "1924 United Kingdom general election",
+        "label": "election",
+        "start": 121,
+        "end": 157
+      },
+      {
+        "text": "1929 United Kingdom general election",
+        "label": "election",
+        "start": 163,
+        "end": 199
+      },
+      {
+        "text": "1931 United Kingdom general election",
+        "label": "election",
+        "start": 205,
+        "end": 241
+      },
+      {
+        "text": "1935 United Kingdom general election",
+        "label": "election",
+        "start": 247,
+        "end": 283
+      },
+      {
+        "text": "1945 United Kingdom general election",
+        "label": "election",
+        "start": 292,
+        "end": 328
+      }
+    ]
+  },
+  {
+    "text": "The Persian Campaign or Invasion of Iran () was a series of engagements in Iranian Azerbaijan region involving the forces of the Ottoman Empire against those of the British Empire and Russian Empire, and also involving local Persian population elements, beginning in December 1914 and ending with the Armistice of Mudros on October 30, 1918, as part of Middle Eastern theatre of World War I.",
+    "entities": [
+      {
+        "text": "Iranian Azerbaijan",
+        "label": "location",
+        "start": 75,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "text": "In the elections of 1969 New Zealand general election and 1972 New Zealand general election, McKinnon stood unsuccessfully as the New Zealand National Party ' s candidate in the Birkenhead electorate, having previously served on two of the party's electorate committees.",
+    "entities": [
+      {
+        "text": "1969 New Zealand general election",
+        "label": "election",
+        "start": 20,
+        "end": 53
+      },
+      {
+        "text": "1972 New Zealand general election",
+        "label": "election",
+        "start": 58,
+        "end": 91
+      },
+      {
+        "text": "McKinnon",
+        "label": "politician",
+        "start": 93,
+        "end": 101
+      },
+      {
+        "text": "New Zealand National Party",
+        "label": "politicalparty",
+        "start": 130,
+        "end": 156
+      },
+      {
+        "text": "Birkenhead",
+        "label": "location",
+        "start": 178,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "text": "At the 2005 election the members elected were from the following political parties: nine Sinn Féin, five Ulster Unionist Party (UUP), five Social Democratic and Labour Party (SDLP) and four Democratic Unionist Party (DUP).",
+    "entities": [
+      {
+        "text": "Sinn Féin",
+        "label": "politicalparty",
+        "start": 89,
+        "end": 98
+      },
+      {
+        "text": "Ulster Unionist Party",
+        "label": "politicalparty",
+        "start": 105,
+        "end": 126
+      },
+      {
+        "text": "UUP",
+        "label": "politicalparty",
+        "start": 128,
+        "end": 131
+      },
+      {
+        "text": "Social Democratic and Labour Party",
+        "label": "politicalparty",
+        "start": 139,
+        "end": 173
+      },
+      {
+        "text": "SDLP",
+        "label": "politicalparty",
+        "start": 175,
+        "end": 179
+      },
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 190,
+        "end": 215
+      },
+      {
+        "text": "DUP",
+        "label": "politicalparty",
+        "start": 217,
+        "end": 220
+      }
+    ]
+  },
+  {
+    "text": "In the 2005 New Zealand general election, she was the New Zealand National Party ' s successful candidate for the Otago seat, a traditional National stronghold which had unexpectedly been taken by the New Zealand Labour Party ' s David Parker.",
+    "entities": [
+      {
+        "text": "2005 New Zealand general election",
+        "label": "election",
+        "start": 7,
+        "end": 40
+      },
+      {
+        "text": "New Zealand National Party",
+        "label": "politicalparty",
+        "start": 54,
+        "end": 80
+      },
+      {
+        "text": "New Zealand Labour Party",
+        "label": "politicalparty",
+        "start": 201,
+        "end": 225
+      },
+      {
+        "text": "David Parker",
+        "label": "politician",
+        "start": 230,
+        "end": 242
+      }
+    ]
+  },
+  {
+    "text": "Russia has also been engaged on its own, also largely internally focused, counter-terrorism campaign often termed a war on terror, during the Second Chechen War, the Insurgency in the North Caucasus, and the Russian military intervention in the Syrian Civil War.",
+    "entities": []
+  },
+  {
+    "text": "As they had done while campaigning for the 2004 Canadian federal election, the New Democratic Party and Bloc Québécois stated, during the leadup to the 2006 Canadian federal election, their support for an apology and redress for the head tax.",
+    "entities": [
+      {
+        "text": "2004 Canadian federal election",
+        "label": "election",
+        "start": 43,
+        "end": 73
+      },
+      {
+        "text": "New Democratic Party",
+        "label": "politicalparty",
+        "start": 79,
+        "end": 99
+      },
+      {
+        "text": "Bloc Québécois",
+        "label": "politicalparty",
+        "start": 104,
+        "end": 118
+      },
+      {
+        "text": "2006 Canadian federal election",
+        "label": "election",
+        "start": 152,
+        "end": 182
+      }
+    ]
+  },
+  {
+    "text": "Silva was the Ontario New Democratic Party ' s candidate in Parkdale in the 1995 Ontario general election but was defeated by incumbent Ontario Liberal Party MPP Tony Ruprecht.",
+    "entities": [
+      {
+        "text": "Silva",
+        "label": "politician",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Ontario New Democratic Party",
+        "label": "politicalparty",
+        "start": 14,
+        "end": 42
+      },
+      {
+        "text": "Parkdale",
+        "label": "location",
+        "start": 60,
+        "end": 68
+      },
+      {
+        "text": "1995 Ontario general election",
+        "label": "election",
+        "start": 76,
+        "end": 105
+      },
+      {
+        "text": "Ontario Liberal Party",
+        "label": "politicalparty",
+        "start": 136,
+        "end": 157
+      },
+      {
+        "text": "Tony Ruprecht",
+        "label": "politician",
+        "start": 162,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "A certain rivalry between Walter Ulbricht and Franz Dahlem had arisen in the 1930s, and after the war there were more general tensions within the national leadership between those - including Walter Ulbricht and President Pieck - who had spent the war years in Moscow and those (such as Dahlem) who had spent the war years in France.",
+    "entities": [
+      {
+        "text": "Walter Ulbricht",
+        "label": "politician",
+        "start": 26,
+        "end": 41
+      },
+      {
+        "text": "Franz Dahlem",
+        "label": "politician",
+        "start": 46,
+        "end": 58
+      },
+      {
+        "text": "Walter Ulbricht",
+        "label": "politician",
+        "start": 192,
+        "end": 207
+      },
+      {
+        "text": "President Pieck",
+        "label": "politician",
+        "start": 212,
+        "end": 227
+      },
+      {
+        "text": "Moscow",
+        "label": "location",
+        "start": 261,
+        "end": 267
+      },
+      {
+        "text": "Dahlem",
+        "label": "location",
+        "start": 287,
+        "end": 293
+      }
+    ]
+  },
+  {
+    "text": "Hagelin stood as a candidate for President of the United States for the Natural Law Party, a party founded by the TM movement, in the 1992 United States presidential election, 1996 United States presidential election and 2000 United States presidential election elections.",
+    "entities": [
+      {
+        "text": "Hagelin",
+        "label": "politician",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Natural Law Party",
+        "label": "politicalparty",
+        "start": 72,
+        "end": 89
+      },
+      {
+        "text": "1992 United States presidential election",
+        "label": "election",
+        "start": 134,
+        "end": 174
+      },
+      {
+        "text": "1996 United States presidential election",
+        "label": "election",
+        "start": 176,
+        "end": 216
+      },
+      {
+        "text": "2000 United States presidential election",
+        "label": "election",
+        "start": 221,
+        "end": 261
+      }
+    ]
+  },
+  {
+    "text": "AD members were mainly former Italian Republican Party and former Italian Socialist Party, was a former member of the Italian Communist Party and the Democratic Party of the Left.",
+    "entities": [
+      {
+        "text": "AD",
+        "label": "politicalparty",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "Italian Republican Party",
+        "label": "politicalparty",
+        "start": 30,
+        "end": 54
+      },
+      {
+        "text": "Italian Socialist Party",
+        "label": "politicalparty",
+        "start": 66,
+        "end": 89
+      },
+      {
+        "text": "Italian Communist Party",
+        "label": "politicalparty",
+        "start": 118,
+        "end": 141
+      },
+      {
+        "text": "Democratic Party of the Left",
+        "label": "politicalparty",
+        "start": 150,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "The party lost its four seats in the 2008 Meghalaya Legislative Assembly election, was unable to win any seats in the 2013 Meghalaya Legislative Assembly election and did not field any candidates in the 2018 Meghalaya Legislative Assembly election.",
+    "entities": [
+      {
+        "text": "2008 Meghalaya Legislative Assembly election",
+        "label": "election",
+        "start": 37,
+        "end": 81
+      },
+      {
+        "text": "2013 Meghalaya Legislative Assembly election",
+        "label": "election",
+        "start": 118,
+        "end": 162
+      },
+      {
+        "text": "2018 Meghalaya Legislative Assembly election",
+        "label": "election",
+        "start": 203,
+        "end": 247
+      }
+    ]
+  },
+  {
+    "text": "Samis was re-elected for the redistributed constituency of Cornwall in 1975 Ontario general election, 1977 Ontario general election and 1981 Ontario general election.",
+    "entities": [
+      {
+        "text": "Samis",
+        "label": "politician",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Cornwall",
+        "label": "location",
+        "start": 59,
+        "end": 67
+      },
+      {
+        "text": "1975 Ontario general election",
+        "label": "election",
+        "start": 71,
+        "end": 100
+      },
+      {
+        "text": "1977 Ontario general election",
+        "label": "election",
+        "start": 102,
+        "end": 131
+      },
+      {
+        "text": "1981 Ontario general election",
+        "label": "election",
+        "start": 136,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "text": "MPs from the Democratic Unionist Party, Sinn Féin, Social Democratic and Labour Party or Ulster Unionist Party, including those Ulster Unionists who stood as part of the Conservative Party, are excluded.",
+    "entities": [
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 13,
+        "end": 38
+      },
+      {
+        "text": "Sinn Féin",
+        "label": "politicalparty",
+        "start": 40,
+        "end": 49
+      },
+      {
+        "text": "Social Democratic and Labour Party",
+        "label": "politicalparty",
+        "start": 51,
+        "end": 85
+      },
+      {
+        "text": "Ulster Unionist Party",
+        "label": "politicalparty",
+        "start": 89,
+        "end": 110
+      },
+      {
+        "text": "Conservative Party",
+        "label": "politicalparty",
+        "start": 170,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "text": "The Australian Greens in Queensland have traditionally polled strongest in the usually Labor -held seats of Mount Coot-tha and South Brisbane, as well as the usually Liberal National Party of Queensland -held seat of Noosa, polling over 20% of the primary vote in these seats at the 2015 Queensland state election.",
+    "entities": [
+      {
+        "text": "Australian Greens",
+        "label": "politicalparty",
+        "start": 4,
+        "end": 21
+      },
+      {
+        "text": "Queensland",
+        "label": "location",
+        "start": 25,
+        "end": 35
+      },
+      {
+        "text": "Labor",
+        "label": "politicalparty",
+        "start": 87,
+        "end": 92
+      },
+      {
+        "text": "Mount Coot-tha",
+        "label": "location",
+        "start": 108,
+        "end": 122
+      },
+      {
+        "text": "South Brisbane",
+        "label": "location",
+        "start": 127,
+        "end": 141
+      },
+      {
+        "text": "Liberal National Party of Queensland",
+        "label": "politicalparty",
+        "start": 166,
+        "end": 202
+      },
+      {
+        "text": "Noosa",
+        "label": "location",
+        "start": 217,
+        "end": 222
+      },
+      {
+        "text": "2015 Queensland state election",
+        "label": "election",
+        "start": 283,
+        "end": 313
+      }
+    ]
+  },
+  {
+    "text": "In the election of 1884 United States presidential election, Grover Cleveland, the reforming Democratic Governor of New York, won the Presidency, a feat he repeated in 1892 United States presidential election, having lost in the election of 1888 United States presidential election. Allan Nevins, Grover Cleveland: A Study in Courage (1932).",
+    "entities": [
+      {
+        "text": "1884 United States presidential election",
+        "label": "election",
+        "start": 19,
+        "end": 59
+      },
+      {
+        "text": "Grover Cleveland",
+        "label": "politician",
+        "start": 61,
+        "end": 77
+      },
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 116,
+        "end": 124
+      },
+      {
+        "text": "1892 United States presidential election",
+        "label": "election",
+        "start": 168,
+        "end": 208
+      },
+      {
+        "text": "1888 United States presidential election",
+        "label": "election",
+        "start": 241,
+        "end": 281
+      },
+      {
+        "text": "Grover Cleveland",
+        "label": "politician",
+        "start": 297,
+        "end": 313
+      }
+    ]
+  },
+  {
+    "text": "Johnson unsuccessfully sought the Republican presidential nomination in 1920 United States presidential election and 1924 United States presidential election and supported Democrat Franklin D. Roosevelt in the 1932 United States presidential election.",
+    "entities": [
+      {
+        "text": "Johnson",
+        "label": "politician",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "1920 United States presidential election",
+        "label": "election",
+        "start": 72,
+        "end": 112
+      },
+      {
+        "text": "1924 United States presidential election",
+        "label": "election",
+        "start": 117,
+        "end": 157
+      },
+      {
+        "text": "Franklin D. Roosevelt",
+        "label": "politician",
+        "start": 181,
+        "end": 202
+      },
+      {
+        "text": "1932 United States presidential election",
+        "label": "election",
+        "start": 210,
+        "end": 250
+      }
+    ]
+  },
+  {
+    "text": "He was re-elected in 1923 United Kingdom general election, 1924 United Kingdom general election and 1929 United Kingdom general election.",
+    "entities": [
+      {
+        "text": "1923 United Kingdom general election",
+        "label": "election",
+        "start": 21,
+        "end": 57
+      },
+      {
+        "text": "1924 United Kingdom general election",
+        "label": "election",
+        "start": 59,
+        "end": 95
+      },
+      {
+        "text": "1929 United Kingdom general election",
+        "label": "election",
+        "start": 100,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "In the 2013 Italian general election the UdC was part of With Monti for Italy, the coalition formed around Mario Monti ' s Civic Choice, and obtained a mere 1.8% of the vote, down from 5.6% in 2008 Italian general election and 6.8% in 2006 Italian general election.",
+    "entities": [
+      {
+        "text": "2013 Italian general election",
+        "label": "election",
+        "start": 7,
+        "end": 36
+      },
+      {
+        "text": "UdC",
+        "label": "politicalparty",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "With Monti for Italy",
+        "label": "politicalparty",
+        "start": 57,
+        "end": 77
+      },
+      {
+        "text": "Mario Monti",
+        "label": "politician",
+        "start": 107,
+        "end": 118
+      },
+      {
+        "text": "Civic Choice",
+        "label": "politicalparty",
+        "start": 123,
+        "end": 135
+      },
+      {
+        "text": "2008 Italian general election",
+        "label": "election",
+        "start": 193,
+        "end": 222
+      },
+      {
+        "text": "2006 Italian general election",
+        "label": "election",
+        "start": 235,
+        "end": 264
+      }
+    ]
+  },
+  {
+    "text": "The major cities of Lan Xang were located in Luang Prabang, Vientiane including the towns in Nong Khai, Muang Phuan.",
+    "entities": [
+      {
+        "text": "Luang Prabang",
+        "label": "location",
+        "start": 45,
+        "end": 58
+      },
+      {
+        "text": "Vientiane",
+        "label": "location",
+        "start": 60,
+        "end": 69
+      },
+      {
+        "text": "Nong Khai",
+        "label": "location",
+        "start": 93,
+        "end": 102
+      },
+      {
+        "text": "Muang Phuan",
+        "label": "location",
+        "start": 104,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "text": "The devolved administration was suspended several times (especially between 15 October 2002 and 8 May 2007) because the Ulster Unionist Party and Democratic Unionist Party were uncomfortable being in government with Sinn Féin when the Provisional Irish Republican Army had failed to decommission its arms fully and continued its criminal activities.",
+    "entities": [
+      {
+        "text": "Ulster Unionist Party",
+        "label": "politicalparty",
+        "start": 120,
+        "end": 141
+      },
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 146,
+        "end": 171
+      },
+      {
+        "text": "Sinn Féin",
+        "label": "politicalparty",
+        "start": 216,
+        "end": 225
+      },
+      {
+        "text": "Provisional Irish Republican Army",
+        "label": "organisation",
+        "start": 235,
+        "end": 268
+      }
+    ]
+  },
+  {
+    "text": "They would win a small 12-seat majority in 2015 United Kingdom general election, only to lose it again at the 2017 United Kingdom general election but would win in a landslide in the 2019 United Kingdom general election.",
+    "entities": [
+      {
+        "text": "2015 United Kingdom general election",
+        "label": "election",
+        "start": 43,
+        "end": 79
+      },
+      {
+        "text": "2017 United Kingdom general election",
+        "label": "election",
+        "start": 110,
+        "end": 146
+      },
+      {
+        "text": "2019 United Kingdom general election",
+        "label": "election",
+        "start": 183,
+        "end": 219
+      }
+    ]
+  },
+  {
+    "text": "He was a trustee of the Center for Strategic and International Studies and The Forum for International Policy, and was a member of the Council on Foreign Relations and the Trilateral Commission.",
+    "entities": [
+      {
+        "text": "Center for Strategic and International Studies",
+        "label": "organisation",
+        "start": 24,
+        "end": 70
+      },
+      {
+        "text": "The Forum for International Policy",
+        "label": "organisation",
+        "start": 75,
+        "end": 109
+      },
+      {
+        "text": "Council on Foreign Relations",
+        "label": "organisation",
+        "start": 135,
+        "end": 163
+      },
+      {
+        "text": "Trilateral Commission",
+        "label": "organisation",
+        "start": 172,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Originally a member of the Centre of Social Democrats (CDS), the Christian Democrat component of the Union for French Democracy (UDF) party, he later joined the Union for a Popular Movement.",
+    "entities": [
+      {
+        "text": "Centre of Social Democrats",
+        "label": "politicalparty",
+        "start": 27,
+        "end": 53
+      },
+      {
+        "text": "CDS",
+        "label": "politicalparty",
+        "start": 55,
+        "end": 58
+      },
+      {
+        "text": "Union for French Democracy",
+        "label": "politicalparty",
+        "start": 101,
+        "end": 127
+      },
+      {
+        "text": "UDF",
+        "label": "politicalparty",
+        "start": 129,
+        "end": 132
+      },
+      {
+        "text": "Union for a Popular Movement",
+        "label": "politicalparty",
+        "start": 161,
+        "end": 189
+      }
+    ]
+  },
+  {
+    "text": "He secured re-nomination for vice president in 1992 United States presidential election, but Democrat Bill Clinton and his running mate, Al Gore, defeated the Bush / Quayle ticket.",
+    "entities": [
+      {
+        "text": "1992 United States presidential election",
+        "label": "election",
+        "start": 47,
+        "end": 87
+      },
+      {
+        "text": "Bill Clinton",
+        "label": "politician",
+        "start": 102,
+        "end": 114
+      },
+      {
+        "text": "Al Gore",
+        "label": "politician",
+        "start": 137,
+        "end": 144
+      },
+      {
+        "text": "Bush",
+        "label": "politician",
+        "start": 159,
+        "end": 163
+      },
+      {
+        "text": "Quayle",
+        "label": "politician",
+        "start": 166,
+        "end": 172
+      }
+    ]
+  },
+  {
+    "text": "In June 1970, a Dutch group called Kabouters won 5 of the 45 seats on the Amsterdam Gemeenteraad (City Council), as well as two seats each on councils in The Hague and Leeuwarden and one seat apiece in Arnhem, Alkmaar and Leiden.",
+    "entities": [
+      {
+        "text": "Kabouters",
+        "label": "organisation",
+        "start": 35,
+        "end": 44
+      },
+      {
+        "text": "Amsterdam",
+        "label": "location",
+        "start": 74,
+        "end": 83
+      },
+      {
+        "text": "The Hague",
+        "label": "location",
+        "start": 154,
+        "end": 163
+      },
+      {
+        "text": "Leeuwarden",
+        "label": "location",
+        "start": 168,
+        "end": 178
+      },
+      {
+        "text": "Arnhem",
+        "label": "location",
+        "start": 202,
+        "end": 208
+      },
+      {
+        "text": "Alkmaar",
+        "label": "location",
+        "start": 210,
+        "end": 217
+      },
+      {
+        "text": "Leiden",
+        "label": "location",
+        "start": 222,
+        "end": 228
+      }
+    ]
+  },
+  {
+    "text": "While the Conservative Party had a plurality of seats, the Liberal Party of Canada and New Democratic Party, supported by The Bloc Québécois, agreed to defeat the Conservatives in favour of a Liberal / NDP coalition government.",
+    "entities": [
+      {
+        "text": "Conservative Party",
+        "label": "politicalparty",
+        "start": 10,
+        "end": 28
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 59,
+        "end": 82
+      },
+      {
+        "text": "New Democratic Party",
+        "label": "politicalparty",
+        "start": 87,
+        "end": 107
+      },
+      {
+        "text": "Bloc Québécois",
+        "label": "politicalparty",
+        "start": 126,
+        "end": 140
+      },
+      {
+        "text": "Conservatives",
+        "label": "politicalparty",
+        "start": 163,
+        "end": 176
+      },
+      {
+        "text": "Liberal / NDP coalition government",
+        "label": "organisation",
+        "start": 192,
+        "end": 226
+      }
+    ]
+  },
+  {
+    "text": "It operates four channels: TVR1, TVR2, TVR3 and TVRi, along with six regional studios in Bucharest, Cluj-Napoca, Iași, Timișoara, Craiova and Târgu Mureș.",
+    "entities": [
+      {
+        "text": "Bucharest",
+        "label": "location",
+        "start": 89,
+        "end": 98
+      },
+      {
+        "text": "Cluj-Napoca",
+        "label": "location",
+        "start": 100,
+        "end": 111
+      },
+      {
+        "text": "Iași",
+        "label": "location",
+        "start": 113,
+        "end": 117
+      },
+      {
+        "text": "Timișoara",
+        "label": "location",
+        "start": 119,
+        "end": 128
+      },
+      {
+        "text": "Craiova",
+        "label": "location",
+        "start": 130,
+        "end": 137
+      },
+      {
+        "text": "Târgu Mureș",
+        "label": "location",
+        "start": 142,
+        "end": 153
+      }
+    ]
+  },
+  {
+    "text": "Gazprom is listed on the stock markets of Moscow, London, Karachi, Berlin, Frankfurt and Singapore.",
+    "entities": [
+      {
+        "text": "Moscow",
+        "label": "location",
+        "start": 42,
+        "end": 48
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 50,
+        "end": 56
+      },
+      {
+        "text": "Karachi",
+        "label": "location",
+        "start": 58,
+        "end": 65
+      },
+      {
+        "text": "Berlin",
+        "label": "location",
+        "start": 67,
+        "end": 73
+      },
+      {
+        "text": "Frankfurt",
+        "label": "location",
+        "start": 75,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "text": ") Christine Quinn, the Speaker of the New York City Council, came in third, with 15.7%, while none of the other candidates, including City Comptroller John Liu and former Congressman Anthony Weiner, won as much as 10%.",
+    "entities": [
+      {
+        "text": "Christine Quinn",
+        "label": "politician",
+        "start": 2,
+        "end": 17
+      },
+      {
+        "text": "New York City Council",
+        "label": "organisation",
+        "start": 38,
+        "end": 59
+      },
+      {
+        "text": "John Liu",
+        "label": "politician",
+        "start": 151,
+        "end": 159
+      },
+      {
+        "text": "Anthony Weiner",
+        "label": "politician",
+        "start": 183,
+        "end": 197
+      }
+    ]
+  },
+  {
+    "text": "Previously, in Israel, party lists had been decided upon by the parties ' committees, but since the late 1970s, almost every party in Israel (with the exception of the Ultra-orthodox ones, Shas and United Torah Judaism, and many of the Centrist parties; Yesh Atid, Israel Resilience Party, Telem, and Kulanu) has followed Dash's lead and adopted the primaries system.",
+    "entities": [
+      {
+        "text": "Shas",
+        "label": "politicalparty",
+        "start": 189,
+        "end": 193
+      },
+      {
+        "text": "United Torah Judaism",
+        "label": "politicalparty",
+        "start": 198,
+        "end": 218
+      },
+      {
+        "text": "Centrist parties",
+        "label": "politicalparty",
+        "start": 236,
+        "end": 252
+      },
+      {
+        "text": "Yesh Atid",
+        "label": "politicalparty",
+        "start": 254,
+        "end": 263
+      },
+      {
+        "text": "Israel Resilience Party",
+        "label": "politicalparty",
+        "start": 265,
+        "end": 288
+      },
+      {
+        "text": "Telem",
+        "label": "politicalparty",
+        "start": 290,
+        "end": 295
+      },
+      {
+        "text": "Kulanu",
+        "label": "politicalparty",
+        "start": 301,
+        "end": 307
+      },
+      {
+        "text": "Dash",
+        "label": "politician",
+        "start": 322,
+        "end": 326
+      }
+    ]
+  },
+  {
+    "text": "In interviews with Oliver Stone in 2017, Russian president Vladimir Putin said that in trying to persuade Russia to accept US withdrawal from the treaty, both Bill Clinton and George W. Bush had tried, without evidence, to convince him of an emerging nuclear threat from Iran.",
+    "entities": [
+      {
+        "text": "Vladimir Putin",
+        "label": "politician",
+        "start": 59,
+        "end": 73
+      },
+      {
+        "text": "Bill Clinton",
+        "label": "politician",
+        "start": 159,
+        "end": 171
+      },
+      {
+        "text": "George W. Bush",
+        "label": "politician",
+        "start": 176,
+        "end": 190
+      }
+    ]
+  },
+  {
+    "text": "In the nineteenth century, the members of the failed Decembrist revolt, Polish nobles who resisted Russian rule, and members of various socialist revolutionary groups, including Bolsheviks such as Sergo Ordzhonikidze, Leon Trotsky, and Joseph Stalin were all sent into exile.",
+    "entities": [
+      {
+        "text": "Sergo Ordzhonikidze",
+        "label": "politician",
+        "start": 197,
+        "end": 216
+      },
+      {
+        "text": "Leon Trotsky",
+        "label": "politician",
+        "start": 218,
+        "end": 230
+      },
+      {
+        "text": "Joseph Stalin",
+        "label": "politician",
+        "start": 236,
+        "end": 249
+      }
+    ]
+  }
+]

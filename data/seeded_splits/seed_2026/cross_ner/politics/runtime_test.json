@@ -1,0 +1,2200 @@
+[
+  {
+    "text": "His son Ruairí Brugha later became a politician, firstly supporting Clann na Poblachta and later Fianna Fáil, and was elected to Dáil Éireann at the 1973 Irish general election.",
+    "entities": [
+      {
+        "text": "Ruairí Brugha",
+        "label": "politician",
+        "start": 8,
+        "end": 21
+      },
+      {
+        "text": "Clann na Poblachta",
+        "label": "politicalparty",
+        "start": 68,
+        "end": 86
+      },
+      {
+        "text": "Fianna Fáil",
+        "label": "politicalparty",
+        "start": 97,
+        "end": 108
+      },
+      {
+        "text": "Dáil Éireann",
+        "label": "politicalparty",
+        "start": 129,
+        "end": 141
+      },
+      {
+        "text": "1973 Irish general election",
+        "label": "election",
+        "start": 149,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "Shortly afterwards, when Casini refused to merge his party into Berlusconi's then-new political movement, The People of Freedom (PdL), the UDC was joined by The Rose for Italy of Tabacci, Baccini and Savino Pezzotta, as well as by two leading members of Forza Italia (FI), Ferdinando Adornato and Angelo Sanza.",
+    "entities": [
+      {
+        "text": "Casini",
+        "label": "politician",
+        "start": 25,
+        "end": 31
+      },
+      {
+        "text": "Berlusconi",
+        "label": "politician",
+        "start": 64,
+        "end": 74
+      },
+      {
+        "text": "The People of Freedom",
+        "label": "politicalparty",
+        "start": 106,
+        "end": 127
+      },
+      {
+        "text": "PdL",
+        "label": "politicalparty",
+        "start": 129,
+        "end": 132
+      },
+      {
+        "text": "UDC",
+        "label": "politicalparty",
+        "start": 139,
+        "end": 142
+      },
+      {
+        "text": "The Rose for Italy",
+        "label": "politicalparty",
+        "start": 157,
+        "end": 175
+      },
+      {
+        "text": "Tabacci",
+        "label": "politician",
+        "start": 179,
+        "end": 186
+      },
+      {
+        "text": "Baccini",
+        "label": "politician",
+        "start": 188,
+        "end": 195
+      },
+      {
+        "text": "Savino Pezzotta",
+        "label": "politician",
+        "start": 200,
+        "end": 215
+      },
+      {
+        "text": "Forza Italia",
+        "label": "politicalparty",
+        "start": 254,
+        "end": 266
+      },
+      {
+        "text": "FI",
+        "label": "politicalparty",
+        "start": 268,
+        "end": 270
+      },
+      {
+        "text": "Ferdinando Adornato",
+        "label": "politician",
+        "start": 273,
+        "end": 292
+      },
+      {
+        "text": "Angelo Sanza",
+        "label": "politician",
+        "start": 297,
+        "end": 309
+      }
+    ]
+  },
+  {
+    "text": "St. John's East was won by Liberal Party of Canada Bonnie Hickey in 1993 Canadian federal election, who was defeated by Progressive Conservative Party of Canada Norman Doyle in the 1997 Canadian federal election.",
+    "entities": [
+      {
+        "text": "St. John's East",
+        "label": "location",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 27,
+        "end": 50
+      },
+      {
+        "text": "Bonnie Hickey",
+        "label": "politician",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "1993 Canadian federal election",
+        "label": "election",
+        "start": 68,
+        "end": 98
+      },
+      {
+        "text": "Progressive Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 120,
+        "end": 160
+      },
+      {
+        "text": "Norman Doyle",
+        "label": "politician",
+        "start": 161,
+        "end": 173
+      },
+      {
+        "text": "1997 Canadian federal election",
+        "label": "election",
+        "start": 181,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "In 1875, a lodge was established in Toronto, followed soon after by another in Montreal and in 1882 by a lodge in Berlin.",
+    "entities": [
+      {
+        "text": "Toronto",
+        "label": "location",
+        "start": 36,
+        "end": 43
+      },
+      {
+        "text": "Montreal",
+        "label": "location",
+        "start": 79,
+        "end": 87
+      },
+      {
+        "text": "Berlin",
+        "label": "location",
+        "start": 114,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "NJA helped with the development of other left wing Jewish organizations, including Americans for Peace Now, The New Israel Fund, Jewish Fund for Justice, The Shalom Center, The Shefa Fund, Bridges Journal, American Friends of Neve Shalom, Brit Tzedek v 'Shalom, Bat Shalom, and The Abraham Fund.",
+    "entities": [
+      {
+        "text": "NJA",
+        "label": "organisation",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Americans for Peace Now",
+        "label": "organisation",
+        "start": 83,
+        "end": 106
+      },
+      {
+        "text": "New Israel Fund",
+        "label": "organisation",
+        "start": 112,
+        "end": 127
+      },
+      {
+        "text": "Jewish Fund for Justice",
+        "label": "organisation",
+        "start": 129,
+        "end": 152
+      },
+      {
+        "text": "Shalom Center",
+        "label": "organisation",
+        "start": 158,
+        "end": 171
+      },
+      {
+        "text": "Shefa Fund",
+        "label": "organisation",
+        "start": 177,
+        "end": 187
+      },
+      {
+        "text": "Bridges Journal",
+        "label": "organisation",
+        "start": 189,
+        "end": 204
+      },
+      {
+        "text": "American Friends of Neve Shalom",
+        "label": "organisation",
+        "start": 206,
+        "end": 237
+      },
+      {
+        "text": "Brit Tzedek v 'Shalom",
+        "label": "organisation",
+        "start": 239,
+        "end": 260
+      },
+      {
+        "text": "Bat Shalom",
+        "label": "organisation",
+        "start": 262,
+        "end": 272
+      },
+      {
+        "text": "The Abraham Fund",
+        "label": "organisation",
+        "start": 278,
+        "end": 294
+      }
+    ]
+  },
+  {
+    "text": "The bill was passed with the SLFP and the UNP supporting it, with the leftist LSSP and Communist Party of Sri Lanka as well as the Tamil nationalist parties (Illankai Tamil Arasu Kachchi and All Ceylon Tamil Congress).",
+    "entities": [
+      {
+        "text": "SLFP",
+        "label": "politicalparty",
+        "start": 29,
+        "end": 33
+      },
+      {
+        "text": "UNP",
+        "label": "organisation",
+        "start": 42,
+        "end": 45
+      },
+      {
+        "text": "LSSP",
+        "label": "politicalparty",
+        "start": 78,
+        "end": 82
+      },
+      {
+        "text": "Communist Party of Sri Lanka",
+        "label": "politicalparty",
+        "start": 87,
+        "end": 115
+      },
+      {
+        "text": "Illankai Tamil Arasu Kachchi",
+        "label": "politicalparty",
+        "start": 158,
+        "end": 186
+      },
+      {
+        "text": "All Ceylon Tamil Congress",
+        "label": "politicalparty",
+        "start": 191,
+        "end": 216
+      }
+    ]
+  },
+  {
+    "text": "Other parties such as the Alliance Party of Northern Ireland, Progressive Unionist Party, Unionist Party of Northern Ireland, Conservatives and the Workers ' Party have at times polled significantly, as have independent candidates, with the result that many elections have been won on comparatively low shares of the vote.",
+    "entities": [
+      {
+        "text": "Alliance Party of Northern Ireland",
+        "label": "politicalparty",
+        "start": 26,
+        "end": 60
+      },
+      {
+        "text": "Progressive Unionist Party",
+        "label": "politicalparty",
+        "start": 62,
+        "end": 88
+      },
+      {
+        "text": "Unionist Party of Northern Ireland",
+        "label": "politicalparty",
+        "start": 90,
+        "end": 124
+      },
+      {
+        "text": "Conservatives and the Workers ' Party",
+        "label": "politicalparty",
+        "start": 126,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "Friedman had hoped to follow in the footsteps of other entertainers-turned-governors, including Jimmie Davis, Jesse Ventura, Arnold Schwarzenegger, and Ronald Reagan.",
+    "entities": [
+      {
+        "text": "Friedman",
+        "label": "politician",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Jimmie Davis",
+        "label": "politician",
+        "start": 96,
+        "end": 108
+      },
+      {
+        "text": "Jesse Ventura",
+        "label": "politician",
+        "start": 110,
+        "end": 123
+      },
+      {
+        "text": "Arnold Schwarzenegger",
+        "label": "politician",
+        "start": 125,
+        "end": 146
+      },
+      {
+        "text": "Ronald Reagan",
+        "label": "politician",
+        "start": 152,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "text": "Braun (whose victory coincided with Bill Clinton ' s win in the 1992 United States presidential election and 1992 United States presidential election in Illinois) made history in this election by becoming the first African-American woman ever elected to the U.S Senate, and also the first African-American elected to the U.S Senate as a Democrat.",
+    "entities": [
+      {
+        "text": "Braun",
+        "label": "politician",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Bill Clinton",
+        "label": "politician",
+        "start": 36,
+        "end": 48
+      },
+      {
+        "text": "1992 United States presidential election",
+        "label": "election",
+        "start": 64,
+        "end": 104
+      },
+      {
+        "text": "1992 United States presidential election in Illinois",
+        "label": "election",
+        "start": 109,
+        "end": 161
+      },
+      {
+        "text": "U.S Senate",
+        "label": "organisation",
+        "start": 258,
+        "end": 268
+      },
+      {
+        "text": "U.S Senate",
+        "label": "organisation",
+        "start": 321,
+        "end": 331
+      }
+    ]
+  },
+  {
+    "text": "Criticism on Meshadi Azizbekov's political views by Maharram Zulfuqarli - SalamInfo Though Azerbaijan Communist Party and many other local left-wing politicians and the people sees Azizbekov as an important, notable and positive figure in the history of Azerbaijan.",
+    "entities": [
+      {
+        "text": "Meshadi Azizbekov",
+        "label": "politician",
+        "start": 13,
+        "end": 30
+      },
+      {
+        "text": "Maharram Zulfuqarli",
+        "label": "politician",
+        "start": 52,
+        "end": 71
+      },
+      {
+        "text": "Azerbaijan Communist Party",
+        "label": "politicalparty",
+        "start": 91,
+        "end": 117
+      },
+      {
+        "text": "Azizbekov",
+        "label": "politician",
+        "start": 181,
+        "end": 190
+      }
+    ]
+  },
+  {
+    "text": "The 2018 BRICS summit is the tenth annual BRICS summit, an international relations conference attended by the heads of state or heads of government of the five member states Brazil, Russia, India, China and South Africa.",
+    "entities": []
+  },
+  {
+    "text": "A Central Committee was elected, composed of nine members: Giacomo Montalto for the province of Trapani, Nicola Petrina for the province of Messina, Giuseppe De Felice Giuffrida for the province of Catania, Luigi Leone for the province of Siracusa, Antonio Licata for the province of Agrigento, Agostino Lo Piano Pomar for the province of Caltanissetta, Rosario Garibaldi Bosco, Nicola Barbato and Bernardino Verro for the province of Palermo.",
+    "entities": [
+      {
+        "text": "Central Committee",
+        "label": "organisation",
+        "start": 2,
+        "end": 19
+      },
+      {
+        "text": "Giacomo Montalto",
+        "label": "politician",
+        "start": 59,
+        "end": 75
+      },
+      {
+        "text": "province of Trapani",
+        "label": "location",
+        "start": 84,
+        "end": 103
+      },
+      {
+        "text": "Nicola Petrina",
+        "label": "politician",
+        "start": 105,
+        "end": 119
+      },
+      {
+        "text": "province of Messina",
+        "label": "location",
+        "start": 128,
+        "end": 147
+      },
+      {
+        "text": "Giuseppe De Felice Giuffrida",
+        "label": "politician",
+        "start": 149,
+        "end": 177
+      },
+      {
+        "text": "province of Catania",
+        "label": "location",
+        "start": 186,
+        "end": 205
+      },
+      {
+        "text": "Luigi Leone",
+        "label": "politician",
+        "start": 207,
+        "end": 218
+      },
+      {
+        "text": "province of Siracusa",
+        "label": "location",
+        "start": 227,
+        "end": 247
+      },
+      {
+        "text": "Antonio Licata",
+        "label": "politician",
+        "start": 249,
+        "end": 263
+      },
+      {
+        "text": "province of Agrigento",
+        "label": "location",
+        "start": 272,
+        "end": 293
+      },
+      {
+        "text": "Agostino Lo Piano Pomar",
+        "label": "politician",
+        "start": 295,
+        "end": 318
+      },
+      {
+        "text": "province of Caltanissetta",
+        "label": "location",
+        "start": 327,
+        "end": 352
+      },
+      {
+        "text": "Rosario Garibaldi Bosco",
+        "label": "politician",
+        "start": 354,
+        "end": 377
+      },
+      {
+        "text": "Nicola Barbato",
+        "label": "politician",
+        "start": 379,
+        "end": 393
+      },
+      {
+        "text": "Bernardino Verro",
+        "label": "politician",
+        "start": 398,
+        "end": 414
+      },
+      {
+        "text": "province of Palermo",
+        "label": "location",
+        "start": 423,
+        "end": 442
+      }
+    ]
+  },
+  {
+    "text": "Roosevelt was James M. Cox ' s running mate on the Democratic Party's 1920 United States presidential election national ticket, but Cox was defeated by Republican Warren G. Harding.",
+    "entities": [
+      {
+        "text": "Roosevelt",
+        "label": "politician",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "James M. Cox",
+        "label": "politician",
+        "start": 14,
+        "end": 26
+      },
+      {
+        "text": "Democratic Party",
+        "label": "politicalparty",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "1920 United States presidential election",
+        "label": "election",
+        "start": 70,
+        "end": 110
+      },
+      {
+        "text": "Cox",
+        "label": "politician",
+        "start": 132,
+        "end": 135
+      },
+      {
+        "text": "Warren G. Harding",
+        "label": "politician",
+        "start": 163,
+        "end": 180
+      }
+    ]
+  },
+  {
+    "text": "The group was one of a number of far-right Islamophobic groups, including the Q Society, Reclaim Australia, TRUE Blue Crew and the United Patriots Front, that opposed the construction of a $3 million mosque and Islamic community centre in Bendigo, Victoria.",
+    "entities": [
+      {
+        "text": "Islamophobic",
+        "label": "organisation",
+        "start": 43,
+        "end": 55
+      },
+      {
+        "text": "Q Society",
+        "label": "organisation",
+        "start": 78,
+        "end": 87
+      },
+      {
+        "text": "Reclaim Australia",
+        "label": "organisation",
+        "start": 89,
+        "end": 106
+      },
+      {
+        "text": "TRUE Blue Crew",
+        "label": "organisation",
+        "start": 108,
+        "end": 122
+      },
+      {
+        "text": "United Patriots Front",
+        "label": "organisation",
+        "start": 131,
+        "end": 152
+      },
+      {
+        "text": "Bendigo",
+        "label": "location",
+        "start": 239,
+        "end": 246
+      },
+      {
+        "text": "Victoria",
+        "label": "location",
+        "start": 248,
+        "end": 256
+      }
+    ]
+  },
+  {
+    "text": "Starting in 1992, he served as a member of Meretz, a dovish left wing party which resulted from the merger of Mapam, Ratz and Shinui.",
+    "entities": [
+      {
+        "text": "Meretz",
+        "label": "politicalparty",
+        "start": 43,
+        "end": 49
+      },
+      {
+        "text": "Mapam",
+        "label": "politicalparty",
+        "start": 110,
+        "end": 115
+      },
+      {
+        "text": "Ratz",
+        "label": "politicalparty",
+        "start": 117,
+        "end": 121
+      },
+      {
+        "text": "Shinui",
+        "label": "politicalparty",
+        "start": 126,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "text": "In the 2009 Portuguese legislative election, the party won 21 seats, its most since the 1985 Portuguese legislative election, and increased it to 24 2011 Portuguese legislative election, leading to it forming a coalition government with the PSD.",
+    "entities": [
+      {
+        "text": "2009 Portuguese legislative election",
+        "label": "election",
+        "start": 7,
+        "end": 43
+      },
+      {
+        "text": "1985 Portuguese legislative election",
+        "label": "election",
+        "start": 88,
+        "end": 124
+      },
+      {
+        "text": "2011 Portuguese legislative election",
+        "label": "election",
+        "start": 149,
+        "end": 185
+      },
+      {
+        "text": "PSD",
+        "label": "organisation",
+        "start": 241,
+        "end": 244
+      }
+    ]
+  },
+  {
+    "text": "Hampton sought election to the Ontario legislature under the NDP banner in the 1977 Ontario general election, placing third against incumbent Ontario Liberal Party T. Patrick Reid and Progressive Conservative Party of Ontario Gordon Armstrong in Rainy River.",
+    "entities": [
+      {
+        "text": "Hampton",
+        "label": "politician",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Ontario legislature",
+        "label": "organisation",
+        "start": 31,
+        "end": 50
+      },
+      {
+        "text": "NDP",
+        "label": "politicalparty",
+        "start": 61,
+        "end": 64
+      },
+      {
+        "text": "1977 Ontario general election",
+        "label": "election",
+        "start": 79,
+        "end": 108
+      },
+      {
+        "text": "Ontario Liberal Party",
+        "label": "politicalparty",
+        "start": 142,
+        "end": 163
+      },
+      {
+        "text": "T. Patrick Reid",
+        "label": "politician",
+        "start": 164,
+        "end": 179
+      },
+      {
+        "text": "Progressive Conservative Party of Ontario",
+        "label": "politicalparty",
+        "start": 184,
+        "end": 225
+      },
+      {
+        "text": "Gordon Armstrong",
+        "label": "politician",
+        "start": 226,
+        "end": 242
+      },
+      {
+        "text": "Rainy River",
+        "label": "location",
+        "start": 246,
+        "end": 257
+      }
+    ]
+  },
+  {
+    "text": "Paulley was a Co-operative Commonwealth Federation candidate for St. Boniface in the 1949 Canadian federal election, finishing a distant second to Liberal Party of Canada Fernand Viau.",
+    "entities": [
+      {
+        "text": "Paulley",
+        "label": "politician",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Co-operative Commonwealth Federation",
+        "label": "politicalparty",
+        "start": 14,
+        "end": 50
+      },
+      {
+        "text": "1949 Canadian federal election",
+        "label": "election",
+        "start": 85,
+        "end": 115
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 147,
+        "end": 170
+      },
+      {
+        "text": "Fernand Viau",
+        "label": "politician",
+        "start": 171,
+        "end": 183
+      }
+    ]
+  },
+  {
+    "text": "The bill was also supported by prominent think tanks including conservative groups Heritage Action and FreedomWorks, as well as liberal think tanks Families USA and Public Citizen.",
+    "entities": [
+      {
+        "text": "Heritage Action",
+        "label": "organisation",
+        "start": 83,
+        "end": 98
+      },
+      {
+        "text": "FreedomWorks",
+        "label": "organisation",
+        "start": 103,
+        "end": 115
+      },
+      {
+        "text": "Families USA",
+        "label": "organisation",
+        "start": 148,
+        "end": 160
+      },
+      {
+        "text": "Public Citizen",
+        "label": "organisation",
+        "start": 165,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "text": "Jean-Guy Péloquin ran for the National Assembly of Quebec in the 1981 Quebec general election and 1989 Quebec general election provincial elections, the first time as a Union Nationale candidate and the second time as a candidate of Parti 51, a small group that promoted the annexation of Quebec into the United States of America.",
+    "entities": [
+      {
+        "text": "Jean-Guy Péloquin",
+        "label": "politician",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "National Assembly of Quebec",
+        "label": "organisation",
+        "start": 30,
+        "end": 57
+      },
+      {
+        "text": "1981 Quebec general election",
+        "label": "election",
+        "start": 65,
+        "end": 93
+      },
+      {
+        "text": "1989 Quebec general election",
+        "label": "election",
+        "start": 98,
+        "end": 126
+      },
+      {
+        "text": "Union Nationale",
+        "label": "politicalparty",
+        "start": 169,
+        "end": 184
+      },
+      {
+        "text": "Parti 51",
+        "label": "politicalparty",
+        "start": 233,
+        "end": 241
+      },
+      {
+        "text": "Quebec",
+        "label": "location",
+        "start": 289,
+        "end": 295
+      }
+    ]
+  },
+  {
+    "text": "He resigned from the governorship to briefly co-lead the Sunrise Party, then joined the Japan Restoration Party and returned to the House of Representatives in the 2012 Japanese general election.",
+    "entities": [
+      {
+        "text": "Sunrise Party",
+        "label": "politicalparty",
+        "start": 57,
+        "end": 70
+      },
+      {
+        "text": "Japan Restoration Party",
+        "label": "politicalparty",
+        "start": 88,
+        "end": 111
+      },
+      {
+        "text": "House of Representatives",
+        "label": "organisation",
+        "start": 132,
+        "end": 156
+      },
+      {
+        "text": "2012 Japanese general election",
+        "label": "election",
+        "start": 164,
+        "end": 194
+      }
+    ]
+  },
+  {
+    "text": "Boundary changes took place for the 1990 Colchester Borough Council election, 2003 Colchester Borough Council election and 2016 Colchester Borough Council election elections leading to the whole council being elected on those years.",
+    "entities": [
+      {
+        "text": "1990 Colchester Borough Council election",
+        "label": "election",
+        "start": 36,
+        "end": 76
+      },
+      {
+        "text": "2003 Colchester Borough Council election",
+        "label": "election",
+        "start": 78,
+        "end": 118
+      },
+      {
+        "text": "2016 Colchester Borough Council election",
+        "label": "election",
+        "start": 123,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "Most major federal political parties, including the Liberal Party of Canada, the Conservative Party of Canada, the New Democratic Party and the Green Party of Canada support maintaining the status quo with Quebec remaining part of Canada.",
+    "entities": [
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 52,
+        "end": 75
+      },
+      {
+        "text": "Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 81,
+        "end": 109
+      },
+      {
+        "text": "New Democratic Party",
+        "label": "politicalparty",
+        "start": 115,
+        "end": 135
+      },
+      {
+        "text": "Green Party of Canada",
+        "label": "politicalparty",
+        "start": 144,
+        "end": 165
+      },
+      {
+        "text": "Quebec",
+        "label": "location",
+        "start": 206,
+        "end": 212
+      }
+    ]
+  },
+  {
+    "text": "Party leader Peter Dunne was re-elected into the Ōhariū seat in 2008 New Zealand general election, 2011 New Zealand general election, and 2014 New Zealand general election, becoming a coalition partner with National, despite receiving under 1% of the party vote.",
+    "entities": [
+      {
+        "text": "Peter Dunne",
+        "label": "politician",
+        "start": 13,
+        "end": 24
+      },
+      {
+        "text": "Ōhariū",
+        "label": "location",
+        "start": 49,
+        "end": 55
+      },
+      {
+        "text": "2008 New Zealand general election",
+        "label": "election",
+        "start": 64,
+        "end": 97
+      },
+      {
+        "text": "2011 New Zealand general election",
+        "label": "election",
+        "start": 99,
+        "end": 132
+      },
+      {
+        "text": "2014 New Zealand general election",
+        "label": "election",
+        "start": 138,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "As late as 1970, most Saudis lived a subsistence life in the rural provinces, but in the last half of the 20th century the kingdom has urbanized rapidly. about 80% of Saudis live in urban metropolitan areas - specifically Riyadh, Jeddah, or Dammam.",
+    "entities": [
+      {
+        "text": "Riyadh",
+        "label": "location",
+        "start": 222,
+        "end": 228
+      },
+      {
+        "text": "Jeddah",
+        "label": "location",
+        "start": 230,
+        "end": 236
+      },
+      {
+        "text": "Dammam",
+        "label": "location",
+        "start": 241,
+        "end": 247
+      }
+    ]
+  },
+  {
+    "text": "Despite Bob Dole ' s victory over Bill Clinton and Ross Perot in the state 1996 United States presidential election in Montana in the presidential election, Baucus managed to narrowly win re-election over Rehberg to secure a fourth term in the Senate.",
+    "entities": [
+      {
+        "text": "Bob Dole",
+        "label": "politician",
+        "start": 8,
+        "end": 16
+      },
+      {
+        "text": "Bill Clinton",
+        "label": "politician",
+        "start": 34,
+        "end": 46
+      },
+      {
+        "text": "Ross Perot",
+        "label": "politician",
+        "start": 51,
+        "end": 61
+      },
+      {
+        "text": "1996 United States presidential election in Montana",
+        "label": "election",
+        "start": 75,
+        "end": 126
+      },
+      {
+        "text": "Baucus",
+        "label": "politician",
+        "start": 157,
+        "end": 163
+      },
+      {
+        "text": "Rehberg",
+        "label": "location",
+        "start": 205,
+        "end": 212
+      },
+      {
+        "text": "Senate",
+        "label": "organisation",
+        "start": 244,
+        "end": 250
+      }
+    ]
+  },
+  {
+    "text": "Social conservatives often felt that they were being sidelined by officials in the Progressive Conservative Party of Canada and its leadership of so-called Red Tories for the last half of the twentieth century and therefore many eventually made their political home with parties such as the Social Credit Party of Canada and the Reform Party of Canada.",
+    "entities": [
+      {
+        "text": "Progressive Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 83,
+        "end": 123
+      },
+      {
+        "text": "Social Credit Party of Canada",
+        "label": "politicalparty",
+        "start": 291,
+        "end": 320
+      },
+      {
+        "text": "Reform Party of Canada",
+        "label": "politicalparty",
+        "start": 329,
+        "end": 351
+      }
+    ]
+  },
+  {
+    "text": "Born in Hanover to Carl Hugenberg, a royal Kingdom of Hanover official who in 1867 entered the Prussian Landtag as a member of the National Liberal Party, he studied law in University of Göttingen, Heidelberg, and Humboldt University of Berlin, as well as economics in University of Strasbourg.",
+    "entities": [
+      {
+        "text": "Hanover",
+        "label": "location",
+        "start": 8,
+        "end": 15
+      },
+      {
+        "text": "Prussian Landtag",
+        "label": "organisation",
+        "start": 95,
+        "end": 111
+      },
+      {
+        "text": "National Liberal Party",
+        "label": "politicalparty",
+        "start": 131,
+        "end": 153
+      },
+      {
+        "text": "University of Göttingen",
+        "label": "organisation",
+        "start": 173,
+        "end": 196
+      },
+      {
+        "text": "Heidelberg",
+        "label": "location",
+        "start": 198,
+        "end": 208
+      },
+      {
+        "text": "Humboldt University of Berlin",
+        "label": "organisation",
+        "start": 214,
+        "end": 243
+      },
+      {
+        "text": "University of Strasbourg",
+        "label": "organisation",
+        "start": 269,
+        "end": 293
+      }
+    ]
+  },
+  {
+    "text": "They would win a small 12-seat majority in 2015 United Kingdom general election, only to lose it again at the 2017 United Kingdom general election but would win in a landslide in the 2019 United Kingdom general election.",
+    "entities": [
+      {
+        "text": "2015 United Kingdom general election",
+        "label": "election",
+        "start": 43,
+        "end": 79
+      },
+      {
+        "text": "2017 United Kingdom general election",
+        "label": "election",
+        "start": 110,
+        "end": 146
+      },
+      {
+        "text": "2019 United Kingdom general election",
+        "label": "election",
+        "start": 183,
+        "end": 219
+      }
+    ]
+  },
+  {
+    "text": "In recent years, the Progressive Conservative Party of Canada has had the most success in the city: its members were elected in all but four elections since 1953: 1974 Canadian federal election, 1980 Canadian federal election, 2004 Canadian federal election, and 2006 Canadian federal election.",
+    "entities": [
+      {
+        "text": "Progressive Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 21,
+        "end": 61
+      },
+      {
+        "text": "1974 Canadian federal election",
+        "label": "election",
+        "start": 163,
+        "end": 193
+      },
+      {
+        "text": "1980 Canadian federal election",
+        "label": "election",
+        "start": 195,
+        "end": 225
+      },
+      {
+        "text": "2004 Canadian federal election",
+        "label": "election",
+        "start": 227,
+        "end": 257
+      },
+      {
+        "text": "2006 Canadian federal election",
+        "label": "election",
+        "start": 263,
+        "end": 293
+      }
+    ]
+  },
+  {
+    "text": "Edgar was recognized by several national organizations for his work, including by the American Legion, Vietnam Veterans of America and the National Taxpayers Union.",
+    "entities": [
+      {
+        "text": "American Legion",
+        "label": "organisation",
+        "start": 86,
+        "end": 101
+      },
+      {
+        "text": "Vietnam Veterans of America",
+        "label": "organisation",
+        "start": 103,
+        "end": 130
+      },
+      {
+        "text": "National Taxpayers Union",
+        "label": "organisation",
+        "start": 139,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "Her book The Making of the New Deal contained writings from New Dealers, including Alger Hiss, Donald Hiss, Thomas Gardiner Corcoran, James H. Rowe, Robert C. Weaver, Paul A. Freund, Wilbur J. Cohen, Abe Fortas, David Riesman, and Joseph Rauh.",
+    "entities": []
+  },
+  {
+    "text": "The ruling coalition, consisting of the Social Democratic Party of Croatia (SDP), Croatian People's Party (HNS), Croatian Peasant Party (HSS), Party of Liberal Democrats (Libra) and the Liberal Party (LS) did not contest the elections as a single bloc.",
+    "entities": [
+      {
+        "text": "Social Democratic Party of Croatia",
+        "label": "politicalparty",
+        "start": 40,
+        "end": 74
+      },
+      {
+        "text": "SDP",
+        "label": "politicalparty",
+        "start": 76,
+        "end": 79
+      },
+      {
+        "text": "Croatian People's Party",
+        "label": "politicalparty",
+        "start": 82,
+        "end": 105
+      },
+      {
+        "text": "HNS",
+        "label": "politicalparty",
+        "start": 107,
+        "end": 110
+      },
+      {
+        "text": "Croatian Peasant Party",
+        "label": "politicalparty",
+        "start": 113,
+        "end": 135
+      },
+      {
+        "text": "HSS",
+        "label": "politicalparty",
+        "start": 137,
+        "end": 140
+      },
+      {
+        "text": "Party of Liberal Democrats",
+        "label": "politicalparty",
+        "start": 143,
+        "end": 169
+      },
+      {
+        "text": "Libra",
+        "label": "politicalparty",
+        "start": 171,
+        "end": 176
+      },
+      {
+        "text": "Liberal Party",
+        "label": "politicalparty",
+        "start": 186,
+        "end": 199
+      },
+      {
+        "text": "LS",
+        "label": "politicalparty",
+        "start": 201,
+        "end": 203
+      }
+    ]
+  },
+  {
+    "text": "After the 1921 Canadian federal election, Progressive Party of Canada leader Thomas Crerar was considering a merger of his party with the Liberal Party of Canada and asked Greenfield to join him as Alberta's representative in the federal cabinet.",
+    "entities": [
+      {
+        "text": "1921 Canadian federal election",
+        "label": "election",
+        "start": 10,
+        "end": 40
+      },
+      {
+        "text": "Progressive Party of Canada",
+        "label": "politicalparty",
+        "start": 42,
+        "end": 69
+      },
+      {
+        "text": "Thomas Crerar",
+        "label": "politician",
+        "start": 77,
+        "end": 90
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 138,
+        "end": 161
+      },
+      {
+        "text": "Greenfield",
+        "label": "politician",
+        "start": 172,
+        "end": 182
+      },
+      {
+        "text": "Alberta",
+        "label": "location",
+        "start": 198,
+        "end": 205
+      }
+    ]
+  },
+  {
+    "text": "He learnt that at Multan, Thatta, and particularly at Varanasi, the teachings of Hindu Brahmins attracted numerous Muslims.",
+    "entities": [
+      {
+        "text": "Multan",
+        "label": "location",
+        "start": 18,
+        "end": 24
+      },
+      {
+        "text": "Thatta",
+        "label": "location",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "text": "Varanasi",
+        "label": "location",
+        "start": 54,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "Those were the Croatian Democratic Union, the Croatian Peasant Party, the Croatian People's Party - Liberal Democrats, the Croatian Social Liberal Party, Social Democratic Party of Croatia and the Bridge of Independent Lists.",
+    "entities": [
+      {
+        "text": "Croatian Democratic Union",
+        "label": "politicalparty",
+        "start": 15,
+        "end": 40
+      },
+      {
+        "text": "Croatian Peasant Party",
+        "label": "politicalparty",
+        "start": 46,
+        "end": 68
+      },
+      {
+        "text": "Croatian People's Party - Liberal Democrats",
+        "label": "politicalparty",
+        "start": 74,
+        "end": 117
+      },
+      {
+        "text": "Croatian Social Liberal Party",
+        "label": "politicalparty",
+        "start": 123,
+        "end": 152
+      },
+      {
+        "text": "Social Democratic Party of Croatia",
+        "label": "politicalparty",
+        "start": 154,
+        "end": 188
+      },
+      {
+        "text": "Bridge of Independent Lists",
+        "label": "politicalparty",
+        "start": 197,
+        "end": 224
+      }
+    ]
+  },
+  {
+    "text": "It was suspected de Lille would either revive her old political party, the Independent Democrats, or either join the African National Congress or the Economic Freedom Fighters.",
+    "entities": [
+      {
+        "text": "de Lille",
+        "label": "politician",
+        "start": 17,
+        "end": 25
+      },
+      {
+        "text": "Independent Democrats",
+        "label": "politicalparty",
+        "start": 75,
+        "end": 96
+      },
+      {
+        "text": "African National Congress",
+        "label": "politicalparty",
+        "start": 117,
+        "end": 142
+      },
+      {
+        "text": "Economic Freedom Fighters",
+        "label": "politicalparty",
+        "start": 150,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "She was re-elected to additional terms in 1974 Australian federal election, 1975 Australian federal election, and 1980 Australian federal election, retiring on 5 June 1987 at the end of her final term.",
+    "entities": [
+      {
+        "text": "1974 Australian federal election",
+        "label": "election",
+        "start": 42,
+        "end": 74
+      },
+      {
+        "text": "1975 Australian federal election",
+        "label": "election",
+        "start": 76,
+        "end": 108
+      },
+      {
+        "text": "1980 Australian federal election",
+        "label": "election",
+        "start": 114,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "Under Lal Bahadur Shastri, the government's popularity was boosted after India prevailed in the 1965 War with Pakistan, but this war (along with the previous 1962 War with China) had helped put a strain on the economy.",
+    "entities": [
+      {
+        "text": "Lal Bahadur Shastri",
+        "label": "politician",
+        "start": 6,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "Three-term popular incumbent Howard Baker, who had served as United States Senate Majority Leader since 1981 (Minority Leader from 1977 to 1981) decided not to seek re-election in order to concentrate on a planned bid for 1988 Republican Party presidential primaries (which did not happen, as he later accepted a White House Chief of Staff position under President Ronald Reagan).",
+    "entities": [
+      {
+        "text": "Howard Baker",
+        "label": "politician",
+        "start": 29,
+        "end": 41
+      },
+      {
+        "text": "United States Senate",
+        "label": "organisation",
+        "start": 61,
+        "end": 81
+      },
+      {
+        "text": "1988 Republican Party presidential primaries",
+        "label": "election",
+        "start": 222,
+        "end": 266
+      },
+      {
+        "text": "White House",
+        "label": "location",
+        "start": 313,
+        "end": 324
+      },
+      {
+        "text": "Ronald Reagan",
+        "label": "politician",
+        "start": 365,
+        "end": 378
+      }
+    ]
+  },
+  {
+    "text": "The Conservative Party of Canada took back this historically New Democratic Party (NDP) seat in 2004 Canadian federal election.",
+    "entities": [
+      {
+        "text": "Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 4,
+        "end": 32
+      },
+      {
+        "text": "New Democratic Party",
+        "label": "politicalparty",
+        "start": 61,
+        "end": 81
+      },
+      {
+        "text": "NDP",
+        "label": "politicalparty",
+        "start": 83,
+        "end": 86
+      },
+      {
+        "text": "2004 Canadian federal election",
+        "label": "election",
+        "start": 96,
+        "end": 126
+      }
+    ]
+  },
+  {
+    "text": "She contested the seat of Burnley in Lancashire in the 1979 United Kingdom general election and then, against David Owen, the Plymouth Devonport seat in the 1983 United Kingdom general election.",
+    "entities": [
+      {
+        "text": "Burnley",
+        "label": "location",
+        "start": 26,
+        "end": 33
+      },
+      {
+        "text": "Lancashire",
+        "label": "location",
+        "start": 37,
+        "end": 47
+      },
+      {
+        "text": "1979 United Kingdom general election",
+        "label": "election",
+        "start": 55,
+        "end": 91
+      },
+      {
+        "text": "David Owen",
+        "label": "politician",
+        "start": 110,
+        "end": 120
+      },
+      {
+        "text": "Plymouth Devonport",
+        "label": "location",
+        "start": 126,
+        "end": 144
+      },
+      {
+        "text": "1983 United Kingdom general election",
+        "label": "election",
+        "start": 157,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Within this district were Barnsley, Batley, Bradford, Brighouse, Dewsbury, Doncaster, Halifax, Huddersfield, Keighley, Leeds, Morley, Ossett, Pontefract, Pudsey, Rotherham, Sheffield, Todmorden (partly in Lancashire until 1888, when fully incorporated into Yorkshire) and Wakefield.",
+    "entities": [
+      {
+        "text": "Barnsley",
+        "label": "location",
+        "start": 26,
+        "end": 34
+      },
+      {
+        "text": "Batley",
+        "label": "location",
+        "start": 36,
+        "end": 42
+      },
+      {
+        "text": "Bradford",
+        "label": "location",
+        "start": 44,
+        "end": 52
+      },
+      {
+        "text": "Brighouse",
+        "label": "location",
+        "start": 54,
+        "end": 63
+      },
+      {
+        "text": "Dewsbury",
+        "label": "location",
+        "start": 65,
+        "end": 73
+      },
+      {
+        "text": "Doncaster",
+        "label": "location",
+        "start": 75,
+        "end": 84
+      },
+      {
+        "text": "Halifax",
+        "label": "location",
+        "start": 86,
+        "end": 93
+      },
+      {
+        "text": "Huddersfield",
+        "label": "location",
+        "start": 95,
+        "end": 107
+      },
+      {
+        "text": "Keighley",
+        "label": "location",
+        "start": 109,
+        "end": 117
+      },
+      {
+        "text": "Leeds",
+        "label": "location",
+        "start": 119,
+        "end": 124
+      },
+      {
+        "text": "Morley",
+        "label": "location",
+        "start": 126,
+        "end": 132
+      },
+      {
+        "text": "Ossett",
+        "label": "location",
+        "start": 134,
+        "end": 140
+      },
+      {
+        "text": "Pontefract",
+        "label": "location",
+        "start": 142,
+        "end": 152
+      },
+      {
+        "text": "Pudsey",
+        "label": "location",
+        "start": 154,
+        "end": 160
+      },
+      {
+        "text": "Rotherham",
+        "label": "location",
+        "start": 162,
+        "end": 171
+      },
+      {
+        "text": "Sheffield",
+        "label": "location",
+        "start": 173,
+        "end": 182
+      },
+      {
+        "text": "Todmorden",
+        "label": "location",
+        "start": 184,
+        "end": 193
+      },
+      {
+        "text": "Lancashire",
+        "label": "location",
+        "start": 205,
+        "end": 215
+      },
+      {
+        "text": "Yorkshire",
+        "label": "location",
+        "start": 257,
+        "end": 266
+      },
+      {
+        "text": "Wakefield",
+        "label": "location",
+        "start": 272,
+        "end": 281
+      }
+    ]
+  },
+  {
+    "text": "In 1965, the airline took delivery of its first Douglas DC-8, and grew beyond the Asian market it was focused on, beginning scheduled flights from Kemayoran Airport to Amsterdam and Frankfurt via Colombo, Mumbai, and Prague.",
+    "entities": [
+      {
+        "text": "Asian",
+        "label": "location",
+        "start": 82,
+        "end": 87
+      },
+      {
+        "text": "Kemayoran Airport",
+        "label": "location",
+        "start": 147,
+        "end": 164
+      },
+      {
+        "text": "Amsterdam",
+        "label": "location",
+        "start": 168,
+        "end": 177
+      },
+      {
+        "text": "Frankfurt",
+        "label": "location",
+        "start": 182,
+        "end": 191
+      },
+      {
+        "text": "Colombo",
+        "label": "location",
+        "start": 196,
+        "end": 203
+      },
+      {
+        "text": "Mumbai",
+        "label": "location",
+        "start": 205,
+        "end": 211
+      },
+      {
+        "text": "Prague",
+        "label": "location",
+        "start": 217,
+        "end": 223
+      }
+    ]
+  },
+  {
+    "text": "Prior to his time in Congress, Chapin would also serve as a delegate of the Massachusetts Constitutional Convention of 1853 and, as a War Democrat, purchased the uniforms of the 10th Regiment Massachusetts Volunteer Infantry at the outset of the American Civil War.",
+    "entities": [
+      {
+        "text": "Congress",
+        "label": "organisation",
+        "start": 21,
+        "end": 29
+      },
+      {
+        "text": "Chapin",
+        "label": "politician",
+        "start": 31,
+        "end": 37
+      },
+      {
+        "text": "War Democrat",
+        "label": "politicalparty",
+        "start": 134,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "He wrote: Leave won because 1) three big forces the immigration crisis, the 2008 financial crisis and the euro crisis created conditions in which the contest was competitive, AND 2) Vote Leave exploited the situation imperfectly but effectively, AND 3) David Cameron / George Osborne made big mistakes.",
+    "entities": [
+      {
+        "text": "Vote Leave",
+        "label": "organisation",
+        "start": 182,
+        "end": 192
+      },
+      {
+        "text": "David Cameron",
+        "label": "politician",
+        "start": 253,
+        "end": 266
+      },
+      {
+        "text": "George Osborne",
+        "label": "politician",
+        "start": 269,
+        "end": 283
+      }
+    ]
+  },
+  {
+    "text": "The major political parties at this time were the Polish Socialist Party, National Democracy, various Peasant Parties, Polish Christian Democratic Party, and political groups of ethnic minorities (German: German Social Democratic Party of Poland, Jewish: General Jewish Labour Bund in Poland, United Jewish Socialist Workers Party, and Ukrainian: Ukrainian National Democratic Alliance).",
+    "entities": [
+      {
+        "text": "Polish Socialist Party",
+        "label": "politicalparty",
+        "start": 50,
+        "end": 72
+      },
+      {
+        "text": "National Democracy",
+        "label": "politicalparty",
+        "start": 74,
+        "end": 92
+      },
+      {
+        "text": "Peasant Parties",
+        "label": "politicalparty",
+        "start": 102,
+        "end": 117
+      },
+      {
+        "text": "Polish Christian Democratic Party",
+        "label": "politicalparty",
+        "start": 119,
+        "end": 152
+      },
+      {
+        "text": "German Social Democratic Party of Poland",
+        "label": "politicalparty",
+        "start": 205,
+        "end": 245
+      },
+      {
+        "text": "General Jewish Labour Bund in Poland",
+        "label": "politicalparty",
+        "start": 255,
+        "end": 291
+      },
+      {
+        "text": "United Jewish Socialist Workers Party",
+        "label": "politicalparty",
+        "start": 293,
+        "end": 330
+      },
+      {
+        "text": "Ukrainian National Democratic Alliance",
+        "label": "politicalparty",
+        "start": 347,
+        "end": 385
+      }
+    ]
+  },
+  {
+    "text": "Throughout the century, the state voted for the Federalist Party twice, the Democratic-Republican Party five times, the National Republican Party once, the Whig Party four times, the Democratic Party ten times, and the Republican Party three times.",
+    "entities": [
+      {
+        "text": "Federalist Party",
+        "label": "politicalparty",
+        "start": 48,
+        "end": 64
+      },
+      {
+        "text": "Democratic-Republican Party",
+        "label": "politicalparty",
+        "start": 76,
+        "end": 103
+      },
+      {
+        "text": "National Republican Party",
+        "label": "politicalparty",
+        "start": 120,
+        "end": 145
+      },
+      {
+        "text": "Whig Party",
+        "label": "politicalparty",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "Democratic Party",
+        "label": "politicalparty",
+        "start": 183,
+        "end": 199
+      },
+      {
+        "text": "Republican Party",
+        "label": "politicalparty",
+        "start": 219,
+        "end": 235
+      }
+    ]
+  },
+  {
+    "text": "Since 1942, every member of the Cabinet has been a member of the Australian Labor Party, the Liberal Party of Australia, or the National Party of Australia.",
+    "entities": [
+      {
+        "text": "Australian Labor Party",
+        "label": "politicalparty",
+        "start": 65,
+        "end": 87
+      },
+      {
+        "text": "Liberal Party of Australia",
+        "label": "politicalparty",
+        "start": 93,
+        "end": 119
+      },
+      {
+        "text": "National Party of Australia",
+        "label": "politicalparty",
+        "start": 128,
+        "end": 155
+      }
+    ]
+  },
+  {
+    "text": "In May 2006, The carrier links Cairo with Sharm El Sheikh, Hurghada, Luxor, Aswan, Marsa Alam, Abu Simbel and Alexandria (Egypt) in addition to secondary destinations to complement the parent company's network.",
+    "entities": [
+      {
+        "text": "Cairo",
+        "label": "location",
+        "start": 31,
+        "end": 36
+      },
+      {
+        "text": "Sharm El Sheikh",
+        "label": "location",
+        "start": 42,
+        "end": 57
+      },
+      {
+        "text": "Hurghada",
+        "label": "location",
+        "start": 59,
+        "end": 67
+      },
+      {
+        "text": "Luxor",
+        "label": "location",
+        "start": 69,
+        "end": 74
+      },
+      {
+        "text": "Aswan",
+        "label": "location",
+        "start": 76,
+        "end": 81
+      },
+      {
+        "text": "Marsa Alam",
+        "label": "location",
+        "start": 83,
+        "end": 93
+      },
+      {
+        "text": "Abu Simbel",
+        "label": "location",
+        "start": 95,
+        "end": 105
+      },
+      {
+        "text": "Alexandria",
+        "label": "location",
+        "start": 110,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "During the 2015 Ivory Coast presidential election, President Alassane Ouattara promised a new constitution to replace the current one, considered as responsible for years of turmoil and war, with the First Ivorian Civil War and the Second Ivorian Civil War.",
+    "entities": [
+      {
+        "text": "2015 Ivory Coast presidential election",
+        "label": "election",
+        "start": 11,
+        "end": 49
+      },
+      {
+        "text": "Alassane Ouattara",
+        "label": "politician",
+        "start": 61,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "The six-part series features Richard Madden and Keeley Hawes, and includes Gina McKee, Sophie Rundle, Vincent Franklin, Pippa Haywood, Paul Ready, Tom Brooke, Nicholas Gleaves, Stuart Bowman, Stephanie Hyam, David Westhead, Matt Stokoe, Nina Toussaint-White, Ash Tandon, and Anjli Mohindra.",
+    "entities": []
+  },
+  {
+    "text": "Imelda also established a network of Philippine Center in major cities abroad such as New York City, Canberra, Hong Kong, and San Francisco.",
+    "entities": [
+      {
+        "text": "Philippine Center",
+        "label": "organisation",
+        "start": 37,
+        "end": 54
+      },
+      {
+        "text": "New York City",
+        "label": "location",
+        "start": 86,
+        "end": 99
+      },
+      {
+        "text": "Canberra",
+        "label": "location",
+        "start": 101,
+        "end": 109
+      },
+      {
+        "text": "Hong Kong",
+        "label": "location",
+        "start": 111,
+        "end": 120
+      },
+      {
+        "text": "San Francisco",
+        "label": "location",
+        "start": 126,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "text": "At the outbreak of World War I, van der Byl served with distinction under Generals Jan Smuts and Louis Botha in the Maritz Rebellion, German South-West Africa campaign and the East-Africa Campaign (where he caught malaria that would severely affect his health for the rest of his life).",
+    "entities": [
+      {
+        "text": "Jan Smuts",
+        "label": "politician",
+        "start": 83,
+        "end": 92
+      },
+      {
+        "text": "Louis Botha",
+        "label": "politician",
+        "start": 97,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "text": "In the February 1974 United Kingdom general election the seat was won by John Carson of the Ulster Unionist Party with backing by the Vanguard Progressive Unionist Party and the Democratic Unionist Party on a united slate in opposition to the Sunningdale Agreement.",
+    "entities": [
+      {
+        "text": "February 1974 United Kingdom general election",
+        "label": "election",
+        "start": 7,
+        "end": 52
+      },
+      {
+        "text": "John Carson",
+        "label": "politician",
+        "start": 73,
+        "end": 84
+      },
+      {
+        "text": "Ulster Unionist Party",
+        "label": "politicalparty",
+        "start": 92,
+        "end": 113
+      },
+      {
+        "text": "Vanguard Progressive Unionist Party",
+        "label": "politicalparty",
+        "start": 134,
+        "end": 169
+      },
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 178,
+        "end": 203
+      },
+      {
+        "text": "Sunningdale Agreement",
+        "label": "organisation",
+        "start": 243,
+        "end": 264
+      }
+    ]
+  },
+  {
+    "text": "Having joined the New Zealand National Party in 1975, Shipley successfully stood in Ashburton, a safe National seat in the country areas surrounding Christchurch, in the 1987 New Zealand general election.",
+    "entities": [
+      {
+        "text": "New Zealand National Party",
+        "label": "politicalparty",
+        "start": 18,
+        "end": 44
+      },
+      {
+        "text": "Ashburton",
+        "label": "location",
+        "start": 84,
+        "end": 93
+      },
+      {
+        "text": "Christchurch",
+        "label": "location",
+        "start": 149,
+        "end": 161
+      },
+      {
+        "text": "1987 New Zealand general election",
+        "label": "election",
+        "start": 170,
+        "end": 203
+      }
+    ]
+  },
+  {
+    "text": "The film stars Hugh Jackman, Vera Farmiga, J. K. Simmons, and Alfred Molina.",
+    "entities": []
+  },
+  {
+    "text": "For the 2018 Mexican general election, the National Regeneration Movement proposed having Senator Rabindranath Salazar Solorio as the candidate under the coalition Juntos Haremos Historia for the Governor of Morelos but PES, also part of the coalition, argued Blanco was the better choice for the coalition's candidate.",
+    "entities": [
+      {
+        "text": "2018 Mexican general election",
+        "label": "election",
+        "start": 8,
+        "end": 37
+      },
+      {
+        "text": "National Regeneration Movement",
+        "label": "politicalparty",
+        "start": 43,
+        "end": 73
+      },
+      {
+        "text": "Rabindranath Salazar Solorio",
+        "label": "politician",
+        "start": 98,
+        "end": 126
+      },
+      {
+        "text": "Juntos Haremos Historia",
+        "label": "politicalparty",
+        "start": 164,
+        "end": 187
+      },
+      {
+        "text": "Governor of Morelos",
+        "label": "politicalparty",
+        "start": 196,
+        "end": 215
+      },
+      {
+        "text": "PES",
+        "label": "organisation",
+        "start": 220,
+        "end": 223
+      },
+      {
+        "text": "Blanco",
+        "label": "politician",
+        "start": 260,
+        "end": 266
+      }
+    ]
+  },
+  {
+    "text": "Patteson was a member of the Board of Trustees of West Virginia Wesleyan, and of a number of societies: Free mason s, Knights Templar, Moose International, Lions Clubs International, Chamber of Commerce, American Legion, Sons of the American Revolution and Benevolent and Protective Order of Elks.",
+    "entities": [
+      {
+        "text": "West Virginia Wesleyan",
+        "label": "organisation",
+        "start": 50,
+        "end": 72
+      },
+      {
+        "text": "Free mason",
+        "label": "organisation",
+        "start": 104,
+        "end": 114
+      },
+      {
+        "text": "Knights Templar",
+        "label": "organisation",
+        "start": 118,
+        "end": 133
+      },
+      {
+        "text": "Moose International",
+        "label": "organisation",
+        "start": 135,
+        "end": 154
+      },
+      {
+        "text": "Lions Clubs International",
+        "label": "organisation",
+        "start": 156,
+        "end": 181
+      },
+      {
+        "text": "Chamber of Commerce",
+        "label": "organisation",
+        "start": 183,
+        "end": 202
+      },
+      {
+        "text": "American Legion",
+        "label": "organisation",
+        "start": 204,
+        "end": 219
+      },
+      {
+        "text": "Sons of the American Revolution",
+        "label": "organisation",
+        "start": 221,
+        "end": 252
+      },
+      {
+        "text": "Benevolent and Protective Order of Elks",
+        "label": "organisation",
+        "start": 257,
+        "end": 296
+      }
+    ]
+  },
+  {
+    "text": "In 1463, Bagrat allied himself with other oppositionist royal subjects, dukes (eristavi) of Principality of Mingrelia, Principality of Guria, Principality of Svaneti and Principality of Abkhazia.",
+    "entities": [
+      {
+        "text": "Bagrat",
+        "label": "politician",
+        "start": 9,
+        "end": 15
+      }
+    ]
+  }
+]

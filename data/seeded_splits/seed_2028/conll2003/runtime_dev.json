@@ -1,0 +1,822 @@
+[
+  {
+    "text": "Freiburg 3 1 0 2 5 10 3",
+    "entities": [
+      {
+        "text": "Freiburg",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "15. Miriam Vogt (Germany) 47",
+    "entities": [
+      {
+        "text": "Miriam Vogt",
+        "label": "PER",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 17,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "OPEC basket price $24.20 on Thursday.",
+    "entities": [
+      {
+        "text": "OPEC",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "Defence Minister Chavalit Yongchaiyudh, head of coalition member the New Aspiration Party, was the second choice for prime minister, the poll showed.",
+    "entities": [
+      {
+        "text": "Chavalit Yongchaiyudh",
+        "label": "PER",
+        "start": 17,
+        "end": 38
+      },
+      {
+        "text": "New Aspiration Party",
+        "label": "ORG",
+        "start": 69,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "Britain says death of its citizen will sour ties.",
+    "entities": [
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Lebanon sentences pro-Israeli warlord to death.",
+    "entities": [
+      {
+        "text": "Lebanon",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "The run broke Clemens ' 28-inning shutout streak, longest in the majors this season.",
+    "entities": [
+      {
+        "text": "Clemens",
+        "label": "PER",
+        "start": 14,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "Seven truckloads of armed riot police and three fire engines were on standby at one of the junctions near the institute.",
+    "entities": []
+  },
+  {
+    "text": "It was softer in the morning due to relatively ample rupiah liquidity but recovered later.",
+    "entities": []
+  },
+  {
+    "text": "The Vermonter, which runs between St. Albans, Vermont, near the Canadian border and Washington, D.C., collided with the truck at 7:51 a.m. EDT near the rural town of Roxbury some 15 miles southeast of the state capital Montpelier, Amtrak spokeswoman Maureen Garrity said.",
+    "entities": [
+      {
+        "text": "St. Albans",
+        "label": "LOC",
+        "start": 34,
+        "end": 44
+      },
+      {
+        "text": "Vermont",
+        "label": "LOC",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "Washington, D.C.",
+        "label": "LOC",
+        "start": 84,
+        "end": 100
+      },
+      {
+        "text": "Roxbury",
+        "label": "LOC",
+        "start": 166,
+        "end": 173
+      },
+      {
+        "text": "Montpelier",
+        "label": "LOC",
+        "start": 219,
+        "end": 229
+      },
+      {
+        "text": "Amtrak",
+        "label": "ORG",
+        "start": 231,
+        "end": 237
+      },
+      {
+        "text": "Maureen Garrity",
+        "label": "PER",
+        "start": 250,
+        "end": 265
+      }
+    ]
+  },
+  {
+    "text": "Two Iranian opposition leaders meet in Baghdad.",
+    "entities": [
+      {
+        "text": "Baghdad",
+        "label": "LOC",
+        "start": 39,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "In November, New York City said it became the first U.S. municipality to offer bonds for sale in European markets by competitive bidding as it listed taxable bonds on the London Stock Exchange.",
+    "entities": [
+      {
+        "text": "New York City",
+        "label": "LOC",
+        "start": 13,
+        "end": 26
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 52,
+        "end": 56
+      },
+      {
+        "text": "London Stock Exchange",
+        "label": "ORG",
+        "start": 171,
+        "end": 192
+      }
+    ]
+  },
+  {
+    "text": "He said one of Wang's apparent offences was to write a public letter in May suggesting that a free press and an independent judicial system were vital if the government really meant to stamp out rampant corruption.",
+    "entities": [
+      {
+        "text": "Wang",
+        "label": "PER",
+        "start": 15,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "Kamil Jamil didn't have a prayer.",
+    "entities": [
+      {
+        "text": "Kamil Jamil",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "INTEREST RATES Latest rate Pvs rate Date changed",
+    "entities": []
+  },
+  {
+    "text": "Mixed low-copper clips 48 to 49 cents / pound",
+    "entities": []
+  },
+  {
+    "text": "I expect the market to go as far down as 63,000 tomorrow if sales continue, \" said Burcin Mavituna from Interbank.",
+    "entities": [
+      {
+        "text": "Burcin Mavituna",
+        "label": "PER",
+        "start": 83,
+        "end": 98
+      },
+      {
+        "text": "Interbank",
+        "label": "ORG",
+        "start": 104,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "- Maronite Patriarch Sfeir expressed sorrow over the violations in Sunday ' elections.",
+    "entities": [
+      {
+        "text": "Maronite",
+        "label": "ORG",
+        "start": 2,
+        "end": 10
+      },
+      {
+        "text": "Sfeir",
+        "label": "PER",
+        "start": 21,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "5. Patrick Stevens (Belgium) 20.54",
+    "entities": [
+      {
+        "text": "Patrick Stevens",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "Belgium",
+        "label": "LOC",
+        "start": 20,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "I. Healy c Ranatunga b Muralitharan 8",
+    "entities": [
+      {
+        "text": "I. Healy",
+        "label": "PER",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Ranatunga",
+        "label": "PER",
+        "start": 11,
+        "end": 20
+      },
+      {
+        "text": "Muralitharan",
+        "label": "PER",
+        "start": 23,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "text": "That is why we know only about five percent of what whales do. \"",
+    "entities": []
+  },
+  {
+    "text": "The U.S. and Colombian governments reached an agreement that will allow AMR Corp's American Airlines to operate three round-trip flights between New York and Bogota, the Department of Transportation said Friday.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "AMR Corp",
+        "label": "ORG",
+        "start": 72,
+        "end": 80
+      },
+      {
+        "text": "American Airlines",
+        "label": "ORG",
+        "start": 83,
+        "end": 100
+      },
+      {
+        "text": "New York",
+        "label": "LOC",
+        "start": 145,
+        "end": 153
+      },
+      {
+        "text": "Bogota",
+        "label": "LOC",
+        "start": 158,
+        "end": 164
+      },
+      {
+        "text": "Department of Transportation",
+        "label": "ORG",
+        "start": 170,
+        "end": 198
+      }
+    ]
+  },
+  {
+    "text": "M. Atherton b Wasim Akram 65",
+    "entities": [
+      {
+        "text": "M. Atherton",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Wasim Akram",
+        "label": "PER",
+        "start": 14,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "The tempest beyond the test tube involves allegations that the U.S. Food and Drug Administration violated the Orphan Drug law by allowing Biogen the right to sell its multiple sclerosis drug Avonex.",
+    "entities": [
+      {
+        "text": "U.S. Food and Drug Administration",
+        "label": "ORG",
+        "start": 63,
+        "end": 96
+      },
+      {
+        "text": "Biogen",
+        "label": "ORG",
+        "start": 138,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "TAMPA BAY 8 15 2 69 81 18",
+    "entities": [
+      {
+        "text": "TAMPA BAY",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "They said 14 out of 45 passengers on the bus died instantly when the vehicle fell from the narrow road while on its way from the state capital Muzaffarabad to the nearby Pakistani town of Garhi Habibullah in the northwest.",
+    "entities": [
+      {
+        "text": "Muzaffarabad",
+        "label": "LOC",
+        "start": 143,
+        "end": 155
+      },
+      {
+        "text": "Garhi Habibullah",
+        "label": "LOC",
+        "start": 188,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "\" It is almost impossible to gain success in this, \" it quoted Rosati as saying during a committee debate.",
+    "entities": [
+      {
+        "text": "Rosati",
+        "label": "PER",
+        "start": 63,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "Playing Sunday: West Bromwich v Bolton",
+    "entities": [
+      {
+        "text": "West Bromwich",
+        "label": "ORG",
+        "start": 16,
+        "end": 29
+      },
+      {
+        "text": "Bolton",
+        "label": "ORG",
+        "start": 32,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "Quarterly",
+    "entities": []
+  },
+  {
+    "text": "It's never easy to beat the Wimbledon champion. \"",
+    "entities": []
+  },
+  {
+    "text": "Los Angeles 2 MONTREAL 1",
+    "entities": [
+      {
+        "text": "Los Angeles",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "MONTREAL",
+        "label": "ORG",
+        "start": 14,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "Kafelnikov had pulled out of last week's tournament with a rib injury.",
+    "entities": [
+      {
+        "text": "Kafelnikov",
+        "label": "PER",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "I 've been fading my driver but today whenever I set up for a fade it went straight.",
+    "entities": []
+  },
+  {
+    "text": "Sao Paulo midfielder Andre and Santos defender Narciso were both substituted during their teams ' game, taken to Sao Paulo airport and flown to Rio de Janeiro in a private jet chartered by the Brazilian Football Confederation (CBF).",
+    "entities": [
+      {
+        "text": "Sao Paulo",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Andre",
+        "label": "PER",
+        "start": 21,
+        "end": 26
+      },
+      {
+        "text": "Santos",
+        "label": "ORG",
+        "start": 31,
+        "end": 37
+      },
+      {
+        "text": "Narciso",
+        "label": "PER",
+        "start": 47,
+        "end": 54
+      },
+      {
+        "text": "Sao Paulo",
+        "label": "LOC",
+        "start": 113,
+        "end": 122
+      },
+      {
+        "text": "Rio de Janeiro",
+        "label": "LOC",
+        "start": 144,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "text": "OctNov unq 740 unq unq",
+    "entities": []
+  },
+  {
+    "text": "Comelf's six-month output rose to 4,378 tonnes of equipment from 2,684 tonnes in the equivalent period in 1995, the company report to the Bucharest stock exchange showed.",
+    "entities": [
+      {
+        "text": "Comelf",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Bucharest",
+        "label": "LOC",
+        "start": 138,
+        "end": 147
+      }
+    ]
+  },
+  {
+    "text": "AMSTERDAM 1996-08-22",
+    "entities": [
+      {
+        "text": "AMSTERDAM",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "(1-1)",
+    "entities": []
+  },
+  {
+    "text": "More drilling results are expected soon.",
+    "entities": []
+  },
+  {
+    "text": "Standard Liege 3 Molenbeek 0",
+    "entities": [
+      {
+        "text": "Standard Liege",
+        "label": "ORG",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Molenbeek",
+        "label": "ORG",
+        "start": 17,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "The tandem of reigning U.S. Amateur champions Kelli Kuehne and Tiger Woods were another shot back at 12-under 130.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 23,
+        "end": 27
+      },
+      {
+        "text": "Kelli Kuehne",
+        "label": "PER",
+        "start": 46,
+        "end": 58
+      },
+      {
+        "text": "Tiger Woods",
+        "label": "PER",
+        "start": 63,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "text": "ADDIS ABABA 1996-08-25",
+    "entities": [
+      {
+        "text": "ADDIS ABABA",
+        "label": "LOC",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "\" The search for peace in Liberia has been difficult, challenging and sometimes painful.",
+    "entities": [
+      {
+        "text": "Liberia",
+        "label": "LOC",
+        "start": 26,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "On August 15, computer software retailer Softbank said it would buy 80 percent of Kingston, the world's largest maker of memory boards, for about $1.5 billion in the latest in a series of high-profile acquisitions it has made in the United States.",
+    "entities": [
+      {
+        "text": "Softbank",
+        "label": "ORG",
+        "start": 41,
+        "end": 49
+      },
+      {
+        "text": "Kingston",
+        "label": "ORG",
+        "start": 82,
+        "end": 90
+      },
+      {
+        "text": "United States",
+        "label": "LOC",
+        "start": 233,
+        "end": 246
+      }
+    ]
+  },
+  {
+    "text": "Exeter 1 Doncaster 1",
+    "entities": [
+      {
+        "text": "Exeter",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Doncaster",
+        "label": "ORG",
+        "start": 9,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "I wanted to make this a story as accurate as possible without killing it dramatically and I think I have.",
+    "entities": []
+  },
+  {
+    "text": "Glenn Somerville",
+    "entities": [
+      {
+        "text": "Glenn Somerville",
+        "label": "PER",
+        "start": 0,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "Van Boxmeer said Poland's top five brewers, which produce about 55 percent of the country's beer, could all raise market share as some of the numerous small brewers fall to competition from the large brewers with foreign investors.",
+    "entities": [
+      {
+        "text": "Van Boxmeer",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Poland",
+        "label": "LOC",
+        "start": 17,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "South Queensland 21 4 0 17 210 460 8",
+    "entities": [
+      {
+        "text": "South Queensland",
+        "label": "ORG",
+        "start": 0,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "6. Breukink same time",
+    "entities": [
+      {
+        "text": "Breukink",
+        "label": "PER",
+        "start": 3,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "The ministry had raised 2.3 billion guilders from sales of the new bond by the close of trade on Wednesday.",
+    "entities": []
+  },
+  {
+    "text": "Boston's Mo Vaughn went 3-for-3 with a walk, stole home for one of his three runs scored and collected his 116th RBI.",
+    "entities": [
+      {
+        "text": "Boston",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Mo Vaughn",
+        "label": "PER",
+        "start": 9,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "North Sydney 21 14 2 5 560 317 30",
+    "entities": [
+      {
+        "text": "North Sydney",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "He added that he did not oppose the idea of opening a public debate over the issue.",
+    "entities": []
+  },
+  {
+    "text": "Siam Commercial wins agency bond auctions.",
+    "entities": [
+      {
+        "text": "Siam Commercial",
+        "label": "ORG",
+        "start": 0,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "Leipzig / Halle 1,806 up 45.6",
+    "entities": [
+      {
+        "text": "Leipzig",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Halle",
+        "label": "LOC",
+        "start": 10,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "The plan has raised a storm of protest from U.S. avocado growers, who are largely concentrated in California.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 44,
+        "end": 48
+      },
+      {
+        "text": "California",
+        "label": "LOC",
+        "start": 98,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "text": "Saskatchewan Wheat Pool eyes hog market.",
+    "entities": [
+      {
+        "text": "Saskatchewan Wheat Pool",
+        "label": "ORG",
+        "start": 0,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "PITTSBURGH AT WASHINGTON",
+    "entities": [
+      {
+        "text": "PITTSBURGH",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "WASHINGTON",
+        "label": "LOC",
+        "start": 14,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "Algerian security forces said on Friday three women and two children were killed and five people wounded when a home-made bomb exploded at a market in the coastal town of Bou Haroun, 65 km (40 miles) west of Algiers.",
+    "entities": [
+      {
+        "text": "Bou Haroun",
+        "label": "LOC",
+        "start": 171,
+        "end": 181
+      },
+      {
+        "text": "Algiers",
+        "label": "LOC",
+        "start": 208,
+        "end": 215
+      }
+    ]
+  }
+]

@@ -1,0 +1,937 @@
+[
+  {
+    "text": "Her account of a woman walking across it with her young daughter might almost have been a description of one of Bevan's better-known paintings of this period.",
+    "entities": [
+      {
+        "text": "Bevan",
+        "label": "person",
+        "start": 112,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "text": "He and Britten continued to correspond, but when they met again in 1942 Britten found the 22-year-old ``rather altered, I am afraid ... rather vindictive, and hard.''",
+    "entities": [
+      {
+        "text": "Britten",
+        "label": "person",
+        "start": 7,
+        "end": 14
+      },
+      {
+        "text": "Britten",
+        "label": "person",
+        "start": 72,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "text": "Phillip Glasser, Dom DeLuise and Cathy Cavadini were the only actors from the film to reprise their roles, as Fievel, Tiger and Tanya respectively.",
+    "entities": [
+      {
+        "text": "Fievel",
+        "label": "person",
+        "start": 110,
+        "end": 116
+      },
+      {
+        "text": "Tiger",
+        "label": "person",
+        "start": 118,
+        "end": 123
+      },
+      {
+        "text": "Tanya",
+        "label": "person",
+        "start": 128,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "In 2009/2010 Beefeater implemented a remodelling and retraining programme similar to the Brewers Fayre programme.",
+    "entities": [
+      {
+        "text": "Beefeater",
+        "label": "organization",
+        "start": 13,
+        "end": 22
+      },
+      {
+        "text": "Brewers Fayre",
+        "label": "organization",
+        "start": 89,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "In 1978, the Eye and Ear was the site of a pioneering operation to install the world's first multi-channel cochlear implant (Bionic Ear), developed by Graeme Clark.",
+    "entities": [
+      {
+        "text": "Graeme Clark",
+        "label": "person",
+        "start": 151,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "Christian Ferdinand Andreas Mølsted (15 October 1862 – 10 May 1930) was a Danish artist who specialized in marine painting.",
+    "entities": [
+      {
+        "text": "Ferdinand Andreas Mølsted",
+        "label": "person",
+        "start": 10,
+        "end": 35
+      },
+      {
+        "text": "Danish",
+        "label": "location",
+        "start": 74,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "Lawrence was elected Member of Parliament for Lambeth at a by-election in 1865, but lost the seat again at the following 1865 general election.",
+    "entities": [
+      {
+        "text": "Lawrence",
+        "label": "person",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Before CBeebies Land, Alton Towers did not have enough rides suitable for young children and since opening CBeebies Land now makes visiting Alton Towers exciting for younger children.",
+    "entities": [
+      {
+        "text": "CBeebies Land",
+        "label": "location",
+        "start": 7,
+        "end": 20
+      },
+      {
+        "text": "Alton Towers",
+        "label": "location",
+        "start": 22,
+        "end": 34
+      },
+      {
+        "text": "CBeebies Land",
+        "label": "location",
+        "start": 107,
+        "end": 120
+      },
+      {
+        "text": "Alton Towers",
+        "label": "location",
+        "start": 140,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "text": "Subsequent reports confirmed that the Archbishop, the most senior figure in the Anglican Church, did not wish to endorse the organisation's missionary work, which he felt was damaging to interfaith relations.",
+    "entities": []
+  },
+  {
+    "text": "There were three primary goods facilities in the Stratford area in the steam age, although the nearby Stratford Works and engine shed generated their own traffic.",
+    "entities": [
+      {
+        "text": "Stratford",
+        "label": "location",
+        "start": 49,
+        "end": 58
+      },
+      {
+        "text": "Stratford Works",
+        "label": "organization",
+        "start": 102,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "text": "Discovered in 1959, it is the largest natural gas field in Europe and the tenth-largest in the world.",
+    "entities": [
+      {
+        "text": "Europe",
+        "label": "location",
+        "start": 59,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "text": "Until 1950 the training area was run by the British armed forces and thereafter until 31 December 2005 by the Belgian military.",
+    "entities": [
+      {
+        "text": "British",
+        "label": "location",
+        "start": 44,
+        "end": 51
+      },
+      {
+        "text": "Belgian",
+        "label": "location",
+        "start": 110,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "text": "The men's individual road race at the 1956 Summer Olympics in Melbourne, Australia, was held on Friday 7 December 1956.",
+    "entities": [
+      {
+        "text": "Melbourne",
+        "label": "location",
+        "start": 62,
+        "end": 71
+      },
+      {
+        "text": "Australia",
+        "label": "location",
+        "start": 73,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "Also present were Miami Masters semifinalist Tomáš Berdych, Costa do Sauípe runner-up and 2002 Båstad champion Carlos Moyá, Gaël Monfils, Jarkko Nieminen and Robin Söderling.",
+    "entities": [
+      {
+        "text": "Costa do Sauípe",
+        "label": "location",
+        "start": 60,
+        "end": 75
+      },
+      {
+        "text": "Båstad",
+        "label": "location",
+        "start": 95,
+        "end": 101
+      }
+    ]
+  },
+  {
+    "text": "During the period between 1992 and 1994, Zīle interned at the Iowa State University in the USA, at the Brandon University in Canada, and at the La Trobe University in Australia.",
+    "entities": [
+      {
+        "text": "Zīle",
+        "label": "person",
+        "start": 41,
+        "end": 45
+      },
+      {
+        "text": "Iowa State University",
+        "label": "organization",
+        "start": 62,
+        "end": 83
+      },
+      {
+        "text": "USA",
+        "label": "location",
+        "start": 91,
+        "end": 94
+      },
+      {
+        "text": "Brandon University",
+        "label": "organization",
+        "start": 103,
+        "end": 121
+      },
+      {
+        "text": "Canada",
+        "label": "location",
+        "start": 125,
+        "end": 131
+      },
+      {
+        "text": "La Trobe University",
+        "label": "organization",
+        "start": 144,
+        "end": 163
+      },
+      {
+        "text": "Australia",
+        "label": "location",
+        "start": 167,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "Through his specialization in animation film his work has a special position in the Austrian film avant-garde.",
+    "entities": [
+      {
+        "text": "Austrian",
+        "label": "location",
+        "start": 84,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "Of about 16,500 French soldiers who fought at the Battle of Dien Bien Phu in French Indochina, more than 3,000 were killed in battle, while almost all of the 11,721 men taken prisoner died in the hands of the Viet Minh on death marches to distant POW camps, and in those camps in the last three months of the war.",
+    "entities": [
+      {
+        "text": "French",
+        "label": "location",
+        "start": 16,
+        "end": 22
+      },
+      {
+        "text": "French Indochina",
+        "label": "location",
+        "start": 77,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "text": "The barracks were built in response to the Jacobite uprising of 1745.",
+    "entities": []
+  },
+  {
+    "text": "The system is designed to defeat short- and medium-range ballistic missile, aeroballistic, and cruise missiles, fixed-wing aircraft, as well as loitering ECM platforms and precision-guided munitions.",
+    "entities": [
+      {
+        "text": "ballistic missile",
+        "label": "product",
+        "start": 57,
+        "end": 74
+      },
+      {
+        "text": "aeroballistic",
+        "label": "product",
+        "start": 76,
+        "end": 89
+      },
+      {
+        "text": "cruise missiles",
+        "label": "product",
+        "start": 95,
+        "end": 110
+      },
+      {
+        "text": "fixed-wing aircraft",
+        "label": "product",
+        "start": 112,
+        "end": 131
+      }
+    ]
+  },
+  {
+    "text": "Pteranodons make an appearance in a post-credits scene for ``Jurassic World: Fallen Kingdom ``.",
+    "entities": [
+      {
+        "text": "Jurassic World: Fallen Kingdom",
+        "label": "art",
+        "start": 61,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "Commenting on this, Lubetkin wrote to fellow Tecton member Carl Ludwig Franck ``that after the war Tecton was at best a ghost of its former self''.",
+    "entities": [
+      {
+        "text": "Lubetkin",
+        "label": "person",
+        "start": 20,
+        "end": 28
+      },
+      {
+        "text": "Carl Ludwig Franck",
+        "label": "person",
+        "start": 59,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "Prior to coming to the campus of IUPUI, ``Weather Tower'' was located near the front entrance of the Indianapolis Museum of Art at 4000 Michigan Road, Indianapolis, Indiana.",
+    "entities": [
+      {
+        "text": "IUPUI",
+        "label": "organization",
+        "start": 33,
+        "end": 38
+      },
+      {
+        "text": "Michigan Road",
+        "label": "location",
+        "start": 136,
+        "end": 149
+      },
+      {
+        "text": "Indianapolis",
+        "label": "location",
+        "start": 151,
+        "end": 163
+      },
+      {
+        "text": "Indiana",
+        "label": "location",
+        "start": 165,
+        "end": 172
+      }
+    ]
+  },
+  {
+    "text": "By about 1600 AD, Islam was established in the Tarim Basin while Dzungaria and Mongolia had adopted Tibetan Buddhism.",
+    "entities": [
+      {
+        "text": "Tarim Basin",
+        "label": "location",
+        "start": 47,
+        "end": 58
+      },
+      {
+        "text": "Dzungaria",
+        "label": "location",
+        "start": 65,
+        "end": 74
+      },
+      {
+        "text": "Mongolia",
+        "label": "location",
+        "start": 79,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "text": "In 2013, he stepped down as a non-executive director of WPP plc, the world's largest marketing and media services company, after 25 years of service.",
+    "entities": [
+      {
+        "text": "WPP plc",
+        "label": "organization",
+        "start": 56,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "These titles featured a more extensive soundtrack and utilised ethnic samples taken from among other sources the same Korg M1 synthesizer that was sampled by David Whittaker for the original game (although in this case, it was the rack-mounted version the Korg M1/R).",
+    "entities": [
+      {
+        "text": "Korg M1",
+        "label": "product",
+        "start": 118,
+        "end": 125
+      },
+      {
+        "text": "Korg M1/R",
+        "label": "product",
+        "start": 256,
+        "end": 265
+      }
+    ]
+  },
+  {
+    "text": "Szél was born in Pécs on 9 March 1977.",
+    "entities": [
+      {
+        "text": "Pécs",
+        "label": "location",
+        "start": 17,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "In late 2002, Senator Robert C. Byrd received $20 million in funds to jump-start construction on the northern half of the Tolsia Highway.",
+    "entities": [
+      {
+        "text": "Tolsia Highway",
+        "label": "location",
+        "start": 122,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "CP-1 was ready on December 2, 1942; Weil worked the final control rod, while Fermi monitored the neutron activity.",
+    "entities": [
+      {
+        "text": "Weil",
+        "label": "person",
+        "start": 36,
+        "end": 40
+      },
+      {
+        "text": "Fermi",
+        "label": "person",
+        "start": 77,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "Its trainborne part is fitted to British Rail Class 221 and Class 390s.",
+    "entities": []
+  },
+  {
+    "text": "He decided to focus on finishing his studies in UP over playing competitive basketball.",
+    "entities": [
+      {
+        "text": "UP",
+        "label": "organization",
+        "start": 48,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "Initial smelting conducted in Coopers Creek was unsuccessful and unprofitable due to lowered copper prices and the large quantity of firewood being consumed in the process.",
+    "entities": []
+  },
+  {
+    "text": "He also played non-league football for Altrincham.",
+    "entities": [
+      {
+        "text": "Altrincham",
+        "label": "organization",
+        "start": 39,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "Ernest Cook Poole (January 23, 1880 – January 10, 1950) was an American journalist, novelist, and playwright.",
+    "entities": [
+      {
+        "text": "Ernest Cook Poole",
+        "label": "person",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "American",
+        "label": "location",
+        "start": 63,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "New York State: In mid-2012, the New York State Department of Labor (DOL) selected Social Finance US as its Intermediary partner in structuring an application for federal funding for a Social Impact Bond.",
+    "entities": [
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Social Impact Bond",
+        "label": "organization",
+        "start": 185,
+        "end": 203
+      }
+    ]
+  },
+  {
+    "text": "Lori Abou Habib, Sonic's Chief Marketing Officer, said that the commercials are ``a huge part of our voice, and they ’ ll be part of our brand going forward.''",
+    "entities": [
+      {
+        "text": "Sonic",
+        "label": "organization",
+        "start": 17,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "It premiered at the Smock Alley Theatre in Dublin.",
+    "entities": [
+      {
+        "text": "Dublin",
+        "label": "location",
+        "start": 43,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "Before 1318, Ilija was in the possession of a branch of the Csáky family from Plášťovce.",
+    "entities": [
+      {
+        "text": "Plášťovce",
+        "label": "location",
+        "start": 78,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "text": "His wife died in 1861 and is buried in Kaitangata cemetery.",
+    "entities": []
+  },
+  {
+    "text": "For defence against enemy aircraft, on top of the cabin were two aircraft-style turrets made by Armstrong-Whitworth initially with a single .303 in Vickers K gun or Lewis gun (this was later improved – see Variants below).",
+    "entities": [
+      {
+        "text": "Armstrong-Whitworth",
+        "label": "organization",
+        "start": 96,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "text": "In mid 2013, Vanilla Ice joined the New Kids on the Block tour alongside Boyz II Men.",
+    "entities": [
+      {
+        "text": "New Kids",
+        "label": "organization",
+        "start": 36,
+        "end": 44
+      },
+      {
+        "text": "Boyz II Men",
+        "label": "organization",
+        "start": 73,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "text": "Ethan Allen Brown (July 4, 1776February 24, 1852) was a Democratic-Republican politician.",
+    "entities": [
+      {
+        "text": "Ethan Allen Brown",
+        "label": "person",
+        "start": 0,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "John immediately asserted his ambition by promising to bring First Division football to Watford.",
+    "entities": [
+      {
+        "text": "Watford",
+        "label": "location",
+        "start": 88,
+        "end": 95
+      }
+    ]
+  },
+  {
+    "text": "Tuff-E-Nuff, originally known as Thomas Cunningham Sr., was a late 19th-century tugboat which has had a remarkable 112-year commercial career.",
+    "entities": [
+      {
+        "text": "Tuff-E-Nuff",
+        "label": "product",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Thomas Cunningham Sr.",
+        "label": "product",
+        "start": 33,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "However, most of the Act of 1662 was repealed as part of the process of the removal of religious discrimination in the 19th century and the revision of statute law in the 20th.",
+    "entities": []
+  },
+  {
+    "text": "After the olympics in 1972 he played professional for Atletico de Madrid until 1975.",
+    "entities": [
+      {
+        "text": "Atletico de Madrid",
+        "label": "organization",
+        "start": 54,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "text": "According to the ``Finding aid for Blodgett Family papers, 1872–1953'' abstract at Bentley Historical Library within the University of Michigan Digital Library, the family archive contains:",
+    "entities": [
+      {
+        "text": "Blodgett",
+        "label": "person",
+        "start": 35,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "The Fabulous Chi-Ali is the only studio album by American rapper and the Native Tongues member Chi-Ali.",
+    "entities": [
+      {
+        "text": "Chi-Ali",
+        "label": "person",
+        "start": 95,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "He was charged with exchanging coca for weapons and supplies and with smuggling 1,000 kg of coca into the US since 2002.",
+    "entities": [
+      {
+        "text": "US",
+        "label": "location",
+        "start": 106,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "text": "He then worked as a medical officer for the Uganda Ministry of Health, stationed at Butabika Hospital in Kampala, from 1972 until 1973.",
+    "entities": [
+      {
+        "text": "Kampala",
+        "label": "location",
+        "start": 105,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "text": "Members of the Big West Conference, the Vandals were led by fourth-year head coach David Farrar and played their home games on campus at the Kibbie Dome in Moscow, Idaho.",
+    "entities": [
+      {
+        "text": "Big West Conference",
+        "label": "organization",
+        "start": 15,
+        "end": 34
+      },
+      {
+        "text": "Vandals",
+        "label": "organization",
+        "start": 40,
+        "end": 47
+      },
+      {
+        "text": "Moscow",
+        "label": "location",
+        "start": 156,
+        "end": 162
+      },
+      {
+        "text": "Idaho",
+        "label": "location",
+        "start": 164,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "The simultaneous Battle of Artemisium was up to that point a stalemate; however, when news of Thermopylae reached them, the Allied fleet also retreated, since holding the straits of Artemisium was now a moot point.",
+    "entities": [
+      {
+        "text": "Allied fleet",
+        "label": "organization",
+        "start": 124,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "U.S. Highway 6 ends it concurrency with U.S. Highway 50 and Interstate 70 Business with a free flowing, grade separated interchange at North Avenue.",
+    "entities": [
+      {
+        "text": "U.S. Highway 50",
+        "label": "location",
+        "start": 40,
+        "end": 55
+      },
+      {
+        "text": "Interstate 70 Business",
+        "label": "location",
+        "start": 60,
+        "end": 82
+      },
+      {
+        "text": "North Avenue",
+        "label": "location",
+        "start": 135,
+        "end": 147
+      }
+    ]
+  },
+  {
+    "text": "Rebus or Appointment in Beirut is a 1969 crime film directed by Nino Zanchin and starring Laurence Harvey and Ann-Margret.",
+    "entities": [
+      {
+        "text": "Rebus or Appointment in Beirut",
+        "label": "art",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "Nino Zanchin",
+        "label": "person",
+        "start": 64,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "text": "Inga Shaba was the longest HVDC transmission line in service until 2010, when it was overtaken by the 2071 km, ±800 kV, 6400 MW HVDC link from Xiangjiaba Dam to Shanghai in China.",
+    "entities": [
+      {
+        "text": "Xiangjiaba Dam",
+        "label": "location",
+        "start": 143,
+        "end": 157
+      },
+      {
+        "text": "Shanghai",
+        "label": "location",
+        "start": 161,
+        "end": 169
+      },
+      {
+        "text": "China",
+        "label": "location",
+        "start": 173,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "He also worked as a guest artist at numerous opera houses and opera festivals while based in Rome.",
+    "entities": [
+      {
+        "text": "Rome",
+        "label": "location",
+        "start": 93,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "Elena Jahn (May 3, 1938 in Moscow, Idaho — November 26, 2014 in Brunswick, Maine) was an artist noted for both figurative paintings and landscapes and for her connection to Monhegan Island, Maine.",
+    "entities": [
+      {
+        "text": "Elena Jahn",
+        "label": "person",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Moscow",
+        "label": "location",
+        "start": 27,
+        "end": 33
+      },
+      {
+        "text": "Idaho",
+        "label": "location",
+        "start": 35,
+        "end": 40
+      },
+      {
+        "text": "Brunswick",
+        "label": "location",
+        "start": 64,
+        "end": 73
+      },
+      {
+        "text": "Maine",
+        "label": "location",
+        "start": 75,
+        "end": 80
+      },
+      {
+        "text": "Monhegan Island",
+        "label": "location",
+        "start": 173,
+        "end": 188
+      },
+      {
+        "text": "Maine",
+        "label": "location",
+        "start": 190,
+        "end": 195
+      }
+    ]
+  },
+  {
+    "text": "After the bout, Díaz acknowledged Pacquiao's superior hand speed, stating ``It was his speed.",
+    "entities": [
+      {
+        "text": "Díaz",
+        "label": "person",
+        "start": 16,
+        "end": 20
+      },
+      {
+        "text": "Pacquiao",
+        "label": "person",
+        "start": 34,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "text": "Daniel Cudmore portrays Piotr Rasputin / Colossus in the last two films, while Elliot Page and Kelsey Grammer star as Kitty Pride and Hank McCoy / Beast, respectively, in the latter.",
+    "entities": [
+      {
+        "text": "Piotr Rasputin",
+        "label": "person",
+        "start": 24,
+        "end": 38
+      },
+      {
+        "text": "Colossus",
+        "label": "person",
+        "start": 41,
+        "end": 49
+      },
+      {
+        "text": "Kitty Pride",
+        "label": "person",
+        "start": 118,
+        "end": 129
+      },
+      {
+        "text": "Hank McCoy",
+        "label": "person",
+        "start": 134,
+        "end": 144
+      },
+      {
+        "text": "Beast",
+        "label": "person",
+        "start": 147,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "text": "Some of the laws, crimes, and punishments pertinent to Cuba were enumerated in an 1879 translation of an 1870s document, issued by Spain.",
+    "entities": [
+      {
+        "text": "Cuba",
+        "label": "location",
+        "start": 55,
+        "end": 59
+      },
+      {
+        "text": "Spain",
+        "label": "location",
+        "start": 131,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "Drawn by the Medical Center's growing influence, the Veterans Administration Hospital expanded while the Shriners Hospital for Crippled Children was constructed.",
+    "entities": []
+  }
+]

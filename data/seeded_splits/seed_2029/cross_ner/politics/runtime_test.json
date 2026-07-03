@@ -1,0 +1,1980 @@
+[
+  {
+    "text": "Sponsoring organizations included NARAL Pro-Choice America, Choice USA, the Feminist Majority Foundation, Planned Parenthood, the American Civil Liberties Union, the National Association for the Advancement of Colored People, the National Organization for Women, Code Pink, and Black Women's Health Imperative.",
+    "entities": [
+      {
+        "text": "NARAL Pro-Choice America",
+        "label": "organisation",
+        "start": 34,
+        "end": 58
+      },
+      {
+        "text": "Choice USA",
+        "label": "organisation",
+        "start": 60,
+        "end": 70
+      },
+      {
+        "text": "Feminist Majority Foundation",
+        "label": "organisation",
+        "start": 76,
+        "end": 104
+      },
+      {
+        "text": "Planned Parenthood",
+        "label": "organisation",
+        "start": 106,
+        "end": 124
+      },
+      {
+        "text": "American Civil Liberties Union",
+        "label": "organisation",
+        "start": 130,
+        "end": 160
+      },
+      {
+        "text": "National Association for the Advancement of Colored People",
+        "label": "organisation",
+        "start": 166,
+        "end": 224
+      },
+      {
+        "text": "National Organization for Women",
+        "label": "organisation",
+        "start": 230,
+        "end": 261
+      },
+      {
+        "text": "Code Pink",
+        "label": "organisation",
+        "start": 263,
+        "end": 272
+      },
+      {
+        "text": "Black Women's Health Imperative",
+        "label": "organisation",
+        "start": 278,
+        "end": 309
+      }
+    ]
+  },
+  {
+    "text": "The last elections held in these communities were in 2018 Andalusian regional election in December 2018; 2016 Basque regional election and 2016 Galician regional election in September 2016; 2017 Catalan regional election in December 2017; and 2019 Valencian regional election in April 2019 (for the first time separated from the rest of regional elections, although at the same date that the snap General Election for that year)",
+    "entities": [
+      {
+        "text": "2018 Andalusian regional election",
+        "label": "election",
+        "start": 53,
+        "end": 86
+      },
+      {
+        "text": "2016 Basque regional election",
+        "label": "election",
+        "start": 105,
+        "end": 134
+      },
+      {
+        "text": "2016 Galician regional election",
+        "label": "election",
+        "start": 139,
+        "end": 170
+      },
+      {
+        "text": "2017 Catalan regional election",
+        "label": "election",
+        "start": 190,
+        "end": 220
+      },
+      {
+        "text": "2019 Valencian regional election",
+        "label": "election",
+        "start": 243,
+        "end": 275
+      }
+    ]
+  },
+  {
+    "text": "East of Porus ' kingdom, near the Ganges River, was the Nanda Empire of Magadha, and further east, the Gangaridai of Bengal region of the Indian subcontinent.",
+    "entities": [
+      {
+        "text": "Ganges River",
+        "label": "location",
+        "start": 34,
+        "end": 46
+      },
+      {
+        "text": "Indian subcontinent",
+        "label": "location",
+        "start": 138,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "text": "In the run up to and the 2015 Canadian federal election itself, Justin Trudeau, Leader of the Liberal Party of Canada and the son of Canadian Prime Minister, Pierre Trudeau, was subjected to a sustained negative ad campaign by the Conservative Party of Canada.",
+    "entities": [
+      {
+        "text": "2015 Canadian federal election",
+        "label": "election",
+        "start": 25,
+        "end": 55
+      },
+      {
+        "text": "Justin Trudeau",
+        "label": "politician",
+        "start": 64,
+        "end": 78
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 94,
+        "end": 117
+      },
+      {
+        "text": "Pierre Trudeau",
+        "label": "politician",
+        "start": 158,
+        "end": 172
+      },
+      {
+        "text": "Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 231,
+        "end": 259
+      }
+    ]
+  },
+  {
+    "text": "Other talents include Omar Chaparro, who previously collaborated with Huevocartoon for Un gallo con muchos huevos, Eduardo Manzano, and ufologist Jaime Maussan, among others.",
+    "entities": []
+  },
+  {
+    "text": "A new Republican Party President was only elected later in the following decade of the early 1950s with the losses by two-time nominee, the Governor of Illinois Adlai Stevenson II (grandson of the Adlai Stevenson I of the 1892 United States presidential election) to the very popular war hero and commanding general in World War II, General Dwight D. Eisenhower (in 1952 United States presidential election and 1956 United States presidential election).",
+    "entities": [
+      {
+        "text": "Republican Party",
+        "label": "politicalparty",
+        "start": 6,
+        "end": 22
+      },
+      {
+        "text": "Illinois",
+        "label": "location",
+        "start": 152,
+        "end": 160
+      },
+      {
+        "text": "Adlai Stevenson II",
+        "label": "politician",
+        "start": 161,
+        "end": 179
+      },
+      {
+        "text": "Adlai Stevenson I",
+        "label": "politician",
+        "start": 197,
+        "end": 214
+      },
+      {
+        "text": "1892 United States presidential election",
+        "label": "election",
+        "start": 222,
+        "end": 262
+      },
+      {
+        "text": "Dwight D. Eisenhower",
+        "label": "politician",
+        "start": 341,
+        "end": 361
+      },
+      {
+        "text": "1952 United States presidential election",
+        "label": "election",
+        "start": 366,
+        "end": 406
+      },
+      {
+        "text": "1956 United States presidential election",
+        "label": "election",
+        "start": 411,
+        "end": 451
+      }
+    ]
+  },
+  {
+    "text": "This election was the first that the New Democratic Party contested as a provincial party on PEI, and the first third party to run candidates since the Co-operative Commonwealth Federation, the NDP's predecessor, contested their last election in 1951 Prince Edward Island general election.",
+    "entities": [
+      {
+        "text": "New Democratic Party",
+        "label": "politicalparty",
+        "start": 37,
+        "end": 57
+      },
+      {
+        "text": "PEI",
+        "label": "location",
+        "start": 93,
+        "end": 96
+      },
+      {
+        "text": "Co-operative Commonwealth Federation",
+        "label": "politicalparty",
+        "start": 152,
+        "end": 188
+      },
+      {
+        "text": "NDP",
+        "label": "politicalparty",
+        "start": 194,
+        "end": 197
+      },
+      {
+        "text": "1951 Prince Edward Island general election",
+        "label": "election",
+        "start": 246,
+        "end": 288
+      }
+    ]
+  },
+  {
+    "text": "Ford worked as a managing editor and editorial writer from 1872 to 1905, at six different newspapers in three cities Baltimore, New York City, and Pittsburgh.",
+    "entities": [
+      {
+        "text": "Baltimore",
+        "label": "location",
+        "start": 117,
+        "end": 126
+      },
+      {
+        "text": "New York City",
+        "label": "location",
+        "start": 128,
+        "end": 141
+      },
+      {
+        "text": "Pittsburgh",
+        "label": "location",
+        "start": 147,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "text": "Other fellowships included the Guggenheim 1988-1989; the Woodrow Wilson International Center for Scholars 1977 and 1979; Fulbright 1964-1965 and 1977; SSRC-ACLS 1966-1968; Ford Foundation, 1970; German Marshall Fund, 1979; Social Science Research Council, 1982; SSRC-Foreign Policy Studies, 1988-1989 and was made a Harold Lasswell by the American Academy of Political and Social Science.",
+    "entities": [
+      {
+        "text": "Guggenheim",
+        "label": "organisation",
+        "start": 31,
+        "end": 41
+      },
+      {
+        "text": "Woodrow Wilson International Center for Scholars",
+        "label": "organisation",
+        "start": 57,
+        "end": 105
+      },
+      {
+        "text": "Fulbright",
+        "label": "organisation",
+        "start": 121,
+        "end": 130
+      },
+      {
+        "text": "SSRC-ACLS",
+        "label": "organisation",
+        "start": 151,
+        "end": 160
+      },
+      {
+        "text": "Ford Foundation",
+        "label": "organisation",
+        "start": 172,
+        "end": 187
+      },
+      {
+        "text": "German Marshall Fund",
+        "label": "organisation",
+        "start": 195,
+        "end": 215
+      },
+      {
+        "text": "Social Science Research Council",
+        "label": "organisation",
+        "start": 223,
+        "end": 254
+      },
+      {
+        "text": "SSRC-Foreign Policy Studies",
+        "label": "organisation",
+        "start": 262,
+        "end": 289
+      },
+      {
+        "text": "American Academy of Political and Social Science",
+        "label": "organisation",
+        "start": 339,
+        "end": 387
+      }
+    ]
+  },
+  {
+    "text": "At its founding congress, the NPSI decided to enter the centre-right House of Freedoms (CdL) coalition led by Silvio Berlusconi (a former friend of Bettino Craxi) as the centre-left was considered too compromised with the Mani pulite investigation, upon which the old Italian Socialist Party was disbanded while the ex Democratic Party of the Left were not touched.",
+    "entities": [
+      {
+        "text": "NPSI",
+        "label": "organisation",
+        "start": 30,
+        "end": 34
+      },
+      {
+        "text": "House of Freedoms",
+        "label": "politicalparty",
+        "start": 69,
+        "end": 86
+      },
+      {
+        "text": "CdL",
+        "label": "politicalparty",
+        "start": 88,
+        "end": 91
+      },
+      {
+        "text": "Silvio Berlusconi",
+        "label": "politician",
+        "start": 110,
+        "end": 127
+      },
+      {
+        "text": "Bettino Craxi",
+        "label": "politician",
+        "start": 148,
+        "end": 161
+      },
+      {
+        "text": "Mani pulite",
+        "label": "organisation",
+        "start": 222,
+        "end": 233
+      },
+      {
+        "text": "Italian Socialist Party",
+        "label": "politicalparty",
+        "start": 268,
+        "end": 291
+      },
+      {
+        "text": "Democratic Party of the Left",
+        "label": "politicalparty",
+        "start": 319,
+        "end": 347
+      }
+    ]
+  },
+  {
+    "text": "Following the appointment of the Second Morrison Ministry in May 2019, Scott Morrison announced David Littleproud ' s previous ministerial positions were separated, with Bridget McKenzie as Minister for Agriculture and Littleproud as Minister for Water Resources.",
+    "entities": [
+      {
+        "text": "Second Morrison Ministry",
+        "label": "organisation",
+        "start": 33,
+        "end": 57
+      },
+      {
+        "text": "Scott Morrison",
+        "label": "politician",
+        "start": 71,
+        "end": 85
+      },
+      {
+        "text": "David Littleproud",
+        "label": "politician",
+        "start": 96,
+        "end": 113
+      },
+      {
+        "text": "Bridget McKenzie",
+        "label": "politician",
+        "start": 170,
+        "end": 186
+      },
+      {
+        "text": "Agriculture",
+        "label": "politician",
+        "start": 203,
+        "end": 214
+      },
+      {
+        "text": "Littleproud",
+        "label": "politician",
+        "start": 219,
+        "end": 230
+      }
+    ]
+  },
+  {
+    "text": "The Unionist Party (, UP) was a pre-apartheid South African political party, which contested elections to the Union of South Africa parliament from the 1910 South African general election until its merger into the South African Party just before the 1921 South African general election.",
+    "entities": [
+      {
+        "text": "Unionist Party",
+        "label": "politicalparty",
+        "start": 4,
+        "end": 18
+      },
+      {
+        "text": "UP",
+        "label": "politicalparty",
+        "start": 22,
+        "end": 24
+      },
+      {
+        "text": "1910 South African general election",
+        "label": "election",
+        "start": 152,
+        "end": 187
+      },
+      {
+        "text": "South African Party",
+        "label": "politicalparty",
+        "start": 214,
+        "end": 233
+      },
+      {
+        "text": "1921 South African general election",
+        "label": "election",
+        "start": 250,
+        "end": 285
+      }
+    ]
+  },
+  {
+    "text": "Carstairs led the Liberal Party to a dramatic resurgence in the 1988 Manitoba general election, which saw the election of a Progressive Conservative Party of Manitoba minority government under Gary Filmon and the reduction of the New Democratic Party of Manitoba from government to third party status.",
+    "entities": [
+      {
+        "text": "Carstairs",
+        "label": "politician",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Liberal Party",
+        "label": "politicalparty",
+        "start": 18,
+        "end": 31
+      },
+      {
+        "text": "1988 Manitoba general election",
+        "label": "election",
+        "start": 64,
+        "end": 94
+      },
+      {
+        "text": "Progressive Conservative Party of Manitoba",
+        "label": "politicalparty",
+        "start": 124,
+        "end": 166
+      },
+      {
+        "text": "Gary Filmon",
+        "label": "politician",
+        "start": 193,
+        "end": 204
+      },
+      {
+        "text": "New Democratic Party of Manitoba",
+        "label": "politicalparty",
+        "start": 230,
+        "end": 262
+      }
+    ]
+  },
+  {
+    "text": "The Harrisons are among four families to have two presidents in their number with the same surname; the others are the Adams political family, Roosevelt family, and Bush family families.",
+    "entities": [
+      {
+        "text": "Adams political family",
+        "label": "organisation",
+        "start": 119,
+        "end": 141
+      },
+      {
+        "text": "Roosevelt family",
+        "label": "organisation",
+        "start": 143,
+        "end": 159
+      },
+      {
+        "text": "Bush family",
+        "label": "organisation",
+        "start": 165,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "The Front Runner is a 2018 American political drama film directed by Jason Reitman, based on the 2014 book All the Truth Is Out: The Week Politics Went Tabloid by Matt Bai, who co-wrote the screenplay with Reitman and Jay Carson.",
+    "entities": []
+  },
+  {
+    "text": "After the assassination of Perdiccas in 321 BC, Macedonian unity collapsed, and 40 years of war between The Successors (Diadochi) ensued before the Hellenistic world settled into four stable power blocs: Ptolemaic Kingdom Egypt, Seleucid Empire Mesopotamia and Central Asia, Attalid dynasty Anatolia, and Antigonid dynasty Macedon.",
+    "entities": [
+      {
+        "text": "Mesopotamia",
+        "label": "location",
+        "start": 245,
+        "end": 256
+      },
+      {
+        "text": "Central Asia",
+        "label": "location",
+        "start": 261,
+        "end": 273
+      },
+      {
+        "text": "Anatolia",
+        "label": "location",
+        "start": 291,
+        "end": 299
+      }
+    ]
+  },
+  {
+    "text": "After the April 2009 Moldovan parliamentary election, the 2009 Moldova civil unrest, the July 2009 Moldovan parliamentary election and the creation of the governing Alliance for European Integration, a new wave of speculations about the union followed.",
+    "entities": [
+      {
+        "text": "April 2009 Moldovan parliamentary election",
+        "label": "election",
+        "start": 10,
+        "end": 52
+      },
+      {
+        "text": "July 2009 Moldovan parliamentary election",
+        "label": "election",
+        "start": 89,
+        "end": 130
+      },
+      {
+        "text": "Alliance for European Integration",
+        "label": "organisation",
+        "start": 165,
+        "end": 198
+      }
+    ]
+  },
+  {
+    "text": "Lugar was reelected in 1982 United States Senate election in Indiana, 1988 United States Senate election in Indiana, 1994 United States Senate election in Indiana, 2000 United States Senate election in Indiana, and 2006 United States Senate election in Indiana.",
+    "entities": [
+      {
+        "text": "Lugar",
+        "label": "politician",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "1982 United States Senate election in Indiana",
+        "label": "election",
+        "start": 23,
+        "end": 68
+      },
+      {
+        "text": "1988 United States Senate election in Indiana",
+        "label": "election",
+        "start": 70,
+        "end": 115
+      },
+      {
+        "text": "1994 United States Senate election in Indiana",
+        "label": "election",
+        "start": 117,
+        "end": 162
+      },
+      {
+        "text": "2000 United States Senate election in Indiana",
+        "label": "election",
+        "start": 164,
+        "end": 209
+      },
+      {
+        "text": "2006 United States Senate election in Indiana",
+        "label": "election",
+        "start": 215,
+        "end": 260
+      }
+    ]
+  },
+  {
+    "text": "Human Rights organizations such as Amnesty International, Human Rights Watch and Freedom House condemn both the Saudi criminal justice system and its severe punishments.",
+    "entities": [
+      {
+        "text": "Amnesty International",
+        "label": "organisation",
+        "start": 35,
+        "end": 56
+      },
+      {
+        "text": "Human Rights Watch",
+        "label": "organisation",
+        "start": 58,
+        "end": 76
+      },
+      {
+        "text": "Freedom House",
+        "label": "organisation",
+        "start": 81,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "text": "The Kingdom of Hungary and the First Austrian Republic were treated as its successors de jure, whereas the independence of the West Slavs and South Slavs of the Empire as the First Czechoslovak Republic, the Second Polish Republic and the Kingdom of Yugoslavia, respectively, and most of the territorial demands of the Kingdom of Romania were also recognized by the victorious powers in 1920.",
+    "entities": []
+  },
+  {
+    "text": "In 1927, protests on their behalf were held in every major city in North America and Europe, as well as in Tokyo, Sydney, Melbourne, São Paulo, Rio de Janeiro, Buenos Aires, Dubai, Montevideo, Johannesburg.",
+    "entities": [
+      {
+        "text": "North America",
+        "label": "location",
+        "start": 67,
+        "end": 80
+      },
+      {
+        "text": "Europe",
+        "label": "location",
+        "start": 85,
+        "end": 91
+      },
+      {
+        "text": "Tokyo",
+        "label": "location",
+        "start": 107,
+        "end": 112
+      },
+      {
+        "text": "Sydney",
+        "label": "location",
+        "start": 114,
+        "end": 120
+      },
+      {
+        "text": "Melbourne",
+        "label": "location",
+        "start": 122,
+        "end": 131
+      },
+      {
+        "text": "São Paulo",
+        "label": "location",
+        "start": 133,
+        "end": 142
+      },
+      {
+        "text": "Rio de Janeiro",
+        "label": "location",
+        "start": 144,
+        "end": 158
+      },
+      {
+        "text": "Buenos Aires",
+        "label": "location",
+        "start": 160,
+        "end": 172
+      },
+      {
+        "text": "Dubai",
+        "label": "location",
+        "start": 174,
+        "end": 179
+      },
+      {
+        "text": "Montevideo",
+        "label": "location",
+        "start": 181,
+        "end": 191
+      },
+      {
+        "text": "Johannesburg",
+        "label": "location",
+        "start": 193,
+        "end": 205
+      }
+    ]
+  },
+  {
+    "text": "In 1999 New Zealand general election when Jeanette Fitzsimons contested the (usually New Zealand National Party) seat of Coromandel for the Green Party of Aotearoa New Zealand, it seemed that the Greens ' chances of entering parliament were dependent on Fitzsimons ' performance in Coromandel; in order to receive proportional representation, the party needed to either gain five percent of the national vote or win an electorate seat, and it appeared that the former option was unlikely.",
+    "entities": [
+      {
+        "text": "1999 New Zealand general election",
+        "label": "election",
+        "start": 3,
+        "end": 36
+      },
+      {
+        "text": "Jeanette Fitzsimons",
+        "label": "politician",
+        "start": 42,
+        "end": 61
+      },
+      {
+        "text": "New Zealand National Party",
+        "label": "politicalparty",
+        "start": 85,
+        "end": 111
+      },
+      {
+        "text": "Coromandel",
+        "label": "location",
+        "start": 121,
+        "end": 131
+      },
+      {
+        "text": "Green Party of Aotearoa New Zealand",
+        "label": "politicalparty",
+        "start": 140,
+        "end": 175
+      },
+      {
+        "text": "Greens",
+        "label": "politicalparty",
+        "start": 196,
+        "end": 202
+      },
+      {
+        "text": "Fitzsimons",
+        "label": "politician",
+        "start": 254,
+        "end": 264
+      },
+      {
+        "text": "Coromandel",
+        "label": "location",
+        "start": 282,
+        "end": 292
+      }
+    ]
+  },
+  {
+    "text": "Facebook, Inc banned Nehlen and other extremist figures, including Alex Jones, Louis Farrakhan, and Milo Yiannopoulos, Laura Loomer, Paul Joseph Watson from the company's platforms, including Facebook and Instagram.",
+    "entities": [
+      {
+        "text": "Facebook",
+        "label": "organisation",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Facebook",
+        "label": "organisation",
+        "start": 192,
+        "end": 200
+      },
+      {
+        "text": "Instagram",
+        "label": "organisation",
+        "start": 205,
+        "end": 214
+      }
+    ]
+  },
+  {
+    "text": "A February 1974 United Kingdom general election at the end of February was a triumph for the United Ulster Unionist Coalition, in which the bulk of his old party stood as Official Unionists with William Craig's Vanguard Unionist Progressive Party and Paisley's new Democratic Unionist Party.",
+    "entities": [
+      {
+        "text": "February 1974 United Kingdom general election",
+        "label": "election",
+        "start": 2,
+        "end": 47
+      },
+      {
+        "text": "United Ulster Unionist Coalition",
+        "label": "politicalparty",
+        "start": 93,
+        "end": 125
+      },
+      {
+        "text": "William Craig",
+        "label": "politician",
+        "start": 195,
+        "end": 208
+      },
+      {
+        "text": "Vanguard Unionist Progressive Party",
+        "label": "politicalparty",
+        "start": 211,
+        "end": 246
+      },
+      {
+        "text": "Paisley",
+        "label": "politician",
+        "start": 251,
+        "end": 258
+      },
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 265,
+        "end": 290
+      }
+    ]
+  },
+  {
+    "text": "He contested Cardiff North in October 1974 United Kingdom general election and 1979 United Kingdom general election for the Liberals, before fighting Cardiff Central in 1983 United Kingdom general election and 1987 United Kingdom general election for the SDP-Liberal Alliance, but was unsuccessful on each occasion.",
+    "entities": [
+      {
+        "text": "Cardiff North",
+        "label": "politician",
+        "start": 13,
+        "end": 26
+      },
+      {
+        "text": "October 1974 United Kingdom general election",
+        "label": "election",
+        "start": 30,
+        "end": 74
+      },
+      {
+        "text": "1979 United Kingdom general election",
+        "label": "election",
+        "start": 79,
+        "end": 115
+      },
+      {
+        "text": "Liberals",
+        "label": "politicalparty",
+        "start": 124,
+        "end": 132
+      },
+      {
+        "text": "Cardiff Central",
+        "label": "politician",
+        "start": 150,
+        "end": 165
+      },
+      {
+        "text": "1983 United Kingdom general election",
+        "label": "election",
+        "start": 169,
+        "end": 205
+      },
+      {
+        "text": "1987 United Kingdom general election",
+        "label": "election",
+        "start": 210,
+        "end": 246
+      },
+      {
+        "text": "SDP-Liberal Alliance",
+        "label": "politicalparty",
+        "start": 255,
+        "end": 275
+      }
+    ]
+  },
+  {
+    "text": "ALP = Australian Labor Party, L + NP = grouping of Liberal Party of Australia / National Party of Australia / Liberal National Party of Queensland / Country Liberal Party Coalition parties (and predecessors), Oth = other parties and independents.",
+    "entities": [
+      {
+        "text": "ALP",
+        "label": "politicalparty",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Australian Labor Party",
+        "label": "politicalparty",
+        "start": 6,
+        "end": 28
+      },
+      {
+        "text": "Liberal Party of Australia",
+        "label": "politicalparty",
+        "start": 51,
+        "end": 77
+      },
+      {
+        "text": "National Party of Australia",
+        "label": "politicalparty",
+        "start": 80,
+        "end": 107
+      },
+      {
+        "text": "Liberal National Party of Queensland",
+        "label": "politicalparty",
+        "start": 110,
+        "end": 146
+      },
+      {
+        "text": "Country Liberal Party",
+        "label": "politicalparty",
+        "start": 149,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "The official presentation was made while the Allies of World War II wartime leaders were meeting in the Soviet embassy at the November 1943 Tehran Conference, where the final plans for Operation Overlord were being settled.",
+    "entities": [
+      {
+        "text": "Soviet embassy",
+        "label": "location",
+        "start": 104,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "Allies of the ACLU in legal actions have included the National Association for the Advancement of Colored People, the American Jewish Congress, People For the American Way, the National Rifle Association, the Electronic Frontier Foundation, Americans United for Separation of Church and State, and the National Organization for Women.",
+    "entities": [
+      {
+        "text": "ACLU",
+        "label": "organisation",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "National Association for the Advancement of Colored People",
+        "label": "organisation",
+        "start": 54,
+        "end": 112
+      },
+      {
+        "text": "American Jewish Congress",
+        "label": "organisation",
+        "start": 118,
+        "end": 142
+      },
+      {
+        "text": "People For the American Way",
+        "label": "organisation",
+        "start": 144,
+        "end": 171
+      },
+      {
+        "text": "National Rifle Association",
+        "label": "organisation",
+        "start": 177,
+        "end": 203
+      },
+      {
+        "text": "Electronic Frontier Foundation",
+        "label": "organisation",
+        "start": 209,
+        "end": 239
+      },
+      {
+        "text": "Americans United for Separation of Church and State",
+        "label": "organisation",
+        "start": 241,
+        "end": 292
+      },
+      {
+        "text": "National Organization for Women",
+        "label": "organisation",
+        "start": 302,
+        "end": 333
+      }
+    ]
+  },
+  {
+    "text": "Previously, Orchard was a member of the now defunct Progressive Conservative Party of Canada (PC Party), and opposed the party's merger with the Canadian Alliance to form the Conservative Party of Canada.",
+    "entities": [
+      {
+        "text": "Orchard",
+        "label": "politician",
+        "start": 12,
+        "end": 19
+      },
+      {
+        "text": "Progressive Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 52,
+        "end": 92
+      },
+      {
+        "text": "PC Party",
+        "label": "politicalparty",
+        "start": 94,
+        "end": 102
+      },
+      {
+        "text": "Canadian Alliance",
+        "label": "politicalparty",
+        "start": 145,
+        "end": 162
+      },
+      {
+        "text": "Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 175,
+        "end": 203
+      }
+    ]
+  },
+  {
+    "text": "The party won two additional seats in the 1985 Belgian general election, two additional seats in 1987 Belgian general election and one in 1991 Belgian general election: in that year it won seven seats in parliament.",
+    "entities": [
+      {
+        "text": "1985 Belgian general election",
+        "label": "election",
+        "start": 42,
+        "end": 71
+      },
+      {
+        "text": "1987 Belgian general election",
+        "label": "election",
+        "start": 97,
+        "end": 126
+      },
+      {
+        "text": "1991 Belgian general election",
+        "label": "election",
+        "start": 138,
+        "end": 167
+      }
+    ]
+  },
+  {
+    "text": "The left-wing Fatherland for All (Spanish: Patria Para Todos or PPT), Movement for Socialism (Spanish: Movimiento al Socialismo or MAS), Radical Cause (Spanish: Causa R) and For Social Democracy (Spanish: Por la Democracia Social) initially supported Chavismo, but they have since distanced themselves from it and now oppose it.",
+    "entities": [
+      {
+        "text": "Fatherland for All",
+        "label": "politicalparty",
+        "start": 14,
+        "end": 32
+      },
+      {
+        "text": "Patria Para Todos",
+        "label": "politicalparty",
+        "start": 43,
+        "end": 60
+      },
+      {
+        "text": "PPT",
+        "label": "politicalparty",
+        "start": 64,
+        "end": 67
+      },
+      {
+        "text": "Movement for Socialism",
+        "label": "politicalparty",
+        "start": 70,
+        "end": 92
+      },
+      {
+        "text": "Movimiento al Socialismo",
+        "label": "politicalparty",
+        "start": 103,
+        "end": 127
+      },
+      {
+        "text": "MAS",
+        "label": "politicalparty",
+        "start": 131,
+        "end": 134
+      },
+      {
+        "text": "Radical Cause",
+        "label": "politicalparty",
+        "start": 137,
+        "end": 150
+      },
+      {
+        "text": "Causa R",
+        "label": "politicalparty",
+        "start": 161,
+        "end": 168
+      },
+      {
+        "text": "For Social Democracy",
+        "label": "politicalparty",
+        "start": 174,
+        "end": 194
+      },
+      {
+        "text": "Por la Democracia Social",
+        "label": "politicalparty",
+        "start": 205,
+        "end": 229
+      },
+      {
+        "text": "Chavismo",
+        "label": "politician",
+        "start": 251,
+        "end": 259
+      }
+    ]
+  },
+  {
+    "text": ") Christine Quinn, the Speaker of the New York City Council, came in third, with 15.7%, while none of the other candidates, including City Comptroller John Liu and former Congressman Anthony Weiner, won as much as 10%.",
+    "entities": [
+      {
+        "text": "Christine Quinn",
+        "label": "politician",
+        "start": 2,
+        "end": 17
+      },
+      {
+        "text": "New York City Council",
+        "label": "organisation",
+        "start": 38,
+        "end": 59
+      },
+      {
+        "text": "John Liu",
+        "label": "politician",
+        "start": 151,
+        "end": 159
+      },
+      {
+        "text": "Anthony Weiner",
+        "label": "politician",
+        "start": 183,
+        "end": 197
+      }
+    ]
+  },
+  {
+    "text": "Since 2011, they are part of the Coalició Compromís coalition, which won six seats in the 2011 Valencian regional election s and 19 in the 2015 Valencian regional election, becoming the third largest party in the regional parliament.",
+    "entities": [
+      {
+        "text": "Coalició Compromís",
+        "label": "politicalparty",
+        "start": 33,
+        "end": 51
+      },
+      {
+        "text": "2011 Valencian regional election",
+        "label": "election",
+        "start": 90,
+        "end": 122
+      },
+      {
+        "text": "2015 Valencian regional election",
+        "label": "election",
+        "start": 139,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "Parties with mainly Eurosceptic views are Serbian Radical Party, Democratic Party of Serbia, Dveri, DJB and the Serbian People's Party of Nenad Popović.",
+    "entities": [
+      {
+        "text": "Serbian Radical Party",
+        "label": "politicalparty",
+        "start": 42,
+        "end": 63
+      },
+      {
+        "text": "Democratic Party of Serbia",
+        "label": "politicalparty",
+        "start": 65,
+        "end": 91
+      },
+      {
+        "text": "Dveri",
+        "label": "politicalparty",
+        "start": 93,
+        "end": 98
+      },
+      {
+        "text": "DJB",
+        "label": "politicalparty",
+        "start": 100,
+        "end": 103
+      },
+      {
+        "text": "Serbian People's Party",
+        "label": "politicalparty",
+        "start": 112,
+        "end": 134
+      },
+      {
+        "text": "Nenad Popović",
+        "label": "politician",
+        "start": 138,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "The Purple Plain, also known as Llanura Roja, is a 1954 British war film, directed by Robert Parrish, with Gregory Peck playing a Royal Canadian Air Force pilot serving in the Royal Air Force in the Burma Campaign in the closing months of the World War II, who is battling with depression after having lost his wife.",
+    "entities": []
+  },
+  {
+    "text": "For example, in the Canada 1993 Canadian federal election, the Progressive Conservative Party of Canada attacked Liberal Party of Canada leader Jean Chrétien by implicitly mocking his Bell's Palsy partial facial paralysis.",
+    "entities": [
+      {
+        "text": "1993 Canadian federal election",
+        "label": "election",
+        "start": 27,
+        "end": 57
+      },
+      {
+        "text": "Progressive Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 63,
+        "end": 103
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 113,
+        "end": 136
+      },
+      {
+        "text": "Jean Chrétien",
+        "label": "politician",
+        "start": 144,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "text": "The seat was initially won by the Irish Nationalist Party in 1950 United Kingdom general election and 1951 United Kingdom general election then by Sinn Féin in 1955 United Kingdom general election.",
+    "entities": [
+      {
+        "text": "Irish Nationalist Party",
+        "label": "politicalparty",
+        "start": 34,
+        "end": 57
+      },
+      {
+        "text": "1950 United Kingdom general election",
+        "label": "election",
+        "start": 61,
+        "end": 97
+      },
+      {
+        "text": "1951 United Kingdom general election",
+        "label": "election",
+        "start": 102,
+        "end": 138
+      },
+      {
+        "text": "Sinn Féin",
+        "label": "politicalparty",
+        "start": 147,
+        "end": 156
+      },
+      {
+        "text": "1955 United Kingdom general election",
+        "label": "election",
+        "start": 160,
+        "end": 196
+      }
+    ]
+  },
+  {
+    "text": "For the 2011 Peruvian general election, the party joined forces with We Are Peru and Possible Peru to form the Peru Possible Alliance.",
+    "entities": [
+      {
+        "text": "2011 Peruvian general election",
+        "label": "election",
+        "start": 8,
+        "end": 38
+      },
+      {
+        "text": "We Are Peru",
+        "label": "politicalparty",
+        "start": 69,
+        "end": 80
+      },
+      {
+        "text": "Possible Peru",
+        "label": "politicalparty",
+        "start": 85,
+        "end": 98
+      },
+      {
+        "text": "Peru Possible Alliance",
+        "label": "organisation",
+        "start": 111,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "Before making the announcement, Alexander did not consult with his father, who had been on vacation in Karlovy Vary and making arrangements to secure the hand of Germany Princess Alexandra zu Schaumburg-Lippe for his son, or his Prime Minister Dr. Vladan Đorđević, who was visiting the Paris Universal Exhibition at the time of the announcement.",
+    "entities": [
+      {
+        "text": "Karlovy Vary",
+        "label": "location",
+        "start": 103,
+        "end": 115
+      },
+      {
+        "text": "Paris",
+        "label": "location",
+        "start": 286,
+        "end": 291
+      }
+    ]
+  },
+  {
+    "text": "The 38th G8 summit was the first summit for French President François Hollande and was the last summit for Dmitry Medvedev as the leader of Russia.",
+    "entities": [
+      {
+        "text": "François Hollande",
+        "label": "politician",
+        "start": 61,
+        "end": 78
+      },
+      {
+        "text": "Dmitry Medvedev",
+        "label": "politician",
+        "start": 107,
+        "end": 122
+      }
+    ]
+  },
+  {
+    "text": "The pact neutralized the Habsburg Monarchy in regard to the Commonwealth's war with Russia, but had resulted in more serious consequences after the Bohemian Revolt gave rise to the Thirty Years ' War in 1618.",
+    "entities": []
+  },
+  {
+    "text": "The region of Assyria fell under the successive control of the Median Empire of 678 to 549 BC, the Achaemenid Empire of 550 to 330 BC, the Macedonian Empire (late 4th century BC), the Seleucid Empire of 312 to 63 BC, the Parthian Empire of 247 BC to 224 AD, the Roman Empire (from 116 to 118 AD) and the Sasanian Empire of 224 to 651 AD.",
+    "entities": []
+  },
+  {
+    "text": "The Simba rebellion of 1963-65, also known as the Orientale Revolt, was a rebellion in the Democratic Republic of the Congo which took place within the wider context of the Congo Crisis and the Cold War.",
+    "entities": []
+  },
+  {
+    "text": "In the 1993 New Zealand general election, however, the new New Zealand First party, led by the part-Māori Winston Peters - who himself held the general seat of Tauranga from 1984 to 2005 - gained the Northern Māori seat (electing Tau Henare to Parliament), and in the 1996 New Zealand general election New Zealand First captured all the Māori electorates for one electoral term.",
+    "entities": [
+      {
+        "text": "1993 New Zealand general election",
+        "label": "election",
+        "start": 7,
+        "end": 40
+      },
+      {
+        "text": "New Zealand First",
+        "label": "politicalparty",
+        "start": 59,
+        "end": 76
+      },
+      {
+        "text": "Winston Peters",
+        "label": "politician",
+        "start": 106,
+        "end": 120
+      },
+      {
+        "text": "Tauranga",
+        "label": "location",
+        "start": 160,
+        "end": 168
+      },
+      {
+        "text": "Tau Henare",
+        "label": "politician",
+        "start": 230,
+        "end": 240
+      },
+      {
+        "text": "1996 New Zealand general election",
+        "label": "election",
+        "start": 268,
+        "end": 301
+      }
+    ]
+  },
+  {
+    "text": "The PSOE's motion passed with the support of Unidos Podemos (UP), Republican Left of Catalonia (ERC), Catalan European Democratic Party (PDeCAT), Basque Nationalist Party (PNV), Coalició Compromís, EH Bildu and New Canaries (NCa), bringing down the Rajoy government.",
+    "entities": [
+      {
+        "text": "PSOE",
+        "label": "politicalparty",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "Unidos Podemos",
+        "label": "politicalparty",
+        "start": 45,
+        "end": 59
+      },
+      {
+        "text": "UP",
+        "label": "politicalparty",
+        "start": 61,
+        "end": 63
+      },
+      {
+        "text": "Republican Left of Catalonia",
+        "label": "politicalparty",
+        "start": 66,
+        "end": 94
+      },
+      {
+        "text": "ERC",
+        "label": "politicalparty",
+        "start": 96,
+        "end": 99
+      },
+      {
+        "text": "Catalan European Democratic Party",
+        "label": "politicalparty",
+        "start": 102,
+        "end": 135
+      },
+      {
+        "text": "PDeCAT",
+        "label": "politicalparty",
+        "start": 137,
+        "end": 143
+      },
+      {
+        "text": "Basque Nationalist Party",
+        "label": "politicalparty",
+        "start": 146,
+        "end": 170
+      },
+      {
+        "text": "PNV",
+        "label": "politicalparty",
+        "start": 172,
+        "end": 175
+      },
+      {
+        "text": "Coalició Compromís",
+        "label": "politicalparty",
+        "start": 178,
+        "end": 196
+      },
+      {
+        "text": "EH Bildu",
+        "label": "politicalparty",
+        "start": 198,
+        "end": 206
+      },
+      {
+        "text": "New Canaries",
+        "label": "politicalparty",
+        "start": 211,
+        "end": 223
+      },
+      {
+        "text": "NCa",
+        "label": "politicalparty",
+        "start": 225,
+        "end": 228
+      },
+      {
+        "text": "Rajoy",
+        "label": "politician",
+        "start": 249,
+        "end": 254
+      }
+    ]
+  },
+  {
+    "text": "The 1824 United States presidential election was contested by Adams, Andrew Jackson, William H. Crawford, and Henry Clay, all of whom were members of the Democratic-Republican Party.",
+    "entities": [
+      {
+        "text": "1824 United States presidential election",
+        "label": "election",
+        "start": 4,
+        "end": 44
+      },
+      {
+        "text": "Adams",
+        "label": "politician",
+        "start": 62,
+        "end": 67
+      },
+      {
+        "text": "Andrew Jackson",
+        "label": "politician",
+        "start": 69,
+        "end": 83
+      },
+      {
+        "text": "William H. Crawford",
+        "label": "politician",
+        "start": 85,
+        "end": 104
+      },
+      {
+        "text": "Henry Clay",
+        "label": "politician",
+        "start": 110,
+        "end": 120
+      },
+      {
+        "text": "Democratic-Republican Party",
+        "label": "politicalparty",
+        "start": 154,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "Russia has also been engaged on its own, also largely internally focused, counter-terrorism campaign often termed a war on terror, during the Second Chechen War, the Insurgency in the North Caucasus, and the Russian military intervention in the Syrian Civil War.",
+    "entities": []
+  },
+  {
+    "text": "Following the 2004 Australian federal election, at which the Liberal Party of Australia - National Party of Australia coalition government won a majority in both houses, a senior minister, Senator Nick Minchin, said that he favoured the abolition of compulsory voting.",
+    "entities": [
+      {
+        "text": "2004 Australian federal election",
+        "label": "election",
+        "start": 14,
+        "end": 46
+      },
+      {
+        "text": "Liberal Party of Australia",
+        "label": "politicalparty",
+        "start": 61,
+        "end": 87
+      },
+      {
+        "text": "National Party of Australia",
+        "label": "politicalparty",
+        "start": 90,
+        "end": 117
+      },
+      {
+        "text": "Nick Minchin",
+        "label": "politician",
+        "start": 197,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "Brazil's major cities began to resemble 1932-33 Berlin with its street battles between the Communist Party of Germany and the Nazi Party.",
+    "entities": [
+      {
+        "text": "Berlin",
+        "label": "location",
+        "start": 48,
+        "end": 54
+      },
+      {
+        "text": "Communist Party of Germany",
+        "label": "politicalparty",
+        "start": 91,
+        "end": 117
+      },
+      {
+        "text": "Nazi Party",
+        "label": "politicalparty",
+        "start": 126,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "The first thorough exploration of the Maiko dates back to 1989, when the Wildlife Conservation Society, backed by the ICCN (then ZICN) and supported by the World Bank, the European Community and the World Wide Fund for Nature, moved into the area and surveyed about 950 km of transect.",
+    "entities": [
+      {
+        "text": "Wildlife Conservation Society",
+        "label": "organisation",
+        "start": 73,
+        "end": 102
+      },
+      {
+        "text": "ICCN",
+        "label": "organisation",
+        "start": 118,
+        "end": 122
+      },
+      {
+        "text": "ZICN",
+        "label": "organisation",
+        "start": 129,
+        "end": 133
+      },
+      {
+        "text": "World Bank",
+        "label": "organisation",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "European Community",
+        "label": "organisation",
+        "start": 172,
+        "end": 190
+      },
+      {
+        "text": "World Wide Fund for Nature",
+        "label": "organisation",
+        "start": 199,
+        "end": 225
+      }
+    ]
+  },
+  {
+    "text": "Assisted by his top aide Harry Hopkins and with very strong national support, he worked closely with British Prime Minister Winston Churchill, Soviet leader Joseph Stalin and Chinese Generalissimo Chiang Kai-shek in leading the Allied Powers against the Axis Powers.",
+    "entities": [
+      {
+        "text": "Harry Hopkins",
+        "label": "politician",
+        "start": 25,
+        "end": 38
+      },
+      {
+        "text": "Winston Churchill",
+        "label": "politician",
+        "start": 124,
+        "end": 141
+      },
+      {
+        "text": "Joseph Stalin",
+        "label": "politician",
+        "start": 157,
+        "end": 170
+      },
+      {
+        "text": "Chiang Kai-shek",
+        "label": "politician",
+        "start": 197,
+        "end": 212
+      },
+      {
+        "text": "Allied Powers",
+        "label": "organisation",
+        "start": 228,
+        "end": 241
+      },
+      {
+        "text": "Axis Powers",
+        "label": "organisation",
+        "start": 254,
+        "end": 265
+      }
+    ]
+  },
+  {
+    "text": "Hitchens was made an Honorary Associate of the Rationalist International and the National Secular Society shortly after its release, and he was later named to the Honorary Board of distinguished achievers of the Freedom From Religion Foundation .. Approximately 112 minutes in, Hitchens contends, ' The moment where everything went wrong is the moment when the Jewish hellenists were defeated by the Jewish messiahs, the celebration now benignly known as Hanukkah.",
+    "entities": [
+      {
+        "text": "Rationalist International",
+        "label": "organisation",
+        "start": 47,
+        "end": 72
+      },
+      {
+        "text": "National Secular Society",
+        "label": "organisation",
+        "start": 81,
+        "end": 105
+      },
+      {
+        "text": "Freedom From Religion Foundation",
+        "label": "organisation",
+        "start": 212,
+        "end": 244
+      }
+    ]
+  },
+  {
+    "text": "In the February 1974 United Kingdom general election a number of Faulkner's followers (including several sitting MPs) stood as Pro-Assembly Unionists against a coalition of the Ulster Unionist Party, the Vanguard Progressive Unionist Party and the Democratic Unionist Party.",
+    "entities": [
+      {
+        "text": "February 1974 United Kingdom general election",
+        "label": "election",
+        "start": 7,
+        "end": 52
+      },
+      {
+        "text": "Faulkner",
+        "label": "politician",
+        "start": 65,
+        "end": 73
+      },
+      {
+        "text": "Ulster Unionist Party",
+        "label": "politicalparty",
+        "start": 177,
+        "end": 198
+      },
+      {
+        "text": "Vanguard Progressive Unionist Party",
+        "label": "politicalparty",
+        "start": 204,
+        "end": 239
+      },
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 248,
+        "end": 273
+      }
+    ]
+  },
+  {
+    "text": "The incumbent Australian Labor Party, led by Prime Minister Bob Hawke, defeated the opposition Liberal Party of Australia, led by John Howard and the National Party of Australia led by Ian Sinclair.",
+    "entities": [
+      {
+        "text": "Australian Labor Party",
+        "label": "politicalparty",
+        "start": 14,
+        "end": 36
+      },
+      {
+        "text": "Bob Hawke",
+        "label": "politician",
+        "start": 60,
+        "end": 69
+      },
+      {
+        "text": "Liberal Party of Australia",
+        "label": "politicalparty",
+        "start": 95,
+        "end": 121
+      },
+      {
+        "text": "John Howard",
+        "label": "politician",
+        "start": 130,
+        "end": 141
+      },
+      {
+        "text": "National Party of Australia",
+        "label": "politicalparty",
+        "start": 150,
+        "end": 177
+      },
+      {
+        "text": "Ian Sinclair",
+        "label": "politician",
+        "start": 185,
+        "end": 197
+      }
+    ]
+  },
+  {
+    "text": "He unsuccessfully stood as a parliamentary candidate for Washington (in the 1987 United Kingdom general election), Gateshead East (in the 1992 United Kingdom general election), and Tynemouth (in the 1997 United Kingdom general election).",
+    "entities": [
+      {
+        "text": "Washington",
+        "label": "location",
+        "start": 57,
+        "end": 67
+      },
+      {
+        "text": "1987 United Kingdom general election",
+        "label": "election",
+        "start": 76,
+        "end": 112
+      },
+      {
+        "text": "Gateshead East",
+        "label": "location",
+        "start": 115,
+        "end": 129
+      },
+      {
+        "text": "1992 United Kingdom general election",
+        "label": "election",
+        "start": 138,
+        "end": 174
+      },
+      {
+        "text": "Tynemouth",
+        "label": "location",
+        "start": 181,
+        "end": 190
+      },
+      {
+        "text": "1997 United Kingdom general election",
+        "label": "election",
+        "start": 199,
+        "end": 235
+      }
+    ]
+  },
+  {
+    "text": "With George W. Bush's victory in the 2000 United States presidential election, Bush and his son became the second father-son pair to serve as the nation's president, following John Adams and John Quincy Adams.",
+    "entities": [
+      {
+        "text": "George W. Bush",
+        "label": "politician",
+        "start": 5,
+        "end": 19
+      },
+      {
+        "text": "2000 United States presidential election",
+        "label": "election",
+        "start": 37,
+        "end": 77
+      },
+      {
+        "text": "Bush",
+        "label": "politician",
+        "start": 79,
+        "end": 83
+      },
+      {
+        "text": "John Adams",
+        "label": "politician",
+        "start": 176,
+        "end": 186
+      },
+      {
+        "text": "John Quincy Adams",
+        "label": "politician",
+        "start": 191,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "Wright served as president of several scholarly bodies, including the American Association of University Professors (1944-1946), the American Political Science Association (1948-1949), the International Political Science Association (1950-1952), and the American Society of International Law (1955-1956).",
+    "entities": [
+      {
+        "text": "Wright",
+        "label": "politician",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "American Association of University Professors",
+        "label": "organisation",
+        "start": 70,
+        "end": 115
+      },
+      {
+        "text": "American Political Science Association",
+        "label": "organisation",
+        "start": 133,
+        "end": 171
+      },
+      {
+        "text": "International Political Science Association",
+        "label": "organisation",
+        "start": 189,
+        "end": 232
+      },
+      {
+        "text": "American Society of International Law",
+        "label": "organisation",
+        "start": 254,
+        "end": 291
+      }
+    ]
+  },
+  {
+    "text": "The result was a national unity government involving eight parties; Labor, Likud, Shas, the Centre Party, the National Religious Party, United Torah Judaism, Yisrael BaAliyah, the National Union and Yisrael Beiteinu.",
+    "entities": [
+      {
+        "text": "Labor",
+        "label": "politicalparty",
+        "start": 68,
+        "end": 73
+      },
+      {
+        "text": "Likud",
+        "label": "politicalparty",
+        "start": 75,
+        "end": 80
+      },
+      {
+        "text": "Shas",
+        "label": "politicalparty",
+        "start": 82,
+        "end": 86
+      },
+      {
+        "text": "Centre Party",
+        "label": "politicalparty",
+        "start": 92,
+        "end": 104
+      },
+      {
+        "text": "National Religious Party",
+        "label": "politicalparty",
+        "start": 110,
+        "end": 134
+      },
+      {
+        "text": "United Torah Judaism",
+        "label": "politicalparty",
+        "start": 136,
+        "end": 156
+      },
+      {
+        "text": "Yisrael BaAliyah",
+        "label": "politicalparty",
+        "start": 158,
+        "end": 174
+      },
+      {
+        "text": "National Union",
+        "label": "politicalparty",
+        "start": 180,
+        "end": 194
+      },
+      {
+        "text": "Yisrael Beiteinu",
+        "label": "politicalparty",
+        "start": 199,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "This school initially consisted of nearly 200 faculty members and Ph.D. students from the Vrije Universiteit, University of Amsterdam, Delft University of Technology, and Leiden University.",
+    "entities": [
+      {
+        "text": "Vrije Universiteit",
+        "label": "organisation",
+        "start": 90,
+        "end": 108
+      },
+      {
+        "text": "University of Amsterdam",
+        "label": "organisation",
+        "start": 110,
+        "end": 133
+      },
+      {
+        "text": "Delft University of Technology",
+        "label": "organisation",
+        "start": 135,
+        "end": 165
+      },
+      {
+        "text": "Leiden University",
+        "label": "organisation",
+        "start": 171,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "text": "She eventually became campaign manager for Hillary Clinton's 2000 Senate campaign, Clinton's 2006 re-election campaign and Clinton's 2008 presidential campaign from its inception until she was replaced by Maggie Williams in February 2008.",
+    "entities": [
+      {
+        "text": "Hillary Clinton",
+        "label": "politician",
+        "start": 43,
+        "end": 58
+      },
+      {
+        "text": "Clinton",
+        "label": "politician",
+        "start": 83,
+        "end": 90
+      },
+      {
+        "text": "Clinton",
+        "label": "politician",
+        "start": 123,
+        "end": 130
+      },
+      {
+        "text": "Maggie Williams",
+        "label": "politician",
+        "start": 205,
+        "end": 220
+      }
+    ]
+  }
+]

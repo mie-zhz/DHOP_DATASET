@@ -1,0 +1,1290 @@
+[
+  {
+    "text": "Here is an example of R code:",
+    "entities": []
+  },
+  {
+    "text": "The measured performance on test data of eight naive WSI across various tauopathies resulted in the recall, precision, and an F1 score of 0.92, 0.72, and 0.81, respectively.",
+    "entities": [
+      {
+        "text": "WSI",
+        "label": "task",
+        "start": 53,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "text": "The VOICEBOX speech processing toolbox for MATLAB implements the conversion and its inverse as:",
+    "entities": [
+      {
+        "text": "VOICEBOX",
+        "label": "product",
+        "start": 4,
+        "end": 12
+      },
+      {
+        "text": "MATLAB",
+        "label": "product",
+        "start": 43,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "He is interested in knowledge representation, commonsense reasoning, and natural language understanding, believing that deep language understanding can only currently be achieved by significant hand-engineering of semantically-rich formalisms coupled with statistical preferences.",
+    "entities": [
+      {
+        "text": "knowledge representation",
+        "label": "task",
+        "start": 20,
+        "end": 44
+      },
+      {
+        "text": "commonsense reasoning",
+        "label": "task",
+        "start": 46,
+        "end": 67
+      },
+      {
+        "text": "natural language understanding",
+        "label": "task",
+        "start": 73,
+        "end": 103
+      },
+      {
+        "text": "deep language understanding",
+        "label": "task",
+        "start": 120,
+        "end": 147
+      }
+    ]
+  },
+  {
+    "text": ") In addition to the taxonomic information contained in OpenCyc, ResearchCyc includes significantly more semantic knowledge (i.e., additional facts and rules of thumb) involving the concepts in its knowledge base; it also includes a large lexicon, English parsing and generation tools, and Java based interfaces for knowledge editing and querying.",
+    "entities": [
+      {
+        "text": "OpenCyc",
+        "label": "product",
+        "start": 56,
+        "end": 63
+      },
+      {
+        "text": "ResearchCyc",
+        "label": "product",
+        "start": 65,
+        "end": 76
+      },
+      {
+        "text": "large lexicon, English parsing and generation tools",
+        "label": "product",
+        "start": 233,
+        "end": 284
+      },
+      {
+        "text": "interfaces for knowledge editing and querying",
+        "label": "product",
+        "start": 301,
+        "end": 346
+      }
+    ]
+  },
+  {
+    "text": "He co-developed optimal algorithms for Structure From Motion (SFM, or Visual SLAM, simultaneous localization and mapping, in Robotics; Best Paper Award at Conference on Computer Vision and Pattern Recognition 1998), characterized its ambiguities (David Marr Prize at ICCV 1999), also characterized the identifiability and observability of visual-inertial sensor fusion (Best Paper Award at Robotics 2015).",
+    "entities": [
+      {
+        "text": "Structure From Motion",
+        "label": "task",
+        "start": 39,
+        "end": 60
+      },
+      {
+        "text": "SFM",
+        "label": "task",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "text": "Visual SLAM",
+        "label": "task",
+        "start": 70,
+        "end": 81
+      },
+      {
+        "text": "simultaneous localization and mapping",
+        "label": "task",
+        "start": 83,
+        "end": 120
+      },
+      {
+        "text": "Robotics",
+        "label": "field",
+        "start": 125,
+        "end": 133
+      },
+      {
+        "text": "Robotics",
+        "label": "field",
+        "start": 390,
+        "end": 398
+      }
+    ]
+  },
+  {
+    "text": "| Apple Apple Inc originally licensed software from Nuance to provide speech recognition capability to its digital assistant Siri.",
+    "entities": [
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 70,
+        "end": 88
+      },
+      {
+        "text": "Siri",
+        "label": "product",
+        "start": 125,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "Further pulse training is not differentiable, eliminating backpropagation -based training methods like gradient descent.",
+    "entities": [
+      {
+        "text": "backpropagation",
+        "label": "algorithm",
+        "start": 58,
+        "end": 73
+      },
+      {
+        "text": "gradient descent",
+        "label": "algorithm",
+        "start": 103,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "Reinforcement learning, due to its generality, is studied in many other disciplines, such as game, control theory, operations research, information theory, simulation-based optimization, multi-agent systems, swarm intelligence, statistics and genetic algorithm s.",
+    "entities": [
+      {
+        "text": "Reinforcement learning",
+        "label": "field",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "game",
+        "label": "field",
+        "start": 93,
+        "end": 97
+      },
+      {
+        "text": "control theory",
+        "label": "field",
+        "start": 99,
+        "end": 113
+      },
+      {
+        "text": "operations research",
+        "label": "field",
+        "start": 115,
+        "end": 134
+      },
+      {
+        "text": "information theory",
+        "label": "field",
+        "start": 136,
+        "end": 154
+      },
+      {
+        "text": "simulation-based optimization",
+        "label": "field",
+        "start": 156,
+        "end": 185
+      },
+      {
+        "text": "multi-agent systems",
+        "label": "field",
+        "start": 187,
+        "end": 206
+      },
+      {
+        "text": "swarm intelligence",
+        "label": "field",
+        "start": 208,
+        "end": 226
+      },
+      {
+        "text": "statistics",
+        "label": "field",
+        "start": 228,
+        "end": 238
+      },
+      {
+        "text": "genetic algorithm",
+        "label": "algorithm",
+        "start": 243,
+        "end": 260
+      }
+    ]
+  },
+  {
+    "text": "Formal concept analysis finds practical application in fields including data mining, text mining, machine learning, knowledge management, semantic web, software development, chemistry and biology.",
+    "entities": [
+      {
+        "text": "data mining",
+        "label": "field",
+        "start": 72,
+        "end": 83
+      },
+      {
+        "text": "text mining",
+        "label": "field",
+        "start": 85,
+        "end": 96
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 98,
+        "end": 114
+      },
+      {
+        "text": "knowledge management",
+        "label": "field",
+        "start": 116,
+        "end": 136
+      },
+      {
+        "text": "semantic web",
+        "label": "field",
+        "start": 138,
+        "end": 150
+      },
+      {
+        "text": "software development",
+        "label": "field",
+        "start": 152,
+        "end": 172
+      },
+      {
+        "text": "chemistry",
+        "label": "field",
+        "start": 174,
+        "end": 183
+      },
+      {
+        "text": "biology",
+        "label": "field",
+        "start": 188,
+        "end": 195
+      }
+    ]
+  },
+  {
+    "text": "Unlike neural network s and Support vector machine, the AdaBoost training process selects only those features known to improve the predictive power of the model, reducing dimensionality and potentially improving execution time as irrelevant features need not be computed.",
+    "entities": [
+      {
+        "text": "neural network",
+        "label": "algorithm",
+        "start": 7,
+        "end": 21
+      },
+      {
+        "text": "Support vector machine",
+        "label": "algorithm",
+        "start": 28,
+        "end": 50
+      },
+      {
+        "text": "AdaBoost",
+        "label": "algorithm",
+        "start": 56,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "The gradient descent can take many iterations to compute a local minimum with a required accuracy, if the curvature in different directions is very different for the given function.",
+    "entities": [
+      {
+        "text": "gradient descent",
+        "label": "algorithm",
+        "start": 4,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Sepp Hochreiter ' s diploma thesis of 1991 Sepp Hochreiter.",
+    "entities": [
+      {
+        "text": "Sepp Hochreiter",
+        "label": "researcher",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Sepp Hochreiter",
+        "label": "researcher",
+        "start": 43,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "Some successful applications of deep learning are computer vision and speech recognition. Honglak Lee, Roger Grosse, Rajesh Ranganath, Andrew Y. Ng.",
+    "entities": [
+      {
+        "text": "deep learning",
+        "label": "field",
+        "start": 32,
+        "end": 45
+      },
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 50,
+        "end": 65
+      },
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 70,
+        "end": 88
+      },
+      {
+        "text": "Honglak Lee",
+        "label": "researcher",
+        "start": 90,
+        "end": 101
+      },
+      {
+        "text": "Roger Grosse",
+        "label": "researcher",
+        "start": 103,
+        "end": 115
+      },
+      {
+        "text": "Rajesh Ranganath",
+        "label": "researcher",
+        "start": 117,
+        "end": 133
+      },
+      {
+        "text": "Andrew Y. Ng",
+        "label": "researcher",
+        "start": 135,
+        "end": 147
+      }
+    ]
+  },
+  {
+    "text": "The series was produced by David Fincher, and starred Kevin Spacey.",
+    "entities": []
+  },
+  {
+    "text": "In 2009, experts attended a conference hosted by the Association for the Advancement of Artificial Intelligence (AAAI) to discuss whether computers and robots might be able to acquire any autonomy, and how much these abilities might pose a threat or hazard.",
+    "entities": []
+  },
+  {
+    "text": "A fairly simple non-linear function, the sigmoid function such as the logistic function also has an easily calculated derivative, which can be important when calculating the weight updates in the network.",
+    "entities": [
+      {
+        "text": "sigmoid function",
+        "label": "algorithm",
+        "start": 41,
+        "end": 57
+      },
+      {
+        "text": "logistic function",
+        "label": "algorithm",
+        "start": 70,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "text": "While some chatbot applications use extensive word-classification processes, natural language processing processors, and sophisticated Artificial intelligence, others simply scan for general keywords and generate responses using common phrases obtained from an associated library or database.",
+    "entities": [
+      {
+        "text": "chatbot",
+        "label": "product",
+        "start": 11,
+        "end": 18
+      },
+      {
+        "text": "word-classification",
+        "label": "task",
+        "start": 46,
+        "end": 65
+      },
+      {
+        "text": "natural language processing",
+        "label": "field",
+        "start": 77,
+        "end": 104
+      },
+      {
+        "text": "Artificial intelligence",
+        "label": "field",
+        "start": 135,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "text": "Together with Geoffrey Hinton and Yann LeCun, Bengio won the 2018 Turing Award.",
+    "entities": [
+      {
+        "text": "Geoffrey Hinton",
+        "label": "researcher",
+        "start": 14,
+        "end": 29
+      },
+      {
+        "text": "Yann LeCun",
+        "label": "researcher",
+        "start": 34,
+        "end": 44
+      },
+      {
+        "text": "Bengio",
+        "label": "researcher",
+        "start": 46,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "Indy is written in Java and therefore runs on most modern operating system s.",
+    "entities": [
+      {
+        "text": "Indy",
+        "label": "product",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "Essentially, this combines maximum likelihood estimation with a regularization procedure that favors simpler models over more complex models.",
+    "entities": [
+      {
+        "text": "maximum likelihood estimation",
+        "label": "algorithm",
+        "start": 27,
+        "end": 56
+      },
+      {
+        "text": "regularization procedure",
+        "label": "algorithm",
+        "start": 64,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "text": "The iPhone 4S, iPad 3, iPad Mini 1G, iPad Air, iPad Pro 1G, iPod Touch 5G and later, all come with a more advanced voice assistant called Siri.",
+    "entities": [
+      {
+        "text": "iPhone 4S",
+        "label": "product",
+        "start": 4,
+        "end": 13
+      },
+      {
+        "text": "iPad 3",
+        "label": "product",
+        "start": 15,
+        "end": 21
+      },
+      {
+        "text": "iPad Mini 1G",
+        "label": "product",
+        "start": 23,
+        "end": 35
+      },
+      {
+        "text": "iPad Air",
+        "label": "product",
+        "start": 37,
+        "end": 45
+      },
+      {
+        "text": "iPad Pro 1G",
+        "label": "product",
+        "start": 47,
+        "end": 58
+      },
+      {
+        "text": "iPod Touch 5G",
+        "label": "product",
+        "start": 60,
+        "end": 73
+      },
+      {
+        "text": "Siri",
+        "label": "product",
+        "start": 138,
+        "end": 142
+      }
+    ]
+  },
+  {
+    "text": "However, in the version of the metric used by NIST evaluations prior to 2009, the shortest reference sentence had been used instead.",
+    "entities": []
+  },
+  {
+    "text": "The Viterbi algorithm is a dynamic programming algorithm for finding the most likely sequence of hidden states called the Viterbi path that results in a sequence of observed events, especially in the context of Markov information source s and hidden Markov model s (HMM).",
+    "entities": [
+      {
+        "text": "Viterbi algorithm",
+        "label": "algorithm",
+        "start": 4,
+        "end": 21
+      },
+      {
+        "text": "dynamic programming algorithm",
+        "label": "algorithm",
+        "start": 27,
+        "end": 56
+      },
+      {
+        "text": "hidden Markov model",
+        "label": "algorithm",
+        "start": 243,
+        "end": 262
+      },
+      {
+        "text": "HMM",
+        "label": "algorithm",
+        "start": 266,
+        "end": 269
+      }
+    ]
+  },
+  {
+    "text": "The first alpha version of OpenCV was released to the public at the Conference on Computer Vision and Pattern Recognition in 2000, and five betas were released between 2001 and 2005.",
+    "entities": [
+      {
+        "text": "OpenCV",
+        "label": "product",
+        "start": 27,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "A lexical dictionary such as WordNet can then be used for understanding the context.",
+    "entities": [
+      {
+        "text": "WordNet",
+        "label": "product",
+        "start": 29,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "Popular examples of fitness functions based on the probabilities include maximum likelihood estimation and hinge loss.",
+    "entities": []
+  },
+  {
+    "text": "Prior to joining the Penn faculty in 2002, he spent a decade (1991-2001) in AT & T Labs and Bell Labs, including as head of the AI department with colleagues including Michael L. Littman, David A. McAllester, and Richard S. Sutton; Secure Systems Research department; and Machine Learning department with members such as Michael Collins and the leader).",
+    "entities": [
+      {
+        "text": "AI",
+        "label": "field",
+        "start": 128,
+        "end": 130
+      },
+      {
+        "text": "Michael L. Littman",
+        "label": "researcher",
+        "start": 168,
+        "end": 186
+      },
+      {
+        "text": "David A. McAllester",
+        "label": "researcher",
+        "start": 188,
+        "end": 207
+      },
+      {
+        "text": "Richard S. Sutton",
+        "label": "researcher",
+        "start": 213,
+        "end": 230
+      },
+      {
+        "text": "Machine Learning",
+        "label": "field",
+        "start": 272,
+        "end": 288
+      },
+      {
+        "text": "Michael Collins",
+        "label": "researcher",
+        "start": 321,
+        "end": 336
+      }
+    ]
+  },
+  {
+    "text": "Feature extraction and dimension reduction can be combined in one step using Principal Component Analysis (PCA), linear discriminant analysis (LDA), or canonical correlation analysis (CCA) techniques as a pre-processing step, followed by clustering by k -NN on feature vectors in reduced-dimension space.",
+    "entities": [
+      {
+        "text": "Feature extraction",
+        "label": "task",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "dimension reduction",
+        "label": "task",
+        "start": 23,
+        "end": 42
+      },
+      {
+        "text": "Principal Component Analysis",
+        "label": "algorithm",
+        "start": 77,
+        "end": 105
+      },
+      {
+        "text": "PCA",
+        "label": "algorithm",
+        "start": 107,
+        "end": 110
+      },
+      {
+        "text": "linear discriminant analysis",
+        "label": "algorithm",
+        "start": 113,
+        "end": 141
+      },
+      {
+        "text": "LDA",
+        "label": "algorithm",
+        "start": 143,
+        "end": 146
+      },
+      {
+        "text": "canonical correlation analysis",
+        "label": "algorithm",
+        "start": 152,
+        "end": 182
+      },
+      {
+        "text": "CCA",
+        "label": "algorithm",
+        "start": 184,
+        "end": 187
+      },
+      {
+        "text": "k -NN",
+        "label": "algorithm",
+        "start": 252,
+        "end": 257
+      }
+    ]
+  },
+  {
+    "text": "The term machine learning was coined in 1959 by Arthur Samuel, an American IBMer and pioneer in the field of computer gaming and artificial intelligence.",
+    "entities": [
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 9,
+        "end": 25
+      },
+      {
+        "text": "Arthur Samuel",
+        "label": "researcher",
+        "start": 48,
+        "end": 61
+      },
+      {
+        "text": "computer gaming",
+        "label": "field",
+        "start": 109,
+        "end": 124
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 129,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "text": "Libraries written in Perl, Java, ActiveX or .NET can be directly called from MATLAB,",
+    "entities": [
+      {
+        "text": "MATLAB",
+        "label": "product",
+        "start": 77,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "text": "For example, speech synthesis, combined with speech recognition, allows for interaction with mobile devices via language processing interfaces.",
+    "entities": [
+      {
+        "text": "speech synthesis",
+        "label": "task",
+        "start": 13,
+        "end": 29
+      },
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 45,
+        "end": 63
+      },
+      {
+        "text": "language processing",
+        "label": "field",
+        "start": 112,
+        "end": 131
+      }
+    ]
+  },
+  {
+    "text": "The Audio Engineering Society recommends 48 kHz sampling rate for most applications but gives recognition to 44.1 kHz for Compact Disc (CD) and other consumer uses, 32 kHz for transmission-related applications, and 96 kHz for higher bandwidth or relaxed anti-aliasing filter ing.",
+    "entities": []
+  },
+  {
+    "text": "Or combine the F-measure with the R-square evaluated for the raw model output and the target; or the cost / gain matrix with the correlation coefficient, and so on.",
+    "entities": []
+  },
+  {
+    "text": "It incorporates knowledge and research in the computer science, linguistics and computer engineering fields.",
+    "entities": [
+      {
+        "text": "computer science",
+        "label": "field",
+        "start": 46,
+        "end": 62
+      },
+      {
+        "text": "linguistics",
+        "label": "field",
+        "start": 64,
+        "end": 75
+      },
+      {
+        "text": "computer engineering",
+        "label": "field",
+        "start": 80,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "text": "Variants of the back-propagation algorithm as well as unsupervised methods by Geoff Hinton and colleagues at the University of Toronto can be used to train deep, highly nonlinear neural architectures, {{cite journal",
+    "entities": [
+      {
+        "text": "back-propagation algorithm",
+        "label": "algorithm",
+        "start": 16,
+        "end": 42
+      },
+      {
+        "text": "Geoff Hinton",
+        "label": "researcher",
+        "start": 78,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "text": "VAL was one of the first robot languages and was used in Unimate robots.",
+    "entities": [
+      {
+        "text": "Unimate robots",
+        "label": "product",
+        "start": 57,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "If it is assumed that distortion is measured by mean squared error, the distortion D, is given by:",
+    "entities": []
+  },
+  {
+    "text": "The returning judges are Fon Davis, Jessica Chobot, and Leland Melvin, as well as celebrity guest judges actor Clark Gregg, MythBusters host and former Battlebots builder Adam Savage, NFL tightend Vernon Davis, and YouTube star Michael Stevens a.k.a. Vsauce.",
+    "entities": []
+  },
+  {
+    "text": "The Code of Ethics on Human Augmentation, which was originally introduced by Steve Mann in 2004 and refined with Ray Kurzweil and Marvin Minsky in 2013, was ultimately ratified at the Virtual Reality Toronto conference on June 25, 2017.",
+    "entities": [
+      {
+        "text": "Human Augmentation",
+        "label": "field",
+        "start": 22,
+        "end": 40
+      },
+      {
+        "text": "Steve Mann",
+        "label": "researcher",
+        "start": 77,
+        "end": 87
+      },
+      {
+        "text": "Ray Kurzweil",
+        "label": "researcher",
+        "start": 113,
+        "end": 125
+      },
+      {
+        "text": "Marvin Minsky",
+        "label": "researcher",
+        "start": 130,
+        "end": 143
+      }
+    ]
+  },
+  {
+    "text": "An overview of calibration methods for binary classification and multiclass classification classification tasks is given by Gebel (2009)",
+    "entities": [
+      {
+        "text": "binary classification",
+        "label": "task",
+        "start": 39,
+        "end": 60
+      },
+      {
+        "text": "multiclass classification classification tasks",
+        "label": "task",
+        "start": 65,
+        "end": 111
+      },
+      {
+        "text": "Gebel",
+        "label": "researcher",
+        "start": 124,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "The true-positive rate is also known as sensitivity, recall or probability of detection math to the discrimination threshold) of the detection probability in the y-axis versus the cumulative distribution function of the false-alarm probability on the x-axis.",
+    "entities": [
+      {
+        "text": "cumulative distribution function",
+        "label": "algorithm",
+        "start": 180,
+        "end": 212
+      }
+    ]
+  },
+  {
+    "text": "Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.",
+    "entities": [
+      {
+        "text": "Reinforcement learning",
+        "label": "field",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 45,
+        "end": 61
+      },
+      {
+        "text": "supervised learning",
+        "label": "field",
+        "start": 83,
+        "end": 102
+      },
+      {
+        "text": "unsupervised learning",
+        "label": "field",
+        "start": 107,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "Although used mainly by statisticians and other practitioners requiring an environment for statistical computation and software development, R can also operate as a general matrix calculation toolbox - with performance benchmarks comparable to GNU Octave or MATLAB.",
+    "entities": [
+      {
+        "text": "MATLAB",
+        "label": "product",
+        "start": 258,
+        "end": 264
+      }
+    ]
+  },
+  {
+    "text": "It needs to Object recognition, recognize and locate humans and further emotion recognition.",
+    "entities": [
+      {
+        "text": "Object recognition",
+        "label": "task",
+        "start": 12,
+        "end": 30
+      },
+      {
+        "text": "emotion recognition",
+        "label": "task",
+        "start": 72,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "Self-organizing maps differ from other artificial neural networks as they apply competitive learning as opposed to error-correction learning such as backpropagation with gradient descent), and in the sense that they use a neighborhood function to preserve the topological properties of the input space.",
+    "entities": [
+      {
+        "text": "artificial neural networks",
+        "label": "algorithm",
+        "start": 39,
+        "end": 65
+      },
+      {
+        "text": "competitive learning",
+        "label": "algorithm",
+        "start": 80,
+        "end": 100
+      },
+      {
+        "text": "error-correction learning",
+        "label": "algorithm",
+        "start": 115,
+        "end": 140
+      },
+      {
+        "text": "backpropagation",
+        "label": "algorithm",
+        "start": 149,
+        "end": 164
+      },
+      {
+        "text": "gradient descent",
+        "label": "algorithm",
+        "start": 170,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "text": "The task is usually to derive the maximum likelihood estimate of the parameters of the HMM given the of output sequences.",
+    "entities": [
+      {
+        "text": "maximum likelihood estimate",
+        "label": "algorithm",
+        "start": 34,
+        "end": 61
+      },
+      {
+        "text": "HMM",
+        "label": "algorithm",
+        "start": 87,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "text": "The model is initially fit on a training dataset, The model (e.g. a neural net or a naive Bayes classifier) is trained on the training dataset using a supervised learning method, for example using optimization methods such as gradient descent or stochastic gradient descent.",
+    "entities": [
+      {
+        "text": "neural net",
+        "label": "algorithm",
+        "start": 68,
+        "end": 78
+      },
+      {
+        "text": "naive Bayes classifier",
+        "label": "algorithm",
+        "start": 84,
+        "end": 106
+      },
+      {
+        "text": "supervised learning",
+        "label": "field",
+        "start": 151,
+        "end": 170
+      },
+      {
+        "text": "gradient descent",
+        "label": "algorithm",
+        "start": 226,
+        "end": 242
+      },
+      {
+        "text": "stochastic gradient descent",
+        "label": "algorithm",
+        "start": 246,
+        "end": 273
+      }
+    ]
+  },
+  {
+    "text": "Here, accuracy is measured by error rate, which is defined as:",
+    "entities": []
+  },
+  {
+    "text": "Over the past decade, PCNNs have been used in a variety of image processing applications, including: image segmentation, feature generation, face extraction, motion detection, region growing, and noise reduction.",
+    "entities": [
+      {
+        "text": "PCNNs",
+        "label": "product",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "image processing",
+        "label": "field",
+        "start": 59,
+        "end": 75
+      },
+      {
+        "text": "image segmentation",
+        "label": "task",
+        "start": 101,
+        "end": 119
+      },
+      {
+        "text": "feature generation",
+        "label": "task",
+        "start": 121,
+        "end": 139
+      },
+      {
+        "text": "face extraction",
+        "label": "task",
+        "start": 141,
+        "end": 156
+      },
+      {
+        "text": "motion detection",
+        "label": "task",
+        "start": 158,
+        "end": 174
+      },
+      {
+        "text": "region growing",
+        "label": "task",
+        "start": 176,
+        "end": 190
+      },
+      {
+        "text": "noise reduction",
+        "label": "task",
+        "start": 196,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "WordNet has been used for a number of purposes in information systems, including word-sense disambiguation, information retrieval, automatic text classification, Automatic summarization, machine translation and even automatic crossword puzzle generation.",
+    "entities": [
+      {
+        "text": "WordNet",
+        "label": "product",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "information systems",
+        "label": "product",
+        "start": 50,
+        "end": 69
+      },
+      {
+        "text": "word-sense disambiguation",
+        "label": "task",
+        "start": 81,
+        "end": 106
+      },
+      {
+        "text": "information retrieval",
+        "label": "task",
+        "start": 108,
+        "end": 129
+      },
+      {
+        "text": "automatic text classification",
+        "label": "task",
+        "start": 131,
+        "end": 160
+      },
+      {
+        "text": "Automatic summarization",
+        "label": "task",
+        "start": 162,
+        "end": 185
+      },
+      {
+        "text": "machine translation",
+        "label": "task",
+        "start": 187,
+        "end": 206
+      },
+      {
+        "text": "automatic crossword puzzle generation",
+        "label": "task",
+        "start": 216,
+        "end": 253
+      }
+    ]
+  },
+  {
+    "text": "Here, math \\ sigma / math is an element-wise activation function such as a sigmoid function or a rectified linear unit.",
+    "entities": [
+      {
+        "text": "element-wise activation function",
+        "label": "algorithm",
+        "start": 32,
+        "end": 64
+      },
+      {
+        "text": "sigmoid function",
+        "label": "algorithm",
+        "start": 75,
+        "end": 91
+      },
+      {
+        "text": "rectified linear unit",
+        "label": "algorithm",
+        "start": 97,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "Hayes has served as secretary of AISB, chairman and trustee of IJCAI, associate editor of Artificial Intelligence, a governor of the Cognitive Science Society and president of American Association for Artificial Intelligence.",
+    "entities": [
+      {
+        "text": "Hayes",
+        "label": "researcher",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Artificial Intelligence",
+        "label": "field",
+        "start": 90,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "By combining these operators one can obtain algorithms for many image processing tasks, such as feature extraction, image segmentation, image sharpening, image filtering, and classification.",
+    "entities": [
+      {
+        "text": "image processing",
+        "label": "field",
+        "start": 64,
+        "end": 80
+      },
+      {
+        "text": "feature extraction",
+        "label": "task",
+        "start": 96,
+        "end": 114
+      },
+      {
+        "text": "image segmentation",
+        "label": "task",
+        "start": 116,
+        "end": 134
+      },
+      {
+        "text": "image sharpening",
+        "label": "task",
+        "start": 136,
+        "end": 152
+      },
+      {
+        "text": "image filtering",
+        "label": "task",
+        "start": 154,
+        "end": 169
+      },
+      {
+        "text": "classification",
+        "label": "task",
+        "start": 175,
+        "end": 189
+      }
+    ]
+  },
+  {
+    "text": "Computation of this example using Python code:",
+    "entities": []
+  },
+  {
+    "text": "Roger Schank, 1969, A conceptual dependency parser for natural language Proceedings of the 1969 on Computational linguistics, Sång-Säby, Sweden, pages 1-3 This model, partially influenced by the work of Sydney Lamb, was extensively used by Schank's students at Yale University, such as Robert Wilensky, Wendy Lehnert, and Janet Kolodner.",
+    "entities": [
+      {
+        "text": "Roger Schank",
+        "label": "researcher",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Sydney Lamb",
+        "label": "researcher",
+        "start": 203,
+        "end": 214
+      },
+      {
+        "text": "Schank",
+        "label": "researcher",
+        "start": 240,
+        "end": 246
+      },
+      {
+        "text": "Robert Wilensky",
+        "label": "researcher",
+        "start": 286,
+        "end": 301
+      },
+      {
+        "text": "Wendy Lehnert",
+        "label": "researcher",
+        "start": 303,
+        "end": 316
+      },
+      {
+        "text": "Janet Kolodner",
+        "label": "researcher",
+        "start": 322,
+        "end": 336
+      }
+    ]
+  },
+  {
+    "text": "OPeNDAP offers open-source libraries in C + + and Java, but many clients rely on community developed libraries such as libraries include embedded capabilities for retrieving (array-style) data from DAP servers.",
+    "entities": []
+  },
+  {
+    "text": "By chance, the Germans had chosen the operating frequency of the Wotan system very badly; it operated on 45 MHz, which just happened to be the frequency of the powerful-but-dormant BBC television transmitter at Alexandra Palace.",
+    "entities": [
+      {
+        "text": "Wotan",
+        "label": "product",
+        "start": 65,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "text": "Two of them, Now is the Time (to Put On Your Glasses) and Around is Around, were directed by Norman McLaren in 1951 for the National Film Board of Canada.",
+    "entities": []
+  },
+  {
+    "text": "SSIM is designed to improve on traditional methods such as peak signal-to-noise ratio (PSNR) and mean squared error (MSE).",
+    "entities": []
+  }
+]

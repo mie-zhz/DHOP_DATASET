@@ -1,0 +1,2000 @@
+[
+  {
+    "text": "This is done by modeling the received signal then using a statistical estimation method such as maximum likelihood (ML), majority voting (MV) or maximum a posteriori (MAP) to make a decision about which target in the library best fits the model built using the received signal.",
+    "entities": [
+      {
+        "text": "maximum likelihood",
+        "label": "algorithm",
+        "start": 96,
+        "end": 114
+      },
+      {
+        "text": "ML",
+        "label": "algorithm",
+        "start": 116,
+        "end": 118
+      },
+      {
+        "text": "majority voting",
+        "label": "algorithm",
+        "start": 121,
+        "end": 136
+      },
+      {
+        "text": "MV",
+        "label": "algorithm",
+        "start": 138,
+        "end": 140
+      },
+      {
+        "text": "maximum a posteriori",
+        "label": "algorithm",
+        "start": 145,
+        "end": 165
+      },
+      {
+        "text": "MAP",
+        "label": "algorithm",
+        "start": 167,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "In July 2016, Nvidia demonstrated during SIGGRAPH a new method of foveated rendering claimed to be invisible to users.",
+    "entities": []
+  },
+  {
+    "text": "The concept is similar to the signal to noise ratio used in the sciences and confusion matrix used in artificial intelligence.",
+    "entities": [
+      {
+        "text": "sciences",
+        "label": "field",
+        "start": 64,
+        "end": 72
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 102,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "Important journals include the IEEE Transactions on Speech and Audio Processing (later renamed IEEE Transactions on Audio, Speech and Language Processing and since Sept 2014 renamed IEEE / ACM Transactions on Audio, Speech and Language Processing - after merging with an ACM publication), Computer Speech and Language, and Speech Communication.",
+    "entities": []
+  },
+  {
+    "text": "Atran has taught at Cambridge University, Hebrew University in Jerusalem, the École pratique des hautes études and École Polytechnique in Paris, and John Jay College of Criminal Justice in New York City.",
+    "entities": [
+      {
+        "text": "Atran",
+        "label": "researcher",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "It has been pointed out that precision is usually twinned with recall to overcome this problem",
+    "entities": []
+  },
+  {
+    "text": "At UCSD, Norman was a founder of the Institute for Cognitive Science and one of the organizers of the Cognitive Science Society (along with Roger Schank, Allan M. Collins, and others), which held its first meeting at the UCSD campus in 1979.",
+    "entities": [
+      {
+        "text": "Norman",
+        "label": "researcher",
+        "start": 9,
+        "end": 15
+      },
+      {
+        "text": "Roger Schank",
+        "label": "researcher",
+        "start": 140,
+        "end": 152
+      },
+      {
+        "text": "Allan M. Collins",
+        "label": "researcher",
+        "start": 154,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "On August 27, 2018, Toyota announced an investment of $500 Million in Uber ' s autonomous car s.",
+    "entities": [
+      {
+        "text": "autonomous car",
+        "label": "product",
+        "start": 79,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "text": "During 2015, many of SenseTime's papers were accepted into the Conference on Computer Vision and Pattern Recognition (CVPR).",
+    "entities": []
+  },
+  {
+    "text": "WordNet, a freely available database originally designed as a semantic network based on psycholinguistic principles, was expanded by addition of definitions and is now also viewed as a dictionary.",
+    "entities": [
+      {
+        "text": "WordNet",
+        "label": "product",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "A parallel manipulator is designed so that each chain is usually short, simple and can thus be rigid against unwanted movement, compared to a serial manipulator.",
+    "entities": [
+      {
+        "text": "parallel manipulator",
+        "label": "product",
+        "start": 2,
+        "end": 22
+      },
+      {
+        "text": "serial manipulator",
+        "label": "product",
+        "start": 142,
+        "end": 160
+      }
+    ]
+  },
+  {
+    "text": "Skeletons are widely used in computer vision, image analysis, pattern recognition and digital image processing for purposes such as optical character recognition, fingerprint recognition, visual inspection or compression.",
+    "entities": [
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 29,
+        "end": 44
+      },
+      {
+        "text": "image analysis",
+        "label": "field",
+        "start": 46,
+        "end": 60
+      },
+      {
+        "text": "pattern recognition",
+        "label": "field",
+        "start": 62,
+        "end": 81
+      },
+      {
+        "text": "digital image processing",
+        "label": "field",
+        "start": 86,
+        "end": 110
+      },
+      {
+        "text": "optical character recognition",
+        "label": "task",
+        "start": 132,
+        "end": 161
+      },
+      {
+        "text": "fingerprint recognition",
+        "label": "task",
+        "start": 163,
+        "end": 186
+      },
+      {
+        "text": "visual inspection or compression",
+        "label": "task",
+        "start": 188,
+        "end": 220
+      }
+    ]
+  },
+  {
+    "text": ", a company in Bangalore, India specializing in online handwriting recognition software.",
+    "entities": [
+      {
+        "text": "handwriting recognition",
+        "label": "task",
+        "start": 55,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "It is commonly used to generate representations for speech recognition (ASR), e.g. the CMU Sphinx system, and speech synthesis (TTS), e.g. the Festival system.",
+    "entities": [
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 52,
+        "end": 70
+      },
+      {
+        "text": "ASR",
+        "label": "task",
+        "start": 72,
+        "end": 75
+      },
+      {
+        "text": "CMU Sphinx system",
+        "label": "product",
+        "start": 87,
+        "end": 104
+      },
+      {
+        "text": "speech synthesis",
+        "label": "task",
+        "start": 110,
+        "end": 126
+      },
+      {
+        "text": "TTS",
+        "label": "task",
+        "start": 128,
+        "end": 131
+      },
+      {
+        "text": "Festival system",
+        "label": "product",
+        "start": 143,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "text": "Over the past decade, PCNNs have been used in a variety of image processing applications, including: image segmentation, feature generation, face extraction, motion detection, region growing, and noise reduction.",
+    "entities": [
+      {
+        "text": "PCNNs",
+        "label": "product",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "image processing",
+        "label": "field",
+        "start": 59,
+        "end": 75
+      },
+      {
+        "text": "image segmentation",
+        "label": "task",
+        "start": 101,
+        "end": 119
+      },
+      {
+        "text": "feature generation",
+        "label": "task",
+        "start": 121,
+        "end": 139
+      },
+      {
+        "text": "face extraction",
+        "label": "task",
+        "start": 141,
+        "end": 156
+      },
+      {
+        "text": "motion detection",
+        "label": "task",
+        "start": 158,
+        "end": 174
+      },
+      {
+        "text": "region growing",
+        "label": "task",
+        "start": 176,
+        "end": 190
+      },
+      {
+        "text": "noise reduction",
+        "label": "task",
+        "start": 196,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "Due to its generality, the field is studied in many other disciplines, such as game theory, control theory, operations research, information theory, simulation-based optimization, multi-agent systems, swarm intelligence, statistics and genetic algorithm s.",
+    "entities": [
+      {
+        "text": "game theory",
+        "label": "field",
+        "start": 79,
+        "end": 90
+      },
+      {
+        "text": "control theory",
+        "label": "field",
+        "start": 92,
+        "end": 106
+      },
+      {
+        "text": "operations research",
+        "label": "field",
+        "start": 108,
+        "end": 127
+      },
+      {
+        "text": "information theory",
+        "label": "field",
+        "start": 129,
+        "end": 147
+      },
+      {
+        "text": "simulation-based optimization",
+        "label": "field",
+        "start": 149,
+        "end": 178
+      },
+      {
+        "text": "multi-agent systems",
+        "label": "product",
+        "start": 180,
+        "end": 199
+      },
+      {
+        "text": "swarm intelligence",
+        "label": "field",
+        "start": 201,
+        "end": 219
+      },
+      {
+        "text": "statistics",
+        "label": "field",
+        "start": 221,
+        "end": 231
+      },
+      {
+        "text": "genetic algorithm",
+        "label": "algorithm",
+        "start": 236,
+        "end": 253
+      }
+    ]
+  },
+  {
+    "text": "In information theory and computer science, a code is usually considered as an algorithm that uniquely represents symbols from some source alphabet, by encoded strings, which may be in some other target alphabet.",
+    "entities": [
+      {
+        "text": "information theory",
+        "label": "field",
+        "start": 3,
+        "end": 21
+      },
+      {
+        "text": "computer science",
+        "label": "field",
+        "start": 26,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "text": "Scientific conferences where vision based activity recognition work often appears are ICCV and CVPR.",
+    "entities": [
+      {
+        "text": "vision based activity recognition",
+        "label": "task",
+        "start": 29,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "A frame language is a technology used for knowledge representation in artificial intelligence.",
+    "entities": [
+      {
+        "text": "knowledge representation",
+        "label": "task",
+        "start": 42,
+        "end": 66
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 70,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "text": "It needs to Object recognition, recognize and locate humans and further emotion recognition.",
+    "entities": [
+      {
+        "text": "Object recognition",
+        "label": "task",
+        "start": 12,
+        "end": 30
+      },
+      {
+        "text": "emotion recognition",
+        "label": "task",
+        "start": 72,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "Xu has published more than 50 papers at international conferences and in journals in the field of computer vision and won the Best Paper Award at the international conference on Non-Photorealistic Rendering and Animation (NPAR) 2012 and the Best Reviewer Award at the international conferences Asian Conference on Computer Vision ACCV 2012 and International Conference on Computer Vision (ICCV) 2015.",
+    "entities": [
+      {
+        "text": "Xu",
+        "label": "researcher",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 98,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "Conferences in the field of natural language processing, such as Association for Computational Linguistics, North American Chapter of the Association for Computational Linguistics, EMNLP, and HLT, are beginning to include papers on speech processing.",
+    "entities": [
+      {
+        "text": "natural language processing",
+        "label": "field",
+        "start": 28,
+        "end": 55
+      },
+      {
+        "text": "speech processing",
+        "label": "field",
+        "start": 232,
+        "end": 249
+      }
+    ]
+  },
+  {
+    "text": "Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation.",
+    "entities": [
+      {
+        "text": "natural language processing",
+        "label": "field",
+        "start": 14,
+        "end": 41
+      },
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 61,
+        "end": 79
+      },
+      {
+        "text": "natural language understanding",
+        "label": "task",
+        "start": 81,
+        "end": 111
+      },
+      {
+        "text": "natural language generation",
+        "label": "task",
+        "start": 117,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "The Cleveland Clinic has used Cyc to develop a natural language query interface of biomedical information, spanning decades of information on cardiothoracic surgeries.",
+    "entities": [
+      {
+        "text": "Cyc",
+        "label": "product",
+        "start": 30,
+        "end": 33
+      },
+      {
+        "text": "natural language query interface of biomedical information",
+        "label": "product",
+        "start": 47,
+        "end": 105
+      }
+    ]
+  },
+  {
+    "text": "Wolfram Mathematica (usually termed Mathematica) is a modern technical computing system spanning most areas of technical - including neural networks, machine learning, image processing, geometry, data science, visualizations, and others.",
+    "entities": [
+      {
+        "text": "neural networks",
+        "label": "algorithm",
+        "start": 133,
+        "end": 148
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 150,
+        "end": 166
+      },
+      {
+        "text": "image processing",
+        "label": "field",
+        "start": 168,
+        "end": 184
+      },
+      {
+        "text": "geometry",
+        "label": "field",
+        "start": 186,
+        "end": 194
+      },
+      {
+        "text": "data science",
+        "label": "field",
+        "start": 196,
+        "end": 208
+      },
+      {
+        "text": "visualizations",
+        "label": "field",
+        "start": 210,
+        "end": 224
+      }
+    ]
+  },
+  {
+    "text": "However, in the version of the metric used by NIST evaluations prior to 2009, the shortest reference sentence had been used instead.",
+    "entities": []
+  },
+  {
+    "text": "However, in contrast to boosting algorithms that analytically minimize a convex loss function (e.g. AdaBoost and LogitBoost), BrownBoost solves a system of two equations and two unknowns using standard numerical methods.",
+    "entities": [
+      {
+        "text": "AdaBoost",
+        "label": "algorithm",
+        "start": 100,
+        "end": 108
+      },
+      {
+        "text": "LogitBoost",
+        "label": "algorithm",
+        "start": 113,
+        "end": 123
+      },
+      {
+        "text": "BrownBoost",
+        "label": "algorithm",
+        "start": 126,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "Speech waveforms are generated from HMMs themselves based on the maximum likelihood criterion.",
+    "entities": [
+      {
+        "text": "HMMs",
+        "label": "algorithm",
+        "start": 36,
+        "end": 40
+      },
+      {
+        "text": "maximum likelihood",
+        "label": "algorithm",
+        "start": 65,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "text": "Convex algorithms, such as AdaBoost and LogitBoost, can be defeated by random noise such they can 't learn basic and learnable combinations of weak hypotheses.",
+    "entities": [
+      {
+        "text": "AdaBoost",
+        "label": "algorithm",
+        "start": 27,
+        "end": 35
+      },
+      {
+        "text": "LogitBoost",
+        "label": "algorithm",
+        "start": 40,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "59, pp. 2547-2553, Oct. 2011 In one dimensional polynomial-based memory (or memoryless) DPD, in order to solve for the digital pre-distorter polynomials coefficients and minimize the mean squared error (MSE), the distorted output of the nonlinear system must be over-sampled at a rate that enables the capture of the nonlinear products of the order of the digital pre-distorter.",
+    "entities": []
+  },
+  {
+    "text": "Other programming environments that are used to build DAQ applications include ladder logic, Visual C + +, Visual Basic, LabVIEW, and MATLAB.",
+    "entities": [
+      {
+        "text": "DAQ",
+        "label": "task",
+        "start": 54,
+        "end": 57
+      },
+      {
+        "text": "Visual C + +",
+        "label": "product",
+        "start": 93,
+        "end": 105
+      },
+      {
+        "text": "LabVIEW",
+        "label": "product",
+        "start": 121,
+        "end": 128
+      },
+      {
+        "text": "MATLAB",
+        "label": "product",
+        "start": 134,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "There are a number of other metrics, most simply the accuracy or Fraction Correct (FC), which measures the fraction of all instances that are correctly categorized; the complement is the Fraction Incorrect (FiC).",
+    "entities": []
+  },
+  {
+    "text": "Pandora (also known as Pandora Media or Pandora Radio) is an American music streaming and automated Recommender system internet radio service powered by the Music Genome Project and headquartered in Oakland, California.",
+    "entities": [
+      {
+        "text": "Pandora",
+        "label": "product",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Pandora Media",
+        "label": "product",
+        "start": 23,
+        "end": 36
+      },
+      {
+        "text": "Pandora Radio",
+        "label": "product",
+        "start": 40,
+        "end": 53
+      },
+      {
+        "text": "automated Recommender system",
+        "label": "product",
+        "start": 90,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "As for the results, the C-HOG and R-HOG block descriptors perform comparably, with the C-HOG descriptors maintaining a slight advantage in the detection miss rate at fixed FALSE positive rate s across both data sets.",
+    "entities": [
+      {
+        "text": "C-HOG",
+        "label": "algorithm",
+        "start": 24,
+        "end": 29
+      },
+      {
+        "text": "R-HOG",
+        "label": "algorithm",
+        "start": 34,
+        "end": 39
+      },
+      {
+        "text": "C-HOG descriptors",
+        "label": "algorithm",
+        "start": 87,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "He also worked on machine translation, both high-accuracy knowledge-based MT and machine learning for Statistical machine translation (such as generalized example-based MT).",
+    "entities": [
+      {
+        "text": "machine translation",
+        "label": "task",
+        "start": 18,
+        "end": 37
+      },
+      {
+        "text": "high-accuracy knowledge-based MT",
+        "label": "task",
+        "start": 44,
+        "end": 76
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 81,
+        "end": 97
+      },
+      {
+        "text": "Statistical machine translation",
+        "label": "task",
+        "start": 102,
+        "end": 133
+      },
+      {
+        "text": "generalized example-based MT",
+        "label": "task",
+        "start": 143,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "In 2018, the inaugural year of mission 8, the American Venue was held on the campus of the Georgia Institute of Technology in Atlanta, Georgia, and the Asia / Pacific Venue was conducted at Beihang University Gymnasium in Beijing China.",
+    "entities": []
+  },
+  {
+    "text": "Research stagnated after machine learning research by Marvin Minsky and Seymour Papert (1969),",
+    "entities": [
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 25,
+        "end": 41
+      },
+      {
+        "text": "Marvin Minsky",
+        "label": "researcher",
+        "start": 54,
+        "end": 67
+      },
+      {
+        "text": "Seymour Papert",
+        "label": "researcher",
+        "start": 72,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "text": "In the first published paper on CGs, John F. Sowa applied them to a wide range of topics in artificial intelligence, computer science, and cognitive science.",
+    "entities": [
+      {
+        "text": "CGs",
+        "label": "field",
+        "start": 32,
+        "end": 35
+      },
+      {
+        "text": "John F. Sowa",
+        "label": "researcher",
+        "start": 37,
+        "end": 49
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 92,
+        "end": 115
+      },
+      {
+        "text": "computer science",
+        "label": "field",
+        "start": 117,
+        "end": 133
+      },
+      {
+        "text": "cognitive science",
+        "label": "field",
+        "start": 139,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "Lenat was one of the original Fellows of the AAAI, and is the only individual to have on the Scientific Advisory Boards of both Microsoft and Apple.",
+    "entities": [
+      {
+        "text": "Lenat",
+        "label": "researcher",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "The maximum subarray problem was proposed by Ulf Grenander in 1977 as a simplified model for maximum likelihood estimation of patterns in digitized images.",
+    "entities": [
+      {
+        "text": "Ulf Grenander",
+        "label": "researcher",
+        "start": 45,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "Since 2009, the recurrent neural network s and deep feedforward neural networks developed in the research group of Jürgen Schmidhuber at the Swiss AI Lab IDSIA have won several international handwriting competitions ..",
+    "entities": [
+      {
+        "text": "recurrent neural network",
+        "label": "algorithm",
+        "start": 16,
+        "end": 40
+      },
+      {
+        "text": "deep feedforward neural networks",
+        "label": "algorithm",
+        "start": 47,
+        "end": 79
+      },
+      {
+        "text": "Jürgen Schmidhuber",
+        "label": "researcher",
+        "start": 115,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "Since paraphrase recognition can be posed as a classification problem, most standard evaluations metrics such as accuracy, f1 score, or an ROC curve do relatively well.",
+    "entities": [
+      {
+        "text": "paraphrase recognition",
+        "label": "task",
+        "start": 6,
+        "end": 28
+      },
+      {
+        "text": "classification",
+        "label": "task",
+        "start": 47,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "text": "These Intelligent Chatbots make use of all kinds of artificial intelligence like image moderation and natural language understanding (NLU), natural language generation (NLG), machine learning and deep learning.",
+    "entities": [
+      {
+        "text": "Chatbots",
+        "label": "product",
+        "start": 18,
+        "end": 26
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 52,
+        "end": 75
+      },
+      {
+        "text": "image moderation",
+        "label": "task",
+        "start": 81,
+        "end": 97
+      },
+      {
+        "text": "natural language understanding",
+        "label": "task",
+        "start": 102,
+        "end": 132
+      },
+      {
+        "text": "NLU",
+        "label": "task",
+        "start": 134,
+        "end": 137
+      },
+      {
+        "text": "natural language generation",
+        "label": "task",
+        "start": 140,
+        "end": 167
+      },
+      {
+        "text": "NLG",
+        "label": "task",
+        "start": 169,
+        "end": 172
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 175,
+        "end": 191
+      },
+      {
+        "text": "deep learning",
+        "label": "field",
+        "start": 196,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "Learning the parameters math \\ theta / math is usually done by maximum likelihood learning for mathp (Y _ i | X _ i; \\ theta) / math.",
+    "entities": [
+      {
+        "text": "maximum likelihood learning",
+        "label": "algorithm",
+        "start": 63,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "text": "2004 - The first Cobot KUKA LBR 3 is released.",
+    "entities": [
+      {
+        "text": "Cobot KUKA LBR 3",
+        "label": "product",
+        "start": 17,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "Traditional phonetic-based (i.e., all Hidden Markov model -based model) approaches required separate components and training for the pronunciation, acoustic and language model.",
+    "entities": [
+      {
+        "text": "Hidden Markov model",
+        "label": "algorithm",
+        "start": 38,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "text": "Boris Katz, (born October 5, 1947, Chișinău, Moldavian SSR, Soviet Union, (now Chișinău, Moldova)) is a principal American research scientist (computer scientist) at the MIT Computer Science and Artificial Intelligence Laboratory at the Massachusetts Institute of Technology in Cambridge and head of the Laboratory's InfoLab Group.",
+    "entities": [
+      {
+        "text": "Boris Katz",
+        "label": "researcher",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "To be specific, the BIBO stability criterion requires that the ROC of the system includes the unit circle.",
+    "entities": []
+  },
+  {
+    "text": "Typical generative model approaches include naive Bayes classifier s, Gaussian mixture model s, variational autoencoders and others.",
+    "entities": [
+      {
+        "text": "naive Bayes classifier",
+        "label": "algorithm",
+        "start": 44,
+        "end": 66
+      },
+      {
+        "text": "Gaussian mixture model",
+        "label": "algorithm",
+        "start": 70,
+        "end": 92
+      },
+      {
+        "text": "variational autoencoders",
+        "label": "algorithm",
+        "start": 96,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "The most commonly used robot configurations are articulated robots, SCARA robots, delta robots and cartesian coordinate robots, (gantry robots or x-y-z robots).",
+    "entities": [
+      {
+        "text": "articulated robots",
+        "label": "product",
+        "start": 48,
+        "end": 66
+      },
+      {
+        "text": "SCARA robots",
+        "label": "product",
+        "start": 68,
+        "end": 80
+      },
+      {
+        "text": "delta robots",
+        "label": "product",
+        "start": 82,
+        "end": 94
+      },
+      {
+        "text": "cartesian coordinate robots",
+        "label": "product",
+        "start": 99,
+        "end": 126
+      },
+      {
+        "text": "gantry robots",
+        "label": "product",
+        "start": 129,
+        "end": 142
+      },
+      {
+        "text": "x-y-z robots",
+        "label": "product",
+        "start": 146,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "text": "Artificial neural networks have been used on a variety of tasks, including computer vision, speech recognition, machine translation, social network filtering, playing board and video games and medical diagnosis.",
+    "entities": [
+      {
+        "text": "Artificial neural networks",
+        "label": "algorithm",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 75,
+        "end": 90
+      },
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 92,
+        "end": 110
+      },
+      {
+        "text": "machine translation",
+        "label": "task",
+        "start": 112,
+        "end": 131
+      },
+      {
+        "text": "social network filtering",
+        "label": "task",
+        "start": 133,
+        "end": 157
+      },
+      {
+        "text": "playing board and video games",
+        "label": "task",
+        "start": 159,
+        "end": 188
+      },
+      {
+        "text": "medical diagnosis",
+        "label": "task",
+        "start": 193,
+        "end": 210
+      }
+    ]
+  },
+  {
+    "text": "The Association for the Advancement of Artificial Intelligence has studied this topic in depth",
+    "entities": []
+  },
+  {
+    "text": "The FBI has also instituted its Next Generation Identification program to include face recognition, as well as more traditional biometrics like fingerprints and iris scans, which can pull from both criminal and civil databases.",
+    "entities": [
+      {
+        "text": "face recognition",
+        "label": "task",
+        "start": 82,
+        "end": 98
+      },
+      {
+        "text": "biometrics",
+        "label": "field",
+        "start": 128,
+        "end": 138
+      }
+    ]
+  },
+  {
+    "text": "An optimal value for math \\ alpha / math can be found by using a line search algorithm, that is, the magnitude of math \\ alpha / math is determined by finding the value that minimizes S, usually using a line search in the interval math0 \\ alpha 1 / math or a backtracking line search such as Armijo-line search.",
+    "entities": [
+      {
+        "text": "line search algorithm",
+        "label": "algorithm",
+        "start": 65,
+        "end": 86
+      },
+      {
+        "text": "line search",
+        "label": "algorithm",
+        "start": 203,
+        "end": 214
+      },
+      {
+        "text": "backtracking line search",
+        "label": "algorithm",
+        "start": 259,
+        "end": 283
+      },
+      {
+        "text": "Armijo-line search",
+        "label": "algorithm",
+        "start": 292,
+        "end": 310
+      }
+    ]
+  },
+  {
+    "text": "The Roberts cross operator is used in image processing and computer vision for edge detection.",
+    "entities": [
+      {
+        "text": "Roberts cross operator",
+        "label": "algorithm",
+        "start": 4,
+        "end": 26
+      },
+      {
+        "text": "image processing",
+        "label": "field",
+        "start": 38,
+        "end": 54
+      },
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 59,
+        "end": 74
+      },
+      {
+        "text": "edge detection",
+        "label": "task",
+        "start": 79,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "text": "Gerry Sussman, Eugene Charniak, Seymour Papert and Terry Winograd visited the University of Edinburgh in 1971 spreading the news about Micro-Planner and SHRDLU and casting doubt on the resolution uniform proof procedure approach that had been the mainstay of the Edinburgh Logicists.",
+    "entities": [
+      {
+        "text": "Gerry Sussman",
+        "label": "researcher",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Eugene Charniak",
+        "label": "researcher",
+        "start": 15,
+        "end": 30
+      },
+      {
+        "text": "Seymour Papert",
+        "label": "researcher",
+        "start": 32,
+        "end": 46
+      },
+      {
+        "text": "Terry Winograd",
+        "label": "researcher",
+        "start": 51,
+        "end": 65
+      },
+      {
+        "text": "Micro-Planner",
+        "label": "product",
+        "start": 135,
+        "end": 148
+      },
+      {
+        "text": "SHRDLU",
+        "label": "product",
+        "start": 153,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "Since the early 1990s, it has been recommended by several authorities, including the Audio Engineering Society that measurements of dynamic range be made with an audio signal present, which is then filtered out in the noise floor measurement used in determining dynamic range. This avoids questionable measurements based on the use of blank media, or muting circuits.",
+    "entities": []
+  },
+  {
+    "text": "With his students Sepp Hochreiter, Felix Gers, Fred Cummins, Alex Graves, and others, Schmidhuber published increasingly sophisticated versions of a type of recurrent neural network called the long short-term memory (LSTM).",
+    "entities": [
+      {
+        "text": "Sepp Hochreiter",
+        "label": "researcher",
+        "start": 18,
+        "end": 33
+      },
+      {
+        "text": "Felix Gers",
+        "label": "researcher",
+        "start": 35,
+        "end": 45
+      },
+      {
+        "text": "Fred Cummins",
+        "label": "researcher",
+        "start": 47,
+        "end": 59
+      },
+      {
+        "text": "Alex Graves",
+        "label": "researcher",
+        "start": 61,
+        "end": 72
+      },
+      {
+        "text": "Schmidhuber",
+        "label": "researcher",
+        "start": 86,
+        "end": 97
+      },
+      {
+        "text": "recurrent neural network",
+        "label": "algorithm",
+        "start": 157,
+        "end": 181
+      },
+      {
+        "text": "long short-term memory",
+        "label": "algorithm",
+        "start": 193,
+        "end": 215
+      },
+      {
+        "text": "LSTM",
+        "label": "algorithm",
+        "start": 217,
+        "end": 221
+      }
+    ]
+  },
+  {
+    "text": "Popular recognition algorithms include principal component analysis using eigenface s, linear discriminant analysis, Elastic matching using the Fisherface algorithm, the hidden Markov model, the multilinear subspace learning using tensor representation, and the neuronal motivated dynamic link matching.",
+    "entities": [
+      {
+        "text": "principal component analysis",
+        "label": "algorithm",
+        "start": 39,
+        "end": 67
+      },
+      {
+        "text": "linear discriminant analysis",
+        "label": "algorithm",
+        "start": 87,
+        "end": 115
+      },
+      {
+        "text": "Elastic matching",
+        "label": "algorithm",
+        "start": 117,
+        "end": 133
+      },
+      {
+        "text": "Fisherface algorithm",
+        "label": "algorithm",
+        "start": 144,
+        "end": 164
+      },
+      {
+        "text": "hidden Markov model",
+        "label": "algorithm",
+        "start": 170,
+        "end": 189
+      },
+      {
+        "text": "multilinear subspace learning",
+        "label": "algorithm",
+        "start": 195,
+        "end": 224
+      },
+      {
+        "text": "dynamic link matching",
+        "label": "algorithm",
+        "start": 281,
+        "end": 302
+      }
+    ]
+  },
+  {
+    "text": "Autoencoders are trained to minimise reconstruction errors (such as Mean squared error), often referred to as the loss:",
+    "entities": [
+      {
+        "text": "Autoencoders",
+        "label": "algorithm",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Evolutionary programming was introduced by Lawrence J. Fogel in the US, while John Henry Holland called his method a genetic algorithm.",
+    "entities": [
+      {
+        "text": "Evolutionary programming",
+        "label": "algorithm",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "Lawrence J. Fogel",
+        "label": "researcher",
+        "start": 43,
+        "end": 60
+      },
+      {
+        "text": "John Henry Holland",
+        "label": "researcher",
+        "start": 78,
+        "end": 96
+      },
+      {
+        "text": "genetic algorithm",
+        "label": "algorithm",
+        "start": 117,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "Various methods for doing so were developed in the 1980s and early 1990s by Werbos, Williams, Robinson, Jürgen Schmidhuber, Sepp Hochreiter, Pearlmutter and others.",
+    "entities": [
+      {
+        "text": "Werbos",
+        "label": "researcher",
+        "start": 76,
+        "end": 82
+      },
+      {
+        "text": "Williams",
+        "label": "researcher",
+        "start": 84,
+        "end": 92
+      },
+      {
+        "text": "Robinson",
+        "label": "researcher",
+        "start": 94,
+        "end": 102
+      },
+      {
+        "text": "Jürgen Schmidhuber",
+        "label": "researcher",
+        "start": 104,
+        "end": 122
+      },
+      {
+        "text": "Sepp Hochreiter",
+        "label": "researcher",
+        "start": 124,
+        "end": 139
+      },
+      {
+        "text": "Pearlmutter",
+        "label": "researcher",
+        "start": 141,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "text": "An overview of calibration methods for binary classification and multiclass classification classification tasks is given by Gebel (2009)",
+    "entities": [
+      {
+        "text": "binary classification",
+        "label": "task",
+        "start": 39,
+        "end": 60
+      },
+      {
+        "text": "multiclass classification classification tasks",
+        "label": "task",
+        "start": 65,
+        "end": 111
+      },
+      {
+        "text": "Gebel",
+        "label": "researcher",
+        "start": 124,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "As in factor analysis, the LCA can also be used to classify case according to their maximum likelihood class membership.",
+    "entities": [
+      {
+        "text": "factor analysis",
+        "label": "task",
+        "start": 6,
+        "end": 21
+      },
+      {
+        "text": "LCA",
+        "label": "algorithm",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "maximum likelihood",
+        "label": "algorithm",
+        "start": 84,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "OPeNDAP offers open-source libraries in C + + and Java, but many clients rely on community developed libraries such as libraries include embedded capabilities for retrieving (array-style) data from DAP servers.",
+    "entities": []
+  },
+  {
+    "text": "Advances in the field of computational imaging research is presented in several venues including publications of SIGGRAPH and the.",
+    "entities": [
+      {
+        "text": "computational imaging",
+        "label": "field",
+        "start": 25,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "Localized versions of the site available in the United Kingdom, India, and Australia were discontinued following the acquisition of Rotten Tomatoes by Fandango.",
+    "entities": []
+  },
+  {
+    "text": "For regression analysis problems the squared error can be used as a loss function, for classification the cross entropy can be used.",
+    "entities": [
+      {
+        "text": "regression analysis",
+        "label": "task",
+        "start": 4,
+        "end": 23
+      },
+      {
+        "text": "classification",
+        "label": "task",
+        "start": 87,
+        "end": 101
+      }
+    ]
+  },
+  {
+    "text": "The PUMA (Programmable Universal Machine for Assembly, or Programmable Universal Manipulation Arm) is an industrial robot robotic arm developed by Victor Scheinman at pioneering robot company Unimation.",
+    "entities": [
+      {
+        "text": "PUMA",
+        "label": "product",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "Programmable Universal Machine for Assembly",
+        "label": "product",
+        "start": 10,
+        "end": 53
+      },
+      {
+        "text": "Programmable Universal Manipulation Arm",
+        "label": "product",
+        "start": 58,
+        "end": 97
+      },
+      {
+        "text": "Victor Scheinman",
+        "label": "researcher",
+        "start": 147,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "The NeuralExpert centers the design specifications around the type of problem the user would like the neural network to solve (Classification, Prediction, Function approximation or Cluster analysis).",
+    "entities": [
+      {
+        "text": "neural network",
+        "label": "algorithm",
+        "start": 102,
+        "end": 116
+      },
+      {
+        "text": "Classification",
+        "label": "task",
+        "start": 127,
+        "end": 141
+      },
+      {
+        "text": "Prediction",
+        "label": "task",
+        "start": 143,
+        "end": 153
+      },
+      {
+        "text": "Function approximation",
+        "label": "task",
+        "start": 155,
+        "end": 177
+      },
+      {
+        "text": "Cluster analysis",
+        "label": "task",
+        "start": 181,
+        "end": 197
+      }
+    ]
+  },
+  {
+    "text": "A lexical dictionary such as WordNet can then be used for understanding the context.",
+    "entities": [
+      {
+        "text": "WordNet",
+        "label": "product",
+        "start": 29,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "The software is used to design, train and deploy neural network (supervised learning and unsupervised learning) models to perform a wide variety of tasks such as data mining, classification, function approximation, multivariate regression and time-series prediction.",
+    "entities": [
+      {
+        "text": "neural network",
+        "label": "algorithm",
+        "start": 49,
+        "end": 63
+      },
+      {
+        "text": "supervised learning",
+        "label": "field",
+        "start": 65,
+        "end": 84
+      },
+      {
+        "text": "unsupervised learning",
+        "label": "field",
+        "start": 89,
+        "end": 110
+      },
+      {
+        "text": "data mining",
+        "label": "field",
+        "start": 162,
+        "end": 173
+      },
+      {
+        "text": "classification",
+        "label": "task",
+        "start": 175,
+        "end": 189
+      },
+      {
+        "text": "function approximation",
+        "label": "task",
+        "start": 191,
+        "end": 213
+      },
+      {
+        "text": "multivariate regression",
+        "label": "algorithm",
+        "start": 215,
+        "end": 238
+      },
+      {
+        "text": "time-series prediction",
+        "label": "task",
+        "start": 243,
+        "end": 265
+      }
+    ]
+  },
+  {
+    "text": "This update rule is in fact the stochastic gradient descent update for linear regression.",
+    "entities": [
+      {
+        "text": "stochastic gradient descent",
+        "label": "algorithm",
+        "start": 32,
+        "end": 59
+      },
+      {
+        "text": "linear regression",
+        "label": "algorithm",
+        "start": 71,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "text": "Information Dissemination is also part of ELRA's missions which is carried through both the organisation of the conference LREC and the Language Resources and Evaluation Journal edited by Springer.",
+    "entities": [
+      {
+        "text": "Information Dissemination",
+        "label": "task",
+        "start": 0,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "There are bindings in Python, Java and MATLAB / OCTAVE.",
+    "entities": [
+      {
+        "text": "MATLAB",
+        "label": "product",
+        "start": 39,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "In 1913, Walter R. Booth directed 10 films for the U.K. Kinoplastikon, presumably in collaboration with Cecil Hepworth.",
+    "entities": []
+  },
+  {
+    "text": "As part of the GATEway Project in 2017, Oxbotica trialled seven autonomous shuttle buses in Greenwich, navigating a two-mile riverside path near London's The O2 Arena on a route also used by pedestrians and cyclists.",
+    "entities": []
+  },
+  {
+    "text": "More exotic fitness functions that explore model granularity include the area under the ROC curve and rank measure.",
+    "entities": [
+      {
+        "text": "exotic fitness functions",
+        "label": "algorithm",
+        "start": 5,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "As a performance metric, the uncertainty coefficient has the advantage over simple accuracy in that it is not affected by the relative sizes of the different classes.",
+    "entities": []
+  },
+  {
+    "text": "This is an example implementation in Python:",
+    "entities": []
+  },
+  {
+    "text": "Pattern recognition is closely related to artificial intelligence and machine learning,",
+    "entities": [
+      {
+        "text": "Pattern recognition",
+        "label": "field",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 42,
+        "end": 65
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 70,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "text": "He subsequently extended an invitation for Wydner to attend the annual meeting of the American Translators Association that following October where the Weidner Machine Translation System hailed a hoped-for breakthrough in machine translation.",
+    "entities": [
+      {
+        "text": "Wydner",
+        "label": "researcher",
+        "start": 43,
+        "end": 49
+      },
+      {
+        "text": "Weidner Machine Translation System",
+        "label": "product",
+        "start": 152,
+        "end": 186
+      },
+      {
+        "text": "machine translation",
+        "label": "task",
+        "start": 222,
+        "end": 241
+      }
+    ]
+  },
+  {
+    "text": "An example of this would be a variable such as outside temperature (mathtemp / math), which in a given application might be recorded to several decimal places of precision (depending on the sensing apparatus).",
+    "entities": []
+  },
+  {
+    "text": "Recently, Google announced that Google Translate translates roughly enough text to fill 1 million books in one day (2012).",
+    "entities": [
+      {
+        "text": "Google Translate",
+        "label": "product",
+        "start": 32,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "(Nevertheless, the ReLU activation function, which is non-differentiable at 0, has become quite popular, e.g. in AlexNet)",
+    "entities": [
+      {
+        "text": "ReLU activation function",
+        "label": "algorithm",
+        "start": 19,
+        "end": 43
+      },
+      {
+        "text": "AlexNet",
+        "label": "algorithm",
+        "start": 113,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "The input is called speech recognition and the output is called speech synthesis.",
+    "entities": [
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 20,
+        "end": 38
+      },
+      {
+        "text": "speech synthesis",
+        "label": "task",
+        "start": 64,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "WordNet is a lexical database of semantic relation s between word s in more than 200 languages. its primary use is in automatic natural language processing and artificial intelligence applications.",
+    "entities": [
+      {
+        "text": "WordNet",
+        "label": "product",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "natural language processing",
+        "label": "field",
+        "start": 128,
+        "end": 155
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 160,
+        "end": 183
+      }
+    ]
+  },
+  {
+    "text": "A number of WordNet-based word similarity algorithms are implemented in a Perl package called WordNet :: Similarity.",
+    "entities": [
+      {
+        "text": "WordNet-based word similarity algorithms",
+        "label": "algorithm",
+        "start": 12,
+        "end": 52
+      },
+      {
+        "text": "WordNet :: Similarity",
+        "label": "product",
+        "start": 94,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "text": "Such functions include the mean squared error, root mean squared error, mean absolute error, relative squared error, root relative squared error, relative absolute error, and others.",
+    "entities": []
+  },
+  {
+    "text": "The lightweight open-source speech project eSpeak, which has its own approach to synthesis, has experimented with Mandarin and Cantonese. eSpeak was used by Google Translate from May 20102010.",
+    "entities": [
+      {
+        "text": "eSpeak",
+        "label": "product",
+        "start": 43,
+        "end": 49
+      },
+      {
+        "text": "eSpeak",
+        "label": "product",
+        "start": 138,
+        "end": 144
+      },
+      {
+        "text": "Google Translate",
+        "label": "product",
+        "start": 157,
+        "end": 173
+      }
+    ]
+  },
+  {
+    "text": "Hayes is a charter Fellow of AAAI and of the Cognitive Science Society",
+    "entities": [
+      {
+        "text": "Hayes",
+        "label": "researcher",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "Their ' parallel ' distinction, as opposed to a serial manipulator, is that the end effector (or ' hand ') of this linkage (or ' arm ') is directly connected to its base by a number of (usually three or six) separate and independent linkages working simultaneously.",
+    "entities": [
+      {
+        "text": "serial manipulator",
+        "label": "product",
+        "start": 48,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "The extension of this concept to non-binary classifications yields the confusion matrix.",
+    "entities": [
+      {
+        "text": "non-binary classifications",
+        "label": "task",
+        "start": 33,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "text": "An example of a typical computer vision computation pipeline for Facial recognition system using k -NN including feature extraction and dimension reduction pre-processing steps (usually implemented with OpenCV):",
+    "entities": [
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 24,
+        "end": 39
+      },
+      {
+        "text": "Facial recognition system",
+        "label": "product",
+        "start": 65,
+        "end": 90
+      },
+      {
+        "text": "k -NN",
+        "label": "algorithm",
+        "start": 97,
+        "end": 102
+      },
+      {
+        "text": "feature extraction",
+        "label": "task",
+        "start": 113,
+        "end": 131
+      },
+      {
+        "text": "dimension reduction",
+        "label": "task",
+        "start": 136,
+        "end": 155
+      },
+      {
+        "text": "OpenCV",
+        "label": "product",
+        "start": 203,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "For example, the ambiguity of ' mouse ' (animal or device) is not relevant in machine translation, but is relevant in information retrieval.",
+    "entities": [
+      {
+        "text": "machine translation",
+        "label": "task",
+        "start": 78,
+        "end": 97
+      },
+      {
+        "text": "information retrieval",
+        "label": "task",
+        "start": 118,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "text": "John D. Lafferty, Andrew McCallum and Pereiramath as follows:",
+    "entities": [
+      {
+        "text": "John D. Lafferty",
+        "label": "researcher",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "Andrew McCallum",
+        "label": "researcher",
+        "start": 18,
+        "end": 33
+      },
+      {
+        "text": "Pereiramath",
+        "label": "researcher",
+        "start": 38,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "The concept of deconvolution is widely used in the techniques of signal processing and image processing.",
+    "entities": [
+      {
+        "text": "deconvolution",
+        "label": "algorithm",
+        "start": 15,
+        "end": 28
+      },
+      {
+        "text": "signal processing",
+        "label": "field",
+        "start": 65,
+        "end": 82
+      },
+      {
+        "text": "image processing",
+        "label": "field",
+        "start": 87,
+        "end": 103
+      }
+    ]
+  },
+  {
+    "text": "But perceptron models were made very unpopular by the book Perceptrons by Marvin Minsky and Seymour Papert, published in 1969.",
+    "entities": [
+      {
+        "text": "perceptron models",
+        "label": "algorithm",
+        "start": 4,
+        "end": 21
+      },
+      {
+        "text": "Marvin Minsky",
+        "label": "researcher",
+        "start": 74,
+        "end": 87
+      },
+      {
+        "text": "Seymour Papert",
+        "label": "researcher",
+        "start": 92,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "He is a Life Fellow of IEEE.",
+    "entities": []
+  },
+  {
+    "text": "During the 1990s, encouraged by successes in speech recognition and speech synthesis, research began into speech translation with the development of the German Verbmobil project.",
+    "entities": [
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 45,
+        "end": 63
+      },
+      {
+        "text": "speech synthesis",
+        "label": "task",
+        "start": 68,
+        "end": 84
+      },
+      {
+        "text": "speech translation",
+        "label": "task",
+        "start": 106,
+        "end": 124
+      }
+    ]
+  }
+]

@@ -1,0 +1,816 @@
+[
+  {
+    "text": "Snoozing Vietnamese man takes slow train to Alaska.",
+    "entities": [
+      {
+        "text": "Alaska",
+        "label": "LOC",
+        "start": 44,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "Rabobank's net profit was 1.43 billion guilders in 1995.",
+    "entities": [
+      {
+        "text": "Rabobank",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Death is not a punishment -- death is the end of life's punishment, \" he said.",
+    "entities": []
+  },
+  {
+    "text": "They were later released.",
+    "entities": []
+  },
+  {
+    "text": "Harding says others have done the same. \"",
+    "entities": [
+      {
+        "text": "Harding",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "The second round was the entry point for the bulk of the serie A sides with the winners going through.",
+    "entities": []
+  },
+  {
+    "text": "16= Claudia Riegler (New Zealand) 100",
+    "entities": [
+      {
+        "text": "Claudia Riegler",
+        "label": "PER",
+        "start": 4,
+        "end": 19
+      },
+      {
+        "text": "New Zealand",
+        "label": "LOC",
+        "start": 21,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "All those detained appeared to have been freed, the spokesman said.",
+    "entities": []
+  },
+  {
+    "text": "THURSDAY, AUGUST 29TH SCHEDULE",
+    "entities": []
+  },
+  {
+    "text": "Inzamam-ul-Haq c Thorpe b Croft 6",
+    "entities": [
+      {
+        "text": "Inzamam-ul-Haq",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Thorpe",
+        "label": "PER",
+        "start": 17,
+        "end": 23
+      },
+      {
+        "text": "Croft",
+        "label": "PER",
+        "start": 26,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "7. Oksana Ravllova (Russia) 1:25.55",
+    "entities": [
+      {
+        "text": "Oksana Ravllova",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "Russia",
+        "label": "LOC",
+        "start": 20,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "- Analyst Alexander Paris said he expected consistent 20 percent earnings growth after an estimated gain of 18 percent for 1996.",
+    "entities": [
+      {
+        "text": "Alexander Paris",
+        "label": "PER",
+        "start": 10,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "Rosenborg 20 14 4 2 68 21 46",
+    "entities": [
+      {
+        "text": "Rosenborg",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "If there is no result the decision will be ceded to an electoral college.",
+    "entities": []
+  },
+  {
+    "text": "An estimated 50,000 people had been killed in political violence in Algeria since 1992, when army-backed authorities cancelled a general election that Islamic fundamentalists had been expected to win.",
+    "entities": [
+      {
+        "text": "Algeria",
+        "label": "LOC",
+        "start": 68,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "Men's triple jump",
+    "entities": []
+  },
+  {
+    "text": "RTRS - Golf: Norman sacks his coach after disappointing season.",
+    "entities": [
+      {
+        "text": "RTRS",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Norman",
+        "label": "PER",
+        "start": 13,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "Billy Ashley belted a three-run homer for Los Angeles.",
+    "entities": [
+      {
+        "text": "Billy Ashley",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Los Angeles",
+        "label": "ORG",
+        "start": 42,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "text": "Afghan guerrilla factions have been locked in a bloody power struggle since the fall of the communist government in April 1992.",
+    "entities": []
+  },
+  {
+    "text": "1533 - Queen Elizabeth I born.",
+    "entities": [
+      {
+        "text": "Elizabeth I",
+        "label": "PER",
+        "start": 13,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "1. Katja Seizinger (Germany) 414 points",
+    "entities": [
+      {
+        "text": "Katja Seizinger",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 20,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "8 .Giuseppe Citterio (Italy) Aki",
+    "entities": [
+      {
+        "text": ".Giuseppe Citterio",
+        "label": "PER",
+        "start": 2,
+        "end": 20
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "Aki",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "ESCHEN 1996-08-31",
+    "entities": [
+      {
+        "text": "ESCHEN",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "SOCCER - SCOTTISH PREMIER DIVISION RESULT / STANDINGS.",
+    "entities": []
+  },
+  {
+    "text": "\" Coming just a million guilders under the forecast range isn't overwhelmingly surprising, \" said ING analyst Steven Vrolijk, who is continuing to look for a nine to 10 percent rise in 1996 earnings.",
+    "entities": [
+      {
+        "text": "ING",
+        "label": "ORG",
+        "start": 98,
+        "end": 101
+      },
+      {
+        "text": "Steven Vrolijk",
+        "label": "PER",
+        "start": 110,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "Universitatea Craiova 4 1 1 2 8 6 4",
+    "entities": [
+      {
+        "text": "Universitatea Craiova",
+        "label": "ORG",
+        "start": 0,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "However, it called the conditions \" more severe \" than those imposed by other regulatory authorities on similar airline alliances.",
+    "entities": []
+  },
+  {
+    "text": "MUNICH, Germany 1996-12-06",
+    "entities": [
+      {
+        "text": "MUNICH",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 8,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "BUDAPEST 1996-08-23",
+    "entities": [
+      {
+        "text": "BUDAPEST",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Value to the winning owner: $233,600",
+    "entities": []
+  },
+  {
+    "text": "But the driver's wife kept her nerve, got out her camera and photographed him.",
+    "entities": []
+  },
+  {
+    "text": "NATO's top military men -- General George Joulwan, Supreme Allied Commander Europe, and General John Sheehan, Supreme Allied Commander Atlantic -- will also attend.",
+    "entities": [
+      {
+        "text": "NATO",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "George Joulwan",
+        "label": "PER",
+        "start": 35,
+        "end": 49
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 76,
+        "end": 82
+      },
+      {
+        "text": "John Sheehan",
+        "label": "PER",
+        "start": 96,
+        "end": 108
+      },
+      {
+        "text": "Atlantic",
+        "label": "LOC",
+        "start": 135,
+        "end": 143
+      }
+    ]
+  },
+  {
+    "text": "------------------------------------------------------------",
+    "entities": []
+  },
+  {
+    "text": "Excise Commissioner W.N.F. Chandraratne denies allegations that new guidelines in issue of liquor licences are aimed at forcing large number of liquor licence holders out of business for political reasons.",
+    "entities": [
+      {
+        "text": "W.N.F. Chandraratne",
+        "label": "PER",
+        "start": 20,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "text": "Sparta Rotterdam 2 0 1 1 0 1 1",
+    "entities": [
+      {
+        "text": "Sparta Rotterdam",
+        "label": "ORG",
+        "start": 0,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "Kryvbas Kryvy Rig 1 Karpaty Lviv 2",
+    "entities": [
+      {
+        "text": "Kryvbas Kryvy Rig",
+        "label": "ORG",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "Karpaty Lviv",
+        "label": "ORG",
+        "start": 20,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "U.N. oficials have said Ekeus would hold talks with Iraqi Deputy Prime Minister Tareq Aziz and other officials as part of an agreement Iraq reached with the United Nations in June to hold higher level political talks with Ekeus.",
+    "entities": [
+      {
+        "text": "U.N.",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Ekeus",
+        "label": "PER",
+        "start": 24,
+        "end": 29
+      },
+      {
+        "text": "Tareq Aziz",
+        "label": "PER",
+        "start": 80,
+        "end": 90
+      },
+      {
+        "text": "Iraq",
+        "label": "LOC",
+        "start": 135,
+        "end": 139
+      },
+      {
+        "text": "United Nations",
+        "label": "ORG",
+        "start": 157,
+        "end": 171
+      },
+      {
+        "text": "Ekeus",
+        "label": "PER",
+        "start": 222,
+        "end": 227
+      }
+    ]
+  },
+  {
+    "text": "Lincoln 3 0 2 1 3 4 2",
+    "entities": [
+      {
+        "text": "Lincoln",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Jul 97 74.45 74.01 69.95 71.39-76.12",
+    "entities": []
+  },
+  {
+    "text": "The number of plastic surgeries in Brazil has jumped 30 percent to an estimated 150,000 this year since an anti-inflation plan was introduced in July 1994, Farid Hakme, the president of the Brazilian Plastic Surgery Society (SBCP), said.",
+    "entities": [
+      {
+        "text": "Brazil",
+        "label": "LOC",
+        "start": 35,
+        "end": 41
+      },
+      {
+        "text": "Farid Hakme",
+        "label": "PER",
+        "start": 156,
+        "end": 167
+      },
+      {
+        "text": "Brazilian Plastic Surgery Society",
+        "label": "ORG",
+        "start": 190,
+        "end": 223
+      },
+      {
+        "text": "SBCP",
+        "label": "ORG",
+        "start": 225,
+        "end": 229
+      }
+    ]
+  },
+  {
+    "text": "England - Mike Atherton (captain), Nick Knight, Alec Stewart, Graham Thorpe, Matthew Maynard, Graham Lloyd, Ronnie Irani, Robert Croft, Darren Gough, Dean Headley, Alan Mullally.",
+    "entities": [
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Mike Atherton",
+        "label": "PER",
+        "start": 10,
+        "end": 23
+      },
+      {
+        "text": "Nick Knight",
+        "label": "PER",
+        "start": 35,
+        "end": 46
+      },
+      {
+        "text": "Alec Stewart",
+        "label": "PER",
+        "start": 48,
+        "end": 60
+      },
+      {
+        "text": "Graham Thorpe",
+        "label": "PER",
+        "start": 62,
+        "end": 75
+      },
+      {
+        "text": "Matthew Maynard",
+        "label": "PER",
+        "start": 77,
+        "end": 92
+      },
+      {
+        "text": "Graham Lloyd",
+        "label": "PER",
+        "start": 94,
+        "end": 106
+      },
+      {
+        "text": "Ronnie Irani",
+        "label": "PER",
+        "start": 108,
+        "end": 120
+      },
+      {
+        "text": "Robert Croft",
+        "label": "PER",
+        "start": 122,
+        "end": 134
+      },
+      {
+        "text": "Darren Gough",
+        "label": "PER",
+        "start": 136,
+        "end": 148
+      },
+      {
+        "text": "Dean Headley",
+        "label": "PER",
+        "start": 150,
+        "end": 162
+      },
+      {
+        "text": "Alan Mullally",
+        "label": "PER",
+        "start": 164,
+        "end": 177
+      }
+    ]
+  },
+  {
+    "text": "NOTE - Full name of the state-owned German railway company is Deutsche Bahn AG.",
+    "entities": [
+      {
+        "text": "Deutsche Bahn AG",
+        "label": "ORG",
+        "start": 62,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "With more room to the downside anticipated early next week, traders said support in January was at $3.47, then $3.35.",
+    "entities": []
+  },
+  {
+    "text": "Berlin, Brussels and Zurich all belong to the most lucrative series in the sport, the Golden Four.",
+    "entities": [
+      {
+        "text": "Berlin",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Brussels",
+        "label": "LOC",
+        "start": 8,
+        "end": 16
+      },
+      {
+        "text": "Zurich",
+        "label": "LOC",
+        "start": 21,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "Results of Italian Cup second round",
+    "entities": []
+  },
+  {
+    "text": "Albright will meet Foreign Minister Jose Miguel Insulza Monday for talks on issues currently up for debate on the council, of which Chile is a non-permanent member, a U.S. embassy statement said.",
+    "entities": [
+      {
+        "text": "Albright",
+        "label": "PER",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Jose Miguel Insulza",
+        "label": "PER",
+        "start": 36,
+        "end": 55
+      },
+      {
+        "text": "Chile",
+        "label": "LOC",
+        "start": 132,
+        "end": 137
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 167,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "Dalian port officials, contacted by telephone, confirmed the collision but gave no further details.",
+    "entities": [
+      {
+        "text": "Dalian",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "INDICATORS - Hungary - updated Aug 22.",
+    "entities": [
+      {
+        "text": "Hungary",
+        "label": "LOC",
+        "start": 13,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Olympiakos of Greece beat Russia's Dinamo 69-60 (halftime 35-23) in the third match of an international basketball tournament on Thursday, qualifying for the finals.",
+    "entities": [
+      {
+        "text": "Olympiakos",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Greece",
+        "label": "LOC",
+        "start": 14,
+        "end": 20
+      },
+      {
+        "text": "Russia",
+        "label": "LOC",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "text": "Dinamo",
+        "label": "ORG",
+        "start": 35,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "text": "Iraq's deputy ambassador, Saeed Hasan, noted that the May 20 accord said that the number of personnel would be determined by the United Nations and that the government of Iraq would be consulted.",
+    "entities": [
+      {
+        "text": "Iraq",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Saeed Hasan",
+        "label": "PER",
+        "start": 26,
+        "end": 37
+      },
+      {
+        "text": "United Nations",
+        "label": "ORG",
+        "start": 129,
+        "end": 143
+      },
+      {
+        "text": "Iraq",
+        "label": "LOC",
+        "start": 171,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "Philip Maslowe, chief financial officer of the preschool and child care company, said the buyback \" offered an opportunity to reduce the company's weighted average interest costs and improve future cash flows and earnings. \"",
+    "entities": [
+      {
+        "text": "Philip Maslowe",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "\" It was Greenspan at first.",
+    "entities": [
+      {
+        "text": "Greenspan",
+        "label": "PER",
+        "start": 9,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "HONG KONG 1996-08-23",
+    "entities": [
+      {
+        "text": "HONG KONG",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "The conditions for clearance of the alliance were that British Airways and American drop 168 slots at London Heathrow airport, the busiest in Europe.",
+    "entities": [
+      {
+        "text": "British Airways",
+        "label": "ORG",
+        "start": 55,
+        "end": 70
+      },
+      {
+        "text": "American",
+        "label": "ORG",
+        "start": 75,
+        "end": 83
+      },
+      {
+        "text": "London Heathrow",
+        "label": "LOC",
+        "start": 102,
+        "end": 117
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 142,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "text": "NEW YORK 1996-08-26",
+    "entities": [
+      {
+        "text": "NEW YORK",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "State security officials were not immediately available for comment.",
+    "entities": []
+  },
+  {
+    "text": "Grimsby 22 5 6 11 24 41 21",
+    "entities": [
+      {
+        "text": "Grimsby",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Results at the world track cycling championships on Thursday:",
+    "entities": []
+  },
+  {
+    "text": "It is a very true film. \"",
+    "entities": []
+  },
+  {
+    "text": "Standings:",
+    "entities": []
+  }
+]

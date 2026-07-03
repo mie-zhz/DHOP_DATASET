@@ -1,0 +1,1519 @@
+[
+  {
+    "text": "Michalak's estimate depends on the masses of 19 Fortuna, 29 Amphitrite, and 16 Psyche; thus this mass was obtained assuming an incomplete dynamical model.",
+    "entities": [
+      {
+        "text": "Michalak",
+        "label": "person",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "19 Fortuna",
+        "label": "astronomicalobject",
+        "start": 45,
+        "end": 55
+      },
+      {
+        "text": "29 Amphitrite",
+        "label": "astronomicalobject",
+        "start": 57,
+        "end": 70
+      },
+      {
+        "text": "16 Psyche",
+        "label": "astronomicalobject",
+        "start": 76,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "The celestial choir Kepler formed was made up of a tenor (Mars), two bass (Saturn and Jupiter), a soprano (Mercury), and two altos (Venus and Earth).",
+    "entities": [
+      {
+        "text": "Kepler",
+        "label": "scientist",
+        "start": 20,
+        "end": 26
+      },
+      {
+        "text": "Mars",
+        "label": "astronomicalobject",
+        "start": 58,
+        "end": 62
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 75,
+        "end": 81
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 86,
+        "end": 93
+      },
+      {
+        "text": "Mercury",
+        "label": "astronomicalobject",
+        "start": 107,
+        "end": 114
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 132,
+        "end": 137
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 142,
+        "end": 147
+      }
+    ]
+  },
+  {
+    "text": "He was sent to Sheppard Air Force Base in Wichita Falls, Texas, for five weeks of basic flight training, and was later stationed at Brooks Air Force Base in San Antonio, Texas.",
+    "entities": [
+      {
+        "text": "Sheppard Air Force Base",
+        "label": "organisation",
+        "start": 15,
+        "end": 38
+      },
+      {
+        "text": "Brooks Air Force Base",
+        "label": "organisation",
+        "start": 132,
+        "end": 153
+      }
+    ]
+  },
+  {
+    "text": "A second meeting was held soon thereafter and included Klaus Clusius, Robert Döpel, Werner Heisenberg, and Carl Friedrich von Weizsäcker.",
+    "entities": [
+      {
+        "text": "Klaus Clusius",
+        "label": "scientist",
+        "start": 55,
+        "end": 68
+      },
+      {
+        "text": "Robert Döpel",
+        "label": "scientist",
+        "start": 70,
+        "end": 82
+      },
+      {
+        "text": "Werner Heisenberg",
+        "label": "scientist",
+        "start": 84,
+        "end": 101
+      },
+      {
+        "text": "Carl Friedrich von Weizsäcker",
+        "label": "scientist",
+        "start": 107,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "Organizations such as Community Forestry International, Cool Earth, The Nature Conservancy, World Wide Fund for Nature, Conservation International, African Conservation Foundation and Greenpeace also focus on preserving forest habitats.",
+    "entities": [
+      {
+        "text": "Community Forestry International",
+        "label": "organisation",
+        "start": 22,
+        "end": 54
+      },
+      {
+        "text": "Cool Earth",
+        "label": "organisation",
+        "start": 56,
+        "end": 66
+      },
+      {
+        "text": "The Nature Conservancy",
+        "label": "organisation",
+        "start": 68,
+        "end": 90
+      },
+      {
+        "text": "World Wide Fund for Nature",
+        "label": "organisation",
+        "start": 92,
+        "end": 118
+      },
+      {
+        "text": "Conservation International",
+        "label": "organisation",
+        "start": 120,
+        "end": 146
+      },
+      {
+        "text": "African Conservation Foundation",
+        "label": "organisation",
+        "start": 148,
+        "end": 179
+      },
+      {
+        "text": "Greenpeace",
+        "label": "organisation",
+        "start": 184,
+        "end": 194
+      }
+    ]
+  },
+  {
+    "text": "In 1969, Shenton persuaded Ellis Hillman, a University of East London lecturer, to become president of the Flat Earth Society; but there is little evidence of any activity on his part until after Shenton's death, when he added most of Shenton's library to the archives of the Science Fiction Foundation he helped to establish.",
+    "entities": [
+      {
+        "text": "Shenton",
+        "label": "person",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "Ellis Hillman",
+        "label": "person",
+        "start": 27,
+        "end": 40
+      },
+      {
+        "text": "Flat Earth Society",
+        "label": "organisation",
+        "start": 107,
+        "end": 125
+      },
+      {
+        "text": "Shenton",
+        "label": "person",
+        "start": 196,
+        "end": 203
+      },
+      {
+        "text": "Shenton",
+        "label": "person",
+        "start": 235,
+        "end": 242
+      },
+      {
+        "text": "Science Fiction Foundation",
+        "label": "organisation",
+        "start": 276,
+        "end": 302
+      }
+    ]
+  },
+  {
+    "text": "Cotton served on various editorial boards of scientific journals, including those of the Journal of the American Chemical Society, Inorganic Chemistry, and Organometallics.",
+    "entities": [
+      {
+        "text": "Cotton",
+        "label": "scientist",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "As examples, for Greeks, Constantine XI Palaiologos and Kolokotronis; and for Serbs, Miloš Obilić and Tzar Lazar; for Montenegrins, Đurađ I Balšić and Ivan Crnojević; for Albanians, George Kastrioti Skanderbeg; for ethnic Macedonians, Nikola Karev for Bulgarians, Vasil Levski, Georgi Sava Rakovski and Hristo Botev and for Croats, Nikola Šubić Zrinjski.",
+    "entities": [
+      {
+        "text": "Constantine XI Palaiologos",
+        "label": "person",
+        "start": 25,
+        "end": 51
+      },
+      {
+        "text": "Kolokotronis",
+        "label": "person",
+        "start": 56,
+        "end": 68
+      },
+      {
+        "text": "Miloš Obilić",
+        "label": "person",
+        "start": 85,
+        "end": 97
+      },
+      {
+        "text": "Tzar Lazar",
+        "label": "person",
+        "start": 102,
+        "end": 112
+      },
+      {
+        "text": "Đurađ I Balšić",
+        "label": "person",
+        "start": 132,
+        "end": 146
+      },
+      {
+        "text": "Ivan Crnojević",
+        "label": "person",
+        "start": 151,
+        "end": 165
+      },
+      {
+        "text": "George Kastrioti Skanderbeg",
+        "label": "person",
+        "start": 182,
+        "end": 209
+      },
+      {
+        "text": "Nikola Karev",
+        "label": "person",
+        "start": 235,
+        "end": 247
+      },
+      {
+        "text": "Vasil Levski",
+        "label": "person",
+        "start": 264,
+        "end": 276
+      },
+      {
+        "text": "Georgi Sava Rakovski",
+        "label": "person",
+        "start": 278,
+        "end": 298
+      },
+      {
+        "text": "Hristo Botev",
+        "label": "person",
+        "start": 303,
+        "end": 315
+      },
+      {
+        "text": "Nikola Šubić Zrinjski",
+        "label": "person",
+        "start": 332,
+        "end": 353
+      }
+    ]
+  },
+  {
+    "text": "He became an expert on the electrical conductivity of gases, the properties of ion s, and the behavior of atmospheric electricity, publishing in journals including the Physical Review, Journal of Applied Physics, Journal of Chemical Physics, and the Journal of Atmospheric Electricity and Terrestrial Magnetism.",
+    "entities": []
+  },
+  {
+    "text": "Supercritical fluids occur in the atmospheres of the gas giant s Jupiter and Saturn, and probably in those of the ice giant s Uranus and Neptune.",
+    "entities": [
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 65,
+        "end": 72
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 77,
+        "end": 83
+      },
+      {
+        "text": "Uranus",
+        "label": "astronomicalobject",
+        "start": 126,
+        "end": 132
+      },
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 137,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "In recognition of his contribution to the creation of modern electrical science, an international convention, signed at the 1881 International Exposition of Electricity, established the ampere as a standard unit of electrical measurement, along with the coulomb, volt, ohm, and watt, which are named, respectively, after Ampère's contemporaries Charles-Augustin de Coulomb of France, Alessandro Volta of Italy, Georg Ohm of Germany, and James Watt of Scotland.",
+    "entities": [
+      {
+        "text": "Ampère",
+        "label": "scientist",
+        "start": 321,
+        "end": 327
+      },
+      {
+        "text": "Charles-Augustin de Coulomb",
+        "label": "scientist",
+        "start": 345,
+        "end": 372
+      },
+      {
+        "text": "Alessandro Volta",
+        "label": "scientist",
+        "start": 384,
+        "end": 400
+      },
+      {
+        "text": "Georg Ohm",
+        "label": "scientist",
+        "start": 411,
+        "end": 420
+      },
+      {
+        "text": "James Watt",
+        "label": "scientist",
+        "start": 437,
+        "end": 447
+      }
+    ]
+  },
+  {
+    "text": "Venus and Earth (r6,000 km) have sufficiently low surface area-to-volume ratios (roughly half that of Mars and much lower than all other known rocky bodies) so that their heat loss is minimal.",
+    "entities": [
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "Mars",
+        "label": "astronomicalobject",
+        "start": 102,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "In 1999, Haraway received the Society for Social Studies of Science ' s (4S) Ludwik Fleck Prize.",
+    "entities": [
+      {
+        "text": "Haraway",
+        "label": "scientist",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "Society for Social Studies of Science",
+        "label": "organisation",
+        "start": 30,
+        "end": 67
+      },
+      {
+        "text": "4S",
+        "label": "organisation",
+        "start": 73,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "Dyson presented his observations of the solar eclipse of May 29, 1919 to a joint meeting of the Royal Society and Royal Astronomical Society on 6 November 1919.",
+    "entities": [
+      {
+        "text": "Dyson",
+        "label": "scientist",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Royal Society",
+        "label": "organisation",
+        "start": 96,
+        "end": 109
+      },
+      {
+        "text": "Royal Astronomical Society",
+        "label": "organisation",
+        "start": 114,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "The transcription factors STAT protein, NF-κB, p73, and p53 are among the many proteins that PIAS interacts with.",
+    "entities": []
+  },
+  {
+    "text": "Magnetogenetic techniques involve first fusing TRPV class receptors, which are selective calcium transporters, with a paramagnetic protein (typically Ferritin).",
+    "entities": []
+  },
+  {
+    "text": "However, various histone modifications are placed by epigenetic modifiers such as DNA methyltransferase in neurons and these marks regulate gene expression throughout the life span of the neuron.",
+    "entities": []
+  },
+  {
+    "text": "The most influential people were Erich Schumann, Abraham Esau, Walther Gerlach, and Kurt Diebner.",
+    "entities": [
+      {
+        "text": "Erich Schumann",
+        "label": "person",
+        "start": 33,
+        "end": 47
+      },
+      {
+        "text": "Abraham Esau",
+        "label": "person",
+        "start": 49,
+        "end": 61
+      },
+      {
+        "text": "Walther Gerlach",
+        "label": "person",
+        "start": 63,
+        "end": 78
+      },
+      {
+        "text": "Kurt Diebner",
+        "label": "person",
+        "start": 84,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "text": "Mechnikov was appointed docent at the newly established Odessa University (now Odessa University).",
+    "entities": [
+      {
+        "text": "Mechnikov",
+        "label": "scientist",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "He is the editor-in-chief of Conservation and Society, an interdisciplinary journal in conservation; associate editor of Ecology and Society; and academic editor of PLoS ONE.",
+    "entities": []
+  },
+  {
+    "text": "She is a member of the Australian Antarctic Research Advisory Committee and serves on the Editorial Boards of the international journals: Ecosystems, Global Change Biology, Oecologia, Plant, Cell; Environment, and Tree Physiology.",
+    "entities": [
+      {
+        "text": "Australian Antarctic Research Advisory Committee",
+        "label": "organisation",
+        "start": 23,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "Of the sympatric species, they all contain Egg lysin that drives gamete isolation, but the allopatric species does not.",
+    "entities": []
+  },
+  {
+    "text": "Scheele discovered organic acids Tartaric acid, Oxalic acid, Uric acid, Lactic acid, and Citric acid, as well as Hydrofluoric acid, hydrocyanic, and Arsenic acid acids. Richard Myers, (2003) He preferred speaking German to Swedish his whole life, as German was commonly spoken among Swedish pharmacists.",
+    "entities": [
+      {
+        "text": "Scheele",
+        "label": "scientist",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Tartaric acid",
+        "label": "chemicalcompound",
+        "start": 33,
+        "end": 46
+      },
+      {
+        "text": "Oxalic acid",
+        "label": "chemicalcompound",
+        "start": 48,
+        "end": 59
+      },
+      {
+        "text": "Uric acid",
+        "label": "chemicalcompound",
+        "start": 61,
+        "end": 70
+      },
+      {
+        "text": "Lactic acid",
+        "label": "chemicalcompound",
+        "start": 72,
+        "end": 83
+      },
+      {
+        "text": "Citric acid",
+        "label": "chemicalcompound",
+        "start": 89,
+        "end": 100
+      },
+      {
+        "text": "Hydrofluoric acid",
+        "label": "chemicalcompound",
+        "start": 113,
+        "end": 130
+      },
+      {
+        "text": "hydrocyanic",
+        "label": "chemicalcompound",
+        "start": 132,
+        "end": 143
+      },
+      {
+        "text": "Arsenic acid",
+        "label": "chemicalcompound",
+        "start": 149,
+        "end": 161
+      },
+      {
+        "text": "Richard Myers",
+        "label": "scientist",
+        "start": 169,
+        "end": 182
+      }
+    ]
+  },
+  {
+    "text": "Another small epoch seen as a golden age is the unification of electricity, magnetism, and optics because of 19th century notables, including Michael Faraday, James Clerk Maxwell, and others.",
+    "entities": [
+      {
+        "text": "Michael Faraday",
+        "label": "scientist",
+        "start": 142,
+        "end": 157
+      },
+      {
+        "text": "James Clerk Maxwell",
+        "label": "scientist",
+        "start": 159,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "The hydroxyl radical can damage virtually all types of macromolecules: carbohydrates, nucleic acids (mutation s), lipids (lipid peroxidation), and amino acids (e.g. conversion of Phenylalanine to m - Tyrosine and o - Tyrosine).",
+    "entities": [
+      {
+        "text": "hydroxyl radical",
+        "label": "chemicalcompound",
+        "start": 4,
+        "end": 20
+      },
+      {
+        "text": "carbohydrates",
+        "label": "chemicalcompound",
+        "start": 71,
+        "end": 84
+      },
+      {
+        "text": "nucleic acids",
+        "label": "chemicalcompound",
+        "start": 86,
+        "end": 99
+      },
+      {
+        "text": "lipids",
+        "label": "chemicalcompound",
+        "start": 114,
+        "end": 120
+      },
+      {
+        "text": "amino acids",
+        "label": "chemicalcompound",
+        "start": 147,
+        "end": 158
+      },
+      {
+        "text": "Phenylalanine",
+        "label": "chemicalcompound",
+        "start": 179,
+        "end": 192
+      },
+      {
+        "text": "m - Tyrosine",
+        "label": "chemicalcompound",
+        "start": 196,
+        "end": 208
+      },
+      {
+        "text": "o - Tyrosine",
+        "label": "chemicalcompound",
+        "start": 213,
+        "end": 225
+      }
+    ]
+  },
+  {
+    "text": "The special transfers describe: RNA being copied from RNA (RNA-dependent RNA polymerase), DNA being synthesised using an RNA template (Reverse transcriptase), and proteins being synthesised directly from a DNA template without the use of mRNA.",
+    "entities": []
+  },
+  {
+    "text": "Precursors of T cells originate in the bone marrow from which they migrate via bloodstream into thymic cortex, where they encounter stromal cell s including cTECs, which form the microenvironment crucial for proliferation and development of T cells by expression of DLL4 (delta-like notch ligand 4), cytokine s IL-7, TGFβ or stem cell factor and chemokine s CCL25, CXCL12 or CCRL1 etc.",
+    "entities": [
+      {
+        "text": "Precursors",
+        "label": "chemicalcompound",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "The two factions, Lawrence Murphy - Dolan and John Tunstall - McSween, fought a series of escalating battles with such murderous ferocity that the repercussions were felt as far away as the state capital Santa Fe and even in Washington, D.C.",
+    "entities": [
+      {
+        "text": "Lawrence Murphy",
+        "label": "person",
+        "start": 18,
+        "end": 33
+      },
+      {
+        "text": "Dolan",
+        "label": "person",
+        "start": 36,
+        "end": 41
+      },
+      {
+        "text": "John Tunstall",
+        "label": "person",
+        "start": 46,
+        "end": 59
+      },
+      {
+        "text": "McSween",
+        "label": "person",
+        "start": 62,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "The report on the B 8 experiment was written by Fritz Bopp, Erich Fischer, Werner Heisenberg, and Karl Wirtz from the KWIP and Walther Bothe, Peter Jensen, and Oskar Ritter from the KWImF.Hentschel and Hentschel, 1996, 377 and 377n73.",
+    "entities": [
+      {
+        "text": "Fritz Bopp",
+        "label": "scientist",
+        "start": 48,
+        "end": 58
+      },
+      {
+        "text": "Erich Fischer",
+        "label": "scientist",
+        "start": 60,
+        "end": 73
+      },
+      {
+        "text": "Werner Heisenberg",
+        "label": "scientist",
+        "start": 75,
+        "end": 92
+      },
+      {
+        "text": "Karl Wirtz",
+        "label": "scientist",
+        "start": 98,
+        "end": 108
+      },
+      {
+        "text": "KWIP",
+        "label": "organisation",
+        "start": 118,
+        "end": 122
+      },
+      {
+        "text": "Walther Bothe",
+        "label": "scientist",
+        "start": 127,
+        "end": 140
+      },
+      {
+        "text": "Peter Jensen",
+        "label": "scientist",
+        "start": 142,
+        "end": 154
+      },
+      {
+        "text": "Oskar Ritter",
+        "label": "scientist",
+        "start": 160,
+        "end": 172
+      },
+      {
+        "text": "KWImF.Hentschel",
+        "label": "organisation",
+        "start": 182,
+        "end": 197
+      }
+    ]
+  },
+  {
+    "text": "It was discovered on 19 September 1973, by Dutch astronomers Ingrid van Houten-Groeneveld and Cornelis van Houten at Leiden, on photographic plates taken by Tom Gehrels at the Palomar Observatory in California, United States.",
+    "entities": [
+      {
+        "text": "Ingrid van Houten-Groeneveld",
+        "label": "scientist",
+        "start": 61,
+        "end": 89
+      },
+      {
+        "text": "Cornelis van Houten",
+        "label": "scientist",
+        "start": 94,
+        "end": 113
+      },
+      {
+        "text": "Tom Gehrels",
+        "label": "scientist",
+        "start": 157,
+        "end": 168
+      }
+    ]
+  },
+  {
+    "text": "Detergents are key reagents to extract protein by lysis of the cells and tissues: They disorganize the membrane's lipid bilayer (SDS, Triton X-100, X-114, CHAPS detergent, DOC, and NP-40), and solubilize proteins.",
+    "entities": [
+      {
+        "text": "SDS",
+        "label": "chemicalcompound",
+        "start": 129,
+        "end": 132
+      },
+      {
+        "text": "Triton X-100",
+        "label": "chemicalcompound",
+        "start": 134,
+        "end": 146
+      },
+      {
+        "text": "X-114",
+        "label": "chemicalcompound",
+        "start": 148,
+        "end": 153
+      },
+      {
+        "text": "CHAPS detergent",
+        "label": "chemicalcompound",
+        "start": 155,
+        "end": 170
+      },
+      {
+        "text": "DOC",
+        "label": "chemicalcompound",
+        "start": 172,
+        "end": 175
+      },
+      {
+        "text": "NP-40",
+        "label": "chemicalcompound",
+        "start": 181,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "text": "Finkelnburg invited five representatives to make arguments for theoretical physics and academic decisions based on ability, rather than politics: Carl Friedrich von Weizsäcker, Otto Scherzer, Georg Joos, Otto Heckmann, and Hans Kopfermann.",
+    "entities": [
+      {
+        "text": "Finkelnburg",
+        "label": "scientist",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Carl Friedrich von Weizsäcker",
+        "label": "scientist",
+        "start": 146,
+        "end": 175
+      },
+      {
+        "text": "Otto Scherzer",
+        "label": "person",
+        "start": 177,
+        "end": 190
+      },
+      {
+        "text": "Georg Joos",
+        "label": "person",
+        "start": 192,
+        "end": 202
+      },
+      {
+        "text": "Otto Heckmann",
+        "label": "person",
+        "start": 204,
+        "end": 217
+      },
+      {
+        "text": "Hans Kopfermann",
+        "label": "scientist",
+        "start": 223,
+        "end": 238
+      }
+    ]
+  },
+  {
+    "text": "Amphitrite (minor planet designation: 29 Amphridite) is one of the largest S-type asteroid s, approximately in diameter, and probably third largest after 15 Eunomia and 3 Juno, although 7 Iris and 532 Herculina are similar in size.",
+    "entities": [
+      {
+        "text": "Amphitrite",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "29 Amphridite",
+        "label": "astronomicalobject",
+        "start": 38,
+        "end": 51
+      },
+      {
+        "text": "15 Eunomia",
+        "label": "astronomicalobject",
+        "start": 154,
+        "end": 164
+      },
+      {
+        "text": "3 Juno",
+        "label": "astronomicalobject",
+        "start": 169,
+        "end": 175
+      },
+      {
+        "text": "7 Iris",
+        "label": "astronomicalobject",
+        "start": 186,
+        "end": 192
+      },
+      {
+        "text": "532 Herculina",
+        "label": "astronomicalobject",
+        "start": 197,
+        "end": 210
+      }
+    ]
+  },
+  {
+    "text": "Additionally, she has received five Academy of Country Music Awards, six Country Music Association Awards, and a Grammy Award.",
+    "entities": []
+  },
+  {
+    "text": "The most common trialkyl aluminum reagents for this transformation are Trimethylaluminium, Triethylaluminium, and sometimes Triisobutylaluminium.",
+    "entities": [
+      {
+        "text": "trialkyl aluminum",
+        "label": "chemicalcompound",
+        "start": 16,
+        "end": 33
+      },
+      {
+        "text": "Trimethylaluminium",
+        "label": "chemicalcompound",
+        "start": 71,
+        "end": 89
+      },
+      {
+        "text": "Triethylaluminium",
+        "label": "chemicalcompound",
+        "start": 91,
+        "end": 108
+      },
+      {
+        "text": "Triisobutylaluminium",
+        "label": "chemicalcompound",
+        "start": 124,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "Phthalocyanine s, which, like Phthalocyanine Blue BN and Phthalocyanine Green G, often contain a transition metal ion, exchange an electron with the complexed transition metal ion that easily changes its oxidation state.",
+    "entities": [
+      {
+        "text": "Phthalocyanine",
+        "label": "chemicalcompound",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Phthalocyanine Blue BN",
+        "label": "chemicalcompound",
+        "start": 30,
+        "end": 52
+      },
+      {
+        "text": "Phthalocyanine Green G",
+        "label": "chemicalcompound",
+        "start": 57,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "text": "Pathogenic spirochetes, including B. burgdorferi and T. pallidum, use their proteolipid Bacterial adhesin s to stick to victim cells.",
+    "entities": []
+  },
+  {
+    "text": "They spent the winter of 1866-67 in Paris, where Gibbs attended lectures at the University of Paris and the Collège de France, given by such distinguished mathematical scientists as Joseph Liouville and Michel Chasles.",
+    "entities": [
+      {
+        "text": "Gibbs",
+        "label": "scientist",
+        "start": 49,
+        "end": 54
+      },
+      {
+        "text": "Joseph Liouville",
+        "label": "scientist",
+        "start": 182,
+        "end": 198
+      },
+      {
+        "text": "Michel Chasles",
+        "label": "scientist",
+        "start": 203,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "Bateman served as Executive Editor of the journal Bioinformatics from 2004 to 2012 and has also served as Editor of Nucleic Acids Research, Genome Biology and Current Protocols in Bioinformatics.",
+    "entities": [
+      {
+        "text": "Bateman",
+        "label": "scientist",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Lindsay and his wife Rachel translated Hans Kramers book, The Atom and the Bohr Theory of its Structure, in 1923, Hans Kramers & amp; Helge Holst, The Atom and the Bohr Theory of its Structure: An Elementary Presentation, Gyldendal, 210pp.",
+    "entities": [
+      {
+        "text": "Lindsay",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Rachel",
+        "label": "person",
+        "start": 21,
+        "end": 27
+      },
+      {
+        "text": "Hans Kramers",
+        "label": "scientist",
+        "start": 39,
+        "end": 51
+      },
+      {
+        "text": "Hans Kramers",
+        "label": "scientist",
+        "start": 114,
+        "end": 126
+      },
+      {
+        "text": "Helge Holst",
+        "label": "scientist",
+        "start": 134,
+        "end": 145
+      },
+      {
+        "text": "Gyldendal",
+        "label": "organisation",
+        "start": 222,
+        "end": 231
+      }
+    ]
+  },
+  {
+    "text": "Sagan and his works received numerous awards and honors, including the NASA Distinguished Public Service Medal, the National Academy of Sciences Public Welfare Medal, the Pulitzer Prize for General Non-Fiction for his book The Dragons of Eden, and, regarding Cosmos: A Personal Voyage, two Emmy Award s, the Peabody Award, and the Hugo Award.",
+    "entities": [
+      {
+        "text": "Sagan",
+        "label": "scientist",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "They may also use Adenosine triphosphate, Nitric oxide, and ROS for signaling in the same ways that animals do.",
+    "entities": [
+      {
+        "text": "Adenosine triphosphate",
+        "label": "chemicalcompound",
+        "start": 18,
+        "end": 40
+      },
+      {
+        "text": "Nitric oxide",
+        "label": "chemicalcompound",
+        "start": 42,
+        "end": 54
+      },
+      {
+        "text": "ROS",
+        "label": "chemicalcompound",
+        "start": 60,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "Under his leadership the neutron was discovered by James Chadwick in 1932 and in the same year the first experiment to split the nucleus in a fully controlled manner was performed by students working under his direction, John Cockcroft and Ernest Walton.",
+    "entities": [
+      {
+        "text": "James Chadwick",
+        "label": "scientist",
+        "start": 51,
+        "end": 65
+      },
+      {
+        "text": "John Cockcroft",
+        "label": "scientist",
+        "start": 221,
+        "end": 235
+      },
+      {
+        "text": "Ernest Walton",
+        "label": "scientist",
+        "start": 240,
+        "end": 253
+      }
+    ]
+  },
+  {
+    "text": "The keratins include the following proteins of which KRT23, KRT24, KRT25, KRT26, KRT27, KRT28, KRT31, KRT32, KRT33A, KRT33B, KRT34, KRT35, KRT36, KRT37, KRT38, KRT39, KRT40, KRT71, KRT72, KRT73, KRT74, KRT75, KRT76, KRT77, KRT78, KRT79, KRT8, KRT80, KRT81, KRT82, KRT83, KRT84, KRT85 and KRT86 have been used to describe keratins past 20.",
+    "entities": []
+  },
+  {
+    "text": "Kobe is home to eighteen public and private universities, including Kobe University, Kobe Institute of Computing and Konan University, and eight junior colleges.",
+    "entities": [
+      {
+        "text": "Kobe",
+        "label": "person",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "In the 2010 Bandy World Championship, he scored the golden goal in the final, giving the game to Sweden with 6-5 against Russia.",
+    "entities": []
+  },
+  {
+    "text": "Tremaine, along with Peter Goldreich, correctly predicted that shepherd moon s created Saturn ' s thin F ring, as well as the thin rings of Uranus in 1979.",
+    "entities": [
+      {
+        "text": "Peter Goldreich",
+        "label": "scientist",
+        "start": 21,
+        "end": 36
+      },
+      {
+        "text": "shepherd moon",
+        "label": "astronomicalobject",
+        "start": 63,
+        "end": 76
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 87,
+        "end": 93
+      },
+      {
+        "text": "Uranus",
+        "label": "astronomicalobject",
+        "start": 140,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "In the early days of his laboratory he discovered a new mechanism of microRNA processing independent of Dicer that requires the catalytic activity of Argonaute 2, a type of Argonaute protein.",
+    "entities": []
+  },
+  {
+    "text": "Places in the district include: Antony, Cawsand, Crafthole, Cremyll, Downderry, Fourlanesend, Freathy, Hessenford, Higher Wilcove, Kingsand, Lower Tregantle, Maker, Millbrook, Mount Edgcumbe House, Mount Edgcumbe Country Park, Penlee, Polbathic, Portwrinkle, Rame, Rame Head, Rame Peninsula, Seaton, Seaton Valley Countryside Park, Sheviock, St John, Torpoint, Whitsand Bay, Widegates, and Withnoe Barton.",
+    "entities": []
+  },
+  {
+    "text": "Amphitrite (minor planet designation: 29 Amphridite) is one of the largest S-type asteroid s, approximately in diameter, and probably third largest after 15 Eunomia and 3 Juno, although 7 Iris and 532 Herculina are similar in size.",
+    "entities": [
+      {
+        "text": "Amphitrite",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "29 Amphridite",
+        "label": "astronomicalobject",
+        "start": 38,
+        "end": 51
+      },
+      {
+        "text": "15 Eunomia",
+        "label": "astronomicalobject",
+        "start": 154,
+        "end": 164
+      },
+      {
+        "text": "3 Juno",
+        "label": "astronomicalobject",
+        "start": 169,
+        "end": 175
+      },
+      {
+        "text": "7 Iris",
+        "label": "astronomicalobject",
+        "start": 186,
+        "end": 192
+      },
+      {
+        "text": "532 Herculina",
+        "label": "astronomicalobject",
+        "start": 197,
+        "end": 210
+      }
+    ]
+  },
+  {
+    "text": "Knowles collaborated with several studio personalities, including Jack Splash, Shea Taylor, Mr. Familiar, Lamont Dozier, production teams Soulshock & Karlin and Bama Boyz, as well as singers and rappers Pharrell Williams, Bilal, Q-Tip and Lil Wayne respectively.",
+    "entities": [
+      {
+        "text": "Knowles",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Jack Splash",
+        "label": "person",
+        "start": 66,
+        "end": 77
+      },
+      {
+        "text": "Shea Taylor",
+        "label": "person",
+        "start": 79,
+        "end": 90
+      },
+      {
+        "text": "Mr. Familiar",
+        "label": "person",
+        "start": 92,
+        "end": 104
+      },
+      {
+        "text": "Lamont Dozier",
+        "label": "person",
+        "start": 106,
+        "end": 119
+      },
+      {
+        "text": "Soulshock & Karlin",
+        "label": "organisation",
+        "start": 138,
+        "end": 156
+      },
+      {
+        "text": "Bama Boyz",
+        "label": "organisation",
+        "start": 161,
+        "end": 170
+      },
+      {
+        "text": "Pharrell Williams",
+        "label": "person",
+        "start": 203,
+        "end": 220
+      },
+      {
+        "text": "Bilal",
+        "label": "person",
+        "start": 222,
+        "end": 227
+      },
+      {
+        "text": "Q-Tip",
+        "label": "person",
+        "start": 229,
+        "end": 234
+      },
+      {
+        "text": "Lil Wayne",
+        "label": "person",
+        "start": 239,
+        "end": 248
+      }
+    ]
+  },
+  {
+    "text": "DNA methyltransferase is recruited to the site and adds methyl groups to the cytosine of the CpG dinucleotides.",
+    "entities": [
+      {
+        "text": "cytosine",
+        "label": "chemicalcompound",
+        "start": 77,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "By the time Lowenstam accepted his faculty position at Caltech in 1954, many of his colleagues including Harrison Brown, Sam Epstein, Clair Patterson, and even Harold Urey had already made the migration.",
+    "entities": [
+      {
+        "text": "Lowenstam",
+        "label": "scientist",
+        "start": 12,
+        "end": 21
+      },
+      {
+        "text": "Harrison Brown",
+        "label": "scientist",
+        "start": 105,
+        "end": 119
+      },
+      {
+        "text": "Sam Epstein",
+        "label": "scientist",
+        "start": 121,
+        "end": 132
+      },
+      {
+        "text": "Clair Patterson",
+        "label": "scientist",
+        "start": 134,
+        "end": 149
+      },
+      {
+        "text": "Harold Urey",
+        "label": "scientist",
+        "start": 160,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "Juno was originally considered a planet, along with 1 Ceres, 2 Pallas, and 4 Vesta.",
+    "entities": [
+      {
+        "text": "Juno",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "1 Ceres",
+        "label": "astronomicalobject",
+        "start": 52,
+        "end": 59
+      },
+      {
+        "text": "2 Pallas",
+        "label": "astronomicalobject",
+        "start": 61,
+        "end": 69
+      },
+      {
+        "text": "4 Vesta",
+        "label": "astronomicalobject",
+        "start": 75,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "It is also the first Doctor Who appearance of Gwen Cooper (Eve Myles); Ianto Jones (Gareth David-Lloyd); Luke Smith (Tommy Knight); and Mr Smith (voiced by Alexander Armstrong), though Myles and Armstrong appeared in other episodes playing different roles.",
+    "entities": [
+      {
+        "text": "Gwen Cooper",
+        "label": "person",
+        "start": 46,
+        "end": 57
+      },
+      {
+        "text": "Eve Myles",
+        "label": "person",
+        "start": 59,
+        "end": 68
+      },
+      {
+        "text": "Ianto Jones",
+        "label": "person",
+        "start": 71,
+        "end": 82
+      },
+      {
+        "text": "Gareth David-Lloyd",
+        "label": "person",
+        "start": 84,
+        "end": 102
+      },
+      {
+        "text": "Luke Smith",
+        "label": "person",
+        "start": 105,
+        "end": 115
+      },
+      {
+        "text": "Tommy Knight",
+        "label": "person",
+        "start": 117,
+        "end": 129
+      },
+      {
+        "text": "Mr Smith",
+        "label": "person",
+        "start": 136,
+        "end": 144
+      },
+      {
+        "text": "Alexander Armstrong",
+        "label": "person",
+        "start": 156,
+        "end": 175
+      },
+      {
+        "text": "Myles",
+        "label": "person",
+        "start": 185,
+        "end": 190
+      },
+      {
+        "text": "Armstrong",
+        "label": "person",
+        "start": 195,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "The corresponding extension problem for diffeomorphisms of higher-dimensional spheres Ssup n − 1 / sup was much studied in the 1950s and 1960s, with notable contributions from René Thom, John Milnor and Stephen Smale.",
+    "entities": [
+      {
+        "text": "René Thom",
+        "label": "scientist",
+        "start": 176,
+        "end": 185
+      },
+      {
+        "text": "John Milnor",
+        "label": "scientist",
+        "start": 187,
+        "end": 198
+      },
+      {
+        "text": "Stephen Smale",
+        "label": "scientist",
+        "start": 203,
+        "end": 216
+      }
+    ]
+  },
+  {
+    "text": "The term can also be used to describe the motion of a satellite across its parent planet, for instance one of the Galilean satellites (Io, Europa, Ganymede, Callisto) across Jupiter, as seen from Earth.",
+    "entities": [
+      {
+        "text": "Io",
+        "label": "astronomicalobject",
+        "start": 135,
+        "end": 137
+      },
+      {
+        "text": "Europa",
+        "label": "astronomicalobject",
+        "start": 139,
+        "end": 145
+      },
+      {
+        "text": "Ganymede",
+        "label": "astronomicalobject",
+        "start": 147,
+        "end": 155
+      },
+      {
+        "text": "Callisto",
+        "label": "astronomicalobject",
+        "start": 157,
+        "end": 165
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 174,
+        "end": 181
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 196,
+        "end": 201
+      }
+    ]
+  },
+  {
+    "text": "The concept that the composition of plant communities such as temperate broadleaf forest changes by a process of ecological succession was developed by Henry Chandler Cowles, Arthur Tansley and Frederic Clements.",
+    "entities": [
+      {
+        "text": "Henry Chandler Cowles",
+        "label": "scientist",
+        "start": 152,
+        "end": 173
+      },
+      {
+        "text": "Arthur Tansley",
+        "label": "scientist",
+        "start": 175,
+        "end": 189
+      },
+      {
+        "text": "Frederic Clements",
+        "label": "scientist",
+        "start": 194,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "After 3 years at King's College London (contemporary with Rosalind Franklin) she moved to the University of Sheffield in 1955 as a demonstrator in the Biochemistry department (now Molecular Biology and Biotechnology), obtaining an MRC grant to study the iron storage protein Ferritin, publishing preliminary X-ray diffraction data in the 1st volume of the Journal of Molecular Biology in 1959.",
+    "entities": [
+      {
+        "text": "Rosalind Franklin",
+        "label": "scientist",
+        "start": 58,
+        "end": 75
+      },
+      {
+        "text": "MRC",
+        "label": "organisation",
+        "start": 231,
+        "end": 234
+      }
+    ]
+  },
+  {
+    "text": "The discoveries of a second non-transiting planet in the same system, CoRoT-7c, and of a new Hot Jupiter, CoRoT-6b, were also announced at the Symposium.",
+    "entities": [
+      {
+        "text": "CoRoT-7c",
+        "label": "astronomicalobject",
+        "start": 70,
+        "end": 78
+      },
+      {
+        "text": "Hot Jupiter",
+        "label": "astronomicalobject",
+        "start": 93,
+        "end": 104
+      },
+      {
+        "text": "CoRoT-6b",
+        "label": "astronomicalobject",
+        "start": 106,
+        "end": 114
+      }
+    ]
+  }
+]

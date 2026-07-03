@@ -1,0 +1,2079 @@
+[
+  {
+    "text": "He ran for President of Russia in 1991 Russian presidential election, 1996 Russian presidential election (withdrawing during the campaign) and 2000 Russian presidential election, coming fourth in both 1991 and 2000.",
+    "entities": [
+      {
+        "text": "1991 Russian presidential election",
+        "label": "election",
+        "start": 34,
+        "end": 68
+      },
+      {
+        "text": "1996 Russian presidential election",
+        "label": "election",
+        "start": 70,
+        "end": 104
+      },
+      {
+        "text": "2000 Russian presidential election",
+        "label": "election",
+        "start": 143,
+        "end": 177
+      }
+    ]
+  },
+  {
+    "text": "In addition, he secured the release of two American journalists imprisoned by North Korea, visiting the capital Pyongyang in 2009 and negotiating their release with then-North Korean leader Kim Jong-il.",
+    "entities": [
+      {
+        "text": "Pyongyang",
+        "label": "location",
+        "start": 112,
+        "end": 121
+      },
+      {
+        "text": "Kim Jong-il",
+        "label": "politician",
+        "start": 190,
+        "end": 201
+      }
+    ]
+  },
+  {
+    "text": "Six human rights groups (Amnesty International Belgium, both the Dutch-speaking Human Rights League and the French-speaking Human Rights League of Belgium, the International Federation for Human Rights, Avocats Sans Frontières (Lawyers Without Borders) and Human Rights Watch) called that loss of the universal jurisdiction component a step backwards in the global fight against the worst atrocities.",
+    "entities": [
+      {
+        "text": "Amnesty International",
+        "label": "organisation",
+        "start": 25,
+        "end": 46
+      },
+      {
+        "text": "Belgium",
+        "label": "location",
+        "start": 47,
+        "end": 54
+      },
+      {
+        "text": "Dutch-speaking Human Rights League",
+        "label": "organisation",
+        "start": 65,
+        "end": 99
+      },
+      {
+        "text": "French-speaking Human Rights League",
+        "label": "organisation",
+        "start": 108,
+        "end": 143
+      },
+      {
+        "text": "Belgium",
+        "label": "location",
+        "start": 147,
+        "end": 154
+      },
+      {
+        "text": "International Federation for Human Rights",
+        "label": "organisation",
+        "start": 160,
+        "end": 201
+      },
+      {
+        "text": "Avocats Sans Frontières",
+        "label": "organisation",
+        "start": 203,
+        "end": 226
+      },
+      {
+        "text": "Lawyers Without Borders",
+        "label": "organisation",
+        "start": 228,
+        "end": 251
+      },
+      {
+        "text": "Human Rights Watch",
+        "label": "organisation",
+        "start": 257,
+        "end": 275
+      }
+    ]
+  },
+  {
+    "text": "In the 1979 United Kingdom general election the constituency witnessed a very close three-way fight between Peter Robinson of the Democratic Unionist Party, William Craig for the UUP and Oliver Napier for the Alliance Party of Northern Ireland.",
+    "entities": [
+      {
+        "text": "1979 United Kingdom general election",
+        "label": "election",
+        "start": 7,
+        "end": 43
+      },
+      {
+        "text": "Peter Robinson",
+        "label": "politician",
+        "start": 108,
+        "end": 122
+      },
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 130,
+        "end": 155
+      },
+      {
+        "text": "William Craig",
+        "label": "politician",
+        "start": 157,
+        "end": 170
+      },
+      {
+        "text": "UUP",
+        "label": "politicalparty",
+        "start": 179,
+        "end": 182
+      },
+      {
+        "text": "Oliver Napier",
+        "label": "politician",
+        "start": 187,
+        "end": 200
+      },
+      {
+        "text": "Alliance Party of Northern Ireland",
+        "label": "politicalparty",
+        "start": 209,
+        "end": 243
+      }
+    ]
+  },
+  {
+    "text": "Butcher was a member of the centre-right Progressive Conservative Party of Canada before that party merged with the more right-wing Canadian Alliance to create the Conservative Party of Canada in 2003.",
+    "entities": [
+      {
+        "text": "Butcher",
+        "label": "politician",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Progressive Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 41,
+        "end": 81
+      },
+      {
+        "text": "Canadian Alliance",
+        "label": "politicalparty",
+        "start": 132,
+        "end": 149
+      },
+      {
+        "text": "Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 164,
+        "end": 192
+      }
+    ]
+  },
+  {
+    "text": "Following the 1988 Canadian federal election, he co-authored Election: the issues, the strategies, the aftermath with Liberal Party of Canada strategiest Michael J. L. Kirby and Conservative Party of Canada strategist Hugh Segal.",
+    "entities": [
+      {
+        "text": "1988 Canadian federal election",
+        "label": "election",
+        "start": 14,
+        "end": 44
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 118,
+        "end": 141
+      },
+      {
+        "text": "Michael J. L. Kirby",
+        "label": "politician",
+        "start": 154,
+        "end": 173
+      },
+      {
+        "text": "Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 178,
+        "end": 206
+      },
+      {
+        "text": "Hugh Segal",
+        "label": "politician",
+        "start": 218,
+        "end": 228
+      }
+    ]
+  },
+  {
+    "text": "The life of Aung San Suu Kyi and her husband Michael Aris is portrayed in Luc Besson ' s 2011 film The Lady, in which they are played by Michelle Yeoh and David Thewlis.",
+    "entities": [
+      {
+        "text": "Aung San Suu Kyi",
+        "label": "politician",
+        "start": 12,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "The centre cooperates closely with the Carter Center in Atlanta, the Kim Dae Jung Library in Seoul and the Crisis Management Initiative in Helsinki.",
+    "entities": [
+      {
+        "text": "Carter Center",
+        "label": "organisation",
+        "start": 39,
+        "end": 52
+      },
+      {
+        "text": "Atlanta",
+        "label": "location",
+        "start": 56,
+        "end": 63
+      },
+      {
+        "text": "Kim Dae Jung Library",
+        "label": "organisation",
+        "start": 69,
+        "end": 89
+      },
+      {
+        "text": "Seoul",
+        "label": "location",
+        "start": 93,
+        "end": 98
+      },
+      {
+        "text": "Crisis Management Initiative",
+        "label": "organisation",
+        "start": 107,
+        "end": 135
+      },
+      {
+        "text": "Helsinki",
+        "label": "location",
+        "start": 139,
+        "end": 147
+      }
+    ]
+  },
+  {
+    "text": "After the fall of the Hungarian Democratic Forum conservative government at the following 1994 Hungarian parliamentary election, SZDSZ surprised many by entering into a coalition with the Hungarian Socialist Party (MSZP), legal successors to the communist Hungarian Socialist Workers Party.",
+    "entities": [
+      {
+        "text": "Hungarian Democratic Forum",
+        "label": "politicalparty",
+        "start": 22,
+        "end": 48
+      },
+      {
+        "text": "1994 Hungarian parliamentary election",
+        "label": "election",
+        "start": 90,
+        "end": 127
+      },
+      {
+        "text": "SZDSZ",
+        "label": "politicalparty",
+        "start": 129,
+        "end": 134
+      },
+      {
+        "text": "Hungarian Socialist Party",
+        "label": "politicalparty",
+        "start": 188,
+        "end": 213
+      },
+      {
+        "text": "MSZP",
+        "label": "politicalparty",
+        "start": 215,
+        "end": 219
+      },
+      {
+        "text": "Hungarian Socialist Workers Party",
+        "label": "politicalparty",
+        "start": 256,
+        "end": 289
+      }
+    ]
+  },
+  {
+    "text": "Amnesty International and Human Rights Watch as well as B 'Tselem and Yesh Din criticized the military investigation.",
+    "entities": [
+      {
+        "text": "Amnesty International",
+        "label": "organisation",
+        "start": 0,
+        "end": 21
+      },
+      {
+        "text": "Human Rights Watch",
+        "label": "organisation",
+        "start": 26,
+        "end": 44
+      },
+      {
+        "text": "B 'Tselem",
+        "label": "organisation",
+        "start": 56,
+        "end": 65
+      },
+      {
+        "text": "Yesh Din",
+        "label": "organisation",
+        "start": 70,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "In the 1993 New Zealand general election, however, the new New Zealand First party, led by the part-Māori Winston Peters - who himself held the general seat of Tauranga from 1984 to 2005 - gained the Northern Māori seat (electing Tau Henare to Parliament), and in the 1996 New Zealand general election New Zealand First captured all the Māori electorates for one electoral term.",
+    "entities": [
+      {
+        "text": "1993 New Zealand general election",
+        "label": "election",
+        "start": 7,
+        "end": 40
+      },
+      {
+        "text": "New Zealand First",
+        "label": "politicalparty",
+        "start": 59,
+        "end": 76
+      },
+      {
+        "text": "Winston Peters",
+        "label": "politician",
+        "start": 106,
+        "end": 120
+      },
+      {
+        "text": "Tauranga",
+        "label": "location",
+        "start": 160,
+        "end": 168
+      },
+      {
+        "text": "Tau Henare",
+        "label": "politician",
+        "start": 230,
+        "end": 240
+      },
+      {
+        "text": "1996 New Zealand general election",
+        "label": "election",
+        "start": 268,
+        "end": 301
+      }
+    ]
+  },
+  {
+    "text": "He was a member of the National Academy of Sciences, the American Academy of Arts and Sciences, the American Philosophical Society, the Sociological Research Association and the Ordre des Palmes Academiques.",
+    "entities": [
+      {
+        "text": "National Academy of Sciences",
+        "label": "organisation",
+        "start": 23,
+        "end": 51
+      },
+      {
+        "text": "American Academy of Arts and Sciences",
+        "label": "organisation",
+        "start": 57,
+        "end": 94
+      },
+      {
+        "text": "American Philosophical Society",
+        "label": "organisation",
+        "start": 100,
+        "end": 130
+      },
+      {
+        "text": "Sociological Research Association",
+        "label": "organisation",
+        "start": 136,
+        "end": 169
+      },
+      {
+        "text": "Ordre des Palmes Academiques",
+        "label": "organisation",
+        "start": 178,
+        "end": 206
+      }
+    ]
+  },
+  {
+    "text": "During the First Hellenic Republic (1828-1832) and the reign of King Otto (1833-1863), the political parties were essentially based on clientage of the Great Powers: the Russian Party, the English Party, and the French Party.",
+    "entities": [
+      {
+        "text": "King Otto",
+        "label": "politician",
+        "start": 64,
+        "end": 73
+      },
+      {
+        "text": "Russian Party",
+        "label": "politicalparty",
+        "start": 170,
+        "end": 183
+      },
+      {
+        "text": "English Party",
+        "label": "politicalparty",
+        "start": 189,
+        "end": 202
+      },
+      {
+        "text": "French Party",
+        "label": "politicalparty",
+        "start": 212,
+        "end": 224
+      }
+    ]
+  },
+  {
+    "text": "In December 1914 he was appointed to the Committee on Alleged German Outrages, which in May 1915 reported on German war crimes against civilians during the invasion of Belgium in the opening months of World War I.",
+    "entities": [
+      {
+        "text": "Committee on Alleged German Outrages",
+        "label": "organisation",
+        "start": 41,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "Westerwelle stepped down as party leader following the 2011 state elections, in which the party was wiped out in 2011 Saxony-Anhalt state election and 2011 Rhineland-Palatinate state election and lost half its seats in 2011 Baden-Württemberg state election.",
+    "entities": [
+      {
+        "text": "Westerwelle",
+        "label": "politician",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "2011 Saxony-Anhalt state election",
+        "label": "election",
+        "start": 113,
+        "end": 146
+      },
+      {
+        "text": "2011 Rhineland-Palatinate state election",
+        "label": "election",
+        "start": 151,
+        "end": 191
+      },
+      {
+        "text": "2011 Baden-Württemberg state election",
+        "label": "election",
+        "start": 219,
+        "end": 256
+      }
+    ]
+  },
+  {
+    "text": "There Novick threw a political jab, challenging Merkley's statements that he had been an opponent of the war from the start by pointing to his support of a Republican-drafted non-binding resolution in 2003, two days after the invasion began, that praised President George W. Bush for the invasion of Iraq and the efforts of the troops and prayed for their safety.",
+    "entities": [
+      {
+        "text": "Novick",
+        "label": "politician",
+        "start": 6,
+        "end": 12
+      },
+      {
+        "text": "Merkley",
+        "label": "politician",
+        "start": 48,
+        "end": 55
+      },
+      {
+        "text": "George W. Bush",
+        "label": "politician",
+        "start": 265,
+        "end": 279
+      }
+    ]
+  },
+  {
+    "text": "In 1963 Canadian federal election, he ran unsuccessfully as a Liberal Party of Canada in the riding of Port Arthur, losing to the New Democratic Party candidate, Douglas Fisher.",
+    "entities": [
+      {
+        "text": "1963 Canadian federal election",
+        "label": "election",
+        "start": 3,
+        "end": 33
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 62,
+        "end": 85
+      },
+      {
+        "text": "Port Arthur",
+        "label": "politician",
+        "start": 103,
+        "end": 114
+      },
+      {
+        "text": "New Democratic Party",
+        "label": "politicalparty",
+        "start": 130,
+        "end": 150
+      },
+      {
+        "text": "Douglas Fisher",
+        "label": "politician",
+        "start": 162,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "At the age of 16, he graduated from high school in Husum and later studied at the universities of University of Jena, University of Bonn, Leipzig, Berlin, and University of Tübingen.",
+    "entities": [
+      {
+        "text": "Husum",
+        "label": "location",
+        "start": 51,
+        "end": 56
+      },
+      {
+        "text": "University of Jena",
+        "label": "organisation",
+        "start": 98,
+        "end": 116
+      },
+      {
+        "text": "University of Bonn",
+        "label": "organisation",
+        "start": 118,
+        "end": 136
+      },
+      {
+        "text": "Leipzig",
+        "label": "location",
+        "start": 138,
+        "end": 145
+      },
+      {
+        "text": "Berlin",
+        "label": "location",
+        "start": 147,
+        "end": 153
+      },
+      {
+        "text": "University of Tübingen",
+        "label": "organisation",
+        "start": 159,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "Hawkins is also seeking the 2020 Green Party presidential primaries presidential nomination, as well as that of various state-level parties such as the Peace and Freedom Party in California and Liberty Union Party in Vermont, in a bid to unite the non-sectarian independent Left behind a single campaign.",
+    "entities": [
+      {
+        "text": "Hawkins",
+        "label": "politician",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "2020 Green Party presidential primaries",
+        "label": "election",
+        "start": 28,
+        "end": 67
+      },
+      {
+        "text": "Peace and Freedom Party",
+        "label": "politicalparty",
+        "start": 152,
+        "end": 175
+      },
+      {
+        "text": "California",
+        "label": "location",
+        "start": 179,
+        "end": 189
+      },
+      {
+        "text": "Liberty Union Party",
+        "label": "politicalparty",
+        "start": 194,
+        "end": 213
+      },
+      {
+        "text": "Vermont",
+        "label": "location",
+        "start": 217,
+        "end": 224
+      }
+    ]
+  },
+  {
+    "text": "MPs from the Democratic Unionist Party, Sinn Féin, Social Democratic and Labour Party or Ulster Unionist Party, including those Ulster Unionists who stood as part of the Conservative Party, are excluded.",
+    "entities": [
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 13,
+        "end": 38
+      },
+      {
+        "text": "Sinn Féin",
+        "label": "politicalparty",
+        "start": 40,
+        "end": 49
+      },
+      {
+        "text": "Social Democratic and Labour Party",
+        "label": "politicalparty",
+        "start": 51,
+        "end": 85
+      },
+      {
+        "text": "Ulster Unionist Party",
+        "label": "politicalparty",
+        "start": 89,
+        "end": 110
+      },
+      {
+        "text": "Conservative Party",
+        "label": "politicalparty",
+        "start": 170,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "text": "He gained further international attention as the chief leader of the Non-Aligned Movement, alongside Jawaharlal Nehru of India, Gamal Abdel Nasser of Egypt, and Kwame Nkrumah of Ghana.",
+    "entities": [
+      {
+        "text": "Non-Aligned Movement",
+        "label": "organisation",
+        "start": 69,
+        "end": 89
+      },
+      {
+        "text": "Jawaharlal Nehru",
+        "label": "politician",
+        "start": 101,
+        "end": 117
+      },
+      {
+        "text": "Gamal Abdel Nasser",
+        "label": "politician",
+        "start": 128,
+        "end": 146
+      },
+      {
+        "text": "Kwame Nkrumah",
+        "label": "politician",
+        "start": 161,
+        "end": 174
+      }
+    ]
+  },
+  {
+    "text": "In Italy, the Italian Social Movement led by Giorgio Almirante was a major neo-fascist movement that transformed itself into a self-described post-fascist movement called the National Alliance (AN), which has been an ally of Silvio Berlusconi ' s Forza Italia for a decade.",
+    "entities": [
+      {
+        "text": "Italy",
+        "label": "location",
+        "start": 3,
+        "end": 8
+      },
+      {
+        "text": "Italian Social Movement",
+        "label": "politicalparty",
+        "start": 14,
+        "end": 37
+      },
+      {
+        "text": "Giorgio Almirante",
+        "label": "politician",
+        "start": 45,
+        "end": 62
+      },
+      {
+        "text": "National Alliance",
+        "label": "politicalparty",
+        "start": 175,
+        "end": 192
+      },
+      {
+        "text": "AN",
+        "label": "politicalparty",
+        "start": 194,
+        "end": 196
+      },
+      {
+        "text": "Silvio Berlusconi",
+        "label": "politician",
+        "start": 225,
+        "end": 242
+      },
+      {
+        "text": "Forza Italia",
+        "label": "politicalparty",
+        "start": 247,
+        "end": 259
+      }
+    ]
+  },
+  {
+    "text": "Satellite mints to aid in the re-coinage were established in Bristol, Chester, Exeter, Norwich, and York, with returned coins being valued by weight, not face value.",
+    "entities": [
+      {
+        "text": "Bristol",
+        "label": "location",
+        "start": 61,
+        "end": 68
+      },
+      {
+        "text": "Chester",
+        "label": "location",
+        "start": 70,
+        "end": 77
+      },
+      {
+        "text": "Exeter",
+        "label": "location",
+        "start": 79,
+        "end": 85
+      },
+      {
+        "text": "Norwich",
+        "label": "location",
+        "start": 87,
+        "end": 94
+      },
+      {
+        "text": "York",
+        "label": "location",
+        "start": 100,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "CFR is headquartered in Bucharest and has regional divisions centered in Bucharest, Brașov, Cluj-Napoca, Constanța, Craiova, Galați, Iași and Timișoara.",
+    "entities": [
+      {
+        "text": "CFR",
+        "label": "organisation",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Bucharest",
+        "label": "location",
+        "start": 24,
+        "end": 33
+      },
+      {
+        "text": "Bucharest",
+        "label": "location",
+        "start": 73,
+        "end": 82
+      },
+      {
+        "text": "Brașov",
+        "label": "location",
+        "start": 84,
+        "end": 90
+      },
+      {
+        "text": "Cluj-Napoca",
+        "label": "location",
+        "start": 92,
+        "end": 103
+      },
+      {
+        "text": "Constanța",
+        "label": "location",
+        "start": 105,
+        "end": 114
+      },
+      {
+        "text": "Craiova",
+        "label": "location",
+        "start": 116,
+        "end": 123
+      },
+      {
+        "text": "Galați",
+        "label": "location",
+        "start": 125,
+        "end": 131
+      },
+      {
+        "text": "Iași",
+        "label": "location",
+        "start": 133,
+        "end": 137
+      },
+      {
+        "text": "Timișoara",
+        "label": "location",
+        "start": 142,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "At the 2001 Italian general election the Greens formed a joint list with the Italian Democratic Socialists (SDI): The Sunflower.",
+    "entities": [
+      {
+        "text": "2001 Italian general election",
+        "label": "election",
+        "start": 7,
+        "end": 36
+      },
+      {
+        "text": "Italian Democratic Socialists",
+        "label": "politicalparty",
+        "start": 77,
+        "end": 106
+      },
+      {
+        "text": "SDI",
+        "label": "politicalparty",
+        "start": 108,
+        "end": 111
+      },
+      {
+        "text": "The Sunflower",
+        "label": "politicalparty",
+        "start": 114,
+        "end": 127
+      }
+    ]
+  },
+  {
+    "text": "During his time as governor, Thompson served as chairman of the National Governors Association and the Education Commission of the States, in addition to the Council of State Governments, the Republican Governors Association, the Council of Great Lakes Governors, and the Midwestern Governors Association.",
+    "entities": [
+      {
+        "text": "Thompson",
+        "label": "politician",
+        "start": 29,
+        "end": 37
+      },
+      {
+        "text": "National Governors Association",
+        "label": "politicalparty",
+        "start": 64,
+        "end": 94
+      },
+      {
+        "text": "Education Commission of the States",
+        "label": "organisation",
+        "start": 103,
+        "end": 137
+      },
+      {
+        "text": "Council of State Governments",
+        "label": "organisation",
+        "start": 158,
+        "end": 186
+      },
+      {
+        "text": "Republican Governors Association",
+        "label": "politicalparty",
+        "start": 192,
+        "end": 224
+      },
+      {
+        "text": "Council of Great Lakes Governors",
+        "label": "organisation",
+        "start": 230,
+        "end": 262
+      },
+      {
+        "text": "Midwestern Governors Association",
+        "label": "organisation",
+        "start": 272,
+        "end": 304
+      }
+    ]
+  },
+  {
+    "text": "With his marriage to Urraca, queen regnant of Kingdom of Castile, Kingdom of León and Kingdom of Galicia, in 1109, he began to use, with some justification, the grandiose title Emperor of Spain, formerly employed by his father-in-law, Alfonso VI.",
+    "entities": []
+  },
+  {
+    "text": "He spurred the ongoing revolt in Duchy of Saxony, which had forced Henry IV to retreat from that region (he crushed the revolt at the Battle of Langensalza soon thereafter); the Polish king seized the occasion to launch an invasion against Henry IV's vassal, Vratislaus II of Bohemia, alongside an ally from Grand Prince Vladimir II Monomakh of Kiev.",
+    "entities": [
+      {
+        "text": "Kiev",
+        "label": "location",
+        "start": 345,
+        "end": 349
+      }
+    ]
+  },
+  {
+    "text": "A significant number of Straight Left faction members had developed close personal friendships with members of fraternal communist parties, particularly the Tudeh Party of Iran, Iraqi Communist Party, South African and Communist Party of Greece parties, who were well organised on most British University campuses.",
+    "entities": [
+      {
+        "text": "Straight Left",
+        "label": "organisation",
+        "start": 24,
+        "end": 37
+      },
+      {
+        "text": "Tudeh Party of Iran",
+        "label": "politicalparty",
+        "start": 157,
+        "end": 176
+      },
+      {
+        "text": "Iraqi Communist Party",
+        "label": "politicalparty",
+        "start": 178,
+        "end": 199
+      },
+      {
+        "text": "Communist Party of Greece",
+        "label": "politicalparty",
+        "start": 219,
+        "end": 244
+      }
+    ]
+  },
+  {
+    "text": "The film was screened at various film festivals, including: the 1996 Cannes Film Festival, France; the Contemporary Latin American Film Series at UCLA, Los Angeles; the Oslo Film Festival, Norway; the Havana Film Festival, Cuba; and others.",
+    "entities": [
+      {
+        "text": "UCLA",
+        "label": "organisation",
+        "start": 146,
+        "end": 150
+      },
+      {
+        "text": "Los Angeles",
+        "label": "location",
+        "start": 152,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "The film stars Chiranjeevi in the title role along with Tamannaah, Nayanthara, Sudeep, Jagapati Babu, and Vijay Sethupathi in supporting roles.",
+    "entities": []
+  },
+  {
+    "text": "The importance of the putsch and subsequent invasion in delaying Operation Barbarossa, the Axis invasion of the Soviet Union, is disputed but most scholars now consider that it had no significant impact on the eventual outcome of that campaign.",
+    "entities": []
+  },
+  {
+    "text": "Dubé was first elected to the Legislative Assembly of New Brunswick in the 1999 New Brunswick general election and was re-elected in 2003 New Brunswick general election, 2006 New Brunswick general election and 2010 New Brunswick general election.",
+    "entities": [
+      {
+        "text": "Dubé",
+        "label": "politician",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Legislative Assembly of New Brunswick",
+        "label": "organisation",
+        "start": 30,
+        "end": 67
+      },
+      {
+        "text": "1999 New Brunswick general election",
+        "label": "election",
+        "start": 75,
+        "end": 110
+      },
+      {
+        "text": "2003 New Brunswick general election",
+        "label": "election",
+        "start": 133,
+        "end": 168
+      },
+      {
+        "text": "2006 New Brunswick general election",
+        "label": "election",
+        "start": 170,
+        "end": 205
+      },
+      {
+        "text": "2010 New Brunswick general election",
+        "label": "election",
+        "start": 210,
+        "end": 245
+      }
+    ]
+  },
+  {
+    "text": "During the Eurozone crisis, the two main parties, The People of Freedom and the Democratic Party, along with other minor political forces, supported the Monti cabinet, and eventually, after the 2013 Italian general election, formed a grand coalition in support of the Letta Cabinet, which, however, was opposed by a new major political force in parliament, the anti-establishment Five Star Movement.",
+    "entities": [
+      {
+        "text": "The People of Freedom",
+        "label": "politicalparty",
+        "start": 50,
+        "end": 71
+      },
+      {
+        "text": "Democratic Party",
+        "label": "politicalparty",
+        "start": 80,
+        "end": 96
+      },
+      {
+        "text": "Monti cabinet",
+        "label": "organisation",
+        "start": 153,
+        "end": 166
+      },
+      {
+        "text": "2013 Italian general election",
+        "label": "election",
+        "start": 194,
+        "end": 223
+      },
+      {
+        "text": "Letta Cabinet",
+        "label": "organisation",
+        "start": 268,
+        "end": 281
+      },
+      {
+        "text": "Five Star Movement",
+        "label": "politicalparty",
+        "start": 380,
+        "end": 398
+      }
+    ]
+  },
+  {
+    "text": "The California Democratic Party, the California Republican Party, the Libertarian Party of California, and the Peace and Freedom Party have historically prohibited nonmembers from voting in their party's primary.",
+    "entities": [
+      {
+        "text": "California Democratic Party",
+        "label": "politicalparty",
+        "start": 4,
+        "end": 31
+      },
+      {
+        "text": "California Republican Party",
+        "label": "politicalparty",
+        "start": 37,
+        "end": 64
+      },
+      {
+        "text": "Libertarian Party of California",
+        "label": "politicalparty",
+        "start": 70,
+        "end": 101
+      },
+      {
+        "text": "Peace and Freedom Party",
+        "label": "politicalparty",
+        "start": 111,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "The Treaty of Ganghwa became the first unequal treaty signed between Korea and a foreign country; it gave extraterritorial rights to Japanese citizens in Korea and forced the Korean government to open three ports, Busan, Incheon, and Wonsan, to Japanese and foreign trade.",
+    "entities": [
+      {
+        "text": "Busan",
+        "label": "location",
+        "start": 214,
+        "end": 219
+      },
+      {
+        "text": "Incheon",
+        "label": "location",
+        "start": 221,
+        "end": 228
+      },
+      {
+        "text": "Wonsan",
+        "label": "location",
+        "start": 234,
+        "end": 240
+      }
+    ]
+  },
+  {
+    "text": "Fletcher later joined the Progressive Conservative Party of Manitoba, and lost to Molgat under this party's banner in the provincial elections of 1959 Manitoba general election and 1962 Manitoba general election.",
+    "entities": [
+      {
+        "text": "Fletcher",
+        "label": "politician",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Progressive Conservative Party of Manitoba",
+        "label": "politicalparty",
+        "start": 26,
+        "end": 68
+      },
+      {
+        "text": "Molgat",
+        "label": "politician",
+        "start": 82,
+        "end": 88
+      },
+      {
+        "text": "1959 Manitoba general election",
+        "label": "election",
+        "start": 146,
+        "end": 176
+      },
+      {
+        "text": "1962 Manitoba general election",
+        "label": "election",
+        "start": 181,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "Like rural Alberta, Calgary was a clean sweep for the politically rightmost party in all but one election from 1972 to 2011: Progressive Conservative Party of Canada through 1988, Reform Party of Canada in 1993 and 1997, the Canadian Alliance in 2000 and Conservative Party of Canada since 2004.",
+    "entities": [
+      {
+        "text": "Alberta",
+        "label": "location",
+        "start": 11,
+        "end": 18
+      },
+      {
+        "text": "Calgary",
+        "label": "location",
+        "start": 20,
+        "end": 27
+      },
+      {
+        "text": "Progressive Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 125,
+        "end": 165
+      },
+      {
+        "text": "Reform Party of Canada",
+        "label": "politicalparty",
+        "start": 180,
+        "end": 202
+      },
+      {
+        "text": "Canadian Alliance",
+        "label": "politicalparty",
+        "start": 225,
+        "end": 242
+      },
+      {
+        "text": "Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 255,
+        "end": 283
+      }
+    ]
+  },
+  {
+    "text": "The organization has local chapters in Fredericton, Montreal, Ottawa, Toronto, Hamilton, Edmonton, Calgary and Vancouver, plus international chapters in the US and the UK.",
+    "entities": [
+      {
+        "text": "Fredericton",
+        "label": "location",
+        "start": 39,
+        "end": 50
+      },
+      {
+        "text": "Montreal",
+        "label": "location",
+        "start": 52,
+        "end": 60
+      },
+      {
+        "text": "Ottawa",
+        "label": "location",
+        "start": 62,
+        "end": 68
+      },
+      {
+        "text": "Toronto",
+        "label": "location",
+        "start": 70,
+        "end": 77
+      },
+      {
+        "text": "Hamilton",
+        "label": "location",
+        "start": 79,
+        "end": 87
+      },
+      {
+        "text": "Edmonton",
+        "label": "location",
+        "start": 89,
+        "end": 97
+      },
+      {
+        "text": "Calgary",
+        "label": "location",
+        "start": 99,
+        "end": 106
+      },
+      {
+        "text": "Vancouver",
+        "label": "location",
+        "start": 111,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "The Soviet Politburo decisions were guided by a Special Commission on Afghanistan, which consisted of Yuri Andropov the KGB chairman, Andrei Gromyko the Minister of Foreign Affairs, Defence Minister Dmitriy Ustinov, and Boris Ponomarev, the head of the International Department of the Central Committee.",
+    "entities": [
+      {
+        "text": "Yuri Andropov",
+        "label": "politician",
+        "start": 102,
+        "end": 115
+      },
+      {
+        "text": "KGB",
+        "label": "organisation",
+        "start": 120,
+        "end": 123
+      },
+      {
+        "text": "Andrei Gromyko",
+        "label": "politician",
+        "start": 134,
+        "end": 148
+      },
+      {
+        "text": "Dmitriy Ustinov",
+        "label": "politician",
+        "start": 199,
+        "end": 214
+      },
+      {
+        "text": "Boris Ponomarev",
+        "label": "politician",
+        "start": 220,
+        "end": 235
+      },
+      {
+        "text": "International Department of the Central Committee",
+        "label": "organisation",
+        "start": 253,
+        "end": 302
+      }
+    ]
+  },
+  {
+    "text": "The Prime Minister, Robert Menzies, adroitly used the defection of a Soviet official to his advantage, and his coalition of the Liberal and National Party of Australia parties was returned in the 1954 Australian federal election with a seven-seat majority.",
+    "entities": [
+      {
+        "text": "Robert Menzies",
+        "label": "politician",
+        "start": 20,
+        "end": 34
+      },
+      {
+        "text": "Liberal",
+        "label": "politicalparty",
+        "start": 128,
+        "end": 135
+      },
+      {
+        "text": "National Party of Australia",
+        "label": "politicalparty",
+        "start": 140,
+        "end": 167
+      },
+      {
+        "text": "1954 Australian federal election",
+        "label": "election",
+        "start": 196,
+        "end": 228
+      }
+    ]
+  },
+  {
+    "text": "Filipinos suspended the independence campaign during the First World War and supported the United States and the Allies of World War I against the German Empire.",
+    "entities": []
+  },
+  {
+    "text": "For the next two years, Villalpando was a prolific activist in both Republican and Hispanic circles, serving on the boards of the Texas Federation of Republican Women, the Southwest Voter Registration Education Project, the League of United Latin American Citizens, and the American GI Forum.",
+    "entities": [
+      {
+        "text": "Villalpando",
+        "label": "politician",
+        "start": 24,
+        "end": 35
+      },
+      {
+        "text": "Texas",
+        "label": "location",
+        "start": 130,
+        "end": 135
+      },
+      {
+        "text": "Federation of Republican Women",
+        "label": "organisation",
+        "start": 136,
+        "end": 166
+      },
+      {
+        "text": "Southwest Voter Registration Education Project",
+        "label": "organisation",
+        "start": 172,
+        "end": 218
+      },
+      {
+        "text": "League of United Latin American Citizens",
+        "label": "organisation",
+        "start": 224,
+        "end": 264
+      },
+      {
+        "text": "American GI Forum",
+        "label": "organisation",
+        "start": 274,
+        "end": 291
+      }
+    ]
+  },
+  {
+    "text": "The incumbent Australian Labor Party, led by Prime Minister Bob Hawke, defeated the opposition Liberal Party of Australia, led by John Howard and the National Party of Australia led by Ian Sinclair.",
+    "entities": [
+      {
+        "text": "Australian Labor Party",
+        "label": "politicalparty",
+        "start": 14,
+        "end": 36
+      },
+      {
+        "text": "Bob Hawke",
+        "label": "politician",
+        "start": 60,
+        "end": 69
+      },
+      {
+        "text": "Liberal Party of Australia",
+        "label": "politicalparty",
+        "start": 95,
+        "end": 121
+      },
+      {
+        "text": "John Howard",
+        "label": "politician",
+        "start": 130,
+        "end": 141
+      },
+      {
+        "text": "National Party of Australia",
+        "label": "politicalparty",
+        "start": 150,
+        "end": 177
+      },
+      {
+        "text": "Ian Sinclair",
+        "label": "politician",
+        "start": 185,
+        "end": 197
+      }
+    ]
+  },
+  {
+    "text": "When Wendell Willkie withdrew from the race for the 1944 Republican Party presidential primaries on April 5, following his complete loss of the Wisconsin primary in which New York Governor Thomas E. Dewey, Harold Stassen, and General Douglas MacArthur claimed all the delegates, Associated Press, Willkie Admits Defeat, Quits Campaign, The San Bernardino Daily Sun, San Bernardino, California, Thursday 6 April 1944, Volume 50, page 1.",
+    "entities": [
+      {
+        "text": "Wendell Willkie",
+        "label": "politician",
+        "start": 5,
+        "end": 20
+      },
+      {
+        "text": "1944 Republican Party presidential primaries",
+        "label": "election",
+        "start": 52,
+        "end": 96
+      },
+      {
+        "text": "Wisconsin",
+        "label": "location",
+        "start": 144,
+        "end": 153
+      },
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 171,
+        "end": 179
+      },
+      {
+        "text": "Thomas E. Dewey",
+        "label": "politician",
+        "start": 189,
+        "end": 204
+      },
+      {
+        "text": "Harold Stassen",
+        "label": "politician",
+        "start": 206,
+        "end": 220
+      },
+      {
+        "text": "Associated Press",
+        "label": "organisation",
+        "start": 279,
+        "end": 295
+      },
+      {
+        "text": "The San Bernardino Daily Sun",
+        "label": "organisation",
+        "start": 336,
+        "end": 364
+      },
+      {
+        "text": "San Bernardino",
+        "label": "location",
+        "start": 366,
+        "end": 380
+      },
+      {
+        "text": "California",
+        "label": "location",
+        "start": 382,
+        "end": 392
+      }
+    ]
+  },
+  {
+    "text": "The prestige of the Speakership caused them to abandon life in a Washington boarding house for their own residence on Pennsylvania. In the 1836 United States presidential election, Vice President Martin Van Buren, Jackson's chosen successor, defeated multiple Whig candidates, including Tennessee Senator Hugh Lawson White.",
+    "entities": [
+      {
+        "text": "Washington boarding house",
+        "label": "location",
+        "start": 65,
+        "end": 90
+      },
+      {
+        "text": "Pennsylvania",
+        "label": "location",
+        "start": 118,
+        "end": 130
+      },
+      {
+        "text": "1836 United States presidential election",
+        "label": "election",
+        "start": 139,
+        "end": 179
+      },
+      {
+        "text": "Martin Van Buren",
+        "label": "politician",
+        "start": 196,
+        "end": 212
+      },
+      {
+        "text": "Jackson",
+        "label": "politician",
+        "start": 214,
+        "end": 221
+      },
+      {
+        "text": "Whig",
+        "label": "politicalparty",
+        "start": 260,
+        "end": 264
+      },
+      {
+        "text": "Tennessee",
+        "label": "location",
+        "start": 287,
+        "end": 296
+      },
+      {
+        "text": "Hugh Lawson White",
+        "label": "politician",
+        "start": 305,
+        "end": 322
+      }
+    ]
+  },
+  {
+    "text": "Of the current first ministers, four are from a Liberal Party, four are from a Progressive Conservative Party, and one is from a New Democratic Party; three others are from local parties (the Coalition Avenir Québec, the Saskatchewan Party, and the United Conservative Party) and two are non-partisan.",
+    "entities": [
+      {
+        "text": "Liberal Party",
+        "label": "politicalparty",
+        "start": 48,
+        "end": 61
+      },
+      {
+        "text": "Progressive Conservative Party",
+        "label": "politicalparty",
+        "start": 79,
+        "end": 109
+      },
+      {
+        "text": "New Democratic Party",
+        "label": "politicalparty",
+        "start": 129,
+        "end": 149
+      },
+      {
+        "text": "Coalition Avenir Québec",
+        "label": "politicalparty",
+        "start": 192,
+        "end": 215
+      },
+      {
+        "text": "Saskatchewan Party",
+        "label": "politicalparty",
+        "start": 221,
+        "end": 239
+      },
+      {
+        "text": "United Conservative Party",
+        "label": "politicalparty",
+        "start": 249,
+        "end": 274
+      }
+    ]
+  },
+  {
+    "text": "The same year the Euskadiko Ezkerra sent Juan María Bandrés (only Euskadiko Ezkerra senator) to the Basque General Council (the preautonomic Basque government and the decision of Euskadiko Ezkerra of voting to the candidate of the Basque Nationalist Party (PNV) to the presidency of the council, precipitated the decision of EMK, that left Euskadiko Ezkerra, along with the OIC-EKE (which in 1979 would eventually be integrated in EMK).",
+    "entities": [
+      {
+        "text": "Euskadiko Ezkerra",
+        "label": "politicalparty",
+        "start": 18,
+        "end": 35
+      },
+      {
+        "text": "Juan María Bandrés",
+        "label": "politician",
+        "start": 41,
+        "end": 59
+      },
+      {
+        "text": "Euskadiko Ezkerra",
+        "label": "politicalparty",
+        "start": 66,
+        "end": 83
+      },
+      {
+        "text": "Basque General Council",
+        "label": "organisation",
+        "start": 100,
+        "end": 122
+      },
+      {
+        "text": "Basque",
+        "label": "location",
+        "start": 141,
+        "end": 147
+      },
+      {
+        "text": "Euskadiko Ezkerra",
+        "label": "politicalparty",
+        "start": 179,
+        "end": 196
+      },
+      {
+        "text": "Basque Nationalist Party",
+        "label": "politicalparty",
+        "start": 231,
+        "end": 255
+      },
+      {
+        "text": "PNV",
+        "label": "politicalparty",
+        "start": 257,
+        "end": 260
+      },
+      {
+        "text": "EMK",
+        "label": "politicalparty",
+        "start": 325,
+        "end": 328
+      },
+      {
+        "text": "Euskadiko Ezkerra",
+        "label": "politicalparty",
+        "start": 340,
+        "end": 357
+      },
+      {
+        "text": "OIC-EKE",
+        "label": "politicalparty",
+        "start": 374,
+        "end": 381
+      },
+      {
+        "text": "EMK",
+        "label": "organisation",
+        "start": 431,
+        "end": 434
+      }
+    ]
+  },
+  {
+    "text": "Sponsoring organizations included NARAL Pro-Choice America, Choice USA, the Feminist Majority Foundation, Planned Parenthood, the American Civil Liberties Union, the National Association for the Advancement of Colored People, the National Organization for Women, Code Pink, and Black Women's Health Imperative.",
+    "entities": [
+      {
+        "text": "NARAL Pro-Choice America",
+        "label": "organisation",
+        "start": 34,
+        "end": 58
+      },
+      {
+        "text": "Choice USA",
+        "label": "organisation",
+        "start": 60,
+        "end": 70
+      },
+      {
+        "text": "Feminist Majority Foundation",
+        "label": "organisation",
+        "start": 76,
+        "end": 104
+      },
+      {
+        "text": "Planned Parenthood",
+        "label": "organisation",
+        "start": 106,
+        "end": 124
+      },
+      {
+        "text": "American Civil Liberties Union",
+        "label": "organisation",
+        "start": 130,
+        "end": 160
+      },
+      {
+        "text": "National Association for the Advancement of Colored People",
+        "label": "organisation",
+        "start": 166,
+        "end": 224
+      },
+      {
+        "text": "National Organization for Women",
+        "label": "organisation",
+        "start": 230,
+        "end": 261
+      },
+      {
+        "text": "Code Pink",
+        "label": "organisation",
+        "start": 263,
+        "end": 272
+      },
+      {
+        "text": "Black Women's Health Imperative",
+        "label": "organisation",
+        "start": 278,
+        "end": 309
+      }
+    ]
+  },
+  {
+    "text": "With the end of World War II and the official beginning of the Cold War, plans were made to prepare for an invasion by the Soviet Union.",
+    "entities": []
+  },
+  {
+    "text": "The Democratic Party made steady gains there, however, and in 1992 United States presidential election, 1996 United States presidential election, 2004 United States presidential election, 2008 United States presidential election and 2012 United States presidential election all eleven Northeastern states, from Maryland to Maine, voted for the Democrats except New Hampshire leaned more Republican.",
+    "entities": [
+      {
+        "text": "Democratic Party",
+        "label": "politicalparty",
+        "start": 4,
+        "end": 20
+      },
+      {
+        "text": "1992 United States presidential election",
+        "label": "election",
+        "start": 62,
+        "end": 102
+      },
+      {
+        "text": "1996 United States presidential election",
+        "label": "election",
+        "start": 104,
+        "end": 144
+      },
+      {
+        "text": "2004 United States presidential election",
+        "label": "election",
+        "start": 146,
+        "end": 186
+      },
+      {
+        "text": "2008 United States presidential election",
+        "label": "election",
+        "start": 188,
+        "end": 228
+      },
+      {
+        "text": "2012 United States presidential election",
+        "label": "election",
+        "start": 233,
+        "end": 273
+      },
+      {
+        "text": "Maryland",
+        "label": "location",
+        "start": 311,
+        "end": 319
+      },
+      {
+        "text": "Maine",
+        "label": "location",
+        "start": 323,
+        "end": 328
+      },
+      {
+        "text": "New Hampshire",
+        "label": "location",
+        "start": 361,
+        "end": 374
+      },
+      {
+        "text": "Republican",
+        "label": "politicalparty",
+        "start": 387,
+        "end": 397
+      }
+    ]
+  },
+  {
+    "text": "He contested Cardiff North in October 1974 United Kingdom general election and 1979 United Kingdom general election for the Liberals, before fighting Cardiff Central in 1983 United Kingdom general election and 1987 United Kingdom general election for the SDP-Liberal Alliance, but was unsuccessful on each occasion.",
+    "entities": [
+      {
+        "text": "Cardiff North",
+        "label": "politician",
+        "start": 13,
+        "end": 26
+      },
+      {
+        "text": "October 1974 United Kingdom general election",
+        "label": "election",
+        "start": 30,
+        "end": 74
+      },
+      {
+        "text": "1979 United Kingdom general election",
+        "label": "election",
+        "start": 79,
+        "end": 115
+      },
+      {
+        "text": "Liberals",
+        "label": "politicalparty",
+        "start": 124,
+        "end": 132
+      },
+      {
+        "text": "Cardiff Central",
+        "label": "politician",
+        "start": 150,
+        "end": 165
+      },
+      {
+        "text": "1983 United Kingdom general election",
+        "label": "election",
+        "start": 169,
+        "end": 205
+      },
+      {
+        "text": "1987 United Kingdom general election",
+        "label": "election",
+        "start": 210,
+        "end": 246
+      },
+      {
+        "text": "SDP-Liberal Alliance",
+        "label": "politicalparty",
+        "start": 255,
+        "end": 275
+      }
+    ]
+  },
+  {
+    "text": "She has been a frequent candidate for the French presidency, starting with 1974 French presidential election, and continuing through those of 1981 French presidential election, 1988 French presidential election, 1995 French presidential election, 2002 French presidential election, and 2007 French presidential election.",
+    "entities": [
+      {
+        "text": "1974 French presidential election",
+        "label": "election",
+        "start": 75,
+        "end": 108
+      },
+      {
+        "text": "1981 French presidential election",
+        "label": "election",
+        "start": 142,
+        "end": 175
+      },
+      {
+        "text": "1988 French presidential election",
+        "label": "election",
+        "start": 177,
+        "end": 210
+      },
+      {
+        "text": "1995 French presidential election",
+        "label": "election",
+        "start": 212,
+        "end": 245
+      },
+      {
+        "text": "2002 French presidential election",
+        "label": "election",
+        "start": 247,
+        "end": 280
+      },
+      {
+        "text": "2007 French presidential election",
+        "label": "election",
+        "start": 286,
+        "end": 319
+      }
+    ]
+  },
+  {
+    "text": "Motivated by Tower's victory, and hoping to prevent the far-right John Birch Society from coming to power, Bush ran for the chairmanship of the Harris County, Texas Republican Party, winning election in February 1963. Like most other Texas Republicans, Bush supported conservative Senator Barry Goldwater over the more centrist Nelson Rockefeller in the 1964 Republican Party presidential primaries.",
+    "entities": [
+      {
+        "text": "John Birch Society",
+        "label": "organisation",
+        "start": 66,
+        "end": 84
+      },
+      {
+        "text": "Bush",
+        "label": "politician",
+        "start": 107,
+        "end": 111
+      },
+      {
+        "text": "Harris County",
+        "label": "location",
+        "start": 144,
+        "end": 157
+      },
+      {
+        "text": "Texas",
+        "label": "location",
+        "start": 159,
+        "end": 164
+      },
+      {
+        "text": "Republican Party",
+        "label": "politicalparty",
+        "start": 165,
+        "end": 181
+      },
+      {
+        "text": "Bush",
+        "label": "politician",
+        "start": 253,
+        "end": 257
+      },
+      {
+        "text": "Barry Goldwater",
+        "label": "politician",
+        "start": 289,
+        "end": 304
+      },
+      {
+        "text": "Nelson Rockefeller",
+        "label": "politician",
+        "start": 328,
+        "end": 346
+      },
+      {
+        "text": "1964 Republican Party presidential primaries",
+        "label": "election",
+        "start": 354,
+        "end": 398
+      }
+    ]
+  },
+  {
+    "text": "During the last four years of the Second Polish Republic, the major politicians included President Ignacy Mościcki, Foreign Minister Józef Beck and the Commander-in-Chief of the Polish Army, Edward Rydz-Śmigły.",
+    "entities": [
+      {
+        "text": "Ignacy Mościcki",
+        "label": "politician",
+        "start": 99,
+        "end": 114
+      },
+      {
+        "text": "Józef Beck",
+        "label": "politician",
+        "start": 133,
+        "end": 143
+      },
+      {
+        "text": "Edward Rydz-Śmigły",
+        "label": "politician",
+        "start": 191,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "He ran as a Conservative Party of Canada in the 1911 Canadian federal election, finishing second of three candidates in the riding of Edmonton (the victorious candidate was Liberal Party of Canada Frank Oliver).",
+    "entities": [
+      {
+        "text": "Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 12,
+        "end": 40
+      },
+      {
+        "text": "1911 Canadian federal election",
+        "label": "election",
+        "start": 48,
+        "end": 78
+      },
+      {
+        "text": "Edmonton",
+        "label": "location",
+        "start": 134,
+        "end": 142
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 173,
+        "end": 196
+      },
+      {
+        "text": "Frank Oliver",
+        "label": "politician",
+        "start": 197,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "The Campaign to Defend Siping (四平保卫战) was a struggle between the Kuomintang and the communists for the control of Siping during the Chinese Civil War in the post World War II era.",
+    "entities": [
+      {
+        "text": "Kuomintang",
+        "label": "politicalparty",
+        "start": 65,
+        "end": 75
+      },
+      {
+        "text": "Siping",
+        "label": "location",
+        "start": 114,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "He studied law and political science at the universities of Goethe University Frankfurt, University of Burgundy, Ludwig Maximilian University of Munich, University of Königsberg, and University of Hamburg from 1933 to 1936, gaining a doctorate in 1938 and taking the Second Staatsexamen degree in 1939.",
+    "entities": [
+      {
+        "text": "Goethe University Frankfurt",
+        "label": "organisation",
+        "start": 60,
+        "end": 87
+      },
+      {
+        "text": "University of Burgundy",
+        "label": "organisation",
+        "start": 89,
+        "end": 111
+      },
+      {
+        "text": "Ludwig Maximilian University of Munich",
+        "label": "organisation",
+        "start": 113,
+        "end": 151
+      },
+      {
+        "text": "University of Königsberg",
+        "label": "organisation",
+        "start": 153,
+        "end": 177
+      },
+      {
+        "text": "University of Hamburg",
+        "label": "organisation",
+        "start": 183,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "Following their victory, the Khmer Rouge who were led by Pol Pot, Nuon Chea, Ieng Sary, Son Sen, and Khieu Samphan immediately set about forcibly evacuating the country's major cities and in 1976 they renamed the country Democratic Kampuchea.",
+    "entities": [
+      {
+        "text": "Khmer Rouge",
+        "label": "organisation",
+        "start": 29,
+        "end": 40
+      },
+      {
+        "text": "Pol Pot",
+        "label": "politician",
+        "start": 57,
+        "end": 64
+      },
+      {
+        "text": "Nuon Chea",
+        "label": "politician",
+        "start": 66,
+        "end": 75
+      },
+      {
+        "text": "Ieng Sary",
+        "label": "politician",
+        "start": 77,
+        "end": 86
+      },
+      {
+        "text": "Son Sen",
+        "label": "politician",
+        "start": 88,
+        "end": 95
+      },
+      {
+        "text": "Khieu Samphan",
+        "label": "politician",
+        "start": 101,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "text": "The California Campaign (1846-1847), colloquially the Conquest of California or Conquest of Alta California by the United States, was an early military campaign of the Mexican-American War that took place in the western part of Mexico's Alta California Department, in the present-day state of California.",
+    "entities": [
+      {
+        "text": "Alta California",
+        "label": "location",
+        "start": 237,
+        "end": 252
+      },
+      {
+        "text": "California",
+        "label": "location",
+        "start": 293,
+        "end": 303
+      }
+    ]
+  }
+]

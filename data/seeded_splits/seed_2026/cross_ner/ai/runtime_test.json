@@ -1,0 +1,1151 @@
+[
+  {
+    "text": "NSA Bethesda is responsible for base operational support for its major tenant, the Walter Reed National Military Medical Center.",
+    "entities": []
+  },
+  {
+    "text": "The AIBO has seen much use as an inexpensive platform for artificial intelligence education and research, because integrates a computer, Computer vision, and articulators in a package vastly cheaper than conventional research robots.",
+    "entities": [
+      {
+        "text": "AIBO",
+        "label": "product",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 58,
+        "end": 81
+      },
+      {
+        "text": "Computer vision",
+        "label": "field",
+        "start": 137,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "text": "Wolfram Mathematica (usually termed Mathematica) is a modern technical computing system spanning most areas of technical - including neural networks, machine learning, image processing, geometry, data science, visualizations, and others.",
+    "entities": [
+      {
+        "text": "neural networks",
+        "label": "algorithm",
+        "start": 133,
+        "end": 148
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 150,
+        "end": 166
+      },
+      {
+        "text": "image processing",
+        "label": "field",
+        "start": 168,
+        "end": 184
+      },
+      {
+        "text": "geometry",
+        "label": "field",
+        "start": 186,
+        "end": 194
+      },
+      {
+        "text": "data science",
+        "label": "field",
+        "start": 196,
+        "end": 208
+      },
+      {
+        "text": "visualizations",
+        "label": "field",
+        "start": 210,
+        "end": 224
+      }
+    ]
+  },
+  {
+    "text": "The building is now part of the Beth Israel Deaconess Medical Center.",
+    "entities": []
+  },
+  {
+    "text": "GATE includes an information extraction system called ANNIE (A Nearly-New Information Extraction System) which is a set of modules comprising a tokenizer, a gazetteer, a sentence splitter, a Part-of-speech tagging, a Named entity recognition transducer and a coreference tagger.",
+    "entities": [
+      {
+        "text": "GATE",
+        "label": "product",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "information extraction",
+        "label": "task",
+        "start": 17,
+        "end": 39
+      },
+      {
+        "text": "ANNIE",
+        "label": "product",
+        "start": 54,
+        "end": 59
+      },
+      {
+        "text": "A Nearly-New Information Extraction System",
+        "label": "product",
+        "start": 61,
+        "end": 103
+      },
+      {
+        "text": "Part-of-speech tagging",
+        "label": "task",
+        "start": 191,
+        "end": 213
+      },
+      {
+        "text": "Named entity recognition transducer",
+        "label": "product",
+        "start": 217,
+        "end": 252
+      },
+      {
+        "text": "coreference tagger",
+        "label": "product",
+        "start": 259,
+        "end": 277
+      }
+    ]
+  },
+  {
+    "text": "But even an official language with a regulating academy, such as Standard French with the Académie française, is classified as a natural language (for example, in the field of natural language processing), as its prescriptive points do not make it either constructed enough to be classified as a constructed language or controlled enough to be classified as a controlled natural language.",
+    "entities": [
+      {
+        "text": "natural language processing",
+        "label": "field",
+        "start": 176,
+        "end": 203
+      }
+    ]
+  },
+  {
+    "text": "A single grid can be analysed for both content (eyeball inspection) and structure (cluster analysis, principal component analysis, and a variety of structural indices relating to the complexity and range of the ratings being the chief techniques used).",
+    "entities": [
+      {
+        "text": "eyeball inspection",
+        "label": "task",
+        "start": 48,
+        "end": 66
+      },
+      {
+        "text": "cluster analysis",
+        "label": "task",
+        "start": 83,
+        "end": 99
+      },
+      {
+        "text": "principal component analysis",
+        "label": "task",
+        "start": 101,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "The Walt Disney Company also began more prominent use of 3D films in special venues to impress audiences with Magic Journeys (1982) and Captain EO (Francis Ford Coppola, 1986, starring Michael Jackson) being notable examples.",
+    "entities": []
+  },
+  {
+    "text": "These systems, such as Siri of the iOS operating system, operate on a similar pattern-recognizing technique as that of text-based systems, but with the former, the user input is conducted through speech recognition.",
+    "entities": [
+      {
+        "text": "Siri",
+        "label": "product",
+        "start": 23,
+        "end": 27
+      },
+      {
+        "text": "iOS operating system",
+        "label": "product",
+        "start": 35,
+        "end": 55
+      },
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 196,
+        "end": 214
+      }
+    ]
+  },
+  {
+    "text": "In principle, exact recovery can be solved in its feasible range using maximum likelihood, but this amounts to solving a constrained or regularized cut problem such as minimum bisection that is typically NP-complete.",
+    "entities": []
+  },
+  {
+    "text": "The Mean squared error is 0.15.",
+    "entities": []
+  },
+  {
+    "text": "Crawler-friendly Web Servers, and it integrates the features of sitemaps and RSS feeds into a decentralized mechanism for computational biologists and bio-informaticians to openly broadcast and retrieve meta-data about biomedical resources.",
+    "entities": [
+      {
+        "text": "Crawler-friendly Web Servers",
+        "label": "product",
+        "start": 0,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.",
+    "entities": [
+      {
+        "text": "Natural language processing",
+        "label": "field",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "NLP",
+        "label": "field",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "linguistics",
+        "label": "field",
+        "start": 51,
+        "end": 62
+      },
+      {
+        "text": "computer science",
+        "label": "field",
+        "start": 64,
+        "end": 80
+      },
+      {
+        "text": "information engineering",
+        "label": "field",
+        "start": 82,
+        "end": 105
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 111,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "In artificial intelligence, Marvin Minsky, Herbert A. Simon, and Allen Newell are prominent.",
+    "entities": [
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 3,
+        "end": 26
+      },
+      {
+        "text": "Marvin Minsky",
+        "label": "researcher",
+        "start": 28,
+        "end": 41
+      },
+      {
+        "text": "Herbert A. Simon",
+        "label": "researcher",
+        "start": 43,
+        "end": 59
+      },
+      {
+        "text": "Allen Newell",
+        "label": "researcher",
+        "start": 65,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "In statistics, an expectation-maximization (EM) algorithm is an iterative method to find maximum likelihood or maximum a posteriori (MAP) estimates of parameter s in statistical model s, where the model depends on unobserved latent variable s.",
+    "entities": [
+      {
+        "text": "statistics",
+        "label": "field",
+        "start": 3,
+        "end": 13
+      },
+      {
+        "text": "expectation-maximization",
+        "label": "algorithm",
+        "start": 18,
+        "end": 42
+      },
+      {
+        "text": "EM",
+        "label": "algorithm",
+        "start": 44,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "This relations can be easily represented with a confusion matrix, a table which describes the accuracy of a classification model.",
+    "entities": [
+      {
+        "text": "classification",
+        "label": "task",
+        "start": 108,
+        "end": 122
+      }
+    ]
+  },
+  {
+    "text": "A special case of keyword spotting is wake word (also called hot word) detection used by personal digital assistants such as Alexa or Siri to wake up when their name is spoken.",
+    "entities": [
+      {
+        "text": "keyword spotting",
+        "label": "task",
+        "start": 18,
+        "end": 34
+      },
+      {
+        "text": "Alexa",
+        "label": "product",
+        "start": 125,
+        "end": 130
+      },
+      {
+        "text": "Siri",
+        "label": "product",
+        "start": 134,
+        "end": 138
+      }
+    ]
+  },
+  {
+    "text": "This overall framework has been applied to a large variety of problems in computer vision, including feature detection, feature classification, image segmentation, image matching, motion estimation, computation of shape cues and object recognition.",
+    "entities": [
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 74,
+        "end": 89
+      },
+      {
+        "text": "feature detection",
+        "label": "task",
+        "start": 101,
+        "end": 118
+      },
+      {
+        "text": "feature classification",
+        "label": "task",
+        "start": 120,
+        "end": 142
+      },
+      {
+        "text": "image segmentation",
+        "label": "task",
+        "start": 144,
+        "end": 162
+      },
+      {
+        "text": "image matching",
+        "label": "task",
+        "start": 164,
+        "end": 178
+      },
+      {
+        "text": "motion estimation",
+        "label": "task",
+        "start": 180,
+        "end": 197
+      },
+      {
+        "text": "computation of shape cues",
+        "label": "task",
+        "start": 199,
+        "end": 224
+      },
+      {
+        "text": "object recognition",
+        "label": "task",
+        "start": 229,
+        "end": 247
+      }
+    ]
+  },
+  {
+    "text": "The ROC curve is created by plotting the TRUE positive rate (TPR) against the FALSE positive rate (FPR) at various threshold settings.",
+    "entities": []
+  },
+  {
+    "text": "Linear predictive coding (LPC), a speech processing algorithm, was first proposed by Fumitada Itakura of Nagoya University and Shuzo Saito of Nippon Telegraph and Telephone (NTT) in 1966.",
+    "entities": [
+      {
+        "text": "Linear predictive coding",
+        "label": "algorithm",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "LPC",
+        "label": "algorithm",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "speech processing",
+        "label": "task",
+        "start": 34,
+        "end": 51
+      },
+      {
+        "text": "Fumitada Itakura",
+        "label": "researcher",
+        "start": 85,
+        "end": 101
+      },
+      {
+        "text": "Shuzo Saito",
+        "label": "researcher",
+        "start": 127,
+        "end": 138
+      }
+    ]
+  },
+  {
+    "text": "If the signal is further ergodic, all sample paths exhibits the same time-average and thus mathR _ x ^ {n / T _ 0} (\\ tau) = \\ widehat {R} _ x ^ {n / T _ 0} (\\ tau) / math in mean square error sense.",
+    "entities": []
+  },
+  {
+    "text": "Other measures, such as the proportion of correct predictions (also termed accuracy), are not useful when the two classes are of very different sizes.",
+    "entities": []
+  },
+  {
+    "text": "The Apple iOS operating system used on the iPhone, iPad and iPod Touch uses VoiceOver speech synthesis accessibility.",
+    "entities": [
+      {
+        "text": "Apple iOS operating system",
+        "label": "product",
+        "start": 4,
+        "end": 30
+      },
+      {
+        "text": "iPhone",
+        "label": "product",
+        "start": 43,
+        "end": 49
+      },
+      {
+        "text": "iPad",
+        "label": "product",
+        "start": 51,
+        "end": 55
+      },
+      {
+        "text": "iPod Touch",
+        "label": "product",
+        "start": 60,
+        "end": 70
+      },
+      {
+        "text": "VoiceOver speech synthesis",
+        "label": "product",
+        "start": 76,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Other programming environments that are used to build DAQ applications include ladder logic, Visual C + +, Visual Basic, LabVIEW, and MATLAB.",
+    "entities": [
+      {
+        "text": "DAQ",
+        "label": "task",
+        "start": 54,
+        "end": 57
+      },
+      {
+        "text": "Visual C + +",
+        "label": "product",
+        "start": 93,
+        "end": 105
+      },
+      {
+        "text": "LabVIEW",
+        "label": "product",
+        "start": 121,
+        "end": 128
+      },
+      {
+        "text": "MATLAB",
+        "label": "product",
+        "start": 134,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "Typical discriminative models include logistic regression (LR), support vector machine s (SVM), conditional random fields (CRFs) (specified over an undirected graph), decision trees, neural networks, and many others.",
+    "entities": [
+      {
+        "text": "logistic regression",
+        "label": "algorithm",
+        "start": 38,
+        "end": 57
+      },
+      {
+        "text": "LR",
+        "label": "algorithm",
+        "start": 59,
+        "end": 61
+      },
+      {
+        "text": "support vector machine",
+        "label": "algorithm",
+        "start": 64,
+        "end": 86
+      },
+      {
+        "text": "SVM",
+        "label": "algorithm",
+        "start": 90,
+        "end": 93
+      },
+      {
+        "text": "conditional random fields",
+        "label": "algorithm",
+        "start": 96,
+        "end": 121
+      },
+      {
+        "text": "CRFs",
+        "label": "algorithm",
+        "start": 123,
+        "end": 127
+      },
+      {
+        "text": "undirected graph",
+        "label": "algorithm",
+        "start": 148,
+        "end": 164
+      },
+      {
+        "text": "decision trees",
+        "label": "algorithm",
+        "start": 167,
+        "end": 181
+      },
+      {
+        "text": "neural networks",
+        "label": "algorithm",
+        "start": 183,
+        "end": 198
+      }
+    ]
+  },
+  {
+    "text": "59, pp. 2547-2553, Oct. 2011 In one dimensional polynomial-based memory (or memoryless) DPD, in order to solve for the digital pre-distorter polynomials coefficients and minimize the mean squared error (MSE), the distorted output of the nonlinear system must be over-sampled at a rate that enables the capture of the nonlinear products of the order of the digital pre-distorter.",
+    "entities": []
+  },
+  {
+    "text": "Zurada has served the engineering profession as a long-time volunteer of IEEE: as 2014 IEEE Vice-President-Technical Activities (TAB Chair), as President of IEEE Computational Intelligence Society in 2004-05 and the ADCOM member in 2009-14, 2016-18 and earlier years.",
+    "entities": [
+      {
+        "text": "Zurada",
+        "label": "researcher",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Application areas of kernel methods are diverse and include geostatistics, kriging, inverse distance weighting, 3D reconstruction, bioinformatics, chemoinformatics, information extraction and handwriting recognition.",
+    "entities": [
+      {
+        "text": "kernel methods",
+        "label": "algorithm",
+        "start": 21,
+        "end": 35
+      },
+      {
+        "text": "geostatistics",
+        "label": "field",
+        "start": 60,
+        "end": 73
+      },
+      {
+        "text": "kriging",
+        "label": "algorithm",
+        "start": 75,
+        "end": 82
+      },
+      {
+        "text": "inverse distance weighting",
+        "label": "algorithm",
+        "start": 84,
+        "end": 110
+      },
+      {
+        "text": "3D reconstruction",
+        "label": "task",
+        "start": 112,
+        "end": 129
+      },
+      {
+        "text": "bioinformatics",
+        "label": "field",
+        "start": 131,
+        "end": 145
+      },
+      {
+        "text": "chemoinformatics",
+        "label": "field",
+        "start": 147,
+        "end": 163
+      },
+      {
+        "text": "information extraction",
+        "label": "task",
+        "start": 165,
+        "end": 187
+      },
+      {
+        "text": "handwriting recognition",
+        "label": "task",
+        "start": 192,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "It had over 30 locations in the U.S., Canada, Mexico, Brazil and Argentina.",
+    "entities": []
+  },
+  {
+    "text": "This is a particular way of implementing maximum likelihood estimation for this problem.",
+    "entities": []
+  },
+  {
+    "text": "RapidMiner provides learning schemes, models and algorithms and can be extended using R and Python scripts. David Norris, Bloor Research, November 13, 2013.",
+    "entities": [
+      {
+        "text": "RapidMiner",
+        "label": "product",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "David Norris",
+        "label": "researcher",
+        "start": 108,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "During the 1990s, encouraged by successes in speech recognition and speech synthesis, research began into speech translation with the development of the German Verbmobil project.",
+    "entities": [
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 45,
+        "end": 63
+      },
+      {
+        "text": "speech synthesis",
+        "label": "task",
+        "start": 68,
+        "end": 84
+      },
+      {
+        "text": "speech translation",
+        "label": "task",
+        "start": 106,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "Popular approaches of opinion-based recommender system utilize various techniques including text mining, information retrieval, sentiment analysis (see also Multimodal sentiment analysis) and deep learning X.Y. Feng, H. Zhang, Y.J. Ren, P.H. Shang, Y. Zhu, Y.C. Liang, R.C. Guan, D. Xu, (2019),, 21 (5): e12957.",
+    "entities": [
+      {
+        "text": "opinion-based recommender system",
+        "label": "product",
+        "start": 22,
+        "end": 54
+      },
+      {
+        "text": "text mining",
+        "label": "field",
+        "start": 92,
+        "end": 103
+      },
+      {
+        "text": "information retrieval",
+        "label": "task",
+        "start": 105,
+        "end": 126
+      },
+      {
+        "text": "sentiment analysis",
+        "label": "task",
+        "start": 128,
+        "end": 146
+      },
+      {
+        "text": "Multimodal sentiment analysis",
+        "label": "task",
+        "start": 157,
+        "end": 186
+      },
+      {
+        "text": "deep learning",
+        "label": "field",
+        "start": 192,
+        "end": 205
+      },
+      {
+        "text": "X.Y. Feng",
+        "label": "researcher",
+        "start": 206,
+        "end": 215
+      },
+      {
+        "text": "H. Zhang",
+        "label": "researcher",
+        "start": 217,
+        "end": 225
+      },
+      {
+        "text": "Y.J. Ren",
+        "label": "researcher",
+        "start": 227,
+        "end": 235
+      },
+      {
+        "text": "P.H. Shang",
+        "label": "researcher",
+        "start": 237,
+        "end": 247
+      },
+      {
+        "text": "Y. Zhu",
+        "label": "researcher",
+        "start": 249,
+        "end": 255
+      },
+      {
+        "text": "Y.C. Liang",
+        "label": "researcher",
+        "start": 257,
+        "end": 267
+      },
+      {
+        "text": "R.C. Guan",
+        "label": "researcher",
+        "start": 269,
+        "end": 278
+      },
+      {
+        "text": "D. Xu",
+        "label": "researcher",
+        "start": 280,
+        "end": 285
+      }
+    ]
+  },
+  {
+    "text": "Nonetheless, stemming reduces precision, or TRUE negative rate, for such systems.",
+    "entities": []
+  },
+  {
+    "text": "To be specific, the BIBO stability criterion requires that the ROC of the system includes the unit circle.",
+    "entities": []
+  },
+  {
+    "text": "The MATLAB function,",
+    "entities": [
+      {
+        "text": "MATLAB",
+        "label": "product",
+        "start": 4,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "Also in regression analysis, mean squared error, often referred to as mean squared prediction error or out-of-sample mean squared error, can refer to the mean value of the squared deviations of the predictions from the TRUE values, over an out-of-sample test space, generated by a model estimated over a particular sample space.",
+    "entities": [
+      {
+        "text": "regression analysis",
+        "label": "task",
+        "start": 8,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "Expectation-maximization algorithm s may be employed to calculate approximate maximum likelihood estimates of unknown state-space parameters within minimum-variance filters and smoothers.",
+    "entities": [
+      {
+        "text": "Expectation-maximization algorithm",
+        "label": "algorithm",
+        "start": 0,
+        "end": 34
+      },
+      {
+        "text": "maximum likelihood estimates",
+        "label": "algorithm",
+        "start": 78,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "Together with Geoffrey Hinton and Yann LeCun, Bengio won the 2018 Turing Award.",
+    "entities": [
+      {
+        "text": "Geoffrey Hinton",
+        "label": "researcher",
+        "start": 14,
+        "end": 29
+      },
+      {
+        "text": "Yann LeCun",
+        "label": "researcher",
+        "start": 34,
+        "end": 44
+      },
+      {
+        "text": "Bengio",
+        "label": "researcher",
+        "start": 46,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "It has been pointed out that precision is usually twinned with recall to overcome this problem",
+    "entities": []
+  },
+  {
+    "text": "However, in the last years, one can observe appearing of different e-services and related initiatives in developing countries such as Project Nemmadi, MCA21 Mission Mode Project or Digital India even more, in India; Electronic Government Directorate in Pakistan; etc.",
+    "entities": []
+  },
+  {
+    "text": "This can be directly expressed as a linear program, but it is also equivalent to Tikhonov regularization with the hinge loss function, mathV (f (x), y) = \\ max (0, 1 - yf (x)) / math:",
+    "entities": [
+      {
+        "text": "Tikhonov regularization",
+        "label": "algorithm",
+        "start": 81,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "Several other features that helped put 3D back on the map that month were the John Wayne feature Hondo (distributed by Warner Bros.), Columbia's Miss Sadie Thompson with Rita Hayworth, and Paramount's Money From Home with Dean Martin and Jerry Lewis.",
+    "entities": []
+  },
+  {
+    "text": "Bigrams are used in most successful language model s for speech recognition.",
+    "entities": [
+      {
+        "text": "language model",
+        "label": "algorithm",
+        "start": 36,
+        "end": 50
+      },
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 57,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "This is done using standard neural net training algorithms such as stochastic gradient descent with backpropagation.",
+    "entities": [
+      {
+        "text": "stochastic gradient descent",
+        "label": "algorithm",
+        "start": 67,
+        "end": 94
+      },
+      {
+        "text": "backpropagation",
+        "label": "algorithm",
+        "start": 100,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "text": "The 1997 RoboCup 2D Soccer Simulation League was the first RoboCup competition promoted in conjunction with International Joint Conference on Artificial Intelligence held in Nagoya, Japan, from 23 to 29 August 1997.",
+    "entities": []
+  },
+  {
+    "text": "In 2018, a report by the civil liberties and rights campaigning organisation Big Brother Watch revealed that two United Kingdom police forces, South Wales Police and the Metropolitan Police, were using live facial recognition at public events and in public spaces, in September 2019, South Wales Police use of facial recognition was ruled lawful.",
+    "entities": [
+      {
+        "text": "facial recognition",
+        "label": "task",
+        "start": 207,
+        "end": 225
+      },
+      {
+        "text": "facial recognition",
+        "label": "task",
+        "start": 310,
+        "end": 328
+      }
+    ]
+  },
+  {
+    "text": "In 1979 a Micromouse competition was organized by the IEEE as shown in the Spectrum magazine.",
+    "entities": []
+  },
+  {
+    "text": "The natural gradient of mathE f (x) / math, complying with the Fisher information metric (an informational distance measure between probability distributions and the curvature of the relative entropy), now reads",
+    "entities": []
+  },
+  {
+    "text": "or equivalently using DCG notation:",
+    "entities": []
+  },
+  {
+    "text": "KRL is a knowledge representation language, developed by Daniel G. Bobrow and Terry Winograd while at Xerox PARC and Stanford University, respectively.",
+    "entities": [
+      {
+        "text": "Daniel G. Bobrow",
+        "label": "researcher",
+        "start": 57,
+        "end": 73
+      },
+      {
+        "text": "Terry Winograd",
+        "label": "researcher",
+        "start": 78,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "In 2018 Toyota was regarded as being behind in Self-driving car and in need of innovation.",
+    "entities": [
+      {
+        "text": "Self-driving car",
+        "label": "product",
+        "start": 47,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "It was developed by a team at the MIT-IBM Watson AI Lab and first presented at the 2018 International Conference on Learning Representations.",
+    "entities": []
+  },
+  {
+    "text": "Phidgets can be programmed using a variety of software and programming languages, ranging from Java to Microsoft Excel.",
+    "entities": [
+      {
+        "text": "Phidgets",
+        "label": "product",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Microsoft Excel",
+        "label": "product",
+        "start": 103,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "Often this is generally only possible at the very end of complicated games such as chess or go, since it is not computationally feasible to look ahead as far as the completion of the game, except towards the end, and instead, positions are given finite values as estimates of the degree of belief that they will lead to a win for one player or another.",
+    "entities": [
+      {
+        "text": "chess",
+        "label": "product",
+        "start": 83,
+        "end": 88
+      },
+      {
+        "text": "go",
+        "label": "product",
+        "start": 92,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "text": "Image segmentation using k-means clustering algorithms has long been used for pattern recognition, object detection, and medical imaging.",
+    "entities": [
+      {
+        "text": "Image segmentation",
+        "label": "task",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "k-means clustering algorithms",
+        "label": "algorithm",
+        "start": 25,
+        "end": 54
+      },
+      {
+        "text": "pattern recognition",
+        "label": "field",
+        "start": 78,
+        "end": 97
+      },
+      {
+        "text": "object detection",
+        "label": "task",
+        "start": 99,
+        "end": 115
+      },
+      {
+        "text": "medical imaging",
+        "label": "field",
+        "start": 121,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "It incorporates knowledge and research in the computer science, linguistics and computer engineering fields.",
+    "entities": [
+      {
+        "text": "computer science",
+        "label": "field",
+        "start": 46,
+        "end": 62
+      },
+      {
+        "text": "linguistics",
+        "label": "field",
+        "start": 64,
+        "end": 75
+      },
+      {
+        "text": "computer engineering",
+        "label": "field",
+        "start": 80,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "text": "Recently, Google announced that Google Translate translates roughly enough text to fill 1 million books in one day (2012).",
+    "entities": [
+      {
+        "text": "Google Translate",
+        "label": "product",
+        "start": 32,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "At the IEEE International Conference on Image Processing in 2010, Rui Hu, Mark Banard, and John Collomosse extended the HOG descriptor for use in sketch based image retrieval (SBIR).",
+    "entities": [
+      {
+        "text": "Rui Hu",
+        "label": "researcher",
+        "start": 66,
+        "end": 72
+      },
+      {
+        "text": "Mark Banard",
+        "label": "researcher",
+        "start": 74,
+        "end": 85
+      },
+      {
+        "text": "John Collomosse",
+        "label": "researcher",
+        "start": 91,
+        "end": 106
+      },
+      {
+        "text": "HOG descriptor",
+        "label": "algorithm",
+        "start": 120,
+        "end": 134
+      },
+      {
+        "text": "sketch based image retrieval",
+        "label": "task",
+        "start": 146,
+        "end": 174
+      },
+      {
+        "text": "SBIR",
+        "label": "task",
+        "start": 176,
+        "end": 180
+      }
+    ]
+  },
+  {
+    "text": "Hidden Markov models are known for their applications to reinforcement learning and temporal pattern recognition such as speech, handwriting recognition, gesture recognition, Thad Starner, Alex Pentland.",
+    "entities": [
+      {
+        "text": "Hidden Markov models",
+        "label": "algorithm",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "reinforcement learning",
+        "label": "field",
+        "start": 57,
+        "end": 79
+      },
+      {
+        "text": "temporal pattern recognition",
+        "label": "field",
+        "start": 84,
+        "end": 112
+      },
+      {
+        "text": "speech",
+        "label": "task",
+        "start": 121,
+        "end": 127
+      },
+      {
+        "text": "handwriting recognition",
+        "label": "task",
+        "start": 129,
+        "end": 152
+      },
+      {
+        "text": "gesture recognition",
+        "label": "task",
+        "start": 154,
+        "end": 173
+      },
+      {
+        "text": "Thad Starner",
+        "label": "researcher",
+        "start": 175,
+        "end": 187
+      },
+      {
+        "text": "Alex Pentland",
+        "label": "researcher",
+        "start": 189,
+        "end": 202
+      }
+    ]
+  }
+]

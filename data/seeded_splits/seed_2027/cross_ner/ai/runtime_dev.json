@@ -1,0 +1,1069 @@
+[
+  {
+    "text": "In July 2011 the 15th edition of Campus Party Spain will be held at the City of Arts and Sciences in Valencia.",
+    "entities": []
+  },
+  {
+    "text": "Pattern recognition systems are in many cases trained from labeled training data (supervised learning) but when no labeled data are available other algorithms can be used to discover previously unknown patterns (unsupervised learning).",
+    "entities": [
+      {
+        "text": "Pattern recognition systems",
+        "label": "product",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "supervised learning",
+        "label": "field",
+        "start": 82,
+        "end": 101
+      },
+      {
+        "text": "unsupervised learning",
+        "label": "field",
+        "start": 212,
+        "end": 233
+      }
+    ]
+  },
+  {
+    "text": "The robot kit is Android-based, and it is programmed using Java, the Blocks programming interface, or other Android programming systems.",
+    "entities": [
+      {
+        "text": "Android programming systems",
+        "label": "product",
+        "start": 108,
+        "end": 135
+      }
+    ]
+  },
+  {
+    "text": "The first palletizing robot was introduced in 1963 by the Fuji Yusoki Kogyo Company. by KUKA robotics in Germany, and the Programmable Universal Machine for Assembly was invented by Victor Scheinman in 1976, and the design was sold to Unimation.",
+    "entities": [
+      {
+        "text": "palletizing robot",
+        "label": "product",
+        "start": 10,
+        "end": 27
+      },
+      {
+        "text": "Programmable Universal Machine for Assembly",
+        "label": "product",
+        "start": 122,
+        "end": 165
+      },
+      {
+        "text": "Victor Scheinman",
+        "label": "researcher",
+        "start": 182,
+        "end": 198
+      }
+    ]
+  },
+  {
+    "text": "The company was founded by Kiichiro Toyoda in 1937, as a spinoff from Sakichi Toyoda company Toyota Industries to create automobiles.",
+    "entities": [
+      {
+        "text": "automobiles",
+        "label": "product",
+        "start": 121,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "text": "An illustration of their capabilities is given by the ImageNet Large Scale Visual Recognition Challenge; this is a benchmark in object classification and detection, with millions of images and hundreds of object classes.",
+    "entities": [
+      {
+        "text": "object classification and detection",
+        "label": "task",
+        "start": 128,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "Essentially, this means that if the n-gram has been seen more than k times in training, the conditional probability of a word given its history is proportional to the maximum likelihood estimate of that n -gram.",
+    "entities": []
+  },
+  {
+    "text": "As of 2017, he is a professor at the Collège de France and, since 1989, the director of INSERM Unit 562, Cognitive Neuroimaging.",
+    "entities": [
+      {
+        "text": "Cognitive Neuroimaging",
+        "label": "field",
+        "start": 105,
+        "end": 127
+      }
+    ]
+  },
+  {
+    "text": "Semantic networks are used in natural language processing applications such as semantic parsing.",
+    "entities": [
+      {
+        "text": "Semantic networks",
+        "label": "algorithm",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "natural language processing",
+        "label": "field",
+        "start": 30,
+        "end": 57
+      },
+      {
+        "text": "semantic parsing",
+        "label": "task",
+        "start": 79,
+        "end": 95
+      }
+    ]
+  },
+  {
+    "text": "There are many more recent algorithms such as LPBoost, TotalBoost, BrownBoost, xgboost, MadaBoost,, and others.",
+    "entities": [
+      {
+        "text": "LPBoost",
+        "label": "algorithm",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "TotalBoost",
+        "label": "algorithm",
+        "start": 55,
+        "end": 65
+      },
+      {
+        "text": "BrownBoost",
+        "label": "algorithm",
+        "start": 67,
+        "end": 77
+      },
+      {
+        "text": "xgboost",
+        "label": "algorithm",
+        "start": 79,
+        "end": 86
+      },
+      {
+        "text": "MadaBoost",
+        "label": "algorithm",
+        "start": 88,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "A single grid can be analysed for both content (eyeball inspection) and structure (cluster analysis, principal component analysis, and a variety of structural indices relating to the complexity and range of the ratings being the chief techniques used).",
+    "entities": [
+      {
+        "text": "eyeball inspection",
+        "label": "task",
+        "start": 48,
+        "end": 66
+      },
+      {
+        "text": "cluster analysis",
+        "label": "task",
+        "start": 83,
+        "end": 99
+      },
+      {
+        "text": "principal component analysis",
+        "label": "task",
+        "start": 101,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "The speech synthesis is verging on being completely indistinguishable from a real human's voice with the 2016 introduction of the voice editing and generation software Adobe Voco, a prototype slated to be a part of the Adobe Creative Suite and DeepMind WaveNet, a prototype from Google.",
+    "entities": [
+      {
+        "text": "speech synthesis",
+        "label": "task",
+        "start": 4,
+        "end": 20
+      },
+      {
+        "text": "Adobe Voco",
+        "label": "product",
+        "start": 168,
+        "end": 178
+      },
+      {
+        "text": "Adobe Creative Suite",
+        "label": "product",
+        "start": 219,
+        "end": 239
+      },
+      {
+        "text": "WaveNet",
+        "label": "product",
+        "start": 253,
+        "end": 260
+      }
+    ]
+  },
+  {
+    "text": "A deep learning based approach to MT, neural machine translation has made rapid progress in recent years, and Google has announced its translation services are now using this technology in preference to its previous statistical methods.",
+    "entities": [
+      {
+        "text": "deep learning",
+        "label": "field",
+        "start": 2,
+        "end": 15
+      },
+      {
+        "text": "MT",
+        "label": "task",
+        "start": 34,
+        "end": 36
+      },
+      {
+        "text": "neural machine translation",
+        "label": "task",
+        "start": 38,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "Between 2009 and 2012, the recurrent neural network s and deep feedforward neural network s developed in the research group of Jürgen Schmidhuber at the Swiss AI Lab IDSIA have won eight international competitions in pattern recognition and machine learning.",
+    "entities": [
+      {
+        "text": "recurrent neural network",
+        "label": "algorithm",
+        "start": 27,
+        "end": 51
+      },
+      {
+        "text": "deep feedforward neural network",
+        "label": "algorithm",
+        "start": 58,
+        "end": 89
+      },
+      {
+        "text": "Jürgen Schmidhuber",
+        "label": "researcher",
+        "start": 127,
+        "end": 145
+      },
+      {
+        "text": "pattern recognition",
+        "label": "field",
+        "start": 217,
+        "end": 236
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 241,
+        "end": 257
+      }
+    ]
+  },
+  {
+    "text": "The Building Educational Applications workshop (BEA) at NAACL 2013 hosted the inaugural NLI shared task. Tetreault et al, 2013 The competition resulted in 29 entries from teams across the globe, 24 of which also published a paper describing their systems and approaches.",
+    "entities": [
+      {
+        "text": "NLI shared task.",
+        "label": "task",
+        "start": 88,
+        "end": 104
+      },
+      {
+        "text": "Tetreault",
+        "label": "researcher",
+        "start": 105,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "text": "The VOICEBOX speech processing toolbox for MATLAB implements the conversion and its inverse as:",
+    "entities": [
+      {
+        "text": "VOICEBOX",
+        "label": "product",
+        "start": 4,
+        "end": 12
+      },
+      {
+        "text": "MATLAB",
+        "label": "product",
+        "start": 43,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "However, in the last years, one can observe appearing of different e-services and related initiatives in developing countries such as Project Nemmadi, MCA21 Mission Mode Project or Digital India even more, in India; Electronic Government Directorate in Pakistan; etc.",
+    "entities": []
+  },
+  {
+    "text": "In information retrieval, the positive predictive value is called precision, and sensitivity is called recall.",
+    "entities": [
+      {
+        "text": "information retrieval",
+        "label": "task",
+        "start": 3,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "Neural network research stagnated after the publication of machine learning research by Marvin Minsky and Seymour Papert (1969).",
+    "entities": [
+      {
+        "text": "Neural network",
+        "label": "algorithm",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 59,
+        "end": 75
+      },
+      {
+        "text": "Marvin Minsky",
+        "label": "researcher",
+        "start": 88,
+        "end": 101
+      },
+      {
+        "text": "Seymour Papert",
+        "label": "researcher",
+        "start": 106,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "Where Bilingual evaluation understudy simply calculates n-gram precision adding equal weight to each one, NIST also calculates how informative a particular n-gram is.",
+    "entities": []
+  },
+  {
+    "text": "A special case of keyword spotting is wake word (also called hot word) detection used by personal digital assistants such as Alexa or Siri to wake up when their name is spoken.",
+    "entities": [
+      {
+        "text": "keyword spotting",
+        "label": "task",
+        "start": 18,
+        "end": 34
+      },
+      {
+        "text": "Alexa",
+        "label": "product",
+        "start": 125,
+        "end": 130
+      },
+      {
+        "text": "Siri",
+        "label": "product",
+        "start": 134,
+        "end": 138
+      }
+    ]
+  },
+  {
+    "text": "RapidMiner provides learning schemes, models and algorithms and can be extended using R and Python scripts. David Norris, Bloor Research, November 13, 2013.",
+    "entities": [
+      {
+        "text": "RapidMiner",
+        "label": "product",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "David Norris",
+        "label": "researcher",
+        "start": 108,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "Some popular fitness functions based on the confusion matrix include sensitivity / specificity, recall / precision, F-measure, Jaccard similarity, Matthews correlation coefficient, and cost / gain matrix which combines the costs and gains assigned to the 4 different types of classifications.",
+    "entities": []
+  },
+  {
+    "text": "Modern Windows desktop systems can use SAPI 4 and SAPI 5 components to support speech synthesis and speech.",
+    "entities": [
+      {
+        "text": "Windows desktop systems",
+        "label": "product",
+        "start": 7,
+        "end": 30
+      },
+      {
+        "text": "SAPI 4",
+        "label": "product",
+        "start": 39,
+        "end": 45
+      },
+      {
+        "text": "SAPI 5",
+        "label": "product",
+        "start": 50,
+        "end": 56
+      },
+      {
+        "text": "speech synthesis",
+        "label": "task",
+        "start": 79,
+        "end": 95
+      },
+      {
+        "text": "speech",
+        "label": "task",
+        "start": 100,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "or equivalently using DCG notation:",
+    "entities": []
+  },
+  {
+    "text": "Milner has received numerous awards for her contributions to neuroscience and psychology including memberships in the Royal Society of London, the Royal Society of Canada and the National Academy of Sciences.",
+    "entities": [
+      {
+        "text": "Milner",
+        "label": "researcher",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "neuroscience",
+        "label": "field",
+        "start": 61,
+        "end": 73
+      },
+      {
+        "text": "psychology",
+        "label": "field",
+        "start": 78,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "text": "A recommender system aims to predict the preference for an item of a target user.",
+    "entities": [
+      {
+        "text": "recommender system",
+        "label": "product",
+        "start": 2,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Modular Audio Recognition Framework (MARF) is an open-source research platform and a collection of voice, sound, speech, text and natural language processing (NLP) algorithm s written in Java and arranged into a modular and extensible framework that attempts to facilitate addition of new algorithm s.",
+    "entities": [
+      {
+        "text": "Modular Audio Recognition Framework",
+        "label": "product",
+        "start": 0,
+        "end": 35
+      },
+      {
+        "text": "MARF",
+        "label": "product",
+        "start": 37,
+        "end": 41
+      },
+      {
+        "text": "natural language processing",
+        "label": "field",
+        "start": 130,
+        "end": 157
+      },
+      {
+        "text": "NLP",
+        "label": "field",
+        "start": 159,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "text": "Then it is also possible to use these probabilities and evaluate the mean squared error (or some other similar measure) between the probabilities and the actual values, then combine this with the confusion matrix to create very efficient fitness functions for logistic regression.",
+    "entities": []
+  },
+  {
+    "text": "Like DBNs, DBMs can learn complex and abstract internal representations of the input in tasks such as Object recognition or speech recognition, using limited, labeled data to fine-tune the representations built using a large set of unlabeled sensory input data.",
+    "entities": [
+      {
+        "text": "DBNs",
+        "label": "algorithm",
+        "start": 5,
+        "end": 9
+      },
+      {
+        "text": "DBMs",
+        "label": "algorithm",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "Object recognition",
+        "label": "task",
+        "start": 102,
+        "end": 120
+      },
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 124,
+        "end": 142
+      }
+    ]
+  },
+  {
+    "text": "Or combine the F-measure with the R-square evaluated for the raw model output and the target; or the cost / gain matrix with the correlation coefficient, and so on.",
+    "entities": []
+  },
+  {
+    "text": "Notable former PhD students and postdoctoral researchers from his group include Richard Zemel, and Zoubin Ghahramani.",
+    "entities": [
+      {
+        "text": "Richard Zemel",
+        "label": "researcher",
+        "start": 80,
+        "end": 93
+      },
+      {
+        "text": "Zoubin Ghahramani",
+        "label": "researcher",
+        "start": 99,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "text": "In the United States he is a Member of the National Academy of Sciences, the American Academy of Arts and Sciences, the Linguistic Society of America, the American Philosophical Association, and the American Association for the Advancement of Science.",
+    "entities": []
+  },
+  {
+    "text": "Skeletons are widely used in computer vision, image analysis, pattern recognition and digital image processing for purposes such as optical character recognition, fingerprint recognition, visual inspection or compression.",
+    "entities": [
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 29,
+        "end": 44
+      },
+      {
+        "text": "image analysis",
+        "label": "field",
+        "start": 46,
+        "end": 60
+      },
+      {
+        "text": "pattern recognition",
+        "label": "field",
+        "start": 62,
+        "end": 81
+      },
+      {
+        "text": "digital image processing",
+        "label": "field",
+        "start": 86,
+        "end": 110
+      },
+      {
+        "text": "optical character recognition",
+        "label": "task",
+        "start": 132,
+        "end": 161
+      },
+      {
+        "text": "fingerprint recognition",
+        "label": "task",
+        "start": 163,
+        "end": 186
+      },
+      {
+        "text": "visual inspection or compression",
+        "label": "task",
+        "start": 188,
+        "end": 220
+      }
+    ]
+  },
+  {
+    "text": "In computer science, evolutionary computation is a family of algorithms for global optimization inspired by biological evolution, and the subfield of artificial intelligence and soft computing studying these algorithms.",
+    "entities": [
+      {
+        "text": "computer science",
+        "label": "field",
+        "start": 3,
+        "end": 19
+      },
+      {
+        "text": "evolutionary computation",
+        "label": "algorithm",
+        "start": 21,
+        "end": 45
+      },
+      {
+        "text": "global optimization",
+        "label": "task",
+        "start": 76,
+        "end": 95
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 150,
+        "end": 173
+      },
+      {
+        "text": "soft computing",
+        "label": "field",
+        "start": 178,
+        "end": 192
+      }
+    ]
+  },
+  {
+    "text": "He subsequently extended an invitation for Wydner to attend the annual meeting of the American Translators Association that following October where the Weidner Machine Translation System hailed a hoped-for breakthrough in machine translation.",
+    "entities": [
+      {
+        "text": "Wydner",
+        "label": "researcher",
+        "start": 43,
+        "end": 49
+      },
+      {
+        "text": "Weidner Machine Translation System",
+        "label": "product",
+        "start": 152,
+        "end": 186
+      },
+      {
+        "text": "machine translation",
+        "label": "task",
+        "start": 222,
+        "end": 241
+      }
+    ]
+  },
+  {
+    "text": "But perceptron models were made very unpopular by the book Perceptrons by Marvin Minsky and Seymour Papert, published in 1969.",
+    "entities": [
+      {
+        "text": "perceptron models",
+        "label": "algorithm",
+        "start": 4,
+        "end": 21
+      },
+      {
+        "text": "Marvin Minsky",
+        "label": "researcher",
+        "start": 74,
+        "end": 87
+      },
+      {
+        "text": "Seymour Papert",
+        "label": "researcher",
+        "start": 92,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "This approach utilized artificial intelligence and machine learning to allow researchers to visibly compare conventional and thermal facial imagery.",
+    "entities": [
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 23,
+        "end": 46
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "facial imagery",
+        "label": "task",
+        "start": 133,
+        "end": 147
+      }
+    ]
+  },
+  {
+    "text": "In 2000 Manuel Toharia, a speaker at previous Campus Parties, and director of Príncipe Felipe's Museum of Sciences in Valencia's City of arts and Sciences suggested that Ragageles expand and make the event more international by moving it to the famous museum.",
+    "entities": []
+  },
+  {
+    "text": "Kernel SVMs are available in many machine-learning toolkits, including LIBSVM, MATLAB, and others.",
+    "entities": [
+      {
+        "text": "Kernel SVMs",
+        "label": "algorithm",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "machine-learning",
+        "label": "field",
+        "start": 34,
+        "end": 50
+      },
+      {
+        "text": "LIBSVM",
+        "label": "product",
+        "start": 71,
+        "end": 77
+      },
+      {
+        "text": "MATLAB",
+        "label": "product",
+        "start": 79,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "Rotten Tomatoes is a top 1000 site, placing around # 400 globally and top 150 for the US only, according to website ranker Alexa.",
+    "entities": [
+      {
+        "text": "Alexa",
+        "label": "product",
+        "start": 123,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "The F-score is often used in the field of information retrieval for measuring search, document classification, and query classification performance. and so F_beta is seen in wide application.",
+    "entities": [
+      {
+        "text": "information retrieval",
+        "label": "task",
+        "start": 42,
+        "end": 63
+      },
+      {
+        "text": "search",
+        "label": "task",
+        "start": 78,
+        "end": 84
+      },
+      {
+        "text": "document classification",
+        "label": "task",
+        "start": 86,
+        "end": 109
+      },
+      {
+        "text": "query classification",
+        "label": "task",
+        "start": 115,
+        "end": 135
+      }
+    ]
+  },
+  {
+    "text": "Data acquisition applications are usually controlled by software programs developed using various general purpose programming languages such as Assembly, BASIC, C, C + +, C #, Fortran, Java, LabVIEW, Lisp, Pascal, etc.",
+    "entities": [
+      {
+        "text": "Data acquisition",
+        "label": "task",
+        "start": 0,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "Another technique particularly used for recurrent neural network s is the long short-term memory (LSTM) network of 1997 by Sepp Hochreiter & Jürgen Schmidhuber.",
+    "entities": [
+      {
+        "text": "recurrent neural network",
+        "label": "algorithm",
+        "start": 40,
+        "end": 64
+      },
+      {
+        "text": "long short-term memory",
+        "label": "algorithm",
+        "start": 74,
+        "end": 96
+      },
+      {
+        "text": "LSTM",
+        "label": "algorithm",
+        "start": 98,
+        "end": 102
+      },
+      {
+        "text": "Sepp Hochreiter",
+        "label": "researcher",
+        "start": 123,
+        "end": 138
+      },
+      {
+        "text": "Jürgen Schmidhuber",
+        "label": "researcher",
+        "start": 141,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "Google Translate is a free multilingual statistical machine translation and neural machine translation service developed by Google, to translate text and websites from one language into another.",
+    "entities": [
+      {
+        "text": "Google Translate",
+        "label": "product",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "multilingual statistical machine translation",
+        "label": "task",
+        "start": 27,
+        "end": 71
+      },
+      {
+        "text": "neural machine translation",
+        "label": "task",
+        "start": 76,
+        "end": 102
+      },
+      {
+        "text": "Google",
+        "label": "product",
+        "start": 124,
+        "end": 130
+      }
+    ]
+  },
+  {
+    "text": "Typically, the process starts by terminology extraction and concepts or noun phrase s from plain text using linguistic processors such as part-of-speech tagging and phrase chunking.",
+    "entities": [
+      {
+        "text": "terminology extraction",
+        "label": "task",
+        "start": 33,
+        "end": 55
+      },
+      {
+        "text": "part-of-speech tagging",
+        "label": "task",
+        "start": 138,
+        "end": 160
+      },
+      {
+        "text": "phrase chunking",
+        "label": "task",
+        "start": 165,
+        "end": 180
+      }
+    ]
+  },
+  {
+    "text": "At the 2018 Conference on Neural Information Processing Systems (NeurIPS) researchers from Google presented the work",
+    "entities": []
+  },
+  {
+    "text": "The special case of linear support-vector machines can be solved more efficiently by the same kind of algorithms to optimize its close cousin, logistic regression; this class of algorithms includes Stochastic gradient descent (e.g., PEGASOS).",
+    "entities": [
+      {
+        "text": "support-vector machines",
+        "label": "algorithm",
+        "start": 27,
+        "end": 50
+      },
+      {
+        "text": "logistic regression",
+        "label": "algorithm",
+        "start": 143,
+        "end": 162
+      },
+      {
+        "text": "Stochastic gradient descent",
+        "label": "algorithm",
+        "start": 198,
+        "end": 225
+      },
+      {
+        "text": "PEGASOS",
+        "label": "algorithm",
+        "start": 233,
+        "end": 240
+      }
+    ]
+  },
+  {
+    "text": "In planning and control, the essential difference between humanoids and other kinds of robots (like industrial ones) is that the movement of the robot must be human-like, using legged locomotion, especially biped gait.",
+    "entities": [
+      {
+        "text": "industrial",
+        "label": "product",
+        "start": 100,
+        "end": 110
+      }
+    ]
+  },
+  {
+    "text": "Recently, Google announced that Google Translate translates roughly enough text to fill 1 million books in one day (2012).",
+    "entities": [
+      {
+        "text": "Google Translate",
+        "label": "product",
+        "start": 32,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "But even an official language with a regulating academy, such as Standard French with the Académie française, is classified as a natural language (for example, in the field of natural language processing), as its prescriptive points do not make it either constructed enough to be classified as a constructed language or controlled enough to be classified as a controlled natural language.",
+    "entities": [
+      {
+        "text": "natural language processing",
+        "label": "field",
+        "start": 176,
+        "end": 203
+      }
+    ]
+  },
+  {
+    "text": "Convex algorithms, such as AdaBoost and LogitBoost, can be defeated by random noise such they can 't learn basic and learnable combinations of weak hypotheses.",
+    "entities": [
+      {
+        "text": "AdaBoost",
+        "label": "algorithm",
+        "start": 27,
+        "end": 35
+      },
+      {
+        "text": "LogitBoost",
+        "label": "algorithm",
+        "start": 40,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "A popular application for serial robots in today's industry is the pick-and-place assembly robot, called a SCARA robot, which has four degrees of freedom.",
+    "entities": [
+      {
+        "text": "SCARA robot",
+        "label": "product",
+        "start": 107,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "Machine learning is strongly related to pattern recognition and originates from artificial intelligence.",
+    "entities": [
+      {
+        "text": "Machine learning",
+        "label": "field",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "pattern recognition",
+        "label": "field",
+        "start": 40,
+        "end": 59
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 80,
+        "end": 103
+      }
+    ]
+  },
+  {
+    "text": "Image analysis tasks can be as simple as reading bar code d tags or as sophisticated as facial recognition system.",
+    "entities": [
+      {
+        "text": "Image analysis",
+        "label": "field",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "reading bar code d tags",
+        "label": "task",
+        "start": 41,
+        "end": 64
+      },
+      {
+        "text": "facial recognition system",
+        "label": "product",
+        "start": 88,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "Another resource (free but copyrighted) is the HTK book (and the accompanying HTK toolkit).",
+    "entities": [
+      {
+        "text": "HTK book",
+        "label": "product",
+        "start": 47,
+        "end": 55
+      },
+      {
+        "text": "HTK toolkit",
+        "label": "product",
+        "start": 78,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "It was first used by Lawrence J. Fogel in the US in 1960 in order to use simulated evolution as a learning process aiming to generate artificial intelligence.",
+    "entities": [
+      {
+        "text": "Lawrence J. Fogel",
+        "label": "researcher",
+        "start": 21,
+        "end": 38
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 134,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "text": "59, pp. 2547-2553, Oct. 2011 In one dimensional polynomial-based memory (or memoryless) DPD, in order to solve for the digital pre-distorter polynomials coefficients and minimize the mean squared error (MSE), the distorted output of the nonlinear system must be over-sampled at a rate that enables the capture of the nonlinear products of the order of the digital pre-distorter.",
+    "entities": []
+  },
+  {
+    "text": "Autoencoders are trained to minimise reconstruction errors (such as Mean squared error), often referred to as the loss:",
+    "entities": [
+      {
+        "text": "Autoencoders",
+        "label": "algorithm",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Following that was Paramount's first feature, Sangaree with Fernando Lamas and Arlene Dahl.",
+    "entities": []
+  }
+]

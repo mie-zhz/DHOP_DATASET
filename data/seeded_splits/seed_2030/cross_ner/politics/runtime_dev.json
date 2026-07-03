@@ -1,0 +1,2022 @@
+[
+  {
+    "text": "Joschka Fischer became Vice-Chancellor of Germany and foreign minister in the new government, which had two other Green ministers (Andrea Fischer, later Renate Künast, and Jürgen Trittin).",
+    "entities": [
+      {
+        "text": "Joschka Fischer",
+        "label": "politician",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Renate Künast",
+        "label": "politician",
+        "start": 153,
+        "end": 166
+      },
+      {
+        "text": "Jürgen Trittin",
+        "label": "politician",
+        "start": 172,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "text": "Although Fidesz remained the largest party in the National Assembly despite receiving fewer votes than the Hungarian Socialist Party, the Socialist Party was able to form a coalition government with the Alliance of Free Democrats.",
+    "entities": [
+      {
+        "text": "Fidesz",
+        "label": "politicalparty",
+        "start": 9,
+        "end": 15
+      },
+      {
+        "text": "National Assembly",
+        "label": "organisation",
+        "start": 50,
+        "end": 67
+      },
+      {
+        "text": "Hungarian Socialist Party",
+        "label": "politicalparty",
+        "start": 107,
+        "end": 132
+      },
+      {
+        "text": "Socialist Party",
+        "label": "politicalparty",
+        "start": 138,
+        "end": 153
+      },
+      {
+        "text": "Alliance of Free Democrats",
+        "label": "politicalparty",
+        "start": 203,
+        "end": 229
+      }
+    ]
+  },
+  {
+    "text": "Some parts of the denomination belong to the National Association of Evangelicals, the Canadian Council of Churches, and the Evangelical Fellowship of Canada.",
+    "entities": [
+      {
+        "text": "National Association of Evangelicals",
+        "label": "organisation",
+        "start": 45,
+        "end": 81
+      },
+      {
+        "text": "Canadian Council of Churches",
+        "label": "organisation",
+        "start": 87,
+        "end": 115
+      },
+      {
+        "text": "Evangelical Fellowship of Canada",
+        "label": "organisation",
+        "start": 125,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "text": "Lincoln replaced Buell with William Rosecrans; and after the 1862 and 1863 United States House of Representatives elections he replaced McClellan with Ambrose Burnside.",
+    "entities": [
+      {
+        "text": "Lincoln",
+        "label": "politician",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Buell",
+        "label": "politician",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "William Rosecrans",
+        "label": "politician",
+        "start": 28,
+        "end": 45
+      },
+      {
+        "text": "1862 and 1863 United States House of Representatives elections",
+        "label": "election",
+        "start": 61,
+        "end": 123
+      },
+      {
+        "text": "McClellan",
+        "label": "politician",
+        "start": 136,
+        "end": 145
+      },
+      {
+        "text": "Ambrose Burnside",
+        "label": "politician",
+        "start": 151,
+        "end": 167
+      }
+    ]
+  },
+  {
+    "text": "The party participated in the 1976 local election in coalition with the Portuguese Communist Party and the Portuguese Democratic Movement inside the Electoral Front United People.",
+    "entities": [
+      {
+        "text": "Portuguese Communist Party",
+        "label": "politicalparty",
+        "start": 72,
+        "end": 98
+      },
+      {
+        "text": "Portuguese Democratic Movement",
+        "label": "politicalparty",
+        "start": 107,
+        "end": 137
+      },
+      {
+        "text": "Electoral Front United People",
+        "label": "politicalparty",
+        "start": 149,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "West Aberdeenshire retained the same boundaries for the 1959 United Kingdom general election, the 1964 United Kingdom general election, the 1966 United Kingdom general election, the 1970 United Kingdom general election, the February 1974 United Kingdom general election and the October 1974 United Kingdom general election.",
+    "entities": [
+      {
+        "text": "West Aberdeenshire",
+        "label": "location",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "1959 United Kingdom general election",
+        "label": "election",
+        "start": 56,
+        "end": 92
+      },
+      {
+        "text": "1964 United Kingdom general election",
+        "label": "election",
+        "start": 98,
+        "end": 134
+      },
+      {
+        "text": "1966 United Kingdom general election",
+        "label": "election",
+        "start": 140,
+        "end": 176
+      },
+      {
+        "text": "1970 United Kingdom general election",
+        "label": "election",
+        "start": 182,
+        "end": 218
+      },
+      {
+        "text": "February 1974 United Kingdom general election",
+        "label": "election",
+        "start": 224,
+        "end": 269
+      },
+      {
+        "text": "October 1974 United Kingdom general election",
+        "label": "election",
+        "start": 278,
+        "end": 322
+      }
+    ]
+  },
+  {
+    "text": "He initially supported the new government of Burhanuddin Rabbani in Kabul but in 1994 switched sides and allied with Gulbuddin Hekmatyar.",
+    "entities": [
+      {
+        "text": "Burhanuddin Rabbani",
+        "label": "politician",
+        "start": 45,
+        "end": 64
+      },
+      {
+        "text": "Kabul",
+        "label": "location",
+        "start": 68,
+        "end": 73
+      },
+      {
+        "text": "Gulbuddin Hekmatyar",
+        "label": "politician",
+        "start": 117,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "The Communists won West Fife in 1935 United Kingdom general election and again in 1945 United Kingdom general election (Willie Gallacher) and several Glasgow Labour MPs joined the Independent Labour Party in the 1930s, often heavily defeating the official Labour candidates.",
+    "entities": [
+      {
+        "text": "West Fife",
+        "label": "location",
+        "start": 19,
+        "end": 28
+      },
+      {
+        "text": "1935 United Kingdom general election",
+        "label": "election",
+        "start": 32,
+        "end": 68
+      },
+      {
+        "text": "1945 United Kingdom general election",
+        "label": "election",
+        "start": 82,
+        "end": 118
+      },
+      {
+        "text": "Willie Gallacher",
+        "label": "politician",
+        "start": 120,
+        "end": 136
+      },
+      {
+        "text": "Glasgow",
+        "label": "location",
+        "start": 150,
+        "end": 157
+      },
+      {
+        "text": "Labour",
+        "label": "politicalparty",
+        "start": 158,
+        "end": 164
+      },
+      {
+        "text": "Independent Labour Party",
+        "label": "politicalparty",
+        "start": 180,
+        "end": 204
+      },
+      {
+        "text": "Labour",
+        "label": "politicalparty",
+        "start": 256,
+        "end": 262
+      }
+    ]
+  },
+  {
+    "text": "He also recalled a past instance in which Osama bin Laden called on al-Qaeda members and supporters to give allegiance to Abu Omar al-Baghdadi when the group was still solely operating in Iraq, as the Islamic State of Iraq, and condemned Ayman al-Zawahiri for not making this same claim for Abu Bakr al-Baghdadi, and that Zawahiri was encouraging factionalism and division between former allies of ISIL such as the al-Nusra Front.",
+    "entities": [
+      {
+        "text": "Osama bin Laden",
+        "label": "politician",
+        "start": 42,
+        "end": 57
+      },
+      {
+        "text": "al-Qaeda",
+        "label": "organisation",
+        "start": 68,
+        "end": 76
+      },
+      {
+        "text": "Abu Omar al-Baghdadi",
+        "label": "politician",
+        "start": 122,
+        "end": 142
+      },
+      {
+        "text": "Islamic State of Iraq",
+        "label": "organisation",
+        "start": 201,
+        "end": 222
+      },
+      {
+        "text": "Ayman al-Zawahiri",
+        "label": "politician",
+        "start": 238,
+        "end": 255
+      },
+      {
+        "text": "Abu Bakr al-Baghdadi",
+        "label": "politician",
+        "start": 291,
+        "end": 311
+      },
+      {
+        "text": "Zawahiri",
+        "label": "politician",
+        "start": 322,
+        "end": 330
+      },
+      {
+        "text": "ISIL",
+        "label": "organisation",
+        "start": 398,
+        "end": 402
+      },
+      {
+        "text": "al-Nusra Front",
+        "label": "organisation",
+        "start": 415,
+        "end": 429
+      }
+    ]
+  },
+  {
+    "text": "Inukai was a leading figure in the successors to the Rikken Kaishintō, the Shimpotō, Kenseitō and the Rikken Kokumintō, which eventually toppled the government of Katsura Tarō in 1913.",
+    "entities": [
+      {
+        "text": "Inukai",
+        "label": "politician",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Rikken Kaishintō",
+        "label": "politicalparty",
+        "start": 53,
+        "end": 69
+      },
+      {
+        "text": "Shimpotō",
+        "label": "politicalparty",
+        "start": 75,
+        "end": 83
+      },
+      {
+        "text": "Kenseitō",
+        "label": "politicalparty",
+        "start": 85,
+        "end": 93
+      },
+      {
+        "text": "Rikken Kokumintō",
+        "label": "politicalparty",
+        "start": 102,
+        "end": 118
+      },
+      {
+        "text": "Katsura Tarō",
+        "label": "politician",
+        "start": 163,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "The film stars Hugh Jackman, Vera Farmiga, J. K. Simmons, and Alfred Molina.",
+    "entities": []
+  },
+  {
+    "text": "In 1959, he resigned from the Indian National Congress and founded the Swatantra Party, which fought against the Congress in the 1962 Indian general election, 1967 Indian general election and 1971 Indian general election elections.",
+    "entities": [
+      {
+        "text": "Indian National Congress",
+        "label": "organisation",
+        "start": 30,
+        "end": 54
+      },
+      {
+        "text": "Swatantra Party",
+        "label": "politicalparty",
+        "start": 71,
+        "end": 86
+      },
+      {
+        "text": "1962 Indian general election",
+        "label": "election",
+        "start": 129,
+        "end": 157
+      },
+      {
+        "text": "1967 Indian general election",
+        "label": "election",
+        "start": 159,
+        "end": 187
+      },
+      {
+        "text": "1971 Indian general election",
+        "label": "election",
+        "start": 192,
+        "end": 220
+      }
+    ]
+  },
+  {
+    "text": "The campaign was part of the Chinese Civil War in the immediate post- World War II era and resulted in a Communist Party of China victory.",
+    "entities": [
+      {
+        "text": "Communist Party of China",
+        "label": "politicalparty",
+        "start": 105,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "In the same year, protesters presented an open letter from the Palestinian Solidarity Foundation, Stop the War Coalition, the Campaign for Nuclear Disarmament and other groups to Lord Hall, Director General of the BBC; the letter accused the broadcaster of presenting Israeli attacks on Gaza as a result of rocket fire from Hamas, without giving any other context.",
+    "entities": [
+      {
+        "text": "Palestinian Solidarity Foundation",
+        "label": "organisation",
+        "start": 63,
+        "end": 96
+      },
+      {
+        "text": "Stop the War Coalition",
+        "label": "organisation",
+        "start": 98,
+        "end": 120
+      },
+      {
+        "text": "Campaign for Nuclear Disarmament",
+        "label": "organisation",
+        "start": 126,
+        "end": 158
+      },
+      {
+        "text": "BBC",
+        "label": "organisation",
+        "start": 214,
+        "end": 217
+      },
+      {
+        "text": "Gaza",
+        "label": "location",
+        "start": 287,
+        "end": 291
+      },
+      {
+        "text": "Hamas",
+        "label": "politicalparty",
+        "start": 324,
+        "end": 329
+      }
+    ]
+  },
+  {
+    "text": "In the United States, organizations that promote accommodationism include The Becket Fund for Religious Liberty, Foundation for Moral Law, Lord's Day Alliance, Alliance Defending Freedom, Christian Coalition of America, Woman's Christian Temperance Union, and the First Liberty Institute.",
+    "entities": [
+      {
+        "text": "The Becket Fund for Religious Liberty",
+        "label": "organisation",
+        "start": 74,
+        "end": 111
+      },
+      {
+        "text": "Foundation for Moral Law",
+        "label": "organisation",
+        "start": 113,
+        "end": 137
+      },
+      {
+        "text": "Lord's Day Alliance",
+        "label": "organisation",
+        "start": 139,
+        "end": 158
+      },
+      {
+        "text": "Alliance Defending Freedom",
+        "label": "organisation",
+        "start": 160,
+        "end": 186
+      },
+      {
+        "text": "Christian Coalition of America",
+        "label": "organisation",
+        "start": 188,
+        "end": 218
+      },
+      {
+        "text": "Woman's Christian Temperance Union",
+        "label": "organisation",
+        "start": 220,
+        "end": 254
+      },
+      {
+        "text": "First Liberty Institute",
+        "label": "organisation",
+        "start": 264,
+        "end": 287
+      }
+    ]
+  },
+  {
+    "text": "Brimming with confidence after their victories over the Russians in 1711 (Pruth River Campaign) and over the Venetians in 1715 (Ottoman-Venetian War (1714-1718)), the Ottomans declared war on the Habsburg Monarchy in 1716 and marched north from Belgrade in July under the command of Grand Vizier Silahdar Damat Ali Pasha.",
+    "entities": [
+      {
+        "text": "Ottomans",
+        "label": "politician",
+        "start": 167,
+        "end": 175
+      },
+      {
+        "text": "Belgrade",
+        "label": "location",
+        "start": 245,
+        "end": 253
+      },
+      {
+        "text": "Silahdar Damat Ali Pasha",
+        "label": "politician",
+        "start": 296,
+        "end": 320
+      }
+    ]
+  },
+  {
+    "text": "His reign saw the incorporation of the County of Urgell, Duchy of Athens, and Duchy of Neopatria into the Crown of Aragon.",
+    "entities": []
+  },
+  {
+    "text": "Writers with whom he worked included Andrew Grove, Senator Sam Ervin, Governor Thomas Kean, Lester Thurow, Robert Eisner, Kevin Phillips, Julian Jaynes, Judy Shelton, Yuji Ichioka, Merry White, and Daniel Yergin.",
+    "entities": [
+      {
+        "text": "Sam Ervin",
+        "label": "politician",
+        "start": 59,
+        "end": 68
+      },
+      {
+        "text": "Thomas Kean",
+        "label": "politician",
+        "start": 79,
+        "end": 90
+      },
+      {
+        "text": "Lester Thurow",
+        "label": "politician",
+        "start": 92,
+        "end": 105
+      },
+      {
+        "text": "Robert Eisner",
+        "label": "politician",
+        "start": 107,
+        "end": 120
+      },
+      {
+        "text": "Kevin Phillips",
+        "label": "politician",
+        "start": 122,
+        "end": 136
+      },
+      {
+        "text": "Julian Jaynes",
+        "label": "politician",
+        "start": 138,
+        "end": 151
+      },
+      {
+        "text": "Judy Shelton",
+        "label": "politician",
+        "start": 153,
+        "end": 165
+      },
+      {
+        "text": "Yuji Ichioka",
+        "label": "politician",
+        "start": 167,
+        "end": 179
+      },
+      {
+        "text": "Merry White",
+        "label": "politician",
+        "start": 181,
+        "end": 192
+      },
+      {
+        "text": "Daniel Yergin",
+        "label": "politician",
+        "start": 198,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "Appointed in 1991 by Pete Wilson who resigned his Class I Senate seat because he was elected governor in 1990 California gubernatorial election, Seymour lost the 1992 United States Senate special election in California to determine who would serve the remainder of the term expiring in 1995 to Democratic challenger Dianne Feinstein who was subsequently elected to a full term 1994 United States Senate election in California and has held the seat since.",
+    "entities": [
+      {
+        "text": "Pete Wilson",
+        "label": "politician",
+        "start": 21,
+        "end": 32
+      },
+      {
+        "text": "1990 California gubernatorial election",
+        "label": "election",
+        "start": 105,
+        "end": 143
+      },
+      {
+        "text": "Seymour",
+        "label": "politician",
+        "start": 145,
+        "end": 152
+      },
+      {
+        "text": "1992 United States Senate special election in California",
+        "label": "election",
+        "start": 162,
+        "end": 218
+      },
+      {
+        "text": "Dianne Feinstein",
+        "label": "politician",
+        "start": 316,
+        "end": 332
+      },
+      {
+        "text": "1994 United States Senate election in California",
+        "label": "election",
+        "start": 377,
+        "end": 425
+      }
+    ]
+  },
+  {
+    "text": "No Montreal-area riding has elected a Conservative or any member of the party's predecessors - the Progressive Conservative Party of Canada, the Canadian Alliance and the Reform Party of Canada - since 1988 Canadian federal election.",
+    "entities": [
+      {
+        "text": "Progressive Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 99,
+        "end": 139
+      },
+      {
+        "text": "Canadian Alliance",
+        "label": "politicalparty",
+        "start": 145,
+        "end": 162
+      },
+      {
+        "text": "Reform Party of Canada",
+        "label": "politicalparty",
+        "start": 171,
+        "end": 193
+      },
+      {
+        "text": "1988 Canadian federal election",
+        "label": "election",
+        "start": 202,
+        "end": 232
+      }
+    ]
+  },
+  {
+    "text": "Gold coins bearing portraits of Chandragupta and Kumaradevi have been discovered at Mathura, Ayodhya, Lucknow, Sitapur, Tanda, Ghazipur, and Varanasi in Uttar Pradesh; Bayana in Rajasthan; and Hajipur in Bihar.",
+    "entities": [
+      {
+        "text": "Mathura",
+        "label": "location",
+        "start": 84,
+        "end": 91
+      },
+      {
+        "text": "Ayodhya",
+        "label": "location",
+        "start": 93,
+        "end": 100
+      },
+      {
+        "text": "Lucknow",
+        "label": "location",
+        "start": 102,
+        "end": 109
+      },
+      {
+        "text": "Sitapur",
+        "label": "location",
+        "start": 111,
+        "end": 118
+      },
+      {
+        "text": "Tanda",
+        "label": "location",
+        "start": 120,
+        "end": 125
+      },
+      {
+        "text": "Ghazipur",
+        "label": "location",
+        "start": 127,
+        "end": 135
+      },
+      {
+        "text": "Varanasi",
+        "label": "location",
+        "start": 141,
+        "end": 149
+      },
+      {
+        "text": "Uttar",
+        "label": "location",
+        "start": 153,
+        "end": 158
+      },
+      {
+        "text": "Pradesh",
+        "label": "location",
+        "start": 159,
+        "end": 166
+      },
+      {
+        "text": "Bayana",
+        "label": "location",
+        "start": 168,
+        "end": 174
+      },
+      {
+        "text": "Rajasthan",
+        "label": "location",
+        "start": 178,
+        "end": 187
+      },
+      {
+        "text": "Hajipur",
+        "label": "location",
+        "start": 193,
+        "end": 200
+      },
+      {
+        "text": "Bihar",
+        "label": "location",
+        "start": 204,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "In the 1994 European Parliament election in Ireland, Patricia McKenna topped the poll in the Dublin constituency and Nuala Ahern won a seat in Leinster.",
+    "entities": [
+      {
+        "text": "1994 European Parliament election in Ireland",
+        "label": "election",
+        "start": 7,
+        "end": 51
+      },
+      {
+        "text": "Patricia McKenna",
+        "label": "politician",
+        "start": 53,
+        "end": 69
+      },
+      {
+        "text": "Dublin",
+        "label": "location",
+        "start": 93,
+        "end": 99
+      },
+      {
+        "text": "Nuala Ahern",
+        "label": "politician",
+        "start": 117,
+        "end": 128
+      },
+      {
+        "text": "Leinster",
+        "label": "location",
+        "start": 143,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "The Social Democratic and Labour Party (SDLP) stood a candidate against her in the February 1974 United Kingdom general election and the nationalist vote was strongly divided, allowing John Dunlop of the Vanguard Progressive Unionist Party to win with the support of the UUP and the Democratic Unionist Party (DUP).",
+    "entities": [
+      {
+        "text": "Social Democratic and Labour Party",
+        "label": "politicalparty",
+        "start": 4,
+        "end": 38
+      },
+      {
+        "text": "SDLP",
+        "label": "politicalparty",
+        "start": 40,
+        "end": 44
+      },
+      {
+        "text": "February 1974 United Kingdom general election",
+        "label": "election",
+        "start": 83,
+        "end": 128
+      },
+      {
+        "text": "John Dunlop",
+        "label": "politician",
+        "start": 185,
+        "end": 196
+      },
+      {
+        "text": "Vanguard Progressive Unionist Party",
+        "label": "politicalparty",
+        "start": 204,
+        "end": 239
+      },
+      {
+        "text": "UUP",
+        "label": "politicalparty",
+        "start": 271,
+        "end": 274
+      },
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 283,
+        "end": 308
+      },
+      {
+        "text": "DUP",
+        "label": "politicalparty",
+        "start": 310,
+        "end": 313
+      }
+    ]
+  },
+  {
+    "text": "Michener first ran for political office in 1943 Ontario general election as the Progressive Conservative Party of Ontario candidate in the riding of St. David, but was defeated by William Dennison of the Co-operative Commonwealth Federation (CCF).",
+    "entities": [
+      {
+        "text": "Michener",
+        "label": "politician",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "1943 Ontario general election",
+        "label": "election",
+        "start": 43,
+        "end": 72
+      },
+      {
+        "text": "Progressive Conservative Party of Ontario",
+        "label": "politicalparty",
+        "start": 80,
+        "end": 121
+      },
+      {
+        "text": "St. David",
+        "label": "politician",
+        "start": 149,
+        "end": 158
+      },
+      {
+        "text": "William Dennison",
+        "label": "politician",
+        "start": 180,
+        "end": 196
+      },
+      {
+        "text": "Co-operative Commonwealth Federation",
+        "label": "politicalparty",
+        "start": 204,
+        "end": 240
+      },
+      {
+        "text": "CCF",
+        "label": "politicalparty",
+        "start": 242,
+        "end": 245
+      }
+    ]
+  },
+  {
+    "text": "In the biggest mobilisation of Australian Forces since the Vietnam War, the Government committed Australian naval forces to the 1991 Gulf War in support of the United States led coalition against the regime of Saddam Hussein, following the invasion of oil-rich Kuwait by Iraq on 2 August 1990.",
+    "entities": [
+      {
+        "text": "Australian Forces",
+        "label": "organisation",
+        "start": 31,
+        "end": 48
+      },
+      {
+        "text": "Australian naval forces",
+        "label": "organisation",
+        "start": 97,
+        "end": 120
+      },
+      {
+        "text": "Saddam Hussein",
+        "label": "politician",
+        "start": 210,
+        "end": 224
+      }
+    ]
+  },
+  {
+    "text": "At the four subsequent UK elections (2001 United Kingdom general election, 2005 United Kingdom general election, 2010 United Kingdom general election and 2015 United Kingdom general election) the Conservatives won only one Scottish seat.",
+    "entities": [
+      {
+        "text": "2001 United Kingdom general election",
+        "label": "election",
+        "start": 37,
+        "end": 73
+      },
+      {
+        "text": "2005 United Kingdom general election",
+        "label": "election",
+        "start": 75,
+        "end": 111
+      },
+      {
+        "text": "2010 United Kingdom general election",
+        "label": "election",
+        "start": 113,
+        "end": 149
+      },
+      {
+        "text": "2015 United Kingdom general election",
+        "label": "election",
+        "start": 154,
+        "end": 190
+      }
+    ]
+  },
+  {
+    "text": "The National Party was most recently in government from 2008 New Zealand general election to 2017 under John Key and Bill English; it governed with support from the centrist United Future, the classical-liberal ACT New Zealand and the indigenous-rights-based Māori Party.",
+    "entities": [
+      {
+        "text": "National Party",
+        "label": "politicalparty",
+        "start": 4,
+        "end": 18
+      },
+      {
+        "text": "2008 New Zealand general election",
+        "label": "election",
+        "start": 56,
+        "end": 89
+      },
+      {
+        "text": "John Key",
+        "label": "politician",
+        "start": 104,
+        "end": 112
+      },
+      {
+        "text": "Bill English",
+        "label": "politician",
+        "start": 117,
+        "end": 129
+      },
+      {
+        "text": "United Future",
+        "label": "politicalparty",
+        "start": 174,
+        "end": 187
+      },
+      {
+        "text": "ACT New Zealand",
+        "label": "politicalparty",
+        "start": 211,
+        "end": 226
+      },
+      {
+        "text": "Māori Party",
+        "label": "politicalparty",
+        "start": 259,
+        "end": 270
+      }
+    ]
+  },
+  {
+    "text": "Singers Ariana Grande, Lin-Manuel Miranda, Ben Platt, Miley Cyrus, Jennifer Hudson, Andra Day, Common, Selena Gómez, Lady Gaga, and Demi Lovato joined student-led marchers in Washington, D.C.",
+    "entities": [
+      {
+        "text": "Washington, D.C",
+        "label": "location",
+        "start": 175,
+        "end": 190
+      }
+    ]
+  },
+  {
+    "text": "Presented as Loudbox, a cable news program hosted by Rachel Maddow (Atamanuik) and Chris Matthews (Adomian) with panelists Donna Brazile (Nicole Byer), Jeb Bush (Daniel Van Kirk), and Ben Carson (Jerry Minor), the pundits ignore an impending cataclysmic asteroid strike in favor of political optics while throwing to interviews and field pieces with Trump and Bernie.",
+    "entities": [
+      {
+        "text": "Trump",
+        "label": "politician",
+        "start": 350,
+        "end": 355
+      },
+      {
+        "text": "Bernie",
+        "label": "politician",
+        "start": 360,
+        "end": 366
+      }
+    ]
+  },
+  {
+    "text": "MoveOn also joined with 14 other organization to form the Win Without War coalition, which also included the National Council of Churches, the National Association for the Advancement of Colored People, and the National Organization for Women.",
+    "entities": [
+      {
+        "text": "MoveOn",
+        "label": "organisation",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Win Without War",
+        "label": "organisation",
+        "start": 58,
+        "end": 73
+      },
+      {
+        "text": "National Council of Churches",
+        "label": "organisation",
+        "start": 109,
+        "end": 137
+      },
+      {
+        "text": "National Association for the Advancement of Colored People",
+        "label": "organisation",
+        "start": 143,
+        "end": 201
+      },
+      {
+        "text": "National Organization for Women",
+        "label": "organisation",
+        "start": 211,
+        "end": 242
+      }
+    ]
+  },
+  {
+    "text": "In December 2010 the UdC was a founding member of the New Pole for Italy (NPI), along with Future and Freedom (FLI) and the Alliance for Italy.",
+    "entities": [
+      {
+        "text": "UdC",
+        "label": "politicalparty",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "New Pole for Italy",
+        "label": "politicalparty",
+        "start": 54,
+        "end": 72
+      },
+      {
+        "text": "NPI",
+        "label": "politicalparty",
+        "start": 74,
+        "end": 77
+      },
+      {
+        "text": "Future and Freedom",
+        "label": "politicalparty",
+        "start": 91,
+        "end": 109
+      },
+      {
+        "text": "FLI",
+        "label": "politicalparty",
+        "start": 111,
+        "end": 114
+      },
+      {
+        "text": "Alliance for Italy",
+        "label": "politicalparty",
+        "start": 124,
+        "end": 142
+      }
+    ]
+  },
+  {
+    "text": "On 17 October, the National Court ordered Jordi Sànchez i Picanyol and Jordi Cuixart - leaders of pro-independence groups Assemblea Nacional Catalana (ANC) and Òmnium Cultural - to be preventively put into jail without bail pending an investigation into alleged sedition for having played central roles in orchestrating massive protests aimed at hindering Civil Guard activity.",
+    "entities": [
+      {
+        "text": "National Court",
+        "label": "organisation",
+        "start": 19,
+        "end": 33
+      },
+      {
+        "text": "Jordi Sànchez i Picanyol",
+        "label": "politician",
+        "start": 42,
+        "end": 66
+      },
+      {
+        "text": "Assemblea Nacional Catalana",
+        "label": "organisation",
+        "start": 122,
+        "end": 149
+      },
+      {
+        "text": "ANC",
+        "label": "organisation",
+        "start": 151,
+        "end": 154
+      },
+      {
+        "text": "Òmnium Cultural",
+        "label": "organisation",
+        "start": 160,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "While Nemanja's envoys were negotiating with Berthold as Barbarossa's representative, Nemanja took Pernik, Zemen, Velbužd, Žitomisk, Stobi, Prizren and rest of Kosovo and Metohija and even Skopje.",
+    "entities": [
+      {
+        "text": "Nemanja",
+        "label": "politician",
+        "start": 6,
+        "end": 13
+      },
+      {
+        "text": "Berthold",
+        "label": "politician",
+        "start": 45,
+        "end": 53
+      },
+      {
+        "text": "Barbarossa",
+        "label": "politician",
+        "start": 57,
+        "end": 67
+      },
+      {
+        "text": "Nemanja",
+        "label": "politician",
+        "start": 86,
+        "end": 93
+      },
+      {
+        "text": "Pernik",
+        "label": "location",
+        "start": 99,
+        "end": 105
+      },
+      {
+        "text": "Zemen",
+        "label": "location",
+        "start": 107,
+        "end": 112
+      },
+      {
+        "text": "Velbužd",
+        "label": "location",
+        "start": 114,
+        "end": 121
+      },
+      {
+        "text": "Žitomisk",
+        "label": "location",
+        "start": 123,
+        "end": 131
+      },
+      {
+        "text": "Stobi",
+        "label": "location",
+        "start": 133,
+        "end": 138
+      },
+      {
+        "text": "Prizren",
+        "label": "location",
+        "start": 140,
+        "end": 147
+      },
+      {
+        "text": "Metohija",
+        "label": "location",
+        "start": 171,
+        "end": 179
+      },
+      {
+        "text": "Skopje",
+        "label": "location",
+        "start": 189,
+        "end": 195
+      }
+    ]
+  },
+  {
+    "text": "Pinter strongly opposed the 1991 Gulf War, the 1999 NATO bombing campaign in Yugoslavia during the Kosovo War, the United States ' 2001 War in Afghanistan, and the 2003 Invasion of Iraq.",
+    "entities": []
+  },
+  {
+    "text": "Personal exhibitions include such as Janos Gallery in New York City (1993); Place de Médiathèque in France (1995); Acud in Berlin (1993); São Paulo in Brazil (1994); Israel (1995); National Art Gallery in Tirana, Albania (1992); and Gallery XXI in Albania (1999).",
+    "entities": [
+      {
+        "text": "New York City",
+        "label": "location",
+        "start": 54,
+        "end": 67
+      },
+      {
+        "text": "Berlin",
+        "label": "location",
+        "start": 123,
+        "end": 129
+      },
+      {
+        "text": "São Paulo",
+        "label": "location",
+        "start": 138,
+        "end": 147
+      },
+      {
+        "text": "Tirana",
+        "label": "location",
+        "start": 205,
+        "end": 211
+      },
+      {
+        "text": "Albania",
+        "label": "location",
+        "start": 248,
+        "end": 255
+      }
+    ]
+  },
+  {
+    "text": "The appointment of a number of administrators who did not speak Mandarin to Chinese schools provoked an outcry among Chinese Malaysians to the point where UMNO's coalition partners the Malaysian Chinese Association and Parti Gerakan Rakyat Malaysia joined the Democratic Action Party (DAP) in protesting the appointments.",
+    "entities": [
+      {
+        "text": "UMNO",
+        "label": "politicalparty",
+        "start": 155,
+        "end": 159
+      },
+      {
+        "text": "Malaysian Chinese Association",
+        "label": "politicalparty",
+        "start": 185,
+        "end": 214
+      },
+      {
+        "text": "Parti Gerakan Rakyat Malaysia",
+        "label": "politicalparty",
+        "start": 219,
+        "end": 248
+      },
+      {
+        "text": "Democratic Action Party",
+        "label": "politicalparty",
+        "start": 260,
+        "end": 283
+      },
+      {
+        "text": "DAP",
+        "label": "politicalparty",
+        "start": 285,
+        "end": 288
+      }
+    ]
+  },
+  {
+    "text": "The current prime minister of Denmark is Mette Frederiksen who, since 27 June 2019, has led a one-party government consisting of the Social Democrats with parliamentary support from the Danish Social Liberal Party, Socialist People's Party, Red-Green Alliance, the Faroese Social Democratic Party and Greenland ' s Inuit Ataqatigiit and Siumut.",
+    "entities": [
+      {
+        "text": "Mette Frederiksen",
+        "label": "politician",
+        "start": 41,
+        "end": 58
+      },
+      {
+        "text": "Danish Social Liberal Party",
+        "label": "politicalparty",
+        "start": 186,
+        "end": 213
+      },
+      {
+        "text": "Socialist People's Party",
+        "label": "politicalparty",
+        "start": 215,
+        "end": 239
+      },
+      {
+        "text": "Red-Green Alliance",
+        "label": "politicalparty",
+        "start": 241,
+        "end": 259
+      },
+      {
+        "text": "Social Democratic Party",
+        "label": "politicalparty",
+        "start": 273,
+        "end": 296
+      },
+      {
+        "text": "Greenland",
+        "label": "location",
+        "start": 301,
+        "end": 310
+      },
+      {
+        "text": "Inuit Ataqatigiit",
+        "label": "politicalparty",
+        "start": 315,
+        "end": 332
+      },
+      {
+        "text": "Siumut",
+        "label": "politicalparty",
+        "start": 337,
+        "end": 343
+      }
+    ]
+  },
+  {
+    "text": "The U-boat Campaign from 1914 to 1918 was the World War I naval campaign fought by German U-boat s against the trade routes of the Allies of World War I.",
+    "entities": []
+  },
+  {
+    "text": "Various sporting venues can be found in Sendai, such as Hitomebore Stadium Miyagi (venue of 2002 FIFA World Cup), Yurtec Stadium Sendai, Rakuten Seimei Park Miyagi, Kamei Arena Sendai, Koshin Gom Athlete Park Sendai, Shellcom Sendai and Sendai Hi-Land Raceway.",
+    "entities": [
+      {
+        "text": "Sendai",
+        "label": "location",
+        "start": 40,
+        "end": 46
+      },
+      {
+        "text": "Hitomebore Stadium Miyagi",
+        "label": "location",
+        "start": 56,
+        "end": 81
+      },
+      {
+        "text": "Yurtec Stadium Sendai",
+        "label": "location",
+        "start": 114,
+        "end": 135
+      },
+      {
+        "text": "Rakuten Seimei Park Miyagi",
+        "label": "location",
+        "start": 137,
+        "end": 163
+      },
+      {
+        "text": "Kamei Arena Sendai",
+        "label": "location",
+        "start": 165,
+        "end": 183
+      },
+      {
+        "text": "Koshin Gom Athlete Park Sendai",
+        "label": "location",
+        "start": 185,
+        "end": 215
+      },
+      {
+        "text": "Shellcom Sendai",
+        "label": "location",
+        "start": 217,
+        "end": 232
+      },
+      {
+        "text": "Sendai Hi-Land Raceway",
+        "label": "location",
+        "start": 237,
+        "end": 259
+      }
+    ]
+  },
+  {
+    "text": "Windsor Star, November 18, 2006 continued to anchor provincial election coverage for that service in 2003 Ontario general election, 2007 Ontario general election, 2011 Ontario general election and 2014 Ontario general election, and filed occasional science news reports, under the pseudonym Dr. Robert, for the network's flagship interview program As It Happens.",
+    "entities": [
+      {
+        "text": "Windsor Star",
+        "label": "organisation",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "2003 Ontario general election",
+        "label": "election",
+        "start": 101,
+        "end": 130
+      },
+      {
+        "text": "2007 Ontario general election",
+        "label": "election",
+        "start": 132,
+        "end": 161
+      },
+      {
+        "text": "2011 Ontario general election",
+        "label": "election",
+        "start": 163,
+        "end": 192
+      },
+      {
+        "text": "2014 Ontario general election",
+        "label": "election",
+        "start": 197,
+        "end": 226
+      }
+    ]
+  },
+  {
+    "text": "During the last four years of the Second Polish Republic, the major politicians included President Ignacy Mościcki, Foreign Minister Józef Beck and the Commander-in-Chief of the Polish Army, Edward Rydz-Śmigły.",
+    "entities": [
+      {
+        "text": "Ignacy Mościcki",
+        "label": "politician",
+        "start": 99,
+        "end": 114
+      },
+      {
+        "text": "Józef Beck",
+        "label": "politician",
+        "start": 133,
+        "end": 143
+      },
+      {
+        "text": "Edward Rydz-Śmigły",
+        "label": "politician",
+        "start": 191,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "Whereas most leaders had come from or identified with the independence movement Sinn Féin (in its 1917-22 phase), Bruton identified more with the more moderate Irish Parliamentary Party (IPP) tradition that Sinn Féin had eclipsed at the 1918 Irish general election.",
+    "entities": [
+      {
+        "text": "Sinn Féin",
+        "label": "politicalparty",
+        "start": 80,
+        "end": 89
+      },
+      {
+        "text": "Bruton",
+        "label": "location",
+        "start": 114,
+        "end": 120
+      },
+      {
+        "text": "Irish Parliamentary Party",
+        "label": "politicalparty",
+        "start": 160,
+        "end": 185
+      },
+      {
+        "text": "IPP",
+        "label": "politicalparty",
+        "start": 187,
+        "end": 190
+      },
+      {
+        "text": "Sinn Féin",
+        "label": "politicalparty",
+        "start": 207,
+        "end": 216
+      },
+      {
+        "text": "1918 Irish general election",
+        "label": "election",
+        "start": 237,
+        "end": 264
+      }
+    ]
+  },
+  {
+    "text": "The Prime Minister, Robert Menzies, adroitly used the defection of a Soviet official to his advantage, and his coalition of the Liberal and National Party of Australia parties was returned in the 1954 Australian federal election with a seven-seat majority.",
+    "entities": [
+      {
+        "text": "Robert Menzies",
+        "label": "politician",
+        "start": 20,
+        "end": 34
+      },
+      {
+        "text": "Liberal",
+        "label": "politicalparty",
+        "start": 128,
+        "end": 135
+      },
+      {
+        "text": "National Party of Australia",
+        "label": "politicalparty",
+        "start": 140,
+        "end": 167
+      },
+      {
+        "text": "1954 Australian federal election",
+        "label": "election",
+        "start": 196,
+        "end": 228
+      }
+    ]
+  },
+  {
+    "text": "In 1973 the OACL took part in the formation of the Lebanese National Movement (LNM) together with the Progressive Socialist Party (PSP), the Lebanese Communist Party, Nasserism and others.",
+    "entities": [
+      {
+        "text": "OACL",
+        "label": "politicalparty",
+        "start": 12,
+        "end": 16
+      },
+      {
+        "text": "Lebanese National Movement",
+        "label": "politicalparty",
+        "start": 51,
+        "end": 77
+      },
+      {
+        "text": "LNM",
+        "label": "politicalparty",
+        "start": 79,
+        "end": 82
+      },
+      {
+        "text": "Progressive Socialist Party",
+        "label": "politicalparty",
+        "start": 102,
+        "end": 129
+      },
+      {
+        "text": "PSP",
+        "label": "politicalparty",
+        "start": 131,
+        "end": 134
+      },
+      {
+        "text": "Lebanese Communist Party",
+        "label": "politicalparty",
+        "start": 141,
+        "end": 165
+      },
+      {
+        "text": "Nasserism",
+        "label": "politicalparty",
+        "start": 167,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "He attended an academy run by the crown prince's ethics tutor in Tokyo, and briefly studied at Keio University and the Tokyo Physics School (now the Tokyo University of Science).",
+    "entities": [
+      {
+        "text": "Tokyo",
+        "label": "location",
+        "start": 65,
+        "end": 70
+      },
+      {
+        "text": "Keio University",
+        "label": "organisation",
+        "start": 95,
+        "end": 110
+      },
+      {
+        "text": "Tokyo Physics School",
+        "label": "organisation",
+        "start": 119,
+        "end": 139
+      },
+      {
+        "text": "Tokyo University of Science",
+        "label": "organisation",
+        "start": 149,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "Alex T. Atamanenko MP (born January 24, 1945) is a Canadian politician, who was elected to the House of Commons in 2006, winning the riding of British Columbia Southern Interior for the New Democratic Party in the 2006 Canadian federal election, and served in parliament until his retirement at the 2015 Canadian federal election.",
+    "entities": [
+      {
+        "text": "Alex T. Atamanenko",
+        "label": "politician",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "House of Commons",
+        "label": "organisation",
+        "start": 95,
+        "end": 111
+      },
+      {
+        "text": "British Columbia Southern Interior",
+        "label": "organisation",
+        "start": 143,
+        "end": 177
+      },
+      {
+        "text": "New Democratic Party",
+        "label": "politicalparty",
+        "start": 186,
+        "end": 206
+      },
+      {
+        "text": "2006 Canadian federal election",
+        "label": "election",
+        "start": 214,
+        "end": 244
+      },
+      {
+        "text": "2015 Canadian federal election",
+        "label": "election",
+        "start": 299,
+        "end": 329
+      }
+    ]
+  },
+  {
+    "text": "Guests have included Jordan Peterson, Coleman Hughes, James Damore, Lindsay Shepherd, Susan Bradley, Ed the Sock, Adrienne Batra, Steven Pinker, Bill Kristol, Michael Shermer, Matthew Goodwin, Irshad Manji, Roger Scruton, Claire Fox, Francis Fukuyama, Peter Boghossian, Douglas Murray, Brian C. Kalt, and David Frum.",
+    "entities": []
+  },
+  {
+    "text": "For the 2018 Mexican general election, the National Regeneration Movement proposed having Senator Rabindranath Salazar Solorio as the candidate under the coalition Juntos Haremos Historia for the Governor of Morelos but PES, also part of the coalition, argued Blanco was the better choice for the coalition's candidate.",
+    "entities": [
+      {
+        "text": "2018 Mexican general election",
+        "label": "election",
+        "start": 8,
+        "end": 37
+      },
+      {
+        "text": "National Regeneration Movement",
+        "label": "politicalparty",
+        "start": 43,
+        "end": 73
+      },
+      {
+        "text": "Rabindranath Salazar Solorio",
+        "label": "politician",
+        "start": 98,
+        "end": 126
+      },
+      {
+        "text": "Juntos Haremos Historia",
+        "label": "politicalparty",
+        "start": 164,
+        "end": 187
+      },
+      {
+        "text": "Governor of Morelos",
+        "label": "politicalparty",
+        "start": 196,
+        "end": 215
+      },
+      {
+        "text": "PES",
+        "label": "organisation",
+        "start": 220,
+        "end": 223
+      },
+      {
+        "text": "Blanco",
+        "label": "politician",
+        "start": 260,
+        "end": 266
+      }
+    ]
+  },
+  {
+    "text": "ALP = Australian Labor Party, L + NP = grouping of Liberal Party of Australia / National Party of Australia / Liberal National Party of Queensland / Country Liberal Party Coalition parties (and predecessors).",
+    "entities": [
+      {
+        "text": "ALP",
+        "label": "politicalparty",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Australian Labor Party",
+        "label": "politicalparty",
+        "start": 6,
+        "end": 28
+      },
+      {
+        "text": "Liberal Party of Australia",
+        "label": "politicalparty",
+        "start": 51,
+        "end": 77
+      },
+      {
+        "text": "National Party of Australia",
+        "label": "politicalparty",
+        "start": 80,
+        "end": 107
+      },
+      {
+        "text": "Liberal National Party of Queensland",
+        "label": "politicalparty",
+        "start": 110,
+        "end": 146
+      },
+      {
+        "text": "Country Liberal Party",
+        "label": "politicalparty",
+        "start": 149,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "Their primary opponents, the National Republican Party, were coalescing and unifying as the Whig Party, reducing the influence of single-issue parties, the Anti-Masonic Party (an anti-Masonry movement) and the Nullifier Party (a John C. Calhoun -led states ' rights party that supported South Carolina during the Nullification Crisis in 1832 and 1833).",
+    "entities": [
+      {
+        "text": "National Republican Party",
+        "label": "politicalparty",
+        "start": 29,
+        "end": 54
+      },
+      {
+        "text": "Whig Party",
+        "label": "politicalparty",
+        "start": 92,
+        "end": 102
+      },
+      {
+        "text": "Anti-Masonic Party",
+        "label": "politicalparty",
+        "start": 156,
+        "end": 174
+      },
+      {
+        "text": "anti-Masonry movement",
+        "label": "politicalparty",
+        "start": 179,
+        "end": 200
+      },
+      {
+        "text": "Nullifier Party",
+        "label": "politicalparty",
+        "start": 210,
+        "end": 225
+      },
+      {
+        "text": "John C. Calhoun",
+        "label": "politician",
+        "start": 229,
+        "end": 244
+      },
+      {
+        "text": "states ' rights party",
+        "label": "politicalparty",
+        "start": 250,
+        "end": 271
+      },
+      {
+        "text": "South Carolina",
+        "label": "location",
+        "start": 287,
+        "end": 301
+      }
+    ]
+  },
+  {
+    "text": "Karamanlis won three successive elections (1956 Greek legislative election, 1958 Greek legislative election and 1961 Greek legislative election).",
+    "entities": [
+      {
+        "text": "Karamanlis",
+        "label": "politician",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "1956 Greek legislative election",
+        "label": "election",
+        "start": 43,
+        "end": 74
+      },
+      {
+        "text": "1958 Greek legislative election",
+        "label": "election",
+        "start": 76,
+        "end": 107
+      },
+      {
+        "text": "1961 Greek legislative election",
+        "label": "election",
+        "start": 112,
+        "end": 143
+      }
+    ]
+  },
+  {
+    "text": "Since then, the former Reform Party of Canada and Canadian Alliance parties did very well in those regions, although it has not necessarily translated into stronger results for the current Conservative Party of Canada, who lost one seat and saw their margin decrease substantially in their three remaining seats.",
+    "entities": [
+      {
+        "text": "Reform Party of Canada",
+        "label": "politicalparty",
+        "start": 23,
+        "end": 45
+      },
+      {
+        "text": "Canadian Alliance",
+        "label": "politicalparty",
+        "start": 50,
+        "end": 67
+      },
+      {
+        "text": "Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 189,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "For the 2018 Pakistani general election, PML-F lead a new coalition named Grand Democratic Alliance with Awami Tahreek, National Peoples Party, Pakistan Peoples Party Workers and Pakistan Peoples Muslim League.",
+    "entities": [
+      {
+        "text": "2018 Pakistani general election",
+        "label": "election",
+        "start": 8,
+        "end": 39
+      },
+      {
+        "text": "PML-F",
+        "label": "politicalparty",
+        "start": 41,
+        "end": 46
+      },
+      {
+        "text": "Grand Democratic Alliance",
+        "label": "politicalparty",
+        "start": 74,
+        "end": 99
+      },
+      {
+        "text": "Awami Tahreek",
+        "label": "politicalparty",
+        "start": 105,
+        "end": 118
+      },
+      {
+        "text": "National Peoples Party",
+        "label": "politicalparty",
+        "start": 120,
+        "end": 142
+      },
+      {
+        "text": "Pakistan Peoples Party Workers",
+        "label": "politicalparty",
+        "start": 144,
+        "end": 174
+      },
+      {
+        "text": "Pakistan Peoples Muslim League",
+        "label": "politicalparty",
+        "start": 179,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "He brought Israeli prime minister Ehud Barak and Palestinian Authority chairman Yasser Arafat together at Camp David for the Camp David Summit in July 2000, which lasted 14 days.",
+    "entities": [
+      {
+        "text": "Ehud Barak",
+        "label": "politician",
+        "start": 34,
+        "end": 44
+      },
+      {
+        "text": "Yasser Arafat",
+        "label": "politician",
+        "start": 80,
+        "end": 93
+      },
+      {
+        "text": "Camp David",
+        "label": "location",
+        "start": 106,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "text": "In October 2018, new additions to the voice cast included Ben Mendelsohn, Karen Gillan, Rashida Jones, DJ Khaled and Masi Oka.",
+    "entities": []
+  },
+  {
+    "text": "Gorelick has served on the boards of the John D. and Catherine T. MacArthur Foundation, the Urban Institute, the Washington Legal Clinic for the Homeless and the Carnegie Endowment for International Peace.",
+    "entities": [
+      {
+        "text": "Gorelick",
+        "label": "politician",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "John D. and Catherine T. MacArthur Foundation",
+        "label": "organisation",
+        "start": 41,
+        "end": 86
+      },
+      {
+        "text": "Urban Institute",
+        "label": "organisation",
+        "start": 92,
+        "end": 107
+      },
+      {
+        "text": "Washington Legal Clinic for the Homeless",
+        "label": "organisation",
+        "start": 113,
+        "end": 153
+      },
+      {
+        "text": "Carnegie Endowment for International Peace",
+        "label": "organisation",
+        "start": 162,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "Fini was succeeded by Ignazio La Russa, who managed the merger of the party with Forza Italia (FI) into The People of Freedom (PdL) in 2009.",
+    "entities": [
+      {
+        "text": "Fini",
+        "label": "politician",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Ignazio La Russa",
+        "label": "politician",
+        "start": 22,
+        "end": 38
+      },
+      {
+        "text": "Forza Italia",
+        "label": "politicalparty",
+        "start": 81,
+        "end": 93
+      },
+      {
+        "text": "FI",
+        "label": "politicalparty",
+        "start": 95,
+        "end": 97
+      },
+      {
+        "text": "The People of Freedom",
+        "label": "politicalparty",
+        "start": 104,
+        "end": 125
+      },
+      {
+        "text": "PdL",
+        "label": "politicalparty",
+        "start": 127,
+        "end": 130
+      }
+    ]
+  },
+  {
+    "text": "The state branches formed their first majority governments in 1910 New South Wales state election and 1910 South Australian state election in 1910, 1911 Western Australian state election in 1911, 1915 Queensland state election in 1915 and 1925 Tasmanian state election in 1925.",
+    "entities": [
+      {
+        "text": "1910 New South Wales state election",
+        "label": "election",
+        "start": 62,
+        "end": 97
+      },
+      {
+        "text": "1910 South Australian state election",
+        "label": "election",
+        "start": 102,
+        "end": 138
+      },
+      {
+        "text": "1911 Western Australian state election",
+        "label": "election",
+        "start": 148,
+        "end": 186
+      },
+      {
+        "text": "1915 Queensland state election",
+        "label": "election",
+        "start": 196,
+        "end": 226
+      },
+      {
+        "text": "1925 Tasmanian state election",
+        "label": "election",
+        "start": 239,
+        "end": 268
+      }
+    ]
+  },
+  {
+    "text": "In August 1914, World War I began when alliance obligations arising from the war between Serbia and Austria-Hungary brought Germany and Russia to war, while Germany's invasion of Belgium directly triggered Britain's entry.",
+    "entities": []
+  },
+  {
+    "text": "The Suffragette Oak on Kelvinway was planted in 1918 to celebrate women's first opportunity to vote in a general election and stands as a memorial to the likes of Helen Crawfurd, Dorothea Chalmers Smith, Jessie Stephen and Frances McPhun.",
+    "entities": []
+  }
+]

@@ -1,0 +1,1737 @@
+[
+  {
+    "text": "Lewis was a prolific writer, and his circle of literary friends became an informal discussion society known as the Inklings, including J. R. R. Tolkien, Nevill Coghill, Lord David Cecil, Charles Williams, Owen Barfield, and his brother Warren Lewis.",
+    "entities": [
+      {
+        "text": "Lewis",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "J. R. R. Tolkien",
+        "label": "writer",
+        "start": 135,
+        "end": 151
+      },
+      {
+        "text": "Nevill Coghill",
+        "label": "writer",
+        "start": 153,
+        "end": 167
+      },
+      {
+        "text": "Lord David Cecil",
+        "label": "writer",
+        "start": 169,
+        "end": 185
+      },
+      {
+        "text": "Charles Williams",
+        "label": "writer",
+        "start": 187,
+        "end": 203
+      },
+      {
+        "text": "Owen Barfield",
+        "label": "writer",
+        "start": 205,
+        "end": 218
+      },
+      {
+        "text": "Warren Lewis",
+        "label": "person",
+        "start": 236,
+        "end": 248
+      }
+    ]
+  },
+  {
+    "text": "He won three Pulitzer Prizes - for the novel The Bridge of San Luis Rey, and for the plays Our Town and The Skin of Our Teeth - and a U.S. National Book Award for the novel The Eighth Day.",
+    "entities": [
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 39,
+        "end": 44
+      },
+      {
+        "text": "The Bridge of San Luis Rey",
+        "label": "book",
+        "start": 45,
+        "end": 71
+      },
+      {
+        "text": "Our Town",
+        "label": "book",
+        "start": 91,
+        "end": 99
+      },
+      {
+        "text": "The Skin of Our Teeth",
+        "label": "book",
+        "start": 104,
+        "end": 125
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 167,
+        "end": 172
+      },
+      {
+        "text": "The Eighth Day",
+        "label": "book",
+        "start": 173,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "text": "On November 17, 2010, Smith won the National Book Award for her memoir Just Kids.",
+    "entities": [
+      {
+        "text": "Smith",
+        "label": "writer",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "Just Kids",
+        "label": "book",
+        "start": 71,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "The crowds were delighted with the stories of romances, the wickedness of Macaire, and the misfortunes of Blanziflor, the terrors of the Babilonia Infernale and the blessedness of the Gerusalemme celeste, and the singers of religious poetry vied with those of the chansons de geste.",
+    "entities": [
+      {
+        "text": "poetry",
+        "label": "literarygenre",
+        "start": 234,
+        "end": 240
+      }
+    ]
+  },
+  {
+    "text": "137 was a German - Netherlands canon regular of the late medieval period and the author of The Imitation of Christ, one of the most popular and best known Christian devotional books.",
+    "entities": [
+      {
+        "text": "137",
+        "label": "book",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "The Imitation of Christ",
+        "label": "book",
+        "start": 91,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "text": "She wrote seven novels, Adam Bede (1859), The Mill on the Floss (1860), Silas Marner (1861), Romola (1862-63), Felix Holt, the Radical (1866), Middlemarch (1871-72) and Daniel Deronda (1876), most of which are set in provincial England and known for their realism and psychological insight.",
+    "entities": [
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 16,
+        "end": 22
+      },
+      {
+        "text": "Adam Bede",
+        "label": "book",
+        "start": 24,
+        "end": 33
+      },
+      {
+        "text": "The Mill on the Floss",
+        "label": "book",
+        "start": 42,
+        "end": 63
+      },
+      {
+        "text": "Silas Marner",
+        "label": "book",
+        "start": 72,
+        "end": 84
+      },
+      {
+        "text": "Romola",
+        "label": "book",
+        "start": 93,
+        "end": 99
+      },
+      {
+        "text": "Felix Holt, the Radical",
+        "label": "book",
+        "start": 111,
+        "end": 134
+      },
+      {
+        "text": "Middlemarch",
+        "label": "book",
+        "start": 143,
+        "end": 154
+      },
+      {
+        "text": "Daniel Deronda",
+        "label": "book",
+        "start": 169,
+        "end": 183
+      }
+    ]
+  },
+  {
+    "text": "Charles appeared in the John Godber comedy play Teechers, in which he swapped in and out of various roles, at the Arts Theatre, London, and at the Edinburgh Festival (1989), and he played Idle Jack in the pantomime Dick Whittington, at the Hull New Theatre (1997).",
+    "entities": [
+      {
+        "text": "Charles",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "John Godber",
+        "label": "writer",
+        "start": 24,
+        "end": 35
+      },
+      {
+        "text": "Arts Theatre",
+        "label": "location",
+        "start": 114,
+        "end": 126
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 128,
+        "end": 134
+      },
+      {
+        "text": "Idle Jack",
+        "label": "person",
+        "start": 188,
+        "end": 197
+      },
+      {
+        "text": "Hull New Theatre",
+        "label": "location",
+        "start": 240,
+        "end": 256
+      }
+    ]
+  },
+  {
+    "text": "He adopted a pseudonym from Edward Lear ' s poem The Scroobious Pip and in 2002 whilst working in a HMV store he made the decision to start saving his writing.",
+    "entities": [
+      {
+        "text": "Edward Lear",
+        "label": "writer",
+        "start": 28,
+        "end": 39
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 44,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "On February 2, 1966, he made his Broadway debut as Harry Roat, Jr in Frederick Knott ' s Wait Until Dark at the Ethel Barrymore Theatre.",
+    "entities": [
+      {
+        "text": "Harry Roat, Jr",
+        "label": "person",
+        "start": 51,
+        "end": 65
+      },
+      {
+        "text": "Frederick Knott",
+        "label": "writer",
+        "start": 69,
+        "end": 84
+      },
+      {
+        "text": "Wait Until Dark",
+        "label": "book",
+        "start": 89,
+        "end": 104
+      },
+      {
+        "text": "Ethel Barrymore Theatre",
+        "label": "location",
+        "start": 112,
+        "end": 135
+      }
+    ]
+  },
+  {
+    "text": "In The Birds, Melanie Daniels, a young socialite, meets lawyer Mitch Brenner (Rod Taylor) in a bird shop; Jessica Tandy plays his possessive mother.",
+    "entities": [
+      {
+        "text": "The Birds",
+        "label": "book",
+        "start": 3,
+        "end": 12
+      },
+      {
+        "text": "Melanie Daniels",
+        "label": "person",
+        "start": 14,
+        "end": 29
+      },
+      {
+        "text": "Mitch Brenner",
+        "label": "person",
+        "start": 63,
+        "end": 76
+      },
+      {
+        "text": "Rod Taylor",
+        "label": "person",
+        "start": 78,
+        "end": 88
+      },
+      {
+        "text": "Jessica Tandy",
+        "label": "person",
+        "start": 106,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "Liszt included Weißheimer's symphony on Friedrich Schiller ' s Ritter Toggenburg on the program for the court concerts that he conducted on 13 March 1860.",
+    "entities": [
+      {
+        "text": "Liszt",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Weißheimer",
+        "label": "writer",
+        "start": 15,
+        "end": 25
+      },
+      {
+        "text": "Friedrich Schiller",
+        "label": "writer",
+        "start": 40,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "Rudyard Kipling was born on 30 December 1865 in Bombay, in the Bombay Presidency of British Raj, to Alice Kipling (née MacDonald) and John Lockwood Kipling.",
+    "entities": [
+      {
+        "text": "Rudyard Kipling",
+        "label": "writer",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Bombay",
+        "label": "location",
+        "start": 48,
+        "end": 54
+      },
+      {
+        "text": "Bombay Presidency",
+        "label": "location",
+        "start": 63,
+        "end": 80
+      },
+      {
+        "text": "Alice Kipling (née MacDonald)",
+        "label": "writer",
+        "start": 100,
+        "end": 129
+      },
+      {
+        "text": "John Lockwood Kipling",
+        "label": "writer",
+        "start": 134,
+        "end": 155
+      }
+    ]
+  },
+  {
+    "text": "Tamsin Greig narrated, and the cast included Nicky Henson as Napoleon, Toby Jones as the propagandist Squealer, and Ralph Ineson as Boxer.",
+    "entities": [
+      {
+        "text": "Tamsin Greig",
+        "label": "person",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Nicky Henson",
+        "label": "person",
+        "start": 45,
+        "end": 57
+      },
+      {
+        "text": "Napoleon",
+        "label": "person",
+        "start": 61,
+        "end": 69
+      },
+      {
+        "text": "Toby Jones",
+        "label": "person",
+        "start": 71,
+        "end": 81
+      },
+      {
+        "text": "Ralph Ineson",
+        "label": "person",
+        "start": 116,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "Out of public office for the first time since the 1960s, Bush became chairman on the Executive Committee of the First International Bank in Houston. continued his membership in the Council on Foreign Relations, and joined the Trilateral Commission.",
+    "entities": [
+      {
+        "text": "Bush",
+        "label": "person",
+        "start": 57,
+        "end": 61
+      },
+      {
+        "text": "Houston.",
+        "label": "location",
+        "start": 140,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "text": "Instead he wrote several fantasy novels, Elidor (1965), The Owl Service (1967) and Red Shift (1973).",
+    "entities": [
+      {
+        "text": "fantasy novels",
+        "label": "literarygenre",
+        "start": 25,
+        "end": 39
+      },
+      {
+        "text": "Elidor",
+        "label": "book",
+        "start": 41,
+        "end": 47
+      },
+      {
+        "text": "The Owl Service",
+        "label": "book",
+        "start": 56,
+        "end": 71
+      },
+      {
+        "text": "Red Shift",
+        "label": "book",
+        "start": 83,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "These include the Charles Dickens Museum in London, the historic home where he wrote Oliver Twist, The Pickwick Papers and Nicholas Nickleby; and the Charles Dickens Birthplace Museum in Portsmouth, the house in which he was born.",
+    "entities": [
+      {
+        "text": "Charles Dickens Museum",
+        "label": "location",
+        "start": 18,
+        "end": 40
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 44,
+        "end": 50
+      },
+      {
+        "text": "Oliver Twist",
+        "label": "book",
+        "start": 85,
+        "end": 97
+      },
+      {
+        "text": "The Pickwick Papers",
+        "label": "book",
+        "start": 99,
+        "end": 118
+      },
+      {
+        "text": "Nicholas Nickleby",
+        "label": "book",
+        "start": 123,
+        "end": 140
+      },
+      {
+        "text": "Charles Dickens Birthplace Museum",
+        "label": "location",
+        "start": 150,
+        "end": 183
+      },
+      {
+        "text": "Portsmouth",
+        "label": "location",
+        "start": 187,
+        "end": 197
+      }
+    ]
+  },
+  {
+    "text": "The title of the story refers to a bedtime poem recited in the narrative entitled There Will Come Soft Rains, an actual poem by Sara Teasdale originally published in 1920.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 43,
+        "end": 47
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 120,
+        "end": 124
+      },
+      {
+        "text": "Sara Teasdale",
+        "label": "writer",
+        "start": 128,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "He continued his Dune saga, following it with Dune Messiah, Children of Dune, and God Emperor of Dune.",
+    "entities": [
+      {
+        "text": "Dune saga",
+        "label": "book",
+        "start": 17,
+        "end": 26
+      },
+      {
+        "text": "Dune Messiah",
+        "label": "book",
+        "start": 46,
+        "end": 58
+      },
+      {
+        "text": "Children of Dune",
+        "label": "book",
+        "start": 60,
+        "end": 76
+      },
+      {
+        "text": "God Emperor of Dune",
+        "label": "book",
+        "start": 82,
+        "end": 101
+      }
+    ]
+  },
+  {
+    "text": "His most famous poem is De bello Troiano (On the Trojan War) in six books, most of which was written before 1183, but which was finished after 1184.",
+    "entities": []
+  },
+  {
+    "text": "The Australia n composer Peter Sculthorpe quoted parts of it in his opera or music theatre work Rites of Passage (1972-73), which was commissioned for the opening of the Sydney Opera House but was not ready in time.",
+    "entities": [
+      {
+        "text": "Peter Sculthorpe",
+        "label": "writer",
+        "start": 25,
+        "end": 41
+      },
+      {
+        "text": "Sydney Opera House",
+        "label": "location",
+        "start": 170,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "text": "His film Night Train to Lisbon (2013) premiered out of competition at the 63rd Berlin International Film Festival.",
+    "entities": []
+  },
+  {
+    "text": "It was praised by scientists such as Darwin (to whom the book was dedicated), and Charles Lyell, and by non-scientists such as the novelist Joseph Conrad, who called it his favorite bedside companion and used it as source of information for several of his novels, especially Lord Jim.",
+    "entities": [
+      {
+        "text": "Darwin",
+        "label": "person",
+        "start": 37,
+        "end": 43
+      },
+      {
+        "text": "Charles Lyell",
+        "label": "person",
+        "start": 82,
+        "end": 95
+      },
+      {
+        "text": "Joseph Conrad",
+        "label": "writer",
+        "start": 140,
+        "end": 153
+      },
+      {
+        "text": "Lord Jim",
+        "label": "writer",
+        "start": 275,
+        "end": 283
+      }
+    ]
+  },
+  {
+    "text": "Cuarón's feature Children of Men, an adaptation of the P. D. James The Children of Men starring Clive Owen, Julianne Moore and Michael Caine, received wide critical acclaim, including three Academy Awards nominations.",
+    "entities": [
+      {
+        "text": "Cuarón",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Children of Men",
+        "label": "book",
+        "start": 17,
+        "end": 32
+      },
+      {
+        "text": "P. D. James",
+        "label": "writer",
+        "start": 55,
+        "end": 66
+      },
+      {
+        "text": "The Children of Men",
+        "label": "book",
+        "start": 67,
+        "end": 86
+      },
+      {
+        "text": "Clive Owen",
+        "label": "person",
+        "start": 96,
+        "end": 106
+      },
+      {
+        "text": "Julianne Moore",
+        "label": "person",
+        "start": 108,
+        "end": 122
+      },
+      {
+        "text": "Michael Caine",
+        "label": "person",
+        "start": 127,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "Atwood has strong views on environmental issues, and she and Graeme Gibson were the joint honorary presidents of the Rare Bird Club within BirdLife International.",
+    "entities": [
+      {
+        "text": "Atwood",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Graeme Gibson",
+        "label": "writer",
+        "start": 61,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "text": "In the 1970s, Pohl re-emerged as a novel writer in his own right, with books such as Man Plus and the Heechee series.",
+    "entities": [
+      {
+        "text": "Pohl",
+        "label": "writer",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 35,
+        "end": 40
+      },
+      {
+        "text": "Man Plus",
+        "label": "book",
+        "start": 85,
+        "end": 93
+      },
+      {
+        "text": "Heechee",
+        "label": "book",
+        "start": 102,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "In 2000, Anderson starred in the film The House of Mirth with Eric Stoltz - Terence Davies ' adaptation of the Edith Wharton novel of the The House of Mirth - for which she won critical acclaim and awards such as the British Independent Film Award for Best Actress, Village Voice Film Poll Best Lead Performance, and a nomination for the National Society of Film Critics Award for Best Actress.",
+    "entities": [
+      {
+        "text": "Anderson",
+        "label": "writer",
+        "start": 9,
+        "end": 17
+      },
+      {
+        "text": "Eric Stoltz",
+        "label": "person",
+        "start": 62,
+        "end": 73
+      },
+      {
+        "text": "Terence Davies",
+        "label": "person",
+        "start": 76,
+        "end": 90
+      },
+      {
+        "text": "Edith Wharton",
+        "label": "writer",
+        "start": 111,
+        "end": 124
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 125,
+        "end": 130
+      },
+      {
+        "text": "The House of Mirth",
+        "label": "book",
+        "start": 138,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "Their first child, a daughter, Maria Teresa, was born on 9 March 1938 and a son, Auberon Waugh, on 17 November 1939 Hastings, pp. 336 and 392 Between these events, Scoop was published in May 1938 to wide critical acclaim. Stannard, Vol. i pp. 470-71 In August 1938 Waugh, with Laura, made a three-month trip to Mexico after which he wrote Robbery Under Law, based on his experiences there.",
+    "entities": [
+      {
+        "text": "Maria Teresa",
+        "label": "person",
+        "start": 31,
+        "end": 43
+      },
+      {
+        "text": "Auberon Waugh",
+        "label": "writer",
+        "start": 81,
+        "end": 94
+      },
+      {
+        "text": "Hastings",
+        "label": "writer",
+        "start": 116,
+        "end": 124
+      },
+      {
+        "text": "Scoop",
+        "label": "book",
+        "start": 164,
+        "end": 169
+      },
+      {
+        "text": "Stannard",
+        "label": "person",
+        "start": 222,
+        "end": 230
+      },
+      {
+        "text": "Waugh",
+        "label": "writer",
+        "start": 265,
+        "end": 270
+      },
+      {
+        "text": "Laura",
+        "label": "person",
+        "start": 277,
+        "end": 282
+      },
+      {
+        "text": "Robbery Under Law",
+        "label": "book",
+        "start": 339,
+        "end": 356
+      }
+    ]
+  },
+  {
+    "text": "Slaughterhouse-Five received generally positive reviews, with Michael Crichton writing in The New Republic, he writes about the most excruciatingly painful things.",
+    "entities": [
+      {
+        "text": "Slaughterhouse-Five",
+        "label": "book",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Michael Crichton",
+        "label": "writer",
+        "start": 62,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "His fictional work, Redburn (1849), and his non-fiction White-Jacket (1850) were given better reviews but did not provide financial security.",
+    "entities": [
+      {
+        "text": "fictional work",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 18
+      },
+      {
+        "text": "Redburn",
+        "label": "book",
+        "start": 20,
+        "end": 27
+      },
+      {
+        "text": "White-Jacket",
+        "label": "book",
+        "start": 56,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "text": "Classicist Bernard Knox made direct reference to this topic when he delivered his 1992 Jefferson Lecture (the U.S. federal government's highest honor for achievement in the humanities).",
+    "entities": [
+      {
+        "text": "Bernard Knox",
+        "label": "writer",
+        "start": 11,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "Among the books found in his library (as evidenced in Lovecraft's Library by S. T. Joshi) was The Seven Who Were Hanged by Leonid Andreyev and A Strange Manuscript Found in a Copper Cylinder by James De Mille.",
+    "entities": [
+      {
+        "text": "Lovecraft's Library",
+        "label": "book",
+        "start": 54,
+        "end": 73
+      },
+      {
+        "text": "S. T. Joshi",
+        "label": "writer",
+        "start": 77,
+        "end": 88
+      },
+      {
+        "text": "The Seven Who Were Hanged",
+        "label": "book",
+        "start": 94,
+        "end": 119
+      },
+      {
+        "text": "Leonid Andreyev",
+        "label": "writer",
+        "start": 123,
+        "end": 138
+      },
+      {
+        "text": "A Strange Manuscript Found in a Copper Cylinder",
+        "label": "book",
+        "start": 143,
+        "end": 190
+      },
+      {
+        "text": "James De Mille",
+        "label": "writer",
+        "start": 194,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "Baron Cohen's other work includes voicing King Julien XIII in the Madagascar film series (2005-2012) and appearing in films such as Talladega Nights: The Ballad of Ricky Bobby (2006), Sweeney Todd: The Demon Barber of Fleet Street (2007), Hugo (2011), and Les Misérables (2012).",
+    "entities": [
+      {
+        "text": "Baron Cohen",
+        "label": "person",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Hugo",
+        "label": "person",
+        "start": 239,
+        "end": 243
+      },
+      {
+        "text": "Les Misérables",
+        "label": "book",
+        "start": 256,
+        "end": 270
+      }
+    ]
+  },
+  {
+    "text": "This uses the words of war poet Wilfred Owen ' s At a Calvary near the Ancre.",
+    "entities": [
+      {
+        "text": "Wilfred Owen",
+        "label": "writer",
+        "start": 32,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "Writing for The Spectator in 1936, Graham Greene gave the film a tepid review, describing it on the one hand as his favorite of the films he reviewed that week, but describing it as a fine spirited mix-up and making pointed note of the magnificently wrong characterization of bad King James.",
+    "entities": [
+      {
+        "text": "Graham Greene",
+        "label": "writer",
+        "start": 35,
+        "end": 48
+      },
+      {
+        "text": "King James",
+        "label": "person",
+        "start": 280,
+        "end": 290
+      }
+    ]
+  },
+  {
+    "text": "Among his childhood favorites were Charles Dickens, Tobias Smollett, Mark Twain, Booth Tarkington, and later, Robert Benchley and S. J. Perelman.",
+    "entities": [
+      {
+        "text": "Charles Dickens",
+        "label": "writer",
+        "start": 35,
+        "end": 50
+      },
+      {
+        "text": "Tobias Smollett",
+        "label": "writer",
+        "start": 52,
+        "end": 67
+      },
+      {
+        "text": "Mark Twain",
+        "label": "writer",
+        "start": 69,
+        "end": 79
+      },
+      {
+        "text": "Booth Tarkington",
+        "label": "writer",
+        "start": 81,
+        "end": 97
+      },
+      {
+        "text": "Robert Benchley",
+        "label": "writer",
+        "start": 110,
+        "end": 125
+      },
+      {
+        "text": "S. J. Perelman",
+        "label": "writer",
+        "start": 130,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "Her novels have inspired many films, from 1940's Pride and Prejudice to more recent productions like Sense and Sensibility (1995), Emma (1996), Mansfield Park (1999), Pride & Prejudice (2005), Love & Friendship (2016), and.",
+    "entities": [
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 10
+      },
+      {
+        "text": "Pride and Prejudice",
+        "label": "book",
+        "start": 49,
+        "end": 68
+      },
+      {
+        "text": "Sense and Sensibility",
+        "label": "book",
+        "start": 101,
+        "end": 122
+      },
+      {
+        "text": "Emma",
+        "label": "book",
+        "start": 131,
+        "end": 135
+      },
+      {
+        "text": "Mansfield Park",
+        "label": "book",
+        "start": 144,
+        "end": 158
+      },
+      {
+        "text": "Pride & Prejudice",
+        "label": "book",
+        "start": 167,
+        "end": 184
+      },
+      {
+        "text": "Love & Friendship",
+        "label": "book",
+        "start": 193,
+        "end": 210
+      }
+    ]
+  },
+  {
+    "text": "He has also been nominated and won many awards from film organizations such as Screen Actors Guild, Cannes Film Festival, Golden Globes and others.",
+    "entities": []
+  },
+  {
+    "text": "In 2011, Adam Markovitz of Entertainment Weekly commented on Spears's voice and music: We don 't ask a whole lot from Britney Spears as an entertainer ... we 'll still send her straight up the charts simply because she's Britney.",
+    "entities": [
+      {
+        "text": "Adam Markovitz",
+        "label": "writer",
+        "start": 9,
+        "end": 23
+      },
+      {
+        "text": "Spears",
+        "label": "writer",
+        "start": 61,
+        "end": 67
+      },
+      {
+        "text": "Britney Spears",
+        "label": "writer",
+        "start": 118,
+        "end": 132
+      },
+      {
+        "text": "Britney",
+        "label": "writer",
+        "start": 221,
+        "end": 228
+      }
+    ]
+  },
+  {
+    "text": "Dickens has been praised by many of his fellow writers - from Leo Tolstoy to George Orwell, G. K. Chesterton, and Tom Wolfe - for his realism, comedy, prose style, unique characterisations, and social criticism.",
+    "entities": [
+      {
+        "text": "Dickens",
+        "label": "writer",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Leo Tolstoy",
+        "label": "writer",
+        "start": 62,
+        "end": 73
+      },
+      {
+        "text": "George Orwell",
+        "label": "writer",
+        "start": 77,
+        "end": 90
+      },
+      {
+        "text": "G. K. Chesterton",
+        "label": "writer",
+        "start": 92,
+        "end": 108
+      },
+      {
+        "text": "Tom Wolfe",
+        "label": "writer",
+        "start": 114,
+        "end": 123
+      }
+    ]
+  },
+  {
+    "text": "She memorized entire books, including The Shipwreck, The Lady of the Lake, Lalla-Rookh, The Bride of Abydos, and The Corsair.",
+    "entities": [
+      {
+        "text": "Shipwreck",
+        "label": "book",
+        "start": 42,
+        "end": 51
+      },
+      {
+        "text": "Lady of the Lake",
+        "label": "book",
+        "start": 57,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "He won three Tony Award s and three Academy Awards, among other honors.",
+    "entities": []
+  },
+  {
+    "text": "Although the prophets urged the people of Kingdom of Judah and Israel to see their exile as punishment for failing to uphold their covenant with God, it was not long after they had been restored to the land and to Temple worship that the people's commitment to their God began, once again, to wane.",
+    "entities": []
+  },
+  {
+    "text": "Powers ' first major novel was The Drawing of the Dark (1979), but the novel that earned him wide praise was The Anubis Gates, which won the Philip K. Dick Award, and has since been published in many other languages.",
+    "entities": [
+      {
+        "text": "Powers",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 21,
+        "end": 26
+      },
+      {
+        "text": "The Drawing of the Dark",
+        "label": "book",
+        "start": 31,
+        "end": 54
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 71,
+        "end": 76
+      },
+      {
+        "text": "The Anubis Gates",
+        "label": "book",
+        "start": 109,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "Marsters moved to Chicago, where his first professional acting role was Ferdinand in The Tempest at the Goodman Theatre in 1987.",
+    "entities": [
+      {
+        "text": "Marsters",
+        "label": "person",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Chicago",
+        "label": "location",
+        "start": 18,
+        "end": 25
+      },
+      {
+        "text": "The Tempest",
+        "label": "book",
+        "start": 85,
+        "end": 96
+      },
+      {
+        "text": "Goodman Theatre",
+        "label": "location",
+        "start": 104,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "Andy Warhol was commissioned in 1984 by collector and gallerist Alexander Iolas to produce work based on Leonardo da Vinci ' s The Last Supper for an exhibition at the old refectory of the Palazzo delle Stelline in Milan, opposite from the Santa Maria delle Grazie where Leonardo da Vinci's mural can be seen.",
+    "entities": [
+      {
+        "text": "Andy Warhol",
+        "label": "writer",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Alexander Iolas",
+        "label": "person",
+        "start": 64,
+        "end": 79
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "label": "person",
+        "start": 105,
+        "end": 122
+      },
+      {
+        "text": "Palazzo delle Stelline",
+        "label": "location",
+        "start": 189,
+        "end": 211
+      },
+      {
+        "text": "Milan",
+        "label": "location",
+        "start": 215,
+        "end": 220
+      },
+      {
+        "text": "Santa Maria delle Grazie",
+        "label": "location",
+        "start": 240,
+        "end": 264
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "label": "person",
+        "start": 271,
+        "end": 288
+      }
+    ]
+  },
+  {
+    "text": "Rosa is an avid collector of many things, including comic books, TV Guide, National Geographic, and movie magazines, fanzines, books, White Castle memorabilia, pinball machines and movies and more.2018-02-04",
+    "entities": [
+      {
+        "text": "Rosa",
+        "label": "person",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "comic",
+        "label": "literarygenre",
+        "start": 52,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "text": "Pauline Kael, who wrote a lengthy freelance essay in The New Yorker in praise of the film, was hired as the magazine's new staff-critic.",
+    "entities": [
+      {
+        "text": "Pauline Kael",
+        "label": "writer",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Thompson remains best known for Fear and Loathing in Las Vegas (1971), a book first serialized in Rolling Stone in which he grapples with the implications of what he considered the failure of the 1960s counterculture movement.",
+    "entities": [
+      {
+        "text": "Thompson",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Fear and Loathing in Las Vegas",
+        "label": "book",
+        "start": 32,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "Seljuk Sultanate of Rum, where he produced his works Coleman Barks, Rumi: The Book of Love: Poems of Ecstasy and Longing, HarperCollins, 2005, p. xxv, For example, Professor Franklin Lewis of the University of Chicago, author of the most complete biography on Rumi, has separate sections for the hagiographical biography of Rumi and the actual biography about him.",
+    "entities": [
+      {
+        "text": "Coleman Barks",
+        "label": "writer",
+        "start": 53,
+        "end": 66
+      },
+      {
+        "text": "Rumi: The Book of Love: Poems of Ecstasy and Longing",
+        "label": "book",
+        "start": 68,
+        "end": 120
+      },
+      {
+        "text": "Franklin Lewis",
+        "label": "person",
+        "start": 174,
+        "end": 188
+      },
+      {
+        "text": "University of Chicago",
+        "label": "location",
+        "start": 196,
+        "end": 217
+      },
+      {
+        "text": "biography",
+        "label": "literarygenre",
+        "start": 247,
+        "end": 256
+      },
+      {
+        "text": "Rumi",
+        "label": "writer",
+        "start": 260,
+        "end": 264
+      },
+      {
+        "text": "hagiographical biography",
+        "label": "literarygenre",
+        "start": 296,
+        "end": 320
+      },
+      {
+        "text": "Rumi",
+        "label": "writer",
+        "start": 324,
+        "end": 328
+      },
+      {
+        "text": "biography",
+        "label": "literarygenre",
+        "start": 344,
+        "end": 353
+      }
+    ]
+  },
+  {
+    "text": "John Updike, comparing Abner to a hillbilly Candide, added that the strip's richness of social and philosophical commentary approached the Voltairean.",
+    "entities": [
+      {
+        "text": "John Updike",
+        "label": "writer",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Abner",
+        "label": "person",
+        "start": 23,
+        "end": 28
+      },
+      {
+        "text": "Candide",
+        "label": "book",
+        "start": 44,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "Albert Einstein was born in Ulm, in the Kingdom of Württemberg in the German Empire, on March 14, 1879.",
+    "entities": [
+      {
+        "text": "Albert Einstein",
+        "label": "person",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Ulm",
+        "label": "location",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "Kingdom of Württemberg",
+        "label": "location",
+        "start": 40,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "A few Saint stories crossed into science fiction and fantasy, The Man Who Liked Ants and the early novel The Last Hero being examples; one Saint short story, The Darker Drink, was even published in the October 1952 issue of The Magazine of Fantasy & Science Fiction.",
+    "entities": [
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 33,
+        "end": 48
+      },
+      {
+        "text": "fantasy",
+        "label": "literarygenre",
+        "start": 53,
+        "end": 60
+      },
+      {
+        "text": "The Man Who Liked Ants",
+        "label": "book",
+        "start": 62,
+        "end": 84
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 99,
+        "end": 104
+      },
+      {
+        "text": "The Last Hero",
+        "label": "book",
+        "start": 105,
+        "end": 118
+      },
+      {
+        "text": "short story",
+        "label": "literarygenre",
+        "start": 145,
+        "end": 156
+      },
+      {
+        "text": "The Darker Drink",
+        "label": "book",
+        "start": 158,
+        "end": 174
+      }
+    ]
+  },
+  {
+    "text": "Kim Stanley Robinson ' s novel, The Years of Rice and Salt (2002), starts at the point of divergence with Timur turning his army away from Europe, and the Black Death has killed 99% of Europe's population, instead of only a third.",
+    "entities": [
+      {
+        "text": "Kim Stanley Robinson",
+        "label": "writer",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 25,
+        "end": 30
+      },
+      {
+        "text": "The Years of Rice and Salt",
+        "label": "book",
+        "start": 32,
+        "end": 58
+      },
+      {
+        "text": "Timur",
+        "label": "person",
+        "start": 106,
+        "end": 111
+      },
+      {
+        "text": "Europe",
+        "label": "location",
+        "start": 139,
+        "end": 145
+      },
+      {
+        "text": "Europe",
+        "label": "location",
+        "start": 185,
+        "end": 191
+      }
+    ]
+  },
+  {
+    "text": "The concept of a cross-time version of a world war, involving rival paratime empires, was developed in Fritz Leiber ' s Change War series, starting with the Hugo Award winning The Big Time (1958); followed by Richard C. Meredith ' s Timeliner trilogy in the 1970s, Michael McCollum ' s A Greater Infinity (1982) and John Barnes ' Timeline Wars trilogy in the 1990s.",
+    "entities": [
+      {
+        "text": "Fritz Leiber",
+        "label": "writer",
+        "start": 103,
+        "end": 115
+      },
+      {
+        "text": "Change War series",
+        "label": "book",
+        "start": 120,
+        "end": 137
+      },
+      {
+        "text": "The Big Time",
+        "label": "book",
+        "start": 176,
+        "end": 188
+      },
+      {
+        "text": "Richard C. Meredith",
+        "label": "writer",
+        "start": 209,
+        "end": 228
+      },
+      {
+        "text": "Timeliner",
+        "label": "book",
+        "start": 233,
+        "end": 242
+      },
+      {
+        "text": "Michael McCollum",
+        "label": "writer",
+        "start": 265,
+        "end": 281
+      },
+      {
+        "text": "A Greater Infinity",
+        "label": "book",
+        "start": 286,
+        "end": 304
+      },
+      {
+        "text": "John Barnes",
+        "label": "writer",
+        "start": 316,
+        "end": 327
+      },
+      {
+        "text": "Timeline Wars trilogy",
+        "label": "book",
+        "start": 330,
+        "end": 351
+      }
+    ]
+  },
+  {
+    "text": "In Poland he is best known for his Trilogy of historical novels - With Fire and Sword, The Deluge, and Fire in the Steppe - set in the 17th-century Polish-Lithuanian Commonwealth; internationally he is best known for Quo Vadis, set in Nero ' s Ancient Rome.",
+    "entities": [
+      {
+        "text": "historical novels",
+        "label": "literarygenre",
+        "start": 46,
+        "end": 63
+      },
+      {
+        "text": "With Fire and Sword",
+        "label": "book",
+        "start": 66,
+        "end": 85
+      },
+      {
+        "text": "The Deluge",
+        "label": "book",
+        "start": 87,
+        "end": 97
+      },
+      {
+        "text": "Fire in the Steppe",
+        "label": "book",
+        "start": 103,
+        "end": 121
+      },
+      {
+        "text": "Polish-Lithuanian Commonwealth",
+        "label": "location",
+        "start": 148,
+        "end": 178
+      },
+      {
+        "text": "Quo Vadis",
+        "label": "book",
+        "start": 217,
+        "end": 226
+      },
+      {
+        "text": "Nero",
+        "label": "person",
+        "start": 235,
+        "end": 239
+      }
+    ]
+  },
+  {
+    "text": "When Davies retired from his position at the university, his seventh novel, a satire of academic life, The Rebel Angels (1981), was published, followed by What's Bred in the Bone (1985) which was short-listed for the Booker Prize for fiction in 1986.",
+    "entities": [
+      {
+        "text": "Davies",
+        "label": "writer",
+        "start": 5,
+        "end": 11
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 69,
+        "end": 74
+      },
+      {
+        "text": "satire",
+        "label": "literarygenre",
+        "start": 78,
+        "end": 84
+      },
+      {
+        "text": "The Rebel Angels",
+        "label": "book",
+        "start": 103,
+        "end": 119
+      },
+      {
+        "text": "What's Bred in the Bone",
+        "label": "book",
+        "start": 155,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "In 1966, with her brother Paul Edwin Zimmer, she helped found and name the Society for Creative Anachronism and was involved in developing several local groups, some in New York after her move to Staten Island.",
+    "entities": [
+      {
+        "text": "Paul Edwin Zimmer",
+        "label": "writer",
+        "start": 26,
+        "end": 43
+      },
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 169,
+        "end": 177
+      },
+      {
+        "text": "Staten Island",
+        "label": "location",
+        "start": 196,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "Robert Caro has cited it as the strongest influence on The Power Broker, his Pulitzer Prize -winning biography of Robert Moses, though Caro does not mention Jacobs by name even once in the book despite Jacobs ' battles with Moses over his proposed Lower Manhattan Expressway.",
+    "entities": [
+      {
+        "text": "Robert Caro",
+        "label": "writer",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "The Power Broker",
+        "label": "book",
+        "start": 55,
+        "end": 71
+      },
+      {
+        "text": "Robert Moses",
+        "label": "person",
+        "start": 114,
+        "end": 126
+      },
+      {
+        "text": "Caro",
+        "label": "writer",
+        "start": 135,
+        "end": 139
+      },
+      {
+        "text": "Jacobs",
+        "label": "writer",
+        "start": 157,
+        "end": 163
+      },
+      {
+        "text": "Jacobs",
+        "label": "writer",
+        "start": 202,
+        "end": 208
+      },
+      {
+        "text": "Moses",
+        "label": "person",
+        "start": 224,
+        "end": 229
+      }
+    ]
+  },
+  {
+    "text": "Some historians such as John Julius Norwich, despite their admiration for his furthering of historical methodology, consider Gibbon's hostile views on the Byzantine Empire flawed and blame him somewhat for the lack of interest shown in the subject throughout the 19th and early 20th centuries. John Julius Norwich, Byzantium (New York: Knopf, 1989); Byzantium: the apogee (London and New York: Viking Press, 1991).",
+    "entities": [
+      {
+        "text": "John Julius Norwich",
+        "label": "writer",
+        "start": 24,
+        "end": 43
+      },
+      {
+        "text": "Gibbon",
+        "label": "writer",
+        "start": 125,
+        "end": 131
+      },
+      {
+        "text": "John Julius Norwich",
+        "label": "writer",
+        "start": 294,
+        "end": 313
+      },
+      {
+        "text": "Byzantium",
+        "label": "location",
+        "start": 315,
+        "end": 324
+      },
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 326,
+        "end": 334
+      },
+      {
+        "text": "Byzantium",
+        "label": "location",
+        "start": 350,
+        "end": 359
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 373,
+        "end": 379
+      },
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 384,
+        "end": 392
+      }
+    ]
+  },
+  {
+    "text": "She exhibited a marble statue of Maud Muller at the 1876 Centennial Exposition in Philadelphia.",
+    "entities": [
+      {
+        "text": "Philadelphia",
+        "label": "location",
+        "start": 82,
+        "end": 94
+      }
+    ]
+  }
+]

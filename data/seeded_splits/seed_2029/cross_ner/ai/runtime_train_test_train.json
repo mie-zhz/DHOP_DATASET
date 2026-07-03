@@ -1,0 +1,1589 @@
+[
+  {
+    "text": "The process is complex and contains encoding and recall or retrieval.",
+    "entities": []
+  },
+  {
+    "text": "Association for Computational Linguistics, published by",
+    "entities": []
+  },
+  {
+    "text": "Bengio, together with Geoffrey Hinton and Yann LeCun, are referred to by some as the Godfathers of AI and Godfathers of Deep Learning.",
+    "entities": [
+      {
+        "text": "Bengio",
+        "label": "researcher",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Geoffrey Hinton",
+        "label": "researcher",
+        "start": 22,
+        "end": 37
+      },
+      {
+        "text": "Yann LeCun",
+        "label": "researcher",
+        "start": 42,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "The system uses a combination of techniques from computational linguistics, information retrieval and knowledge representation for finding answers.",
+    "entities": [
+      {
+        "text": "computational linguistics",
+        "label": "field",
+        "start": 49,
+        "end": 74
+      },
+      {
+        "text": "information retrieval",
+        "label": "task",
+        "start": 76,
+        "end": 97
+      },
+      {
+        "text": "knowledge representation for finding answers",
+        "label": "task",
+        "start": 102,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "Logo is an educational programming language, designed in 1967 by Wally Feurzeig, Seymour Papert, and Cynthia Solomon.",
+    "entities": [
+      {
+        "text": "Wally Feurzeig",
+        "label": "researcher",
+        "start": 65,
+        "end": 79
+      },
+      {
+        "text": "Seymour Papert",
+        "label": "researcher",
+        "start": 81,
+        "end": 95
+      },
+      {
+        "text": "Cynthia Solomon",
+        "label": "researcher",
+        "start": 101,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "text": "Sensitivity is not the same as the precision or positive predictive value (ratio of TRUE positives to combined TRUE and FALSE positives), which is as much a statement about the proportion of actual positives in the population being tested as it is about the test.",
+    "entities": []
+  },
+  {
+    "text": "A subset called Micro-Planner was implemented by Gerald Jay Sussman, Eugene Charniak and Terry Winograd Sussman,, and Winograd 1971 and was used in Winograd's natural-language understanding program SHRDLU, Eugene Charniak's story understanding work, Thorne McCarty's work on legal reasoning, and some other projects.",
+    "entities": [
+      {
+        "text": "Micro-Planner",
+        "label": "product",
+        "start": 16,
+        "end": 29
+      },
+      {
+        "text": "Gerald Jay Sussman",
+        "label": "researcher",
+        "start": 49,
+        "end": 67
+      },
+      {
+        "text": "Eugene Charniak",
+        "label": "researcher",
+        "start": 69,
+        "end": 84
+      },
+      {
+        "text": "Terry Winograd",
+        "label": "researcher",
+        "start": 89,
+        "end": 103
+      },
+      {
+        "text": "Sussman",
+        "label": "researcher",
+        "start": 104,
+        "end": 111
+      },
+      {
+        "text": "Winograd",
+        "label": "researcher",
+        "start": 118,
+        "end": 126
+      },
+      {
+        "text": "Winograd",
+        "label": "researcher",
+        "start": 148,
+        "end": 156
+      },
+      {
+        "text": "natural-language understanding",
+        "label": "task",
+        "start": 159,
+        "end": 189
+      },
+      {
+        "text": "SHRDLU",
+        "label": "product",
+        "start": 198,
+        "end": 204
+      },
+      {
+        "text": "Eugene Charniak",
+        "label": "researcher",
+        "start": 206,
+        "end": 221
+      },
+      {
+        "text": "story understanding",
+        "label": "task",
+        "start": 224,
+        "end": 243
+      },
+      {
+        "text": "Thorne McCarty",
+        "label": "researcher",
+        "start": 250,
+        "end": 264
+      },
+      {
+        "text": "legal reasoning",
+        "label": "task",
+        "start": 275,
+        "end": 290
+      }
+    ]
+  },
+  {
+    "text": "In Semantic Web applications, and in relatively popular applications of RDF like RSS and FOAF (Friend a Friend), resources tend to be represented by URIs that intentionally denote, and can be used to access, actual data on the World Wide Web.",
+    "entities": [
+      {
+        "text": "RSS",
+        "label": "product",
+        "start": 81,
+        "end": 84
+      },
+      {
+        "text": "FOAF",
+        "label": "product",
+        "start": 89,
+        "end": 93
+      },
+      {
+        "text": "Friend a Friend",
+        "label": "product",
+        "start": 95,
+        "end": 110
+      },
+      {
+        "text": "World Wide Web",
+        "label": "product",
+        "start": 227,
+        "end": 241
+      }
+    ]
+  },
+  {
+    "text": "NMF is an instance of nonnegative quadratic programming (NQP), just like the support vector machine (SVM).",
+    "entities": [
+      {
+        "text": "NMF",
+        "label": "algorithm",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "nonnegative quadratic programming",
+        "label": "algorithm",
+        "start": 22,
+        "end": 55
+      },
+      {
+        "text": "NQP",
+        "label": "algorithm",
+        "start": 57,
+        "end": 60
+      },
+      {
+        "text": "support vector machine",
+        "label": "algorithm",
+        "start": 77,
+        "end": 99
+      },
+      {
+        "text": "SVM",
+        "label": "algorithm",
+        "start": 101,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "They introduced their new robot in 1961 at a trade show at Chicago's Cow Palace.",
+    "entities": []
+  },
+  {
+    "text": "Dr. Julesz emigrated from Hungary to the United States following the 1956 Soviet invasion.",
+    "entities": [
+      {
+        "text": "Dr. Julesz",
+        "label": "researcher",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "Since IBM proposed and realized the system of BLEU Papineni et al.",
+    "entities": [
+      {
+        "text": "Papineni",
+        "label": "researcher",
+        "start": 51,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "text": "He has also received honorary doctorates from the universities of Newcastle, Surrey, Tel Aviv University,, Simon Fraser University and the University of Tromsø.",
+    "entities": []
+  },
+  {
+    "text": "The field of spoken dialog systems is quite large and includes research (featured at scientific conferences such as SIGdial and Interspeech) and a large industrial sector (with its own meetings such as SpeechTek and AVIOS).",
+    "entities": [
+      {
+        "text": "spoken dialog systems",
+        "label": "product",
+        "start": 13,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "In 2007, at the International Conference on Computer Vision, Terzopoulos was awarded the inaugural IEEE PAMI Computer Vision Distinguished Researcher Award for pioneering and sustained research on deformable models and their applications.",
+    "entities": [
+      {
+        "text": "Terzopoulos",
+        "label": "researcher",
+        "start": 61,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "text": "Machine vision as a systems engineering discipline can be considered distinct from computer vision, a form of computer science.",
+    "entities": [
+      {
+        "text": "Machine vision",
+        "label": "field",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "systems engineering",
+        "label": "field",
+        "start": 20,
+        "end": 39
+      },
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 83,
+        "end": 98
+      },
+      {
+        "text": "computer science",
+        "label": "field",
+        "start": 110,
+        "end": 126
+      }
+    ]
+  },
+  {
+    "text": "The Institute has collaborated closely with the Janelia Farm Campus of Howard Hughes Medical Institute, the Allen Institute for Brain Science and the National Institutes of Health to develop better methods of reconstructing neuronal architectures.",
+    "entities": []
+  },
+  {
+    "text": "Another paper, presented at the CVPR (CVPR) 2000 by Erik Miller, Nicholas Matsakis, and Paul Viola will also be discussed.",
+    "entities": [
+      {
+        "text": "Erik Miller",
+        "label": "researcher",
+        "start": 52,
+        "end": 63
+      },
+      {
+        "text": "Nicholas Matsakis",
+        "label": "researcher",
+        "start": 65,
+        "end": 82
+      },
+      {
+        "text": "Paul Viola",
+        "label": "researcher",
+        "start": 88,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "text": "As such, traditional gradient descent (or Stochastic gradient descent) methods can be adapted, where of taking a step in the direction of the function's gradient, a step is taken in the direction of a vector selected from the function's sub-gradient.",
+    "entities": [
+      {
+        "text": "gradient descent",
+        "label": "algorithm",
+        "start": 21,
+        "end": 37
+      },
+      {
+        "text": "Stochastic gradient descent",
+        "label": "algorithm",
+        "start": 42,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "She served as Program Chair of International Conference on Computer Vision 2021.",
+    "entities": []
+  },
+  {
+    "text": "Collaborative filtering encompasses techniques for matching people with similar interests and making recommender system on this basis.",
+    "entities": [
+      {
+        "text": "Collaborative filtering",
+        "label": "algorithm",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "recommender system",
+        "label": "product",
+        "start": 101,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "or via high-level interfaces to Java and Tcl.",
+    "entities": []
+  },
+  {
+    "text": "A common theme of this work is the adoption of a sign-theoretic perspective on issues of artificial intelligence and knowledge representation.",
+    "entities": [
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 89,
+        "end": 112
+      },
+      {
+        "text": "knowledge representation",
+        "label": "task",
+        "start": 117,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "In 2009, experts attended a conference hosted by the Association for the Advancement of Artificial Intelligence (AAAI) to discuss whether computers and robots might be able to acquire any autonomy, and how much these abilities might pose a threat or hazard.",
+    "entities": []
+  },
+  {
+    "text": "The most recent school of thought on Honda's strategy was put forward by Gary Hamel and C. K. Prahalad in 1989.",
+    "entities": []
+  },
+  {
+    "text": "Popular loss functions include the hinge loss (for linear SVMs) and the log loss (for logistic regression).",
+    "entities": [
+      {
+        "text": "linear SVMs",
+        "label": "algorithm",
+        "start": 51,
+        "end": 62
+      },
+      {
+        "text": "logistic regression",
+        "label": "algorithm",
+        "start": 86,
+        "end": 105
+      }
+    ]
+  },
+  {
+    "text": "Other measures, such as the proportion of correct predictions (also termed accuracy), are not useful when the two classes are of very different sizes.",
+    "entities": []
+  },
+  {
+    "text": "With long-time collaborator Laurent Cohen, a neurologist at the Pitié-Salpêtrière Hospital in Paris, Dehaene also identified patients with lesions in different regions of the parietal lobe with impaired multiplication, but preserved subtraction (associated with lesions of the inferior parietal lobule) and others with impaired subtraction, but preserved multiplication (associated with lesions to the intraparietal sulcus).",
+    "entities": [
+      {
+        "text": "Laurent Cohen",
+        "label": "researcher",
+        "start": 28,
+        "end": 41
+      },
+      {
+        "text": "Dehaene",
+        "label": "researcher",
+        "start": 101,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "text": "The first digitally operated and programmable robot was invented by George Devol in 1954 and was ultimately called the Unimate.",
+    "entities": [
+      {
+        "text": "digitally operated and programmable robot",
+        "label": "product",
+        "start": 10,
+        "end": 51
+      },
+      {
+        "text": "George Devol",
+        "label": "researcher",
+        "start": 68,
+        "end": 80
+      },
+      {
+        "text": "Unimate",
+        "label": "product",
+        "start": 119,
+        "end": 126
+      }
+    ]
+  },
+  {
+    "text": "Brion James portrays Leon Kowalski, a combat and laborer replicant, and Joanna Cassidy portrays Zhora, an assassin replicant.",
+    "entities": []
+  },
+  {
+    "text": "The building is now part of the Beth Israel Deaconess Medical Center.",
+    "entities": []
+  },
+  {
+    "text": "In many practical applications, parameter estimation for naive Bayes models uses the method of maximum likelihood; other words, one can work with the naive Bayes model without accepting Bayesian probability or using any Bayesian methods.",
+    "entities": [
+      {
+        "text": "parameter estimation",
+        "label": "task",
+        "start": 32,
+        "end": 52
+      },
+      {
+        "text": "naive Bayes models",
+        "label": "algorithm",
+        "start": 57,
+        "end": 75
+      },
+      {
+        "text": "maximum likelihood",
+        "label": "algorithm",
+        "start": 95,
+        "end": 113
+      },
+      {
+        "text": "naive Bayes",
+        "label": "algorithm",
+        "start": 150,
+        "end": 161
+      },
+      {
+        "text": "Bayesian probability",
+        "label": "algorithm",
+        "start": 186,
+        "end": 206
+      },
+      {
+        "text": "Bayesian methods",
+        "label": "algorithm",
+        "start": 220,
+        "end": 236
+      }
+    ]
+  },
+  {
+    "text": "Zurada has served the engineering profession as a long-time volunteer of IEEE: as 2014 IEEE Vice-President-Technical Activities (TAB Chair), as President of IEEE Computational Intelligence Society in 2004-05 and the ADCOM member in 2009-14, 2016-18 and earlier years.",
+    "entities": [
+      {
+        "text": "Zurada",
+        "label": "researcher",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Two of the main methods used in unsupervised learning are principal component analysis and cluster analysis.",
+    "entities": [
+      {
+        "text": "unsupervised learning",
+        "label": "field",
+        "start": 32,
+        "end": 53
+      },
+      {
+        "text": "principal component analysis",
+        "label": "algorithm",
+        "start": 58,
+        "end": 86
+      },
+      {
+        "text": "cluster analysis",
+        "label": "task",
+        "start": 91,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "The first practical forms of photography were introduced in January 1839 by Louis Daguerre and Henry Fox Talbot.",
+    "entities": []
+  },
+  {
+    "text": "Two examples of popular parallel robots are the Stewart platform and the Delta robot.",
+    "entities": [
+      {
+        "text": "parallel robots",
+        "label": "product",
+        "start": 24,
+        "end": 39
+      },
+      {
+        "text": "Stewart platform",
+        "label": "product",
+        "start": 48,
+        "end": 64
+      },
+      {
+        "text": "Delta robot",
+        "label": "product",
+        "start": 73,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "text": "One can use the OSD algorithm to derive math O (\\ sqrt {T}) / math regret bounds for the online version of Support vector machine for classification, which use the hinge loss math v _ t (w) = \\ max \\ {0, 1 - y _ t (w \\ cdot x _ t) \\} / math",
+    "entities": [
+      {
+        "text": "OSD algorithm",
+        "label": "algorithm",
+        "start": 16,
+        "end": 29
+      },
+      {
+        "text": "Support vector machine",
+        "label": "algorithm",
+        "start": 107,
+        "end": 129
+      },
+      {
+        "text": "classification",
+        "label": "task",
+        "start": 134,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "text": "The special case of linear support-vector machines can be solved more efficiently by the same kind of algorithms to optimize its close cousin, logistic regression; this class of algorithms includes Stochastic gradient descent (e.g., PEGASOS).",
+    "entities": [
+      {
+        "text": "support-vector machines",
+        "label": "algorithm",
+        "start": 27,
+        "end": 50
+      },
+      {
+        "text": "logistic regression",
+        "label": "algorithm",
+        "start": 143,
+        "end": 162
+      },
+      {
+        "text": "Stochastic gradient descent",
+        "label": "algorithm",
+        "start": 198,
+        "end": 225
+      },
+      {
+        "text": "PEGASOS",
+        "label": "algorithm",
+        "start": 233,
+        "end": 240
+      }
+    ]
+  },
+  {
+    "text": "Phidgets can be programmed using a variety of software and programming languages, ranging from Java to Microsoft Excel.",
+    "entities": [
+      {
+        "text": "Phidgets",
+        "label": "product",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Microsoft Excel",
+        "label": "product",
+        "start": 103,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "Segmenting the text into topics or discourse turns might be useful in some natural processing tasks: it can improve information retrieval or speech recognition significantly (by indexing / recognizing documents more precisely or by giving the specific part of a document corresponding to the query as a result).",
+    "entities": [
+      {
+        "text": "Segmenting the text into topics",
+        "label": "task",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "information retrieval",
+        "label": "task",
+        "start": 116,
+        "end": 137
+      },
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 141,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "In the latter half of the 20th century, electrical engineering itself separated into several disciplines, specialising in the design and analysis of systems that manipulate physical signals; electronic engineering and computer engineering as examples; while design engineering developed to deal with functional design of user-machine interfaces.",
+    "entities": [
+      {
+        "text": "electrical engineering",
+        "label": "field",
+        "start": 40,
+        "end": 62
+      },
+      {
+        "text": "electronic engineering",
+        "label": "field",
+        "start": 191,
+        "end": 213
+      },
+      {
+        "text": "computer engineering",
+        "label": "field",
+        "start": 218,
+        "end": 238
+      },
+      {
+        "text": "design engineering",
+        "label": "field",
+        "start": 258,
+        "end": 276
+      }
+    ]
+  },
+  {
+    "text": "The science fiction drama Sense8 debuted in June 2015, which was written and produced by The Wachowskis and J. Michael Straczynski.",
+    "entities": []
+  },
+  {
+    "text": "Apple Inc introduced Face ID on the flagship iPhone X as a biometric authentication successor to the Touch ID, a fingerprint based system.",
+    "entities": [
+      {
+        "text": "Face ID",
+        "label": "product",
+        "start": 21,
+        "end": 28
+      },
+      {
+        "text": "iPhone X",
+        "label": "product",
+        "start": 45,
+        "end": 53
+      },
+      {
+        "text": "Touch ID",
+        "label": "product",
+        "start": 101,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "The information is a blend of sitemaps and RSS and is created using the Information Model (IM) and Biomedical Resource Ontology (BRO).",
+    "entities": [
+      {
+        "text": "Information Model",
+        "label": "algorithm",
+        "start": 72,
+        "end": 89
+      },
+      {
+        "text": "IM",
+        "label": "algorithm",
+        "start": 91,
+        "end": 93
+      },
+      {
+        "text": "Biomedical Resource Ontology",
+        "label": "algorithm",
+        "start": 99,
+        "end": 127
+      },
+      {
+        "text": "BRO",
+        "label": "algorithm",
+        "start": 129,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "text": "KUKA is a German manufacturer of industrial robot s and solution s for factory automation.",
+    "entities": [
+      {
+        "text": "industrial robot",
+        "label": "product",
+        "start": 33,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "She serves as a member of the National Academy of Sciences (since 2005), American Academy of Arts and Sciences (since 2009),",
+    "entities": []
+  },
+  {
+    "text": "In 1960, Devol personally sold the first Unimate robot, which was shipped in 1961 to General Motors.",
+    "entities": [
+      {
+        "text": "Unimate",
+        "label": "product",
+        "start": 41,
+        "end": 48
+      },
+      {
+        "text": "robot",
+        "label": "product",
+        "start": 49,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "NIST also differs from BLEU in its calculation of the brevity penalty, insofar as small variations in translation length do not impact the overall score as much.",
+    "entities": []
+  },
+  {
+    "text": "When the quantization step size (Δ) is small relative to the variation in the signal being quantized, it is relatively simple to show that the mean squared error produced by such a rounding operation will be approximately math \\ Delta ^ 2 / 12 / math.math",
+    "entities": []
+  },
+  {
+    "text": "The term Semantic Web was coined by Tim Berners-Lee, the inventor of the World Wide Web and director of the World Wide Web Consortium (W3C), which oversees the development of proposed Semantic Web standards.",
+    "entities": [
+      {
+        "text": "Semantic Web",
+        "label": "product",
+        "start": 9,
+        "end": 21
+      },
+      {
+        "text": "Tim Berners-Lee",
+        "label": "researcher",
+        "start": 36,
+        "end": 51
+      },
+      {
+        "text": "World Wide Web",
+        "label": "product",
+        "start": 73,
+        "end": 87
+      },
+      {
+        "text": "Semantic Web standards",
+        "label": "product",
+        "start": 184,
+        "end": 206
+      }
+    ]
+  },
+  {
+    "text": "LSI helps overcome synonymy by increasing recall, one of the most problematic constraints of Boolean keyword queries and vector space models.",
+    "entities": [
+      {
+        "text": "LSI",
+        "label": "task",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Boolean keyword queries",
+        "label": "algorithm",
+        "start": 93,
+        "end": 116
+      },
+      {
+        "text": "vector space models",
+        "label": "algorithm",
+        "start": 121,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "He holds a D.Sc. degree in electrical and computer engineering (2000) from Inria and the University of Nice Sophia Antipolis, and has held permanent positions at Siemens Corporate Technology, École des ponts ParisTech as well as visiting positions at Rutgers University, Yale University and University of Houston.",
+    "entities": [
+      {
+        "text": "electrical and computer engineering",
+        "label": "field",
+        "start": 27,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "If it is assumed that distortion is measured by mean squared error, the distortion D, is given by:",
+    "entities": []
+  },
+  {
+    "text": "It considers both the precision p and the recall r of the test to compute the score: p is the number of correct positive results divided by the number of all positive results returned by the classifier, and r is the number of correct positive results divided by the number of all relevant samples (all samples that should have been identified as positive).",
+    "entities": []
+  },
+  {
+    "text": "Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.",
+    "entities": [
+      {
+        "text": "Reinforcement learning",
+        "label": "field",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 45,
+        "end": 61
+      },
+      {
+        "text": "supervised learning",
+        "label": "field",
+        "start": 83,
+        "end": 102
+      },
+      {
+        "text": "unsupervised learning",
+        "label": "field",
+        "start": 107,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "An example of a semantic network is WordNet, a lexical database of English.",
+    "entities": [
+      {
+        "text": "semantic network",
+        "label": "algorithm",
+        "start": 16,
+        "end": 32
+      },
+      {
+        "text": "WordNet",
+        "label": "product",
+        "start": 36,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "An illustration of their capabilities is given by the ImageNet Large Scale Visual Recognition Challenge; this is a benchmark in object classification and detection, with millions of images and hundreds of object classes.",
+    "entities": [
+      {
+        "text": "object classification and detection",
+        "label": "task",
+        "start": 128,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "In English, WordNet is an example of a semantic network.",
+    "entities": [
+      {
+        "text": "WordNet",
+        "label": "product",
+        "start": 12,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "Such models may given partial credit for overlapping matches (such as using the Jaccard index criterion.",
+    "entities": []
+  },
+  {
+    "text": "Westworld (1973) was the first feature film to use the digital image processing to photography to simulate an android's point of view.",
+    "entities": [
+      {
+        "text": "digital image processing",
+        "label": "field",
+        "start": 55,
+        "end": 79
+      },
+      {
+        "text": "android",
+        "label": "product",
+        "start": 110,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "text": "The values of sensitivity and specificity are agnostic to the percent of positive cases in the population of interest (as opposed to, for example, precision).",
+    "entities": []
+  },
+  {
+    "text": "in their work for pedestrian detection, that was first described at the BMVC in 2009.",
+    "entities": [
+      {
+        "text": "pedestrian detection",
+        "label": "task",
+        "start": 18,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "It incorporates knowledge and research in the computer science, linguistics and computer engineering fields.",
+    "entities": [
+      {
+        "text": "computer science",
+        "label": "field",
+        "start": 46,
+        "end": 62
+      },
+      {
+        "text": "linguistics",
+        "label": "field",
+        "start": 64,
+        "end": 75
+      },
+      {
+        "text": "computer engineering",
+        "label": "field",
+        "start": 80,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "text": "For the case of a general base space math (Y, \\ mathcal {B}, \\ nu) / math (i.e. a base space which is not countable), one typically considers the relative entropy.",
+    "entities": []
+  },
+  {
+    "text": "For many years starting from 1986, Miller directed the development of WordNet, a large computer-readable electronic reference usable in applications such as search engines.",
+    "entities": [
+      {
+        "text": "Miller",
+        "label": "researcher",
+        "start": 35,
+        "end": 41
+      },
+      {
+        "text": "WordNet",
+        "label": "product",
+        "start": 70,
+        "end": 77
+      },
+      {
+        "text": "search engines",
+        "label": "product",
+        "start": 157,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "Poggio is an honorary member of the Neuroscience Research Program, a member of the American Academy of Arts and Sciences and a founding fellow of AAAI and a founding member of the McGovern Institute for Brain Research.",
+    "entities": [
+      {
+        "text": "Poggio",
+        "label": "researcher",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Johnson-Laird is a Fellow of the American Philosophical Society, a Fellow of the Royal Society, a Fellow of the British Academy, a William James Fellow of the Association for Psychological Science, and a Fellow of the Cognitive Science Society.",
+    "entities": [
+      {
+        "text": "Johnson-Laird",
+        "label": "researcher",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "William James",
+        "label": "researcher",
+        "start": 131,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "More recently, fictional representations of artificially intelligent robots in films such as A.I. Artificial Intelligence and Ex Machina and the 2016 TV adaptation of Westworld have engaged audience sympathy for the robots themselves.",
+    "entities": [
+      {
+        "text": "artificially intelligent robots",
+        "label": "product",
+        "start": 44,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "The first publication about the LMF specification as it has been ratified by ISO (this paper became (in 2015) the 9th most cited paper within the LREC conferences from LREC papers):",
+    "entities": [
+      {
+        "text": "LMF specification",
+        "label": "task",
+        "start": 32,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "The parameters β are typically estimated by maximum likelihood.",
+    "entities": []
+  },
+  {
+    "text": "Scheinman, after receiving a fellowship from Unimation to develop his designs, sold those designs to Unimation who further developed them with support from General Motors and later marketed it as the Programmable Universal Machine for Assembly (PUMA).",
+    "entities": [
+      {
+        "text": "Scheinman",
+        "label": "researcher",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Programmable Universal Machine for Assembly",
+        "label": "product",
+        "start": 200,
+        "end": 243
+      },
+      {
+        "text": "PUMA",
+        "label": "product",
+        "start": 245,
+        "end": 249
+      }
+    ]
+  },
+  {
+    "text": "Unimation purchased Victor Scheinman ' s Vicarm Inc. in 1977, and with Scheinman's help, the company created and began producing the Programmable Universal Machine for Assembly, a new model of robotic arm, and using Scheinman's cutting-edge VAL programming language.",
+    "entities": [
+      {
+        "text": "Victor Scheinman",
+        "label": "researcher",
+        "start": 20,
+        "end": 36
+      },
+      {
+        "text": "Scheinman",
+        "label": "researcher",
+        "start": 71,
+        "end": 80
+      },
+      {
+        "text": "Programmable Universal Machine for Assembly",
+        "label": "product",
+        "start": 133,
+        "end": 176
+      },
+      {
+        "text": "Scheinman",
+        "label": "researcher",
+        "start": 216,
+        "end": 225
+      }
+    ]
+  },
+  {
+    "text": "Expectation-maximization algorithm s may be employed to calculate approximate maximum likelihood estimates of unknown state-space parameters within minimum-variance filters and smoothers.",
+    "entities": [
+      {
+        "text": "Expectation-maximization algorithm",
+        "label": "algorithm",
+        "start": 0,
+        "end": 34
+      },
+      {
+        "text": "maximum likelihood estimates",
+        "label": "algorithm",
+        "start": 78,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "The most influential implementation of Planner was the subset of Planner, called Micro-Planner, implemented by Gerald Jay Sussman, Eugene Charniak and Terry Winograd.",
+    "entities": [
+      {
+        "text": "Planner",
+        "label": "product",
+        "start": 39,
+        "end": 46
+      },
+      {
+        "text": "Planner",
+        "label": "product",
+        "start": 65,
+        "end": 72
+      },
+      {
+        "text": "Micro-Planner",
+        "label": "product",
+        "start": 81,
+        "end": 94
+      },
+      {
+        "text": "Gerald Jay Sussman",
+        "label": "researcher",
+        "start": 111,
+        "end": 129
+      },
+      {
+        "text": "Eugene Charniak",
+        "label": "researcher",
+        "start": 131,
+        "end": 146
+      },
+      {
+        "text": "Terry Winograd",
+        "label": "researcher",
+        "start": 151,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "text": "Typical discriminative models include logistic regression (LR), support vector machine s (SVM), conditional random fields (CRFs) (specified over an undirected graph), decision trees, neural networks, and many others.",
+    "entities": [
+      {
+        "text": "logistic regression",
+        "label": "algorithm",
+        "start": 38,
+        "end": 57
+      },
+      {
+        "text": "LR",
+        "label": "algorithm",
+        "start": 59,
+        "end": 61
+      },
+      {
+        "text": "support vector machine",
+        "label": "algorithm",
+        "start": 64,
+        "end": 86
+      },
+      {
+        "text": "SVM",
+        "label": "algorithm",
+        "start": 90,
+        "end": 93
+      },
+      {
+        "text": "conditional random fields",
+        "label": "algorithm",
+        "start": 96,
+        "end": 121
+      },
+      {
+        "text": "CRFs",
+        "label": "algorithm",
+        "start": 123,
+        "end": 127
+      },
+      {
+        "text": "undirected graph",
+        "label": "algorithm",
+        "start": 148,
+        "end": 164
+      },
+      {
+        "text": "decision trees",
+        "label": "algorithm",
+        "start": 167,
+        "end": 181
+      },
+      {
+        "text": "neural networks",
+        "label": "algorithm",
+        "start": 183,
+        "end": 198
+      }
+    ]
+  },
+  {
+    "text": "These methods may also analyze a program's output and its usefulness and therefore may involve the analysis of its confusion matrix (or table of confusion).",
+    "entities": []
+  },
+  {
+    "text": "The 2009 Loebner Prize Competition was held September 6, 2009 at the Brighton Centre, Brighton UK in conjunction with the Interspeech 2009 conference.",
+    "entities": []
+  },
+  {
+    "text": "dgp also occasionally hosts artists in residence (e.g., Oscar -winner Chris Landreth.",
+    "entities": []
+  },
+  {
+    "text": "The majority are results of the word2vec model developed by Mikolov et al or variants of word2vec.",
+    "entities": [
+      {
+        "text": "word2vec model",
+        "label": "product",
+        "start": 32,
+        "end": 46
+      },
+      {
+        "text": "Mikolov",
+        "label": "researcher",
+        "start": 60,
+        "end": 67
+      },
+      {
+        "text": "word2vec",
+        "label": "product",
+        "start": 89,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "The inclusion of a C + + interpreter (CINT until version 5.34, Cling from version 6) makes this package very versatile as it can be used in interactive, scripted and compiled modes in a manner similar to commercial products like MATLAB.",
+    "entities": [
+      {
+        "text": "CINT",
+        "label": "product",
+        "start": 38,
+        "end": 42
+      },
+      {
+        "text": "Cling",
+        "label": "product",
+        "start": 63,
+        "end": 68
+      },
+      {
+        "text": "MATLAB",
+        "label": "product",
+        "start": 229,
+        "end": 235
+      }
+    ]
+  },
+  {
+    "text": "They demonstrated its performance on a number of problems of interest to the machine learning community, including handwriting recognition.",
+    "entities": [
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 77,
+        "end": 93
+      },
+      {
+        "text": "handwriting recognition",
+        "label": "task",
+        "start": 115,
+        "end": 138
+      }
+    ]
+  },
+  {
+    "text": "tity contains a collection of visualization tools and algorithms for data analysis and predictive modeling, together with graphical user interfaces for easy access to these functions. but the more recent fully Java -based version (Weka 3), for which development started in 1997, is now used in many different application areas, in particular for educational purposes and research.",
+    "entities": [
+      {
+        "text": "tity",
+        "label": "product",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "data analysis",
+        "label": "field",
+        "start": 69,
+        "end": 82
+      },
+      {
+        "text": "predictive modeling",
+        "label": "task",
+        "start": 87,
+        "end": 106
+      },
+      {
+        "text": "Weka 3",
+        "label": "product",
+        "start": 231,
+        "end": 237
+      }
+    ]
+  },
+  {
+    "text": "At the 2018 Conference on Neural Information Processing Systems (NeurIPS) researchers from Google presented the work.",
+    "entities": []
+  },
+  {
+    "text": "The most common way is using the so-called ROUGE (Recall-Oriented Understudy for Gisting Evaluation) measure.",
+    "entities": []
+  },
+  {
+    "text": "question answering, speech recognition, and machine translation.",
+    "entities": [
+      {
+        "text": "question answering",
+        "label": "task",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 20,
+        "end": 38
+      },
+      {
+        "text": "machine translation",
+        "label": "task",
+        "start": 44,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "He was one of the founding members and former chair (2006-2008) of the Special Interest Group on Web as Corpus (SIGWAC) of the Association for Computational Linguistics and also one of the founding organizers of SENSEVAL.",
+    "entities": []
+  },
+  {
+    "text": "Apertium is a shallow-transfer machine translation system, which uses finite state transducer s for all of its lexical transformations, and hidden Markov model s for part-of-speech tagging or word category disambiguation.",
+    "entities": [
+      {
+        "text": "Apertium",
+        "label": "product",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "shallow-transfer machine translation system",
+        "label": "product",
+        "start": 14,
+        "end": 57
+      },
+      {
+        "text": "finite state transducer",
+        "label": "algorithm",
+        "start": 70,
+        "end": 93
+      },
+      {
+        "text": "hidden Markov model",
+        "label": "algorithm",
+        "start": 140,
+        "end": 159
+      },
+      {
+        "text": "part-of-speech tagging",
+        "label": "task",
+        "start": 166,
+        "end": 188
+      },
+      {
+        "text": "word category disambiguation",
+        "label": "task",
+        "start": 192,
+        "end": 220
+      }
+    ]
+  },
+  {
+    "text": "LEPOR is designed with the factors of enhanced length penalty, precision, n-gram word order penalty, and recall.",
+    "entities": []
+  },
+  {
+    "text": "Recent research has increasingly focused on unsupervised learning and semi-supervised learning algorithms.",
+    "entities": [
+      {
+        "text": "unsupervised learning",
+        "label": "field",
+        "start": 44,
+        "end": 65
+      },
+      {
+        "text": "semi-supervised learning",
+        "label": "field",
+        "start": 70,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "text": "The hierarchical structure of words has been explicitly mapped in George Miller ' s Wordnet.",
+    "entities": [
+      {
+        "text": "George Miller",
+        "label": "researcher",
+        "start": 66,
+        "end": 79
+      },
+      {
+        "text": "Wordnet",
+        "label": "product",
+        "start": 84,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "In the United States he is a Member of the National Academy of Sciences, the American Academy of Arts and Sciences, the Linguistic Society of America, the American Philosophical Association, and the American Association for the Advancement of Science.",
+    "entities": []
+  },
+  {
+    "text": "However, floating-point numbers have only a certain amount of mathematical precision.",
+    "entities": []
+  },
+  {
+    "text": "gnuplot can be used from various programming languages to graph data, including Perl (via PDL and CPAN packages), Python (via).",
+    "entities": [
+      {
+        "text": "gnuplot",
+        "label": "product",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "PDL",
+        "label": "product",
+        "start": 90,
+        "end": 93
+      },
+      {
+        "text": "CPAN",
+        "label": "product",
+        "start": 98,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "But these methods never won over the non-uniform internal-handcrafting Gaussian mixture model / Hidden Markov model (GMM-HMM) technology based on generative models of speech trained discriminatively.",
+    "entities": [
+      {
+        "text": "Gaussian mixture model",
+        "label": "algorithm",
+        "start": 71,
+        "end": 93
+      },
+      {
+        "text": "Hidden Markov model",
+        "label": "algorithm",
+        "start": 96,
+        "end": 115
+      },
+      {
+        "text": "GMM-HMM",
+        "label": "algorithm",
+        "start": 117,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "The ImageNet Large Scale Visual Recognition Challenge is a benchmark in object classification and detection, with millions of images and hundreds of object classes.",
+    "entities": [
+      {
+        "text": "object classification and detection",
+        "label": "task",
+        "start": 72,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "The members went to the University of Debrecen, the Hungarian Academy of Sciences, Eötvös Loránd University, etc.",
+    "entities": []
+  },
+  {
+    "text": "Within 20 minutes, a facial recognition system identifies personal information including family name, ID number and address which are displayed in the street on an advertising screen.",
+    "entities": [
+      {
+        "text": "facial recognition system",
+        "label": "product",
+        "start": 21,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "Here, accuracy is measured by error rate, which is defined as:",
+    "entities": []
+  },
+  {
+    "text": "That process is called image registration, and uses different methods of computer vision, mostly related to tracking.",
+    "entities": [
+      {
+        "text": "image registration",
+        "label": "task",
+        "start": 23,
+        "end": 41
+      },
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 73,
+        "end": 88
+      },
+      {
+        "text": "tracking",
+        "label": "task",
+        "start": 108,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "text": "In digital signal processing and information theory, the normalized sinc function is commonly defined for by",
+    "entities": [
+      {
+        "text": "digital signal processing",
+        "label": "field",
+        "start": 3,
+        "end": 28
+      },
+      {
+        "text": "information theory",
+        "label": "field",
+        "start": 33,
+        "end": 51
+      },
+      {
+        "text": "normalized sinc function",
+        "label": "algorithm",
+        "start": 57,
+        "end": 81
+      }
+    ]
+  }
+]

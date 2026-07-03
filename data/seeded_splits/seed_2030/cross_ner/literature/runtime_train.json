@@ -1,0 +1,2192 @@
+[
+  {
+    "text": "On the day of the preview, however, he was expelled from the Surrealist Group by André Breton, who ordered the poet Paul Éluard to take down his pictures.",
+    "entities": [
+      {
+        "text": "André Breton",
+        "label": "writer",
+        "start": 81,
+        "end": 93
+      },
+      {
+        "text": "Paul Éluard",
+        "label": "writer",
+        "start": 116,
+        "end": 127
+      }
+    ]
+  },
+  {
+    "text": "Master Humphrey's Clock was shut down, though Dickens was still keen on the idea of the weekly magazine, a form he liked, a liking that had begun with his childhood reading of the eighteenth-century magazines Tatler and The Spectator.",
+    "entities": [
+      {
+        "text": "Master Humphrey's Clock",
+        "label": "book",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "Dickens",
+        "label": "writer",
+        "start": 46,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "text": "British policy in South Africa was to encourage federation between the British-run Cape Colony and Colony of Natal, and the Boer republics, the South African Republic (annexed by Britain in 1877) and the Orange Free State.",
+    "entities": [
+      {
+        "text": "Cape Colony",
+        "label": "location",
+        "start": 83,
+        "end": 94
+      },
+      {
+        "text": "Colony of Natal",
+        "label": "location",
+        "start": 99,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "text": "Rudyard Kipling was born on 30 December 1865 in Bombay, in the Bombay Presidency of British Raj, to Alice Kipling (née MacDonald) and John Lockwood Kipling.",
+    "entities": [
+      {
+        "text": "Rudyard Kipling",
+        "label": "writer",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Bombay",
+        "label": "location",
+        "start": 48,
+        "end": 54
+      },
+      {
+        "text": "Bombay Presidency",
+        "label": "location",
+        "start": 63,
+        "end": 80
+      },
+      {
+        "text": "Alice Kipling (née MacDonald)",
+        "label": "writer",
+        "start": 100,
+        "end": 129
+      },
+      {
+        "text": "John Lockwood Kipling",
+        "label": "writer",
+        "start": 134,
+        "end": 155
+      }
+    ]
+  },
+  {
+    "text": "In 1990, he published the last Rabbit novel, Rabbit at Rest, which won the Pulitzer Prize and the National Book Critics Circle Award.",
+    "entities": [
+      {
+        "text": "Rabbit at Rest",
+        "label": "book",
+        "start": 45,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "text": "Adapted by Anne Washburn and directed by Laurence Olivier Award winner Richard Jones, and will be based on stories from the original series by Rod Serling, Charles Beaumont and Richard Matheson.",
+    "entities": [
+      {
+        "text": "Anne Washburn",
+        "label": "writer",
+        "start": 11,
+        "end": 24
+      },
+      {
+        "text": "Richard Jones",
+        "label": "person",
+        "start": 71,
+        "end": 84
+      },
+      {
+        "text": "Rod Serling",
+        "label": "writer",
+        "start": 143,
+        "end": 154
+      },
+      {
+        "text": "Charles Beaumont",
+        "label": "writer",
+        "start": 156,
+        "end": 172
+      },
+      {
+        "text": "Richard Matheson",
+        "label": "writer",
+        "start": 177,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Early collections of English ballads were made by Samuel Pepys (1633-1703) and in the Roxburghe Ballads collected by Robert Harley, (1661 & ndash; 1724), which paralleled the work in Scotland by Walter Scott and Robert Burns.",
+    "entities": [
+      {
+        "text": "English ballads",
+        "label": "literarygenre",
+        "start": 21,
+        "end": 36
+      },
+      {
+        "text": "Samuel Pepys",
+        "label": "person",
+        "start": 50,
+        "end": 62
+      },
+      {
+        "text": "Roxburghe Ballads",
+        "label": "book",
+        "start": 86,
+        "end": 103
+      },
+      {
+        "text": "Robert Harley",
+        "label": "person",
+        "start": 117,
+        "end": 130
+      },
+      {
+        "text": "Walter Scott",
+        "label": "writer",
+        "start": 195,
+        "end": 207
+      },
+      {
+        "text": "Robert Burns",
+        "label": "writer",
+        "start": 212,
+        "end": 224
+      }
+    ]
+  },
+  {
+    "text": "It was during the 1960s that Warhol began to make paintings of iconic American objects such as dollar bills, mushroom cloud s, electric chair s, Campbell's Soup Cans, Coca-Cola bottles, celebrities such as Marilyn Monroe, Elvis Presley, Marlon Brando, Troy Donahue, Muhammad Ali, and Elizabeth Taylor, as well as newspaper headlines or photographs of police dogs attacking African-American protesters during the Birmingham campaign in the civil rights movement.",
+    "entities": [
+      {
+        "text": "Warhol",
+        "label": "writer",
+        "start": 29,
+        "end": 35
+      },
+      {
+        "text": "Marilyn Monroe",
+        "label": "person",
+        "start": 206,
+        "end": 220
+      },
+      {
+        "text": "Elvis Presley",
+        "label": "person",
+        "start": 222,
+        "end": 235
+      },
+      {
+        "text": "Marlon Brando",
+        "label": "person",
+        "start": 237,
+        "end": 250
+      },
+      {
+        "text": "Troy Donahue",
+        "label": "person",
+        "start": 252,
+        "end": 264
+      },
+      {
+        "text": "Muhammad Ali",
+        "label": "person",
+        "start": 266,
+        "end": 278
+      },
+      {
+        "text": "Elizabeth Taylor",
+        "label": "person",
+        "start": 284,
+        "end": 300
+      }
+    ]
+  },
+  {
+    "text": "In The Birds, Melanie Daniels, a young socialite, meets lawyer Mitch Brenner (Rod Taylor) in a bird shop; Jessica Tandy plays his possessive mother.",
+    "entities": [
+      {
+        "text": "The Birds",
+        "label": "book",
+        "start": 3,
+        "end": 12
+      },
+      {
+        "text": "Melanie Daniels",
+        "label": "person",
+        "start": 14,
+        "end": 29
+      },
+      {
+        "text": "Mitch Brenner",
+        "label": "person",
+        "start": 63,
+        "end": 76
+      },
+      {
+        "text": "Rod Taylor",
+        "label": "person",
+        "start": 78,
+        "end": 88
+      },
+      {
+        "text": "Jessica Tandy",
+        "label": "person",
+        "start": 106,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "For his performance in the latter, Phoenix garnered enormous praise and won a Volpi Cup for Best Actor at the Venice Film Festival, along with Best Actor from the National Society of Film Critics.",
+    "entities": [
+      {
+        "text": "Phoenix",
+        "label": "person",
+        "start": 35,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "text": "His most famous poem is De bello Troiano (On the Trojan War) in six books, most of which was written before 1183, but which was finished after 1184.",
+    "entities": []
+  },
+  {
+    "text": "Dune tied with Roger Zelazny ' s This Immortal for the Hugo Award in 1966,",
+    "entities": [
+      {
+        "text": "Dune",
+        "label": "book",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Roger Zelazny",
+        "label": "writer",
+        "start": 15,
+        "end": 28
+      },
+      {
+        "text": "This Immortal",
+        "label": "book",
+        "start": 33,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "It received good notices and was nominated for the National Book Award in March 1962, though Walker Percy ' s The Moviegoer won.",
+    "entities": [
+      {
+        "text": "Walker Percy",
+        "label": "writer",
+        "start": 93,
+        "end": 105
+      },
+      {
+        "text": "The Moviegoer",
+        "label": "book",
+        "start": 110,
+        "end": 123
+      }
+    ]
+  },
+  {
+    "text": "However, in late 1970, Pauline Kael, in her negative The New Yorker review of the Maysles ' subsequent documentary Gimme Shelter, alleged that Salesman was set up and acted by its principals, rather than actually being direct cinema.",
+    "entities": [
+      {
+        "text": "Pauline Kael",
+        "label": "writer",
+        "start": 23,
+        "end": 35
+      },
+      {
+        "text": "Maysles",
+        "label": "person",
+        "start": 82,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "Klinger, The Daily Mail review of 1 June 1897 proclaimed it a classic of Gothic horror, In seeking a parallel to this weird, powerful, and horrorful story our mind reverts to such tales as The Mysteries of Udolpho, Frankenstein, The Fall of the House of Usher ... but Dracula is even more appalling in its gloomy fascination than any one of these.",
+    "entities": [
+      {
+        "text": "Klinger",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Gothic horror",
+        "label": "literarygenre",
+        "start": 73,
+        "end": 86
+      },
+      {
+        "text": "The Mysteries of Udolpho",
+        "label": "book",
+        "start": 189,
+        "end": 213
+      },
+      {
+        "text": "Frankenstein",
+        "label": "book",
+        "start": 215,
+        "end": 227
+      },
+      {
+        "text": "The Fall of the House of Usher",
+        "label": "book",
+        "start": 229,
+        "end": 259
+      },
+      {
+        "text": "Dracula",
+        "label": "book",
+        "start": 268,
+        "end": 275
+      }
+    ]
+  },
+  {
+    "text": "With the publications of Sense and Sensibility (1811), Pride and Prejudice (1813), Mansfield Park (1814) and Emma (1816), she achieved success as a published writer.",
+    "entities": [
+      {
+        "text": "Sense and Sensibility",
+        "label": "book",
+        "start": 25,
+        "end": 46
+      },
+      {
+        "text": "Pride and Prejudice",
+        "label": "book",
+        "start": 55,
+        "end": 74
+      },
+      {
+        "text": "Mansfield Park",
+        "label": "book",
+        "start": 83,
+        "end": 97
+      },
+      {
+        "text": "Emma",
+        "label": "book",
+        "start": 109,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "In his London Letter on 17 April 1944 for Partisan Review, Orwell wrote that it was now next door to impossible to get anything overtly anti-Russian printed.",
+    "entities": [
+      {
+        "text": "Orwell",
+        "label": "writer",
+        "start": 59,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "text": "Although first presented at the Venice Film Festival on August 28 the same year, Affliction did not see a theatrical release until some time later in most countries.",
+    "entities": []
+  },
+  {
+    "text": "In Far from the Madding Crowd, Hardy first introduced the idea of calling the region in the west of England, where his novels are set, Wessex.",
+    "entities": [
+      {
+        "text": "Far from the Madding Crowd",
+        "label": "book",
+        "start": 3,
+        "end": 29
+      },
+      {
+        "text": "Hardy",
+        "label": "writer",
+        "start": 31,
+        "end": 36
+      },
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 119,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "Daniel 11: A future king of Persia will make war on the king of Greece, a mighty king will arise and wield power until his empire is broken up and given to others, and finally the king of the south (identified in verse 8 as Egypt) will go to war with the king of the north.",
+    "entities": [
+      {
+        "text": "Daniel 11",
+        "label": "book",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "In 1961, his friend C. S. Lewis even nominated him for the Nobel Prize in Literature.",
+    "entities": [
+      {
+        "text": "C. S. Lewis",
+        "label": "writer",
+        "start": 20,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "The only completed screenplay, Heaven, was filmed by Tom Tykwer and premiered in 2002 at the Berlin International Film Festival.",
+    "entities": [
+      {
+        "text": "Heaven",
+        "label": "book",
+        "start": 31,
+        "end": 37
+      },
+      {
+        "text": "Tom Tykwer",
+        "label": "person",
+        "start": 53,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "She wrote two additional novels, Northanger Abbey and Persuasion, both published posthumously in 1818, and began another, eventually titled Sanditon, but died before its completion.",
+    "entities": [
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 25,
+        "end": 31
+      },
+      {
+        "text": "Northanger Abbey",
+        "label": "book",
+        "start": 33,
+        "end": 49
+      },
+      {
+        "text": "Persuasion",
+        "label": "book",
+        "start": 54,
+        "end": 64
+      },
+      {
+        "text": "Sanditon",
+        "label": "book",
+        "start": 140,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "text": "In his spare time he also enjoyed reading about natural science s and popular novels, such as Don Quixote and Robinson Crusoe.",
+    "entities": [
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 78,
+        "end": 84
+      },
+      {
+        "text": "Don Quixote",
+        "label": "book",
+        "start": 94,
+        "end": 105
+      },
+      {
+        "text": "Robinson Crusoe",
+        "label": "book",
+        "start": 110,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "Philip Roth ' s novel, The Plot Against America (2004), looks at an America where Franklin D. Roosevelt is defeated in 1940 in his bid for a third term as President of the United States, and Charles Lindbergh is elected, leading to a US that features increasing fascism and anti-Semitism.",
+    "entities": [
+      {
+        "text": "Philip Roth",
+        "label": "writer",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 16,
+        "end": 21
+      },
+      {
+        "text": "The Plot Against America",
+        "label": "book",
+        "start": 23,
+        "end": 47
+      },
+      {
+        "text": "Franklin D. Roosevelt",
+        "label": "person",
+        "start": 82,
+        "end": 103
+      },
+      {
+        "text": "Charles Lindbergh",
+        "label": "person",
+        "start": 191,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "In January 2008 Fry broke his arm while filming Last Chance to See in Brazil.",
+    "entities": [
+      {
+        "text": "Fry",
+        "label": "person",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "Last Chance to See",
+        "label": "book",
+        "start": 48,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "Her widely praised 1951 bestseller The Sea Around Us won her a U.S. National Book Award, recognition as a gifted writer, and financial security.",
+    "entities": [
+      {
+        "text": "The Sea Around Us",
+        "label": "book",
+        "start": 35,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "Disraeli's early silver fork novels Vivian Grey (1826) and The Young Duke (1831) featured romanticised depictions of aristocratic life (despite his ignorance of it) with character sketches of well-known public figures lightly disguised.",
+    "entities": [
+      {
+        "text": "Disraeli",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "silver fork novels",
+        "label": "literarygenre",
+        "start": 17,
+        "end": 35
+      },
+      {
+        "text": "Vivian Grey",
+        "label": "book",
+        "start": 36,
+        "end": 47
+      },
+      {
+        "text": "The Young Duke",
+        "label": "book",
+        "start": 59,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "5 Smith later taught himself French and Spanish to translate verse out of those languages, including works by Gérard de Nerval, Paul Verlaine, and all but 6 of Charles Baudelaire ' s 157 poems in Les Fleurs du mal.",
+    "entities": [
+      {
+        "text": "Smith",
+        "label": "writer",
+        "start": 2,
+        "end": 7
+      },
+      {
+        "text": "verse",
+        "label": "literarygenre",
+        "start": 61,
+        "end": 66
+      },
+      {
+        "text": "Gérard de Nerval",
+        "label": "writer",
+        "start": 110,
+        "end": 126
+      },
+      {
+        "text": "Paul Verlaine",
+        "label": "writer",
+        "start": 128,
+        "end": 141
+      },
+      {
+        "text": "Charles Baudelaire",
+        "label": "writer",
+        "start": 160,
+        "end": 178
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 187,
+        "end": 192
+      },
+      {
+        "text": "Les Fleurs du mal",
+        "label": "book",
+        "start": 196,
+        "end": 213
+      }
+    ]
+  },
+  {
+    "text": "Among the major surviving Ancient Rome poets of the classical period, only Catullus (N ° 11, 17, 30, 34, 51, 61) and Horace (Odes) wrote lyric poetry, which in the disputed view of some commentatorsS Lyons ' Music in the Odes of Horace (2010) provides evidence to the contrary. was no longer meant to be sung but instead read or recited.",
+    "entities": [
+      {
+        "text": "Catullus",
+        "label": "writer",
+        "start": 75,
+        "end": 83
+      },
+      {
+        "text": "Horace",
+        "label": "writer",
+        "start": 117,
+        "end": 123
+      },
+      {
+        "text": "lyric poetry",
+        "label": "literarygenre",
+        "start": 137,
+        "end": 149
+      },
+      {
+        "text": "Lyons",
+        "label": "writer",
+        "start": 200,
+        "end": 205
+      },
+      {
+        "text": "Music in the Odes of Horace",
+        "label": "book",
+        "start": 208,
+        "end": 235
+      }
+    ]
+  },
+  {
+    "text": "Like The Black Diamonds, it uses a medieval, Arabian Nights -like setting, and the Arabian Nights, like the fairy tales of the Brothers Grimm and the works of Edgar Allan Poe, are known to have strongly influenced Smith's early writing, as did William Beckford ' s Vathek.",
+    "entities": [
+      {
+        "text": "The Black Diamonds",
+        "label": "book",
+        "start": 5,
+        "end": 23
+      },
+      {
+        "text": "Arabian Nights",
+        "label": "book",
+        "start": 45,
+        "end": 59
+      },
+      {
+        "text": "Arabian Nights",
+        "label": "book",
+        "start": 83,
+        "end": 97
+      },
+      {
+        "text": "fairy tales",
+        "label": "literarygenre",
+        "start": 108,
+        "end": 119
+      },
+      {
+        "text": "the Brothers Grimm",
+        "label": "writer",
+        "start": 123,
+        "end": 141
+      },
+      {
+        "text": "Edgar Allan Poe",
+        "label": "writer",
+        "start": 159,
+        "end": 174
+      },
+      {
+        "text": "Smith",
+        "label": "writer",
+        "start": 214,
+        "end": 219
+      },
+      {
+        "text": "William Beckford",
+        "label": "writer",
+        "start": 244,
+        "end": 260
+      },
+      {
+        "text": "Vathek",
+        "label": "book",
+        "start": 265,
+        "end": 271
+      }
+    ]
+  },
+  {
+    "text": "Some of his biggest influences were Ralph Waldo Emerson ' s essays, Walt Whitman, H. L. Mencken ' s The American Mercury, Samuel Johnson ' s The History of Rasselas, Prince of Abissinia, Alexandre Dumas, Edgar Allan Poe, Walter Scott, and Henry David Thoreau ' s Walden.",
+    "entities": [
+      {
+        "text": "Ralph Waldo Emerson",
+        "label": "writer",
+        "start": 36,
+        "end": 55
+      },
+      {
+        "text": "essays",
+        "label": "literarygenre",
+        "start": 60,
+        "end": 66
+      },
+      {
+        "text": "Walt Whitman",
+        "label": "writer",
+        "start": 68,
+        "end": 80
+      },
+      {
+        "text": "H. L. Mencken",
+        "label": "writer",
+        "start": 82,
+        "end": 95
+      },
+      {
+        "text": "Samuel Johnson",
+        "label": "writer",
+        "start": 122,
+        "end": 136
+      },
+      {
+        "text": "The History of Rasselas, Prince of Abissinia",
+        "label": "book",
+        "start": 141,
+        "end": 185
+      },
+      {
+        "text": "Alexandre Dumas",
+        "label": "writer",
+        "start": 187,
+        "end": 202
+      },
+      {
+        "text": "Edgar Allan Poe",
+        "label": "writer",
+        "start": 204,
+        "end": 219
+      },
+      {
+        "text": "Walter Scott",
+        "label": "writer",
+        "start": 221,
+        "end": 233
+      },
+      {
+        "text": "Henry David Thoreau",
+        "label": "writer",
+        "start": 239,
+        "end": 258
+      },
+      {
+        "text": "Walden",
+        "label": "book",
+        "start": 263,
+        "end": 269
+      }
+    ]
+  },
+  {
+    "text": "He received an Academy Awards nomination for Academy Award for Best Supporting Actor for 1987's Broadcast News and was widely praised for his performance in the 2011 film Drive.",
+    "entities": []
+  },
+  {
+    "text": "Cuban-American writer Daína Chaviano paid homage to Anaïs Nin and Henry Miller in her novel Gata encerrada (2001), where both characters are portraited as disembodied spirits whose previous lives they shared with Melisa, the main character - and presumably Chaviano's alter ego --, a young Cuban obsessed with Anaïs Nin.",
+    "entities": [
+      {
+        "text": "Daína Chaviano",
+        "label": "writer",
+        "start": 22,
+        "end": 36
+      },
+      {
+        "text": "Anaïs Nin",
+        "label": "writer",
+        "start": 52,
+        "end": 61
+      },
+      {
+        "text": "Henry Miller",
+        "label": "writer",
+        "start": 66,
+        "end": 78
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 86,
+        "end": 91
+      },
+      {
+        "text": "Gata encerrada",
+        "label": "book",
+        "start": 92,
+        "end": 106
+      },
+      {
+        "text": "Melisa",
+        "label": "person",
+        "start": 213,
+        "end": 219
+      },
+      {
+        "text": "Chaviano",
+        "label": "person",
+        "start": 257,
+        "end": 265
+      },
+      {
+        "text": "Anaïs Nin",
+        "label": "writer",
+        "start": 310,
+        "end": 319
+      }
+    ]
+  },
+  {
+    "text": "Again, in the English Renaissance fantasy Armor of Light by Melissa Scott and Lisa A. Barnett, the magic used in the book, by Dr. John Dee and others, actually was practiced in the Renaissance; positing a secret history of effective magic makes this an alternate history with a POD, Sir Philip Sidney ' s surviving the Battle of Zutphen in 1586, and shortly thereafter saving the life of Christopher Marlowe.",
+    "entities": [
+      {
+        "text": "Armor of Light",
+        "label": "book",
+        "start": 42,
+        "end": 56
+      },
+      {
+        "text": "Melissa Scott",
+        "label": "writer",
+        "start": 60,
+        "end": 73
+      },
+      {
+        "text": "Lisa A. Barnett",
+        "label": "writer",
+        "start": 78,
+        "end": 93
+      },
+      {
+        "text": "Dr. John Dee",
+        "label": "person",
+        "start": 126,
+        "end": 138
+      },
+      {
+        "text": "alternate history",
+        "label": "literarygenre",
+        "start": 253,
+        "end": 270
+      },
+      {
+        "text": "Sir Philip Sidney",
+        "label": "person",
+        "start": 283,
+        "end": 300
+      },
+      {
+        "text": "Christopher Marlowe",
+        "label": "person",
+        "start": 388,
+        "end": 407
+      }
+    ]
+  },
+  {
+    "text": "In July 2017, the book was listed as the most influential science book of all time in a poll to celebrate the 30th anniversary of the Royal Society science book prize, ahead of Charles Darwin ' s On the Origin of Species and Isaac Newton s Philosophiæ Naturalis Principia Mathematica.",
+    "entities": [
+      {
+        "text": "Charles Darwin",
+        "label": "writer",
+        "start": 177,
+        "end": 191
+      },
+      {
+        "text": "On the Origin of Species",
+        "label": "book",
+        "start": 196,
+        "end": 220
+      },
+      {
+        "text": "Isaac Newton",
+        "label": "writer",
+        "start": 225,
+        "end": 237
+      },
+      {
+        "text": "Philosophiæ Naturalis Principia Mathematica",
+        "label": "book",
+        "start": 240,
+        "end": 283
+      }
+    ]
+  },
+  {
+    "text": "The main facts of his life are stated in his long poem De triumphis ecclesiae (On the triumphs of the Church).",
+    "entities": [
+      {
+        "text": "long poem",
+        "label": "literarygenre",
+        "start": 45,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "His main work was the libretto for The Veiled Prophet, a Romantic Opera in 3 acts composed by Charles Villiers Stanford, adapted from the homonymous ballad in Thomas Moore oriental romance Lalla-Rookh, published 1890.",
+    "entities": [
+      {
+        "text": "libretto",
+        "label": "literarygenre",
+        "start": 22,
+        "end": 30
+      },
+      {
+        "text": "Romantic Opera",
+        "label": "literarygenre",
+        "start": 57,
+        "end": 71
+      },
+      {
+        "text": "Charles Villiers Stanford",
+        "label": "person",
+        "start": 94,
+        "end": 119
+      },
+      {
+        "text": "Thomas Moore",
+        "label": "writer",
+        "start": 159,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "Tamsin Greig narrated, and the cast included Nicky Henson as Napoleon, Toby Jones as the propagandist Squealer, and Ralph Ineson as Boxer.",
+    "entities": [
+      {
+        "text": "Tamsin Greig",
+        "label": "person",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Nicky Henson",
+        "label": "person",
+        "start": 45,
+        "end": 57
+      },
+      {
+        "text": "Napoleon",
+        "label": "person",
+        "start": 61,
+        "end": 69
+      },
+      {
+        "text": "Toby Jones",
+        "label": "person",
+        "start": 71,
+        "end": 81
+      },
+      {
+        "text": "Ralph Ineson",
+        "label": "person",
+        "start": 116,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "The film was completed in 1979 and won the Prize of the Ecumenical Jury at the Cannes Film Festival.",
+    "entities": []
+  },
+  {
+    "text": "The first actual missionary in Sweden and the Nordic countries (and organizer of the Catholic church therein), Ansgar was later declared Patron of Scandinavia.",
+    "entities": [
+      {
+        "text": "Nordic countries",
+        "label": "location",
+        "start": 46,
+        "end": 62
+      },
+      {
+        "text": "Ansgar",
+        "label": "writer",
+        "start": 111,
+        "end": 117
+      },
+      {
+        "text": "Scandinavia",
+        "label": "location",
+        "start": 147,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "text": "It was followed the next year by The Tale of Squirrel Nutkin and The Tailor of Gloucester, which had also first been written as picture letters to the Moore children.",
+    "entities": [
+      {
+        "text": "The Tale of Squirrel Nutkin",
+        "label": "book",
+        "start": 33,
+        "end": 60
+      },
+      {
+        "text": "The Tailor of Gloucester",
+        "label": "book",
+        "start": 65,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "His later novels included fix-ups such as The Beast (also known as Moonbeast) (1963), Rogue Ship (1965), Quest for the Future (1970) and Supermind (1977).",
+    "entities": [
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 10,
+        "end": 16
+      },
+      {
+        "text": "The Beast",
+        "label": "book",
+        "start": 42,
+        "end": 51
+      },
+      {
+        "text": "Moonbeast",
+        "label": "book",
+        "start": 67,
+        "end": 76
+      },
+      {
+        "text": "Rogue Ship",
+        "label": "book",
+        "start": 86,
+        "end": 96
+      },
+      {
+        "text": "Quest for the Future",
+        "label": "book",
+        "start": 105,
+        "end": 125
+      },
+      {
+        "text": "Supermind",
+        "label": "book",
+        "start": 137,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "The character of Conan has proven durably popular, resulting in Conan stories by later writers such as Poul Anderson, Leonard Carpenter, Lin Carter, L. Sprague de Camp, Roland J. Green, John C. Hocking, Robert Jordan, Sean A. Moore, Björn Nyberg, Andrew J. Offutt, Steve Perry, John Maddox Roberts, Harry Turtledove, and Karl Edward Wagner.",
+    "entities": [
+      {
+        "text": "Conan",
+        "label": "person",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "Conan",
+        "label": "person",
+        "start": 64,
+        "end": 69
+      },
+      {
+        "text": "Poul Anderson",
+        "label": "writer",
+        "start": 103,
+        "end": 116
+      },
+      {
+        "text": "Leonard Carpenter",
+        "label": "writer",
+        "start": 118,
+        "end": 135
+      },
+      {
+        "text": "Lin Carter",
+        "label": "writer",
+        "start": 137,
+        "end": 147
+      },
+      {
+        "text": "L. Sprague de Camp",
+        "label": "writer",
+        "start": 149,
+        "end": 167
+      },
+      {
+        "text": "Roland J. Green",
+        "label": "writer",
+        "start": 169,
+        "end": 184
+      },
+      {
+        "text": "John C. Hocking",
+        "label": "writer",
+        "start": 186,
+        "end": 201
+      },
+      {
+        "text": "Robert Jordan",
+        "label": "writer",
+        "start": 203,
+        "end": 216
+      },
+      {
+        "text": "Sean A. Moore",
+        "label": "writer",
+        "start": 218,
+        "end": 231
+      },
+      {
+        "text": "Björn Nyberg",
+        "label": "writer",
+        "start": 233,
+        "end": 245
+      },
+      {
+        "text": "Andrew J. Offutt",
+        "label": "writer",
+        "start": 247,
+        "end": 263
+      },
+      {
+        "text": "Steve Perry",
+        "label": "writer",
+        "start": 265,
+        "end": 276
+      },
+      {
+        "text": "John Maddox Roberts",
+        "label": "writer",
+        "start": 278,
+        "end": 297
+      },
+      {
+        "text": "Harry Turtledove",
+        "label": "writer",
+        "start": 299,
+        "end": 315
+      },
+      {
+        "text": "Karl Edward Wagner",
+        "label": "writer",
+        "start": 321,
+        "end": 339
+      }
+    ]
+  },
+  {
+    "text": "The Color Purple is a 1982 epistolary novel by American author Alice Walker which won the 1983 Pulitzer Prize for Fiction and the National Book Award for Fiction.",
+    "entities": [
+      {
+        "text": "The Color Purple",
+        "label": "book",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "epistolary novel",
+        "label": "literarygenre",
+        "start": 27,
+        "end": 43
+      },
+      {
+        "text": "Alice Walker",
+        "label": "writer",
+        "start": 63,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "He won three Tony Award s and three Academy Awards, among other honors.",
+    "entities": []
+  },
+  {
+    "text": "Pauline Kael in The New Yorker described it as heaven - alive in a way that movies rarely are.",
+    "entities": [
+      {
+        "text": "Pauline Kael",
+        "label": "writer",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Another well-known version of the play is Jedermann by the Austrian playwright Hugo von Hofmannsthal, which has been performed annually at the Salzburg Festival since 1920,.",
+    "entities": [
+      {
+        "text": "Jedermann",
+        "label": "book",
+        "start": 42,
+        "end": 51
+      },
+      {
+        "text": "Hugo von Hofmannsthal",
+        "label": "writer",
+        "start": 79,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "text": "In October 1946, the twice married Pasternak met Olga Ivinskaya, a 34 year old single mother employed by Novy Mir.",
+    "entities": [
+      {
+        "text": "Pasternak",
+        "label": "writer",
+        "start": 35,
+        "end": 44
+      },
+      {
+        "text": "Olga Ivinskaya",
+        "label": "writer",
+        "start": 49,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "Sterling is one of the founders of the cyberpunk movement in science fiction, along with William Gibson, Rudy Rucker, John Shirley, Lewis Shiner, and Pat Cadigan.",
+    "entities": [
+      {
+        "text": "Sterling",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 61,
+        "end": 76
+      },
+      {
+        "text": "William Gibson",
+        "label": "writer",
+        "start": 89,
+        "end": 103
+      },
+      {
+        "text": "Rudy Rucker",
+        "label": "writer",
+        "start": 105,
+        "end": 116
+      },
+      {
+        "text": "John Shirley",
+        "label": "writer",
+        "start": 118,
+        "end": 130
+      },
+      {
+        "text": "Lewis Shiner",
+        "label": "writer",
+        "start": 132,
+        "end": 144
+      },
+      {
+        "text": "Pat Cadigan",
+        "label": "writer",
+        "start": 150,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "In 2013, WordFire acquired the reprint rights to the works of Allen Drury, including his 1959 Pulitzer Prize -winning political novel Advise and Consent.",
+    "entities": [
+      {
+        "text": "Allen Drury",
+        "label": "writer",
+        "start": 62,
+        "end": 73
+      },
+      {
+        "text": "political novel",
+        "label": "literarygenre",
+        "start": 118,
+        "end": 133
+      },
+      {
+        "text": "Advise and Consent",
+        "label": "book",
+        "start": 134,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "text": "Although the Mythos was not formalized or acknowledged between them, Lovecraft did correspond and share story elements with other contemporary writers including Clark Ashton Smith, Robert E. Howard, Robert Bloch, Frank Belknap Long, Henry Kuttner, Henry S. Whitehead, and Fritz Leiber",
+    "entities": [
+      {
+        "text": "Mythos",
+        "label": "book",
+        "start": 13,
+        "end": 19
+      },
+      {
+        "text": "Lovecraft",
+        "label": "writer",
+        "start": 69,
+        "end": 78
+      },
+      {
+        "text": "Clark Ashton Smith",
+        "label": "writer",
+        "start": 161,
+        "end": 179
+      },
+      {
+        "text": "Robert E. Howard",
+        "label": "writer",
+        "start": 181,
+        "end": 197
+      },
+      {
+        "text": "Robert Bloch",
+        "label": "writer",
+        "start": 199,
+        "end": 211
+      },
+      {
+        "text": "Frank Belknap Long",
+        "label": "writer",
+        "start": 213,
+        "end": 231
+      },
+      {
+        "text": "Henry Kuttner",
+        "label": "writer",
+        "start": 233,
+        "end": 246
+      },
+      {
+        "text": "Henry S. Whitehead",
+        "label": "writer",
+        "start": 248,
+        "end": 266
+      },
+      {
+        "text": "Fritz Leiber",
+        "label": "writer",
+        "start": 272,
+        "end": 284
+      }
+    ]
+  },
+  {
+    "text": "122 The Public Square illustrates this quality.",
+    "entities": []
+  },
+  {
+    "text": "The contest over the authenticity of Macpherson's pseudo-Gaelic productions, Curley asserts, became a seismograph of the fragile unity within restive diversity of British Empire Kingdom of Great Britain in the age of Samuel Johnson.",
+    "entities": [
+      {
+        "text": "Macpherson",
+        "label": "writer",
+        "start": 37,
+        "end": 47
+      },
+      {
+        "text": "Curley",
+        "label": "person",
+        "start": 77,
+        "end": 83
+      },
+      {
+        "text": "Samuel Johnson",
+        "label": "writer",
+        "start": 217,
+        "end": 231
+      }
+    ]
+  },
+  {
+    "text": "A documentary film about Rivers, Joan Rivers: A Piece of Work, premiered at the San Francisco International Film Festival on May 6, 2010.",
+    "entities": []
+  },
+  {
+    "text": "It was joint winner of the Nebula Award for Best Novel in 1967 (with Flowers for Algernon) {{cite web",
+    "entities": [
+      {
+        "text": "Flowers for Algernon",
+        "label": "book",
+        "start": 69,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "Pierre Teilhard de Chardin was born in the Château of Sarcenat, Orcines commune, some 4 km north-west of Clermont-Ferrand, Auvergne, French Third Republic, on 1 May 1881, as the fourth of eleven children of librarian Emmanuel Teilhard de Chardin (1844-1932) and of Berthe-Adèle, née de Dompierre d 'Hornoys of Picardy, a great-grandniece of Voltaire.",
+    "entities": [
+      {
+        "text": "Pierre Teilhard de Chardin",
+        "label": "person",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "Château of Sarcenat",
+        "label": "location",
+        "start": 43,
+        "end": 62
+      },
+      {
+        "text": "Orcines commune",
+        "label": "location",
+        "start": 64,
+        "end": 79
+      },
+      {
+        "text": "Clermont-Ferrand",
+        "label": "location",
+        "start": 105,
+        "end": 121
+      },
+      {
+        "text": "Auvergne",
+        "label": "location",
+        "start": 123,
+        "end": 131
+      },
+      {
+        "text": "Emmanuel Teilhard de Chardin",
+        "label": "person",
+        "start": 217,
+        "end": 245
+      },
+      {
+        "text": "Berthe-Adèle, née de Dompierre d 'Hornoys of Picardy",
+        "label": "person",
+        "start": 265,
+        "end": 317
+      },
+      {
+        "text": "Voltaire",
+        "label": "writer",
+        "start": 341,
+        "end": 349
+      }
+    ]
+  },
+  {
+    "text": "Dexter received several Crime Writers ' Association awards: two Silver Daggers for Service of All the Dead in 1979 and The Dead of Jericho in 1981; two Gold Dagger s for The Wench is Dead in 1989 and The Way Through the Woods in 1992; and a Cartier Diamond Dagger for lifetime achievement in 1997.",
+    "entities": [
+      {
+        "text": "Dexter",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Service of All the Dead",
+        "label": "book",
+        "start": 83,
+        "end": 106
+      },
+      {
+        "text": "The Dead of Jericho",
+        "label": "book",
+        "start": 119,
+        "end": 138
+      },
+      {
+        "text": "The Wench is Dead",
+        "label": "book",
+        "start": 170,
+        "end": 187
+      },
+      {
+        "text": "The Way Through the Woods",
+        "label": "book",
+        "start": 200,
+        "end": 225
+      }
+    ]
+  },
+  {
+    "text": "In 1971, as a response to the popularity of sexual guidebooks such as The Sensuous Woman (by J) and The Sensuous Man (by M), Asimov published The Sensuous Dirty Old Man under the byline Dr. ' A",
+    "entities": [
+      {
+        "text": "The Sensuous Woman",
+        "label": "book",
+        "start": 70,
+        "end": 88
+      },
+      {
+        "text": "J",
+        "label": "writer",
+        "start": 93,
+        "end": 94
+      },
+      {
+        "text": "The Sensuous Man",
+        "label": "book",
+        "start": 100,
+        "end": 116
+      },
+      {
+        "text": "M",
+        "label": "writer",
+        "start": 121,
+        "end": 122
+      },
+      {
+        "text": "Asimov",
+        "label": "writer",
+        "start": 125,
+        "end": 131
+      },
+      {
+        "text": "The Sensuous Dirty Old Man",
+        "label": "book",
+        "start": 142,
+        "end": 168
+      },
+      {
+        "text": "Dr. ' A",
+        "label": "person",
+        "start": 186,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "In 1930, an American film of the novel was made, directed by Lewis Milestone; with a screenplay by Maxwell Anderson, George Abbott, Del Andrews, C. Gardner Sullivan; and with uncredited work by Walter Anthony.",
+    "entities": [
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 33,
+        "end": 38
+      },
+      {
+        "text": "Lewis Milestone",
+        "label": "person",
+        "start": 61,
+        "end": 76
+      },
+      {
+        "text": "Maxwell Anderson",
+        "label": "writer",
+        "start": 99,
+        "end": 115
+      },
+      {
+        "text": "George Abbott",
+        "label": "writer",
+        "start": 117,
+        "end": 130
+      },
+      {
+        "text": "Del Andrews",
+        "label": "writer",
+        "start": 132,
+        "end": 143
+      },
+      {
+        "text": "C. Gardner Sullivan",
+        "label": "writer",
+        "start": 145,
+        "end": 164
+      },
+      {
+        "text": "Walter Anthony",
+        "label": "writer",
+        "start": 194,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "In 1973, Sakharov was nominated for the Nobel Peace Prize and in 1974 was awarded the Prix mondial Cino Del Duca.",
+    "entities": [
+      {
+        "text": "Sakharov",
+        "label": "person",
+        "start": 9,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "The title page of the collection Cathay (1915), refers to the poet Rihaku, the pronunciation in Japanese of the Tang dynasty Chinese poet, Li Bai, whose poems were much beloved in China and Japan for their technical mastery and much translated in the West because of their seeming simplicity.",
+    "entities": [
+      {
+        "text": "Cathay",
+        "label": "book",
+        "start": 33,
+        "end": 39
+      },
+      {
+        "text": "Rihaku",
+        "label": "writer",
+        "start": 67,
+        "end": 73
+      },
+      {
+        "text": "Li Bai",
+        "label": "writer",
+        "start": 139,
+        "end": 145
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 153,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "text": "Herodotus, Pliny the Elder and Strabo reported on the existence of a town Achílleion (Ἀχίλλειον), built by settlers from Mytilene in the sixth century BC, close to the hero's presumed burial mound in the Troad.",
+    "entities": [
+      {
+        "text": "Herodotus",
+        "label": "writer",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Pliny the Elder",
+        "label": "writer",
+        "start": 11,
+        "end": 26
+      },
+      {
+        "text": "Strabo",
+        "label": "writer",
+        "start": 31,
+        "end": 37
+      },
+      {
+        "text": "Achílleion",
+        "label": "location",
+        "start": 74,
+        "end": 84
+      },
+      {
+        "text": "Ἀχίλλειον",
+        "label": "location",
+        "start": 86,
+        "end": 95
+      },
+      {
+        "text": "Mytilene",
+        "label": "location",
+        "start": 121,
+        "end": 129
+      },
+      {
+        "text": "Troad",
+        "label": "location",
+        "start": 204,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "His filmography includes The House of the Spirits, based on a novel by Isabel Allende; Smilla's Sense of Snow, also based on a popular novel ' Les Misérables, Night Train to Lisbon, Silent Heart, The Chinese Widow, and A Fortunate Man.",
+    "entities": [
+      {
+        "text": "The House of the Spirits",
+        "label": "book",
+        "start": 25,
+        "end": 49
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 62,
+        "end": 67
+      },
+      {
+        "text": "Isabel Allende",
+        "label": "writer",
+        "start": 71,
+        "end": 85
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 135,
+        "end": 140
+      },
+      {
+        "text": "Les Misérables",
+        "label": "book",
+        "start": 143,
+        "end": 157
+      },
+      {
+        "text": "Night Train to Lisbon",
+        "label": "book",
+        "start": 159,
+        "end": 180
+      },
+      {
+        "text": "Silent Heart",
+        "label": "book",
+        "start": 182,
+        "end": 194
+      },
+      {
+        "text": "The Chinese Widow",
+        "label": "book",
+        "start": 196,
+        "end": 213
+      },
+      {
+        "text": "A Fortunate Man",
+        "label": "book",
+        "start": 219,
+        "end": 234
+      }
+    ]
+  },
+  {
+    "text": "He founded Toffler Associates, a management consulting company, and was a visiting scholar at the Russell Sage Foundation, visiting professor at Cornell University, faculty member of the New School for Social Research, a White House correspondent, and a business consultant ..",
+    "entities": []
+  },
+  {
+    "text": "During his first years as bishop, Athanasius visited the churches of his territory, which at that time included all of Egypt and Libya.",
+    "entities": [
+      {
+        "text": "Athanasius",
+        "label": "writer",
+        "start": 34,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "The character is brought back as a ghola in the Herbert / Anderson sequels which conclude the original series, Hunters of Dune (2006) and Sandworms of Dune (2007).",
+    "entities": [
+      {
+        "text": "Herbert / Anderson",
+        "label": "person",
+        "start": 48,
+        "end": 66
+      },
+      {
+        "text": "Hunters of Dune",
+        "label": "book",
+        "start": 111,
+        "end": 126
+      },
+      {
+        "text": "Sandworms of Dune",
+        "label": "book",
+        "start": 138,
+        "end": 155
+      }
+    ]
+  },
+  {
+    "text": "It recounts the tale of a man who is considered a madman due to his perceptions of a different 1845, a reality in which long-dead famous people, such as the poets Robert Burns, Lord Byron, Percy Bysshe Shelley and John Keats, the actor Edmund Kean, the British politician George Canning, and even Napoleon Bonaparte, are still alive.",
+    "entities": [
+      {
+        "text": "Robert Burns",
+        "label": "writer",
+        "start": 163,
+        "end": 175
+      },
+      {
+        "text": "Lord Byron",
+        "label": "writer",
+        "start": 177,
+        "end": 187
+      },
+      {
+        "text": "Percy Bysshe Shelley",
+        "label": "writer",
+        "start": 189,
+        "end": 209
+      },
+      {
+        "text": "John Keats",
+        "label": "writer",
+        "start": 214,
+        "end": 224
+      },
+      {
+        "text": "Edmund Kean",
+        "label": "person",
+        "start": 236,
+        "end": 247
+      },
+      {
+        "text": "George Canning",
+        "label": "person",
+        "start": 272,
+        "end": 286
+      },
+      {
+        "text": "Napoleon Bonaparte",
+        "label": "person",
+        "start": 297,
+        "end": 315
+      }
+    ]
+  },
+  {
+    "text": "He is the protagonist of Robert Coover ' s short story Charlie in the House of Rue (1980; reprinted in Coover's 1987 collection A Night at the Movies), and of Glen David Gold ' s Sunnyside (2009), a historical novel set in the First World War period.",
+    "entities": [
+      {
+        "text": "Robert Coover",
+        "label": "book",
+        "start": 25,
+        "end": 38
+      },
+      {
+        "text": "short story",
+        "label": "literarygenre",
+        "start": 43,
+        "end": 54
+      },
+      {
+        "text": "Charlie in the House of Rue",
+        "label": "book",
+        "start": 55,
+        "end": 82
+      },
+      {
+        "text": "Coover",
+        "label": "writer",
+        "start": 103,
+        "end": 109
+      },
+      {
+        "text": "A Night at the Movies",
+        "label": "book",
+        "start": 128,
+        "end": 149
+      },
+      {
+        "text": "Glen David Gold",
+        "label": "writer",
+        "start": 159,
+        "end": 174
+      },
+      {
+        "text": "Sunnyside",
+        "label": "book",
+        "start": 179,
+        "end": 188
+      },
+      {
+        "text": "historical novel",
+        "label": "literarygenre",
+        "start": 199,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "On June 17, 1915, shortly after submitting his patent application for the doll's design, Johnny Gruelle applied for a registered trademark for the Raggedy Ann name, which he created by combining words from two of James Whitcomb Riley poems, The Raggedy Man and Little Orphant Annie.",
+    "entities": [
+      {
+        "text": "Johnny Gruelle",
+        "label": "person",
+        "start": 89,
+        "end": 103
+      },
+      {
+        "text": "James Whitcomb Riley",
+        "label": "writer",
+        "start": 213,
+        "end": 233
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 234,
+        "end": 239
+      }
+    ]
+  },
+  {
+    "text": "Ireland's 1990 FIFA World Cup Group F opponents in Italy ' 90 were England, Egypt and the Netherlands.",
+    "entities": []
+  },
+  {
+    "text": "According to Willmott, Yeats's poems often move from the world of social interaction to a place where the individual finds seclusion, as is also the case in the pastoral Yeats's earlier poems The Lake Isle of Innisfree, The Song of the Happy Shepherd, and The Sad Shepherd.",
+    "entities": [
+      {
+        "text": "Willmott",
+        "label": "writer",
+        "start": 13,
+        "end": 21
+      },
+      {
+        "text": "Yeats",
+        "label": "writer",
+        "start": 23,
+        "end": 28
+      },
+      {
+        "text": "Yeats",
+        "label": "writer",
+        "start": 170,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "He came to wide public attention with his first book Poems at the age of twenty-three in 1930; it was followed in 1932 by The Orators.",
+    "entities": []
+  },
+  {
+    "text": "Amos prophesied during the reign of Jeroboam II, King of Israel, and of Uzziah of Kingdom of Judah, which places him in the first half of the 8th century BC.",
+    "entities": [
+      {
+        "text": "Amos",
+        "label": "writer",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Jeroboam II",
+        "label": "person",
+        "start": 36,
+        "end": 47
+      },
+      {
+        "text": "Uzziah",
+        "label": "person",
+        "start": 72,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "In 1963 Il Gattopardo was made into a film, directed by Luchino Visconti and starring Burt Lancaster, Alain Delon, and Claudia Cardinale; it won the Palme d 'Or at the Cannes Film Festival.",
+    "entities": [
+      {
+        "text": "Il Gattopardo",
+        "label": "book",
+        "start": 8,
+        "end": 21
+      },
+      {
+        "text": "Luchino Visconti",
+        "label": "person",
+        "start": 56,
+        "end": 72
+      },
+      {
+        "text": "Burt Lancaster",
+        "label": "person",
+        "start": 86,
+        "end": 100
+      },
+      {
+        "text": "Alain Delon",
+        "label": "person",
+        "start": 102,
+        "end": 113
+      },
+      {
+        "text": "Claudia Cardinale",
+        "label": "person",
+        "start": 119,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "In 1962, Percy was awarded the National Book Award for Fiction for his first novel, The Moviegoer.",
+    "entities": [
+      {
+        "text": "Percy",
+        "label": "writer",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 77,
+        "end": 82
+      },
+      {
+        "text": "The Moviegoer",
+        "label": "book",
+        "start": 84,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "Before writing Dracula, Stoker met Ármin Vámbéry, a Hungarian-Jewish writer and traveller (born in Szent-György, Kingdom of Hungary now Svätý Jur, Slovakia).",
+    "entities": [
+      {
+        "text": "Dracula",
+        "label": "book",
+        "start": 15,
+        "end": 22
+      },
+      {
+        "text": "Stoker",
+        "label": "writer",
+        "start": 24,
+        "end": 30
+      },
+      {
+        "text": "Ármin Vámbéry",
+        "label": "writer",
+        "start": 35,
+        "end": 48
+      },
+      {
+        "text": "Szent-György",
+        "label": "location",
+        "start": 99,
+        "end": 111
+      },
+      {
+        "text": "Svätý Jur",
+        "label": "location",
+        "start": 136,
+        "end": 145
+      }
+    ]
+  },
+  {
+    "text": "His most famous works are The Book of Healing, a philosophical and scientific encyclopedia, and The Canon of Medicine, a medical encyclopedia",
+    "entities": [
+      {
+        "text": "The Book of Healing",
+        "label": "book",
+        "start": 26,
+        "end": 45
+      },
+      {
+        "text": "The Canon of Medicine",
+        "label": "book",
+        "start": 96,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "text": "In 1927 Lu was considered for the Nobel Prize in Literature, for the short story The TRUE Story of Ah Q, despite a poor English translation and annotations that were nearly double the size of the text. Kowallis 3 Lu rejected the possibility of accepting the nomination.",
+    "entities": [
+      {
+        "text": "Lu",
+        "label": "writer",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "short story",
+        "label": "literarygenre",
+        "start": 69,
+        "end": 80
+      },
+      {
+        "text": "The TRUE Story of Ah Q",
+        "label": "book",
+        "start": 81,
+        "end": 103
+      },
+      {
+        "text": "Kowallis 3 Lu",
+        "label": "writer",
+        "start": 202,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "Marlowe also wrote the poem Hero and Leander (published in 1598, with a continuation by George Chapman the same year), the popular lyric The Passionate Shepherd to His Love, translations of Ovid ' s Amores and the first book of Lucan ' s Pharsalia.",
+    "entities": [
+      {
+        "text": "Marlowe",
+        "label": "writer",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 23,
+        "end": 27
+      },
+      {
+        "text": "George Chapman",
+        "label": "writer",
+        "start": 88,
+        "end": 102
+      },
+      {
+        "text": "Ovid",
+        "label": "writer",
+        "start": 190,
+        "end": 194
+      },
+      {
+        "text": "Amores",
+        "label": "book",
+        "start": 199,
+        "end": 205
+      },
+      {
+        "text": "Lucan",
+        "label": "writer",
+        "start": 228,
+        "end": 233
+      }
+    ]
+  }
+]

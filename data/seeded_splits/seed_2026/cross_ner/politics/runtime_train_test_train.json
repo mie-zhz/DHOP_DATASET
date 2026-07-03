@@ -1,0 +1,3517 @@
+[
+  {
+    "text": "Kardash was re-elected in the 1945, 1949 Manitoba general election and 1953 Manitoba general election as a member of the Labor-Progressive Party (as the Communists had renamed themselves).",
+    "entities": [
+      {
+        "text": "Kardash",
+        "label": "politician",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "1949 Manitoba general election",
+        "label": "election",
+        "start": 36,
+        "end": 66
+      },
+      {
+        "text": "1953 Manitoba general election",
+        "label": "election",
+        "start": 71,
+        "end": 101
+      },
+      {
+        "text": "Labor-Progressive Party",
+        "label": "politicalparty",
+        "start": 121,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "Same edit patterns with beauty pageant related articles e.g., Miss Macau, Miss Cambodia, List of Thai representatives at international male beauty pageants, and etc.",
+    "entities": [
+      {
+        "text": "Miss Macau",
+        "label": "organisation",
+        "start": 62,
+        "end": 72
+      },
+      {
+        "text": "Miss Cambodia",
+        "label": "organisation",
+        "start": 74,
+        "end": 87
+      },
+      {
+        "text": "List of Thai representatives at international male beauty pageants",
+        "label": "organisation",
+        "start": 89,
+        "end": 155
+      }
+    ]
+  },
+  {
+    "text": "Pre-commission training of Gentlemen Cadets is carried out at the Indian Military Academy at Dehradun and the Officers Training Academy at Chennai.",
+    "entities": [
+      {
+        "text": "Indian Military Academy",
+        "label": "location",
+        "start": 66,
+        "end": 89
+      },
+      {
+        "text": "Dehradun",
+        "label": "location",
+        "start": 93,
+        "end": 101
+      },
+      {
+        "text": "Officers Training Academy",
+        "label": "location",
+        "start": 110,
+        "end": 135
+      },
+      {
+        "text": "Chennai",
+        "label": "location",
+        "start": 139,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "Born in Pownal, he first ran for public office in the 1921 Canadian federal election as a United Farmers of Canada - Progressive Party of Canada candidate, but failed to win a seat in the House of Commons of Canada.",
+    "entities": [
+      {
+        "text": "Pownal",
+        "label": "location",
+        "start": 8,
+        "end": 14
+      },
+      {
+        "text": "1921 Canadian federal election",
+        "label": "election",
+        "start": 54,
+        "end": 84
+      },
+      {
+        "text": "United Farmers of Canada",
+        "label": "politicalparty",
+        "start": 90,
+        "end": 114
+      },
+      {
+        "text": "Progressive Party of Canada",
+        "label": "politicalparty",
+        "start": 117,
+        "end": 144
+      },
+      {
+        "text": "House of Commons of Canada",
+        "label": "organisation",
+        "start": 188,
+        "end": 214
+      }
+    ]
+  },
+  {
+    "text": "In December 1914 he was appointed to the Committee on Alleged German Outrages, which in May 1915 reported on German war crimes against civilians during the invasion of Belgium in the opening months of World War I.",
+    "entities": [
+      {
+        "text": "Committee on Alleged German Outrages",
+        "label": "organisation",
+        "start": 41,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "He was a trustee of the Center for Strategic and International Studies and The Forum for International Policy, and was a member of the Council on Foreign Relations and the Trilateral Commission.",
+    "entities": [
+      {
+        "text": "Center for Strategic and International Studies",
+        "label": "organisation",
+        "start": 24,
+        "end": 70
+      },
+      {
+        "text": "The Forum for International Policy",
+        "label": "organisation",
+        "start": 75,
+        "end": 109
+      },
+      {
+        "text": "Council on Foreign Relations",
+        "label": "organisation",
+        "start": 135,
+        "end": 163
+      },
+      {
+        "text": "Trilateral Commission",
+        "label": "organisation",
+        "start": 172,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "A new Republican Party President was only elected later in the following decade of the early 1950s with the losses by two-time nominee, the Governor of Illinois Adlai Stevenson II (grandson of the Adlai Stevenson I of the 1892 United States presidential election) to the very popular war hero and commanding general in World War II, General Dwight D. Eisenhower (in 1952 United States presidential election and 1956 United States presidential election).",
+    "entities": [
+      {
+        "text": "Republican Party",
+        "label": "politicalparty",
+        "start": 6,
+        "end": 22
+      },
+      {
+        "text": "Illinois",
+        "label": "location",
+        "start": 152,
+        "end": 160
+      },
+      {
+        "text": "Adlai Stevenson II",
+        "label": "politician",
+        "start": 161,
+        "end": 179
+      },
+      {
+        "text": "Adlai Stevenson I",
+        "label": "politician",
+        "start": 197,
+        "end": 214
+      },
+      {
+        "text": "1892 United States presidential election",
+        "label": "election",
+        "start": 222,
+        "end": 262
+      },
+      {
+        "text": "Dwight D. Eisenhower",
+        "label": "politician",
+        "start": 341,
+        "end": 361
+      },
+      {
+        "text": "1952 United States presidential election",
+        "label": "election",
+        "start": 366,
+        "end": 406
+      },
+      {
+        "text": "1956 United States presidential election",
+        "label": "election",
+        "start": 411,
+        "end": 451
+      }
+    ]
+  },
+  {
+    "text": "He ran for a seat in the National Assembly of Quebec in the Montreal-based district of Mercier against Daniel Turp of the Parti Québécois in the 2003 Quebec general election, 2007 Quebec general election and 2008 Quebec general election elections.",
+    "entities": [
+      {
+        "text": "National Assembly of Quebec",
+        "label": "organisation",
+        "start": 25,
+        "end": 52
+      },
+      {
+        "text": "Montreal-based district",
+        "label": "location",
+        "start": 60,
+        "end": 83
+      },
+      {
+        "text": "Mercier",
+        "label": "location",
+        "start": 87,
+        "end": 94
+      },
+      {
+        "text": "Daniel Turp",
+        "label": "politician",
+        "start": 103,
+        "end": 114
+      },
+      {
+        "text": "Parti Québécois",
+        "label": "politicalparty",
+        "start": 122,
+        "end": 137
+      },
+      {
+        "text": "2003 Quebec general election",
+        "label": "election",
+        "start": 145,
+        "end": 173
+      },
+      {
+        "text": "2007 Quebec general election",
+        "label": "election",
+        "start": 175,
+        "end": 203
+      },
+      {
+        "text": "2008 Quebec general election",
+        "label": "election",
+        "start": 208,
+        "end": 236
+      }
+    ]
+  },
+  {
+    "text": "The manifesto has been signed by several personalities of international relevance, which include the following five Nobel Prize winners: Rigoberta Menchú, Desmond Tutu, Adolfo Pérez Esquivel, Dario Fo and Jody Williams.",
+    "entities": []
+  },
+  {
+    "text": "Democratic candidates won by large margins in the Southern states in every presidential election from the 1876 United States presidential election to 1948 United States presidential election except for 1928 United States presidential election, when the Democratic candidate was Al Smith, a Catholic New Yorker; and even in that election, the divided South provided Smith with nearly three-fourths of his electoral votes.",
+    "entities": [
+      {
+        "text": "1876 United States presidential election",
+        "label": "election",
+        "start": 106,
+        "end": 146
+      },
+      {
+        "text": "1948 United States presidential election",
+        "label": "election",
+        "start": 150,
+        "end": 190
+      },
+      {
+        "text": "1928 United States presidential election",
+        "label": "election",
+        "start": 202,
+        "end": 242
+      },
+      {
+        "text": "Al Smith",
+        "label": "politician",
+        "start": 278,
+        "end": 286
+      },
+      {
+        "text": "Smith",
+        "label": "politician",
+        "start": 365,
+        "end": 370
+      }
+    ]
+  },
+  {
+    "text": "It has several facilities spread across India including Bengaluru, Nasik, Korwa, Kanpur, Koraput, Lucknow, Hyderabad and Kasaragod.",
+    "entities": [
+      {
+        "text": "Bengaluru",
+        "label": "location",
+        "start": 56,
+        "end": 65
+      },
+      {
+        "text": "Nasik",
+        "label": "location",
+        "start": 67,
+        "end": 72
+      },
+      {
+        "text": "Korwa",
+        "label": "location",
+        "start": 74,
+        "end": 79
+      },
+      {
+        "text": "Kanpur",
+        "label": "location",
+        "start": 81,
+        "end": 87
+      },
+      {
+        "text": "Koraput",
+        "label": "location",
+        "start": 89,
+        "end": 96
+      },
+      {
+        "text": "Lucknow",
+        "label": "location",
+        "start": 98,
+        "end": 105
+      },
+      {
+        "text": "Hyderabad",
+        "label": "location",
+        "start": 107,
+        "end": 116
+      },
+      {
+        "text": "Kasaragod",
+        "label": "location",
+        "start": 121,
+        "end": 130
+      }
+    ]
+  },
+  {
+    "text": "Prior to embarking on his political career, Tharoor also served on the board of overseers of the Fletcher School of Law and Diplomacy, the board of trustees of the Aspen Institute, and the advisory boards of the Indo-American Arts Council, the American India Foundation, the World Policy Journal, the Virtue Foundation, and the human rights organisation Breakthrough.",
+    "entities": [
+      {
+        "text": "Tharoor",
+        "label": "politician",
+        "start": 44,
+        "end": 51
+      },
+      {
+        "text": "Fletcher School of Law and Diplomacy",
+        "label": "location",
+        "start": 97,
+        "end": 133
+      },
+      {
+        "text": "Aspen Institute",
+        "label": "organisation",
+        "start": 164,
+        "end": 179
+      },
+      {
+        "text": "Indo-American Arts Council",
+        "label": "organisation",
+        "start": 212,
+        "end": 238
+      },
+      {
+        "text": "American India Foundation",
+        "label": "organisation",
+        "start": 244,
+        "end": 269
+      },
+      {
+        "text": "World Policy Journal",
+        "label": "organisation",
+        "start": 275,
+        "end": 295
+      },
+      {
+        "text": "Virtue Foundation",
+        "label": "organisation",
+        "start": 301,
+        "end": 318
+      }
+    ]
+  },
+  {
+    "text": "Presidential elections have been held in 1999 Slovak presidential election, 2004 Slovak presidential election, 2009 Slovak presidential election, 2014 Slovak presidential election and 2019 Slovak presidential election.",
+    "entities": [
+      {
+        "text": "1999 Slovak presidential election",
+        "label": "election",
+        "start": 41,
+        "end": 74
+      },
+      {
+        "text": "2004 Slovak presidential election",
+        "label": "election",
+        "start": 76,
+        "end": 109
+      },
+      {
+        "text": "2009 Slovak presidential election",
+        "label": "election",
+        "start": 111,
+        "end": 144
+      },
+      {
+        "text": "2014 Slovak presidential election",
+        "label": "election",
+        "start": 146,
+        "end": 179
+      },
+      {
+        "text": "2019 Slovak presidential election",
+        "label": "election",
+        "start": 184,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "Cantwell was reelected in 2006 United States Senate election in Washington, 2012 United States Senate election in Washington, and 2018 United States Senate election in Washington.",
+    "entities": [
+      {
+        "text": "Cantwell",
+        "label": "politician",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "2006 United States Senate election in Washington",
+        "label": "election",
+        "start": 26,
+        "end": 74
+      },
+      {
+        "text": "2012 United States Senate election in Washington",
+        "label": "election",
+        "start": 76,
+        "end": 124
+      },
+      {
+        "text": "2018 United States Senate election in Washington",
+        "label": "election",
+        "start": 130,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "Following the 1988 Canadian federal election, he co-authored Election: the issues, the strategies, the aftermath with Liberal Party of Canada strategiest Michael J. L. Kirby and Conservative Party of Canada strategist Hugh Segal.",
+    "entities": [
+      {
+        "text": "1988 Canadian federal election",
+        "label": "election",
+        "start": 14,
+        "end": 44
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 118,
+        "end": 141
+      },
+      {
+        "text": "Michael J. L. Kirby",
+        "label": "politician",
+        "start": 154,
+        "end": 173
+      },
+      {
+        "text": "Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 178,
+        "end": 206
+      },
+      {
+        "text": "Hugh Segal",
+        "label": "politician",
+        "start": 218,
+        "end": 228
+      }
+    ]
+  },
+  {
+    "text": "In 1642 parliament seized control of the Tower mint and after Charles I tried to arrest the Five Members he was forced to flee London, establishing at least 16 emergency mints across the British Isles in Colchester, Chester, Cork, Edinburgh, Dublin, Exeter, Salisbury, parts of Cornwall including Truro, Weymouth, Worcester, York, Carlisle, Newark, Pontefract and Scarborough.",
+    "entities": [
+      {
+        "text": "London",
+        "label": "location",
+        "start": 127,
+        "end": 133
+      },
+      {
+        "text": "British Isles",
+        "label": "location",
+        "start": 187,
+        "end": 200
+      },
+      {
+        "text": "Colchester",
+        "label": "location",
+        "start": 204,
+        "end": 214
+      },
+      {
+        "text": "Chester",
+        "label": "location",
+        "start": 216,
+        "end": 223
+      },
+      {
+        "text": "Cork",
+        "label": "location",
+        "start": 225,
+        "end": 229
+      },
+      {
+        "text": "Edinburgh",
+        "label": "location",
+        "start": 231,
+        "end": 240
+      },
+      {
+        "text": "Dublin",
+        "label": "location",
+        "start": 242,
+        "end": 248
+      },
+      {
+        "text": "Exeter",
+        "label": "location",
+        "start": 250,
+        "end": 256
+      },
+      {
+        "text": "Salisbury",
+        "label": "location",
+        "start": 258,
+        "end": 267
+      },
+      {
+        "text": "Cornwall",
+        "label": "location",
+        "start": 278,
+        "end": 286
+      },
+      {
+        "text": "Truro",
+        "label": "location",
+        "start": 297,
+        "end": 302
+      },
+      {
+        "text": "Weymouth",
+        "label": "location",
+        "start": 304,
+        "end": 312
+      },
+      {
+        "text": "Worcester",
+        "label": "location",
+        "start": 314,
+        "end": 323
+      },
+      {
+        "text": "York",
+        "label": "location",
+        "start": 325,
+        "end": 329
+      },
+      {
+        "text": "Carlisle",
+        "label": "location",
+        "start": 331,
+        "end": 339
+      },
+      {
+        "text": "Newark",
+        "label": "location",
+        "start": 341,
+        "end": 347
+      },
+      {
+        "text": "Pontefract",
+        "label": "location",
+        "start": 349,
+        "end": 359
+      },
+      {
+        "text": "Scarborough",
+        "label": "location",
+        "start": 364,
+        "end": 375
+      }
+    ]
+  },
+  {
+    "text": "To date, it is the only party other than Mapai / Israeli Labor Party or Likud to have led a government in Israel.",
+    "entities": [
+      {
+        "text": "Mapai",
+        "label": "politicalparty",
+        "start": 41,
+        "end": 46
+      },
+      {
+        "text": "Israeli Labor Party",
+        "label": "politicalparty",
+        "start": 49,
+        "end": 68
+      },
+      {
+        "text": "Likud",
+        "label": "politicalparty",
+        "start": 72,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "Zappa set excerpts from the PMRC hearings to Synclavier music in his composition Porn Wars on the 1985 album Frank Zappa Meets the Mothers of Prevention, and the full recording was released in 2010 as Congress Shall Make No Law ... Zappa is heard interacting with Senators Fritz Hollings, Slade Gorton and Al Gore.",
+    "entities": [
+      {
+        "text": "PMRC",
+        "label": "organisation",
+        "start": 28,
+        "end": 32
+      },
+      {
+        "text": "Zappa",
+        "label": "politician",
+        "start": 232,
+        "end": 237
+      },
+      {
+        "text": "Fritz Hollings",
+        "label": "politician",
+        "start": 273,
+        "end": 287
+      },
+      {
+        "text": "Slade Gorton",
+        "label": "politician",
+        "start": 289,
+        "end": 301
+      },
+      {
+        "text": "Al Gore",
+        "label": "politician",
+        "start": 306,
+        "end": 313
+      }
+    ]
+  },
+  {
+    "text": "Republican incumbent Bob Packwood was re-elected to a third term, defeating Democratic state senator Ted Kulongoski and Libertarian Tonie Nathan.",
+    "entities": [
+      {
+        "text": "Bob Packwood",
+        "label": "politician",
+        "start": 21,
+        "end": 33
+      },
+      {
+        "text": "Ted Kulongoski",
+        "label": "politician",
+        "start": 101,
+        "end": 115
+      },
+      {
+        "text": "Tonie Nathan",
+        "label": "politician",
+        "start": 132,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "Nha Trang, headquarters of the U.S. I Field Force, was the first to be hit, followed shortly by Ban Mê Thuột, Kon Tum, Hội An, Tuy Hòa, Da Nang, Qui Nhơn, and Pleiku.",
+    "entities": [
+      {
+        "text": "Nha Trang",
+        "label": "location",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "I Field Force",
+        "label": "organisation",
+        "start": 36,
+        "end": 49
+      },
+      {
+        "text": "Ban Mê Thuột",
+        "label": "location",
+        "start": 96,
+        "end": 108
+      },
+      {
+        "text": "Kon Tum",
+        "label": "location",
+        "start": 110,
+        "end": 117
+      },
+      {
+        "text": "Hội An",
+        "label": "location",
+        "start": 119,
+        "end": 125
+      },
+      {
+        "text": "Tuy Hòa",
+        "label": "location",
+        "start": 127,
+        "end": 134
+      },
+      {
+        "text": "Da Nang",
+        "label": "location",
+        "start": 136,
+        "end": 143
+      },
+      {
+        "text": "Qui Nhơn",
+        "label": "location",
+        "start": 145,
+        "end": 153
+      },
+      {
+        "text": "Pleiku",
+        "label": "location",
+        "start": 159,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "text": "The American Conservative Union consistently rated Jones low among his Republican colleagues for support of the conservative political platform, though he received higher ratings from the Conservative Review and Club for Growth.",
+    "entities": [
+      {
+        "text": "American Conservative Union",
+        "label": "organisation",
+        "start": 4,
+        "end": 31
+      },
+      {
+        "text": "Jones",
+        "label": "politician",
+        "start": 51,
+        "end": 56
+      },
+      {
+        "text": "Conservative Review",
+        "label": "organisation",
+        "start": 188,
+        "end": 207
+      },
+      {
+        "text": "Club for Growth",
+        "label": "organisation",
+        "start": 212,
+        "end": 227
+      }
+    ]
+  },
+  {
+    "text": "Democrat Ron Wyden won a 1996 United States Senate special election in Oregon to replace Republican Bob Packwood, leaving the balance at 53-47 before the next 1996 United States Senate elections.",
+    "entities": [
+      {
+        "text": "Ron Wyden",
+        "label": "politician",
+        "start": 9,
+        "end": 18
+      },
+      {
+        "text": "1996 United States Senate special election in Oregon",
+        "label": "election",
+        "start": 25,
+        "end": 77
+      },
+      {
+        "text": "Bob Packwood",
+        "label": "politician",
+        "start": 100,
+        "end": 112
+      },
+      {
+        "text": "1996 United States Senate elections",
+        "label": "election",
+        "start": 159,
+        "end": 194
+      }
+    ]
+  },
+  {
+    "text": "At the 2001 Italian general election the Greens formed a joint list with the Italian Democratic Socialists (SDI): The Sunflower.",
+    "entities": [
+      {
+        "text": "2001 Italian general election",
+        "label": "election",
+        "start": 7,
+        "end": 36
+      },
+      {
+        "text": "Italian Democratic Socialists",
+        "label": "politicalparty",
+        "start": 77,
+        "end": 106
+      },
+      {
+        "text": "SDI",
+        "label": "politicalparty",
+        "start": 108,
+        "end": 111
+      },
+      {
+        "text": "The Sunflower",
+        "label": "politicalparty",
+        "start": 114,
+        "end": 127
+      }
+    ]
+  },
+  {
+    "text": "Anti-fascist activities in places such as Liverpool, Yorkshire, Bristol and Norwich were heavily influenced by local anarchists.",
+    "entities": [
+      {
+        "text": "Liverpool",
+        "label": "location",
+        "start": 42,
+        "end": 51
+      },
+      {
+        "text": "Yorkshire",
+        "label": "location",
+        "start": 53,
+        "end": 62
+      },
+      {
+        "text": "Bristol",
+        "label": "location",
+        "start": 64,
+        "end": 71
+      },
+      {
+        "text": "Norwich",
+        "label": "location",
+        "start": 76,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "text": "The head of Government is the Chief Minister, currently the Hon. Fabian Picardo of the Gibraltar Socialist Labour Party (GSLP) who has been in office since 9 December 2011, in alliance with the Gibraltar Liberal Party (Liberals), following the 2011 Gibraltar general election.",
+    "entities": [
+      {
+        "text": "Fabian Picardo",
+        "label": "politician",
+        "start": 65,
+        "end": 79
+      },
+      {
+        "text": "Gibraltar Socialist Labour Party",
+        "label": "politicalparty",
+        "start": 87,
+        "end": 119
+      },
+      {
+        "text": "GSLP",
+        "label": "politicalparty",
+        "start": 121,
+        "end": 125
+      },
+      {
+        "text": "Gibraltar Liberal Party",
+        "label": "politicalparty",
+        "start": 194,
+        "end": 217
+      },
+      {
+        "text": "Liberals",
+        "label": "politicalparty",
+        "start": 219,
+        "end": 227
+      },
+      {
+        "text": "2011 Gibraltar general election",
+        "label": "election",
+        "start": 244,
+        "end": 275
+      }
+    ]
+  },
+  {
+    "text": "Born and raised in Indianapolis, Indiana, Cantwell graduated from Miami University before moving to Seattle to work on Alan Cranston ' s 1984 Democratic Party presidential primaries.",
+    "entities": [
+      {
+        "text": "Indianapolis",
+        "label": "location",
+        "start": 19,
+        "end": 31
+      },
+      {
+        "text": "Indiana",
+        "label": "location",
+        "start": 33,
+        "end": 40
+      },
+      {
+        "text": "Cantwell",
+        "label": "politician",
+        "start": 42,
+        "end": 50
+      },
+      {
+        "text": "Miami University",
+        "label": "organisation",
+        "start": 66,
+        "end": 82
+      },
+      {
+        "text": "Seattle",
+        "label": "location",
+        "start": 100,
+        "end": 107
+      },
+      {
+        "text": "Alan Cranston",
+        "label": "politician",
+        "start": 119,
+        "end": 132
+      },
+      {
+        "text": "1984 Democratic Party presidential primaries",
+        "label": "election",
+        "start": 137,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "The film features Ranjith and Anamika in lead roles, with Ravichandran, Pyramid Natarajan, Manivannan, Vasu Vikram, Rajesh, Raj Kapoor, T. P. Gajendran, Alex and Pandu playing supporting roles.",
+    "entities": []
+  },
+  {
+    "text": "In March 1987, Western Goals UK had filed a complaint with the Charity Commission for England and Wales against three major British charities, Oxfam, War on Want, and Christian Aid claiming that they were involved in political campaigning work (which was then contrary to UK charity law) in support of left-wing organizations due to their campaigns against apartheid in South Africa.",
+    "entities": [
+      {
+        "text": "Western Goals UK",
+        "label": "organisation",
+        "start": 15,
+        "end": 31
+      },
+      {
+        "text": "Charity Commission for England and Wales",
+        "label": "organisation",
+        "start": 63,
+        "end": 103
+      },
+      {
+        "text": "Oxfam",
+        "label": "organisation",
+        "start": 143,
+        "end": 148
+      },
+      {
+        "text": "War on Want",
+        "label": "organisation",
+        "start": 150,
+        "end": 161
+      },
+      {
+        "text": "Christian Aid",
+        "label": "organisation",
+        "start": 167,
+        "end": 180
+      },
+      {
+        "text": "apartheid",
+        "label": "organisation",
+        "start": 357,
+        "end": 366
+      }
+    ]
+  },
+  {
+    "text": "During the 1930s and 1940s, Joseph Stalin ' s NKVD carried out numerous assassinations outside of the Soviet Union, such as the killings of Organization of Ukrainian Nationalists leader Yevhen Konovalets, Ignace Poretsky, Fourth International secretary Rudolf Klement, Leon Trotsky, and the Workers ' Party of Marxist Unification (POUM) leadership in Catalonia Michael Ellman.",
+    "entities": [
+      {
+        "text": "Joseph Stalin",
+        "label": "politician",
+        "start": 28,
+        "end": 41
+      },
+      {
+        "text": "NKVD",
+        "label": "organisation",
+        "start": 46,
+        "end": 50
+      },
+      {
+        "text": "Organization of Ukrainian Nationalists",
+        "label": "politicalparty",
+        "start": 140,
+        "end": 178
+      },
+      {
+        "text": "Yevhen Konovalets",
+        "label": "politician",
+        "start": 186,
+        "end": 203
+      },
+      {
+        "text": "Ignace Poretsky",
+        "label": "politician",
+        "start": 205,
+        "end": 220
+      },
+      {
+        "text": "Fourth International",
+        "label": "organisation",
+        "start": 222,
+        "end": 242
+      },
+      {
+        "text": "Rudolf Klement",
+        "label": "politician",
+        "start": 253,
+        "end": 267
+      },
+      {
+        "text": "Leon Trotsky",
+        "label": "politician",
+        "start": 269,
+        "end": 281
+      },
+      {
+        "text": "Workers ' Party of Marxist Unification",
+        "label": "politicalparty",
+        "start": 291,
+        "end": 329
+      },
+      {
+        "text": "POUM",
+        "label": "politicalparty",
+        "start": 331,
+        "end": 335
+      },
+      {
+        "text": "Catalonia",
+        "label": "location",
+        "start": 351,
+        "end": 360
+      },
+      {
+        "text": "Michael Ellman",
+        "label": "politician",
+        "start": 361,
+        "end": 375
+      }
+    ]
+  },
+  {
+    "text": "He won election again in 2000 Canadian federal election as a Canadian Alliance MP with 60% of the vote and won his fourth straight victory in the 2004 Canadian federal election, this time as a Conservative Party of Canada.",
+    "entities": [
+      {
+        "text": "2000 Canadian federal election",
+        "label": "election",
+        "start": 25,
+        "end": 55
+      },
+      {
+        "text": "Canadian Alliance",
+        "label": "politicalparty",
+        "start": 61,
+        "end": 78
+      },
+      {
+        "text": "2004 Canadian federal election",
+        "label": "election",
+        "start": 146,
+        "end": 176
+      },
+      {
+        "text": "Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 193,
+        "end": 221
+      }
+    ]
+  },
+  {
+    "text": "The May 1958 crisis (or Algiers putsch or the coup of 13 May) was a political crisis in France during the turmoil of the Algerian War of Independence (1954-62) which led to the collapse of the French Fourth Republic and its replacement by the French Fifth Republic led by Charles de Gaulle who returned to power after a twelve-year absence.",
+    "entities": [
+      {
+        "text": "Charles de Gaulle",
+        "label": "politician",
+        "start": 272,
+        "end": 289
+      }
+    ]
+  },
+  {
+    "text": "The 2017 BRICS summit was the ninth annual BRICS summit, an international relations conference attended by the heads of state or heads of government of the five member states Brazil, Russia, India, China and South Africa.",
+    "entities": []
+  },
+  {
+    "text": "With his marriage to Urraca, queen regnant of Kingdom of Castile, Kingdom of León and Kingdom of Galicia, in 1109, he began to use, with some justification, the grandiose title Emperor of Spain, formerly employed by his father-in-law, Alfonso VI.",
+    "entities": []
+  },
+  {
+    "text": "The party refused to admit Arab members until the late 1960s, instead setting up a succession of satellite parties for Israeli Arabs, including the Democratic List of Nazareth, the Democratic List for Israeli Arabs, Agriculture and Development, Progress and Work, Cooperation and Brotherhood, Progress and Development and Cooperation and Development.",
+    "entities": [
+      {
+        "text": "Democratic List of Nazareth",
+        "label": "politicalparty",
+        "start": 148,
+        "end": 175
+      },
+      {
+        "text": "Democratic List for Israeli Arabs",
+        "label": "politicalparty",
+        "start": 181,
+        "end": 214
+      },
+      {
+        "text": "Agriculture and Development",
+        "label": "politicalparty",
+        "start": 216,
+        "end": 243
+      },
+      {
+        "text": "Progress and Work",
+        "label": "politicalparty",
+        "start": 245,
+        "end": 262
+      },
+      {
+        "text": "Cooperation and Brotherhood",
+        "label": "politicalparty",
+        "start": 264,
+        "end": 291
+      },
+      {
+        "text": "Progress and Development",
+        "label": "politicalparty",
+        "start": 293,
+        "end": 317
+      },
+      {
+        "text": "Cooperation and Development",
+        "label": "politicalparty",
+        "start": 322,
+        "end": 349
+      }
+    ]
+  },
+  {
+    "text": "The speakers - all of whom were high schoolers or younger - included Marjory Stoneman Douglas students Cameron Kasky, David Hogg, Delaney Tarr, Sarah Chadwick, Alex Wind, Jaclyn Corin, Ryan Deitsch, Aalayah Eastmond, Samantha Fuentes, and Emma González.",
+    "entities": [
+      {
+        "text": "Marjory Stoneman Douglas",
+        "label": "organisation",
+        "start": 69,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "text": "On 5 April 1960, BEA introduced de Havilland Comet 4B aircraft on the Nicosia, Athens, Rome, and London routes.",
+    "entities": [
+      {
+        "text": "de Havilland Comet",
+        "label": "organisation",
+        "start": 32,
+        "end": 50
+      },
+      {
+        "text": "Nicosia",
+        "label": "location",
+        "start": 70,
+        "end": 77
+      },
+      {
+        "text": "Athens",
+        "label": "location",
+        "start": 79,
+        "end": 85
+      },
+      {
+        "text": "Rome",
+        "label": "location",
+        "start": 87,
+        "end": 91
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 97,
+        "end": 103
+      }
+    ]
+  },
+  {
+    "text": "The film was featured at various international film festivals, including: the Deauville Film Festival, France; the Donostia-San Sebastián International Film Festival, Spain; the Edinburgh International Film Festival, Scotland; the Helsinki International Film Festival, Finland; the Reykjavik Film Festival, Iceland; and others.",
+    "entities": []
+  },
+  {
+    "text": "OSHA's regional offices are located in Boston, New York City, Philadelphia, Atlanta, Chicago, Dallas, Kansas City metropolitan area, Denver, San Francisco, and Seattle.",
+    "entities": [
+      {
+        "text": "OSHA",
+        "label": "organisation",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Boston",
+        "label": "location",
+        "start": 39,
+        "end": 45
+      },
+      {
+        "text": "New York City",
+        "label": "location",
+        "start": 47,
+        "end": 60
+      },
+      {
+        "text": "Philadelphia",
+        "label": "location",
+        "start": 62,
+        "end": 74
+      },
+      {
+        "text": "Atlanta",
+        "label": "location",
+        "start": 76,
+        "end": 83
+      },
+      {
+        "text": "Chicago",
+        "label": "location",
+        "start": 85,
+        "end": 92
+      },
+      {
+        "text": "Dallas",
+        "label": "location",
+        "start": 94,
+        "end": 100
+      },
+      {
+        "text": "Kansas City metropolitan area",
+        "label": "location",
+        "start": 102,
+        "end": 131
+      },
+      {
+        "text": "Denver",
+        "label": "location",
+        "start": 133,
+        "end": 139
+      },
+      {
+        "text": "San Francisco",
+        "label": "location",
+        "start": 141,
+        "end": 154
+      },
+      {
+        "text": "Seattle",
+        "label": "location",
+        "start": 160,
+        "end": 167
+      }
+    ]
+  },
+  {
+    "text": "Olympic athlete Bob Richards (1984 United States presidential election), David Duke (a founder of the Knights of the Ku Klux Klan and a future Louisiana state representative, 1988 United States presidential election) and former Green Beret Bo Gritz (1992 United States presidential election) were the Populist Party's only three presidential candidates.",
+    "entities": [
+      {
+        "text": "Bob Richards",
+        "label": "politician",
+        "start": 16,
+        "end": 28
+      },
+      {
+        "text": "1984 United States presidential election",
+        "label": "election",
+        "start": 30,
+        "end": 70
+      },
+      {
+        "text": "David Duke",
+        "label": "politician",
+        "start": 73,
+        "end": 83
+      },
+      {
+        "text": "Knights of the Ku Klux Klan",
+        "label": "organisation",
+        "start": 102,
+        "end": 129
+      },
+      {
+        "text": "Louisiana state",
+        "label": "location",
+        "start": 143,
+        "end": 158
+      },
+      {
+        "text": "1988 United States presidential election",
+        "label": "election",
+        "start": 175,
+        "end": 215
+      },
+      {
+        "text": "Green Beret",
+        "label": "organisation",
+        "start": 228,
+        "end": 239
+      },
+      {
+        "text": "Bo Gritz",
+        "label": "politician",
+        "start": 240,
+        "end": 248
+      },
+      {
+        "text": "1992 United States presidential election",
+        "label": "election",
+        "start": 250,
+        "end": 290
+      },
+      {
+        "text": "Populist Party",
+        "label": "politicalparty",
+        "start": 301,
+        "end": 315
+      }
+    ]
+  },
+  {
+    "text": "Only on five occasions since the beginnings of modern party politics in 1890 New Zealand general election has a hung parliament occurred, in 1911 New Zealand general election, 1922 New Zealand general election, 1928 New Zealand general election, 1931 New Zealand general election & amp; 1993 New Zealand general election respectively.",
+    "entities": [
+      {
+        "text": "1890 New Zealand general election",
+        "label": "election",
+        "start": 72,
+        "end": 105
+      },
+      {
+        "text": "1911 New Zealand general election",
+        "label": "election",
+        "start": 141,
+        "end": 174
+      },
+      {
+        "text": "1922 New Zealand general election",
+        "label": "election",
+        "start": 176,
+        "end": 209
+      },
+      {
+        "text": "1928 New Zealand general election",
+        "label": "election",
+        "start": 211,
+        "end": 244
+      },
+      {
+        "text": "1931 New Zealand general election",
+        "label": "election",
+        "start": 246,
+        "end": 279
+      },
+      {
+        "text": "1993 New Zealand general election",
+        "label": "election",
+        "start": 287,
+        "end": 320
+      }
+    ]
+  },
+  {
+    "text": "Incumbent Democrat Alan J. Dixon decided to run for re-election a third term, but was defeated in the primary against Carol Moseley Braun, Cook County Recorder of Deeds and former State Representative, who then won the general election over Republican Richard S. Williamson, former Assistant Secretary of State for International Organization Affairs.",
+    "entities": [
+      {
+        "text": "Alan J. Dixon",
+        "label": "politician",
+        "start": 19,
+        "end": 32
+      },
+      {
+        "text": "Carol Moseley Braun",
+        "label": "politician",
+        "start": 118,
+        "end": 137
+      },
+      {
+        "text": "Cook County",
+        "label": "location",
+        "start": 139,
+        "end": 150
+      },
+      {
+        "text": "Richard S. Williamson",
+        "label": "politician",
+        "start": 252,
+        "end": 273
+      },
+      {
+        "text": "International Organization Affairs",
+        "label": "organisation",
+        "start": 315,
+        "end": 349
+      }
+    ]
+  },
+  {
+    "text": "Dianne Feinstein won a 1992 United States Senate special election in California to fill the seat of Governor Pete Wilson.",
+    "entities": [
+      {
+        "text": "Dianne Feinstein",
+        "label": "politician",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "1992 United States Senate special election in California",
+        "label": "election",
+        "start": 23,
+        "end": 79
+      },
+      {
+        "text": "Pete Wilson",
+        "label": "politician",
+        "start": 109,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "On 23 September 2016, Thai Smile, Thai's subsidiary announced four new services to Gaya, Varanasi, Jaipur, and Lucknow in India marking the expansion of Thai's network in regional market.",
+    "entities": [
+      {
+        "text": "Thai Smile",
+        "label": "organisation",
+        "start": 22,
+        "end": 32
+      },
+      {
+        "text": "Gaya",
+        "label": "location",
+        "start": 83,
+        "end": 87
+      },
+      {
+        "text": "Varanasi",
+        "label": "location",
+        "start": 89,
+        "end": 97
+      },
+      {
+        "text": "Jaipur",
+        "label": "location",
+        "start": 99,
+        "end": 105
+      },
+      {
+        "text": "Lucknow",
+        "label": "location",
+        "start": 111,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "He ran unsuccessfully as an independent Liberal in Saint-Jean - Iberville - Napierville in the 1957 Canadian federal election, but was successful as the Liberal Party of Canada candidate in the same riding in the 1958 Canadian federal election.",
+    "entities": [
+      {
+        "text": "Saint-Jean - Iberville - Napierville",
+        "label": "location",
+        "start": 51,
+        "end": 87
+      },
+      {
+        "text": "1957 Canadian federal election",
+        "label": "election",
+        "start": 95,
+        "end": 125
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 153,
+        "end": 176
+      },
+      {
+        "text": "1958 Canadian federal election",
+        "label": "election",
+        "start": 213,
+        "end": 243
+      }
+    ]
+  },
+  {
+    "text": "During his premiership, Renzi faced several challenging foreign policy situations, such as the European debt crisis, the civil war in Libya, the Ukrainian Crisis and the insurgency of the Islamic State (IS) in the Middle East.",
+    "entities": [
+      {
+        "text": "Renzi",
+        "label": "politician",
+        "start": 24,
+        "end": 29
+      },
+      {
+        "text": "Middle East",
+        "label": "location",
+        "start": 214,
+        "end": 225
+      }
+    ]
+  },
+  {
+    "text": "Due to his excellent drive and contribution to the country's economy, and his strong economics and finance background, he was entrusted to manage the country's finance and was made the Finance Minister in 1976, Chairman of Asian Development Bank in 1976, IBRD (World Bank) and IMF in 1977, and Islamic Development Bank in 1978.",
+    "entities": [
+      {
+        "text": "Asian Development Bank",
+        "label": "organisation",
+        "start": 223,
+        "end": 245
+      },
+      {
+        "text": "IBRD",
+        "label": "organisation",
+        "start": 255,
+        "end": 259
+      },
+      {
+        "text": "World Bank",
+        "label": "organisation",
+        "start": 261,
+        "end": 271
+      },
+      {
+        "text": "IMF",
+        "label": "organisation",
+        "start": 277,
+        "end": 280
+      },
+      {
+        "text": "Islamic Development Bank",
+        "label": "organisation",
+        "start": 294,
+        "end": 318
+      }
+    ]
+  },
+  {
+    "text": "Cuse serves as an executive producer alongside John Krasinski, Michael Bay, and Mace Neufeld, among others.",
+    "entities": []
+  },
+  {
+    "text": "Thomas Wolsey, Thomas More, Thomas Cromwell, Richard Rich, and Thomas Cranmer all figured prominently in his administration.",
+    "entities": [
+      {
+        "text": "Thomas Wolsey",
+        "label": "politician",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Thomas More",
+        "label": "politician",
+        "start": 15,
+        "end": 26
+      },
+      {
+        "text": "Thomas Cromwell",
+        "label": "politician",
+        "start": 28,
+        "end": 43
+      },
+      {
+        "text": "Richard Rich",
+        "label": "politician",
+        "start": 45,
+        "end": 57
+      },
+      {
+        "text": "Thomas Cranmer",
+        "label": "politician",
+        "start": 63,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "The provinces ceded to Augustus for that ten-year period comprised much of the conquered Roman world, including all of Hispania and Gaul, Syria, Cilicia, Cyprus, and Egypt.",
+    "entities": [
+      {
+        "text": "Hispania",
+        "label": "location",
+        "start": 119,
+        "end": 127
+      },
+      {
+        "text": "Gaul",
+        "label": "location",
+        "start": 132,
+        "end": 136
+      },
+      {
+        "text": "Cilicia",
+        "label": "location",
+        "start": 145,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "text": "Many of the most prominent national leaders, such as Washington, John Adams, John Hancock, and Benjamin Franklin, retired from public life, served as foreign delegates, or held office in state governments; and for the general public, local government and self-rule seemed quite satisfactory.",
+    "entities": [
+      {
+        "text": "Washington",
+        "label": "politician",
+        "start": 53,
+        "end": 63
+      },
+      {
+        "text": "John Adams",
+        "label": "politician",
+        "start": 65,
+        "end": 75
+      },
+      {
+        "text": "John Hancock",
+        "label": "politician",
+        "start": 77,
+        "end": 89
+      },
+      {
+        "text": "Benjamin Franklin",
+        "label": "politician",
+        "start": 95,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "text": "As a result of western alienation both the dominant Conservative and Liberal parties were challenged in the west by the rise of a number of protest parties including the Progressive Party of Canada, the Co-operative Commonwealth Federation (CCF), the Reconstruction Party of Canada and the Social Credit Party of Canada.",
+    "entities": [
+      {
+        "text": "Conservative",
+        "label": "politicalparty",
+        "start": 52,
+        "end": 64
+      },
+      {
+        "text": "Liberal",
+        "label": "politicalparty",
+        "start": 69,
+        "end": 76
+      },
+      {
+        "text": "Progressive Party of Canada",
+        "label": "politicalparty",
+        "start": 170,
+        "end": 197
+      },
+      {
+        "text": "Co-operative Commonwealth Federation",
+        "label": "politicalparty",
+        "start": 203,
+        "end": 239
+      },
+      {
+        "text": "CCF",
+        "label": "politicalparty",
+        "start": 241,
+        "end": 244
+      },
+      {
+        "text": "Reconstruction Party of Canada",
+        "label": "politicalparty",
+        "start": 251,
+        "end": 281
+      },
+      {
+        "text": "Social Credit Party of Canada",
+        "label": "politicalparty",
+        "start": 290,
+        "end": 319
+      }
+    ]
+  },
+  {
+    "text": "Leaders of two of its caucuses formed separate socialist organizations, namely the Socialist Party USA and the Democratic Socialist Organizing Committee, the latter of which became a precursor to the largest present-day socialist organization in the United States, the Democratic Socialists of America.",
+    "entities": [
+      {
+        "text": "Socialist Party USA",
+        "label": "politicalparty",
+        "start": 83,
+        "end": 102
+      },
+      {
+        "text": "Democratic Socialist Organizing Committee",
+        "label": "politicalparty",
+        "start": 111,
+        "end": 152
+      },
+      {
+        "text": "Democratic Socialists of America",
+        "label": "politicalparty",
+        "start": 269,
+        "end": 301
+      }
+    ]
+  },
+  {
+    "text": "Hitchens was made an Honorary Associate of the Rationalist International and the National Secular Society shortly after its release, and he was later named to the Honorary Board of distinguished achievers of the Freedom From Religion Foundation .. Approximately 112 minutes in, Hitchens contends, ' The moment where everything went wrong is the moment when the Jewish hellenists were defeated by the Jewish messiahs, the celebration now benignly known as Hanukkah.",
+    "entities": [
+      {
+        "text": "Rationalist International",
+        "label": "organisation",
+        "start": 47,
+        "end": 72
+      },
+      {
+        "text": "National Secular Society",
+        "label": "organisation",
+        "start": 81,
+        "end": 105
+      },
+      {
+        "text": "Freedom From Religion Foundation",
+        "label": "organisation",
+        "start": 212,
+        "end": 244
+      }
+    ]
+  },
+  {
+    "text": "In interviews with Oliver Stone in 2017, Russian president Vladimir Putin said that in trying to persuade Russia to accept US withdrawal from the treaty, both Bill Clinton and George W. Bush had tried, without evidence, to convince him of an emerging nuclear threat from Iran.",
+    "entities": [
+      {
+        "text": "Vladimir Putin",
+        "label": "politician",
+        "start": 59,
+        "end": 73
+      },
+      {
+        "text": "Bill Clinton",
+        "label": "politician",
+        "start": 159,
+        "end": 171
+      },
+      {
+        "text": "George W. Bush",
+        "label": "politician",
+        "start": 176,
+        "end": 190
+      }
+    ]
+  },
+  {
+    "text": "At the 1989 European Parliament election in Italy there were two competing green parties: the LV and the Rainbow Greens (VA), formed mainly by Radicals, including Adelaide Aglietta, Franco Corleone, Adele Faccio, Marco Taradash and Francesco Rutelli, as well as splinters from Proletarian Democracy, including Mario Capanna, Guido Pollice, Gianni Tamino and Edo Ronchi.",
+    "entities": [
+      {
+        "text": "1989 European Parliament election in Italy",
+        "label": "election",
+        "start": 7,
+        "end": 49
+      },
+      {
+        "text": "LV",
+        "label": "politicalparty",
+        "start": 94,
+        "end": 96
+      },
+      {
+        "text": "Rainbow Greens",
+        "label": "politicalparty",
+        "start": 105,
+        "end": 119
+      },
+      {
+        "text": "VA",
+        "label": "politicalparty",
+        "start": 121,
+        "end": 123
+      },
+      {
+        "text": "Adelaide Aglietta",
+        "label": "politician",
+        "start": 163,
+        "end": 180
+      },
+      {
+        "text": "Franco Corleone",
+        "label": "politician",
+        "start": 182,
+        "end": 197
+      },
+      {
+        "text": "Adele Faccio",
+        "label": "politician",
+        "start": 199,
+        "end": 211
+      },
+      {
+        "text": "Marco Taradash",
+        "label": "politician",
+        "start": 213,
+        "end": 227
+      },
+      {
+        "text": "Francesco Rutelli",
+        "label": "politician",
+        "start": 232,
+        "end": 249
+      },
+      {
+        "text": "Proletarian Democracy",
+        "label": "politicalparty",
+        "start": 277,
+        "end": 298
+      },
+      {
+        "text": "Mario Capanna",
+        "label": "politician",
+        "start": 310,
+        "end": 323
+      },
+      {
+        "text": "Guido Pollice",
+        "label": "politician",
+        "start": 325,
+        "end": 338
+      },
+      {
+        "text": "Gianni Tamino",
+        "label": "politician",
+        "start": 340,
+        "end": 353
+      },
+      {
+        "text": "Edo Ronchi",
+        "label": "politician",
+        "start": 358,
+        "end": 368
+      }
+    ]
+  },
+  {
+    "text": "This gathering was to criticize unfair trade and undemocratic globalization of the WTO, World Bank, World Economic Forum (WEF), the International Monetary Fund.",
+    "entities": [
+      {
+        "text": "WTO",
+        "label": "organisation",
+        "start": 83,
+        "end": 86
+      },
+      {
+        "text": "World Bank",
+        "label": "organisation",
+        "start": 88,
+        "end": 98
+      },
+      {
+        "text": "World Economic Forum",
+        "label": "organisation",
+        "start": 100,
+        "end": 120
+      },
+      {
+        "text": "WEF",
+        "label": "organisation",
+        "start": 122,
+        "end": 125
+      },
+      {
+        "text": "International Monetary Fund",
+        "label": "organisation",
+        "start": 132,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "On 24 February 2016, the DPJ announced an agreement to merge with the smaller Japan Innovation Party (JIP) and Vision of Reform ahead of the 2016 Japanese House of Councillors election in the summer,",
+    "entities": [
+      {
+        "text": "DPJ",
+        "label": "politicalparty",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "Japan Innovation Party",
+        "label": "politicalparty",
+        "start": 78,
+        "end": 100
+      },
+      {
+        "text": "JIP",
+        "label": "politicalparty",
+        "start": 102,
+        "end": 105
+      },
+      {
+        "text": "Vision of Reform",
+        "label": "politicalparty",
+        "start": 111,
+        "end": 127
+      },
+      {
+        "text": "2016 Japanese House of Councillors election",
+        "label": "election",
+        "start": 141,
+        "end": 184
+      }
+    ]
+  },
+  {
+    "text": "Before the merger of the Queensland branches of the Liberal Party of Australia and Nationals as the Liberal National Party of Queensland, the National Party had been the senior partner in the non- Australian Labor Party Coalition since 1924.",
+    "entities": [
+      {
+        "text": "Queensland",
+        "label": "location",
+        "start": 25,
+        "end": 35
+      },
+      {
+        "text": "Liberal Party of Australia",
+        "label": "politicalparty",
+        "start": 52,
+        "end": 78
+      },
+      {
+        "text": "Liberal National Party of Queensland",
+        "label": "politicalparty",
+        "start": 100,
+        "end": 136
+      },
+      {
+        "text": "Australian Labor Party",
+        "label": "politicalparty",
+        "start": 197,
+        "end": 219
+      }
+    ]
+  },
+  {
+    "text": "At the time the PCI, which had absorbed the Italian Socialist Party s left-wing, the Italian Socialist Party of Proletarian Unity, so strengthening its leadership over the Italian left, was the largest communist party in a capitalist state, garnering 34.4% of the vote in the 1976 Italian general election.",
+    "entities": [
+      {
+        "text": "PCI",
+        "label": "politicalparty",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "Italian Socialist Party",
+        "label": "politicalparty",
+        "start": 44,
+        "end": 67
+      },
+      {
+        "text": "Italian Socialist Party of Proletarian Unity",
+        "label": "politicalparty",
+        "start": 85,
+        "end": 129
+      },
+      {
+        "text": "1976 Italian general election",
+        "label": "election",
+        "start": 276,
+        "end": 305
+      }
+    ]
+  },
+  {
+    "text": "The strictness of these qualifications led to the 1999 Singaporean presidential election, 2005 Singaporean presidential election, and 2017 Singaporean presidential election being walkovers as only one candidate had qualified on nomination day ..",
+    "entities": [
+      {
+        "text": "1999 Singaporean presidential election",
+        "label": "election",
+        "start": 50,
+        "end": 88
+      },
+      {
+        "text": "2005 Singaporean presidential election",
+        "label": "election",
+        "start": 90,
+        "end": 128
+      },
+      {
+        "text": "2017 Singaporean presidential election",
+        "label": "election",
+        "start": 134,
+        "end": 172
+      }
+    ]
+  },
+  {
+    "text": "She had also been the Workers World Party vice-presidential candidate in the elections of 1984 United States presidential election, 1988 United States presidential election, 1996 United States presidential election, and 2000 United States presidential election.",
+    "entities": [
+      {
+        "text": "Workers World Party",
+        "label": "politicalparty",
+        "start": 22,
+        "end": 41
+      },
+      {
+        "text": "1984 United States presidential election",
+        "label": "election",
+        "start": 90,
+        "end": 130
+      },
+      {
+        "text": "1988 United States presidential election",
+        "label": "election",
+        "start": 132,
+        "end": 172
+      },
+      {
+        "text": "1996 United States presidential election",
+        "label": "election",
+        "start": 174,
+        "end": 214
+      },
+      {
+        "text": "2000 United States presidential election",
+        "label": "election",
+        "start": 220,
+        "end": 260
+      }
+    ]
+  },
+  {
+    "text": "According to the Mueller Report, the second method of Russian interference saw the Russian intelligence service, the GRU, hacking into email accounts owned by volunteers and employees of the Clinton presidential campaign, including that of campaign chairman John Podesta, and also hacking into the computer networks of the Democratic Congressional Campaign Committee (DCCC) and the Democratic National Committee (DNC).",
+    "entities": [
+      {
+        "text": "Russian intelligence service",
+        "label": "organisation",
+        "start": 83,
+        "end": 111
+      },
+      {
+        "text": "GRU",
+        "label": "organisation",
+        "start": 117,
+        "end": 120
+      },
+      {
+        "text": "John Podesta",
+        "label": "politician",
+        "start": 258,
+        "end": 270
+      },
+      {
+        "text": "Democratic Congressional Campaign Committee",
+        "label": "organisation",
+        "start": 323,
+        "end": 366
+      },
+      {
+        "text": "DCCC",
+        "label": "organisation",
+        "start": 368,
+        "end": 372
+      },
+      {
+        "text": "Democratic National Committee",
+        "label": "organisation",
+        "start": 382,
+        "end": 411
+      },
+      {
+        "text": "DNC",
+        "label": "organisation",
+        "start": 413,
+        "end": 416
+      }
+    ]
+  },
+  {
+    "text": "Most modern assassinations have been committed either during a public performance or during transport, both because of weaker security and security lapses, such as with U.S. President John F. Kennedy and former Pakistan i Prime Minister Benazir Bhutto, or as part of coups d 'état where security is either overwhelmed or completely removed, such as with Democratic Republic of the Congo Prime Minister Patrice Lumumba.",
+    "entities": [
+      {
+        "text": "John F. Kennedy",
+        "label": "politician",
+        "start": 184,
+        "end": 199
+      },
+      {
+        "text": "Benazir Bhutto",
+        "label": "politician",
+        "start": 237,
+        "end": 251
+      },
+      {
+        "text": "Patrice Lumumba",
+        "label": "politician",
+        "start": 402,
+        "end": 417
+      }
+    ]
+  },
+  {
+    "text": "The act led to a significant increase in the number of MEPs being returned from minor parties in the 1999 European Parliament election in the United Kingdom, with more Liberal Democrats, along with the first European representatives for Plaid Cymru and the first national representatives for both the Green Party of England and Wales and the United Kingdom Independence Party.",
+    "entities": [
+      {
+        "text": "1999 European Parliament election in the United Kingdom",
+        "label": "election",
+        "start": 101,
+        "end": 156
+      },
+      {
+        "text": "Liberal Democrats",
+        "label": "politicalparty",
+        "start": 168,
+        "end": 185
+      },
+      {
+        "text": "Plaid Cymru",
+        "label": "politicalparty",
+        "start": 237,
+        "end": 248
+      },
+      {
+        "text": "Green Party of England and Wales",
+        "label": "politicalparty",
+        "start": 301,
+        "end": 333
+      },
+      {
+        "text": "United Kingdom Independence Party",
+        "label": "politicalparty",
+        "start": 342,
+        "end": 375
+      }
+    ]
+  },
+  {
+    "text": "Alex T. Atamanenko MP (born January 24, 1945) is a Canadian politician, who was elected to the House of Commons in 2006, winning the riding of British Columbia Southern Interior for the New Democratic Party in the 2006 Canadian federal election, and served in parliament until his retirement at the 2015 Canadian federal election.",
+    "entities": [
+      {
+        "text": "Alex T. Atamanenko",
+        "label": "politician",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "House of Commons",
+        "label": "organisation",
+        "start": 95,
+        "end": 111
+      },
+      {
+        "text": "British Columbia Southern Interior",
+        "label": "organisation",
+        "start": 143,
+        "end": 177
+      },
+      {
+        "text": "New Democratic Party",
+        "label": "politicalparty",
+        "start": 186,
+        "end": 206
+      },
+      {
+        "text": "2006 Canadian federal election",
+        "label": "election",
+        "start": 214,
+        "end": 244
+      },
+      {
+        "text": "2015 Canadian federal election",
+        "label": "election",
+        "start": 299,
+        "end": 329
+      }
+    ]
+  },
+  {
+    "text": "During his lifetime, Walter Hallstein received honorary doctorates from nine European universities, including University of Padua, Sussex, University of Liège, Nancy, Leuven, University of Oviedo, and University of Tübingen, and nine American universities, including Georgetown, Harvard, and Johns Hopkins University.",
+    "entities": [
+      {
+        "text": "University of Padua",
+        "label": "organisation",
+        "start": 110,
+        "end": 129
+      },
+      {
+        "text": "Sussex",
+        "label": "organisation",
+        "start": 131,
+        "end": 137
+      },
+      {
+        "text": "University of Liège",
+        "label": "organisation",
+        "start": 139,
+        "end": 158
+      },
+      {
+        "text": "Nancy",
+        "label": "organisation",
+        "start": 160,
+        "end": 165
+      },
+      {
+        "text": "Leuven",
+        "label": "organisation",
+        "start": 167,
+        "end": 173
+      },
+      {
+        "text": "University of Oviedo",
+        "label": "organisation",
+        "start": 175,
+        "end": 195
+      },
+      {
+        "text": "University of Tübingen",
+        "label": "organisation",
+        "start": 201,
+        "end": 223
+      },
+      {
+        "text": "Georgetown",
+        "label": "organisation",
+        "start": 267,
+        "end": 277
+      },
+      {
+        "text": "Harvard",
+        "label": "organisation",
+        "start": 279,
+        "end": 286
+      },
+      {
+        "text": "Johns Hopkins University",
+        "label": "organisation",
+        "start": 292,
+        "end": 316
+      }
+    ]
+  },
+  {
+    "text": "For example, in the Canada 1993 Canadian federal election, the Progressive Conservative Party of Canada attacked Liberal Party of Canada leader Jean Chrétien by implicitly mocking his Bell's Palsy partial facial paralysis.",
+    "entities": [
+      {
+        "text": "1993 Canadian federal election",
+        "label": "election",
+        "start": 27,
+        "end": 57
+      },
+      {
+        "text": "Progressive Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 63,
+        "end": 103
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 113,
+        "end": 136
+      },
+      {
+        "text": "Jean Chrétien",
+        "label": "politician",
+        "start": 144,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "text": "At the 2003 election, the Democratic Unionist Party and Sinn Féin displaced the more moderate Ulster Unionist Party and Social Democratic and Labour Party as the largest parties in the unionist and nationalist blocks.",
+    "entities": [
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 26,
+        "end": 51
+      },
+      {
+        "text": "Sinn Féin",
+        "label": "politicalparty",
+        "start": 56,
+        "end": 65
+      },
+      {
+        "text": "Ulster Unionist Party",
+        "label": "politicalparty",
+        "start": 94,
+        "end": 115
+      },
+      {
+        "text": "Social Democratic and Labour Party",
+        "label": "politicalparty",
+        "start": 120,
+        "end": 154
+      }
+    ]
+  },
+  {
+    "text": "The party was founded on 5 January 1930 by the merger of the Hapoel Hatzair founded by A. D. Gordon and the original Ahdut HaAvoda (founded in 1919 from the right, more moderate, wing of the Zionist socialist Poale Zion led by David Ben-Gurion).",
+    "entities": [
+      {
+        "text": "Hapoel Hatzair",
+        "label": "politicalparty",
+        "start": 61,
+        "end": 75
+      },
+      {
+        "text": "A. D. Gordon",
+        "label": "politician",
+        "start": 87,
+        "end": 99
+      },
+      {
+        "text": "Ahdut HaAvoda",
+        "label": "politicalparty",
+        "start": 117,
+        "end": 130
+      },
+      {
+        "text": "David Ben-Gurion",
+        "label": "politician",
+        "start": 227,
+        "end": 243
+      }
+    ]
+  },
+  {
+    "text": "In 1963 Canadian federal election, he ran unsuccessfully as a Liberal Party of Canada in the riding of Port Arthur, losing to the New Democratic Party candidate, Douglas Fisher.",
+    "entities": [
+      {
+        "text": "1963 Canadian federal election",
+        "label": "election",
+        "start": 3,
+        "end": 33
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 62,
+        "end": 85
+      },
+      {
+        "text": "Port Arthur",
+        "label": "politician",
+        "start": 103,
+        "end": 114
+      },
+      {
+        "text": "New Democratic Party",
+        "label": "politicalparty",
+        "start": 130,
+        "end": 150
+      },
+      {
+        "text": "Douglas Fisher",
+        "label": "politician",
+        "start": 162,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "Piłsudski, together with Colonel Kazimierz Sosnkowski, was greeted at Warsaw's railway station by Regent Zdzisław Lubomirski and by Colonel Adam Koc.",
+    "entities": [
+      {
+        "text": "Piłsudski",
+        "label": "politician",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Kazimierz Sosnkowski",
+        "label": "politician",
+        "start": 33,
+        "end": 53
+      },
+      {
+        "text": "Warsaw's railway station",
+        "label": "location",
+        "start": 70,
+        "end": 94
+      },
+      {
+        "text": "Zdzisław Lubomirski",
+        "label": "politician",
+        "start": 105,
+        "end": 124
+      },
+      {
+        "text": "Adam Koc",
+        "label": "politician",
+        "start": 140,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "text": "In American history, many parties were named by their opponents: (Federalist Party, Loco-Focos, Know Nothing s, Populists, Dixiecrat s), including the Democrats themselves, as the Federalists in the 1790s used Democratic Party as a term of ridicule.",
+    "entities": [
+      {
+        "text": "Federalist Party",
+        "label": "politicalparty",
+        "start": 66,
+        "end": 82
+      },
+      {
+        "text": "Loco-Focos",
+        "label": "politicalparty",
+        "start": 84,
+        "end": 94
+      },
+      {
+        "text": "Know Nothing",
+        "label": "politicalparty",
+        "start": 96,
+        "end": 108
+      },
+      {
+        "text": "Populists",
+        "label": "politicalparty",
+        "start": 112,
+        "end": 121
+      },
+      {
+        "text": "Dixiecrat",
+        "label": "politicalparty",
+        "start": 123,
+        "end": 132
+      },
+      {
+        "text": "Democratic Party",
+        "label": "politicalparty",
+        "start": 210,
+        "end": 226
+      }
+    ]
+  },
+  {
+    "text": "Although Republican Dwight D. Eisenhower carried half the South in 1952 United States presidential election and 1956 United States presidential election and Senator Barry Goldwater also carried five Southern states in 1964 United States presidential election, Democrat Jimmy Carter carried all of the South except Virginia and there was no long-term realignment until Ronald Reagan ' s sweeping victories in the South in 1980 United States presidential election and 1984 United States presidential election.",
+    "entities": [
+      {
+        "text": "Dwight D. Eisenhower",
+        "label": "politician",
+        "start": 20,
+        "end": 40
+      },
+      {
+        "text": "1952 United States presidential election",
+        "label": "election",
+        "start": 67,
+        "end": 107
+      },
+      {
+        "text": "1956 United States presidential election",
+        "label": "election",
+        "start": 112,
+        "end": 152
+      },
+      {
+        "text": "Barry Goldwater",
+        "label": "politician",
+        "start": 165,
+        "end": 180
+      },
+      {
+        "text": "1964 United States presidential election",
+        "label": "election",
+        "start": 218,
+        "end": 258
+      },
+      {
+        "text": "Jimmy Carter",
+        "label": "politician",
+        "start": 269,
+        "end": 281
+      },
+      {
+        "text": "Virginia",
+        "label": "location",
+        "start": 314,
+        "end": 322
+      },
+      {
+        "text": "Ronald Reagan",
+        "label": "politician",
+        "start": 368,
+        "end": 381
+      },
+      {
+        "text": "1980 United States presidential election",
+        "label": "election",
+        "start": 421,
+        "end": 461
+      },
+      {
+        "text": "1984 United States presidential election",
+        "label": "election",
+        "start": 466,
+        "end": 506
+      }
+    ]
+  },
+  {
+    "text": "Whereas elsewhere there are effectively three fundamental battles fought in elections - between the Ulster Unionist Party and the Democratic Unionist Party to be the leading unionist party, between the Social Democratic and Labour Party and Sinn Féin to be the leading nationalist party, and between unionism and nationalism as a whole, North Down is different.",
+    "entities": [
+      {
+        "text": "Ulster Unionist Party",
+        "label": "politicalparty",
+        "start": 100,
+        "end": 121
+      },
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 130,
+        "end": 155
+      },
+      {
+        "text": "unionist party",
+        "label": "politicalparty",
+        "start": 174,
+        "end": 188
+      },
+      {
+        "text": "Social Democratic and Labour Party",
+        "label": "politicalparty",
+        "start": 202,
+        "end": 236
+      },
+      {
+        "text": "Sinn Féin",
+        "label": "politicalparty",
+        "start": 241,
+        "end": 250
+      },
+      {
+        "text": "nationalist party",
+        "label": "politicalparty",
+        "start": 269,
+        "end": 286
+      },
+      {
+        "text": "North Down",
+        "label": "location",
+        "start": 337,
+        "end": 347
+      }
+    ]
+  },
+  {
+    "text": "Inukai was a leading figure in the successors to the Rikken Kaishintō, the Shimpotō, Kenseitō and the Rikken Kokumintō, which eventually toppled the government of Katsura Tarō in 1913.",
+    "entities": [
+      {
+        "text": "Inukai",
+        "label": "politician",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Rikken Kaishintō",
+        "label": "politicalparty",
+        "start": 53,
+        "end": 69
+      },
+      {
+        "text": "Shimpotō",
+        "label": "politicalparty",
+        "start": 75,
+        "end": 83
+      },
+      {
+        "text": "Kenseitō",
+        "label": "politicalparty",
+        "start": 85,
+        "end": 93
+      },
+      {
+        "text": "Rikken Kokumintō",
+        "label": "politicalparty",
+        "start": 102,
+        "end": 118
+      },
+      {
+        "text": "Katsura Tarō",
+        "label": "politician",
+        "start": 163,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "François Bayrou (, born 25 May 1951) is a French centrist politician and the president of the Democratic Movement (MoDem), who was a candidate in the 2002 French presidential election, 2007 French presidential election and 2012 French presidential election.",
+    "entities": [
+      {
+        "text": "François Bayrou",
+        "label": "politician",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Democratic Movement",
+        "label": "politicalparty",
+        "start": 94,
+        "end": 113
+      },
+      {
+        "text": "MoDem",
+        "label": "politicalparty",
+        "start": 115,
+        "end": 120
+      },
+      {
+        "text": "2002 French presidential election",
+        "label": "election",
+        "start": 150,
+        "end": 183
+      },
+      {
+        "text": "2007 French presidential election",
+        "label": "election",
+        "start": 185,
+        "end": 218
+      },
+      {
+        "text": "2012 French presidential election",
+        "label": "election",
+        "start": 223,
+        "end": 256
+      }
+    ]
+  },
+  {
+    "text": "In the decade leading up to the Anschluss and to World War II, implacable hostility between Social Democratic Party of Austria and Christian Conservatives had eroded civil society, undermined democratic institutions, and sparked a civil war; the Christian Social Party eventually manufactured a constitutional crisis that allowed it to replace the Republic of Austria with the Federal State of Austria, a Fascist single-party state.",
+    "entities": [
+      {
+        "text": "Social Democratic Party of Austria",
+        "label": "politicalparty",
+        "start": 92,
+        "end": 126
+      },
+      {
+        "text": "Christian Social Party",
+        "label": "politicalparty",
+        "start": 246,
+        "end": 268
+      }
+    ]
+  },
+  {
+    "text": "The film stars Chiranjeevi in the title role along with Tamannaah, Nayanthara, Sudeep, Jagapati Babu, and Vijay Sethupathi in supporting roles.",
+    "entities": []
+  },
+  {
+    "text": "In 1927, protests on their behalf were held in every major city in North America and Europe, as well as in Tokyo, Sydney, Melbourne, São Paulo, Rio de Janeiro, Buenos Aires, Dubai, Montevideo, Johannesburg.",
+    "entities": [
+      {
+        "text": "North America",
+        "label": "location",
+        "start": 67,
+        "end": 80
+      },
+      {
+        "text": "Europe",
+        "label": "location",
+        "start": 85,
+        "end": 91
+      },
+      {
+        "text": "Tokyo",
+        "label": "location",
+        "start": 107,
+        "end": 112
+      },
+      {
+        "text": "Sydney",
+        "label": "location",
+        "start": 114,
+        "end": 120
+      },
+      {
+        "text": "Melbourne",
+        "label": "location",
+        "start": 122,
+        "end": 131
+      },
+      {
+        "text": "São Paulo",
+        "label": "location",
+        "start": 133,
+        "end": 142
+      },
+      {
+        "text": "Rio de Janeiro",
+        "label": "location",
+        "start": 144,
+        "end": 158
+      },
+      {
+        "text": "Buenos Aires",
+        "label": "location",
+        "start": 160,
+        "end": 172
+      },
+      {
+        "text": "Dubai",
+        "label": "location",
+        "start": 174,
+        "end": 179
+      },
+      {
+        "text": "Montevideo",
+        "label": "location",
+        "start": 181,
+        "end": 191
+      },
+      {
+        "text": "Johannesburg",
+        "label": "location",
+        "start": 193,
+        "end": 205
+      }
+    ]
+  },
+  {
+    "text": "He served twice as Liberal Party of Australia, from 2008 Liberal Party of Australia leadership spill to 2009 Liberal Party of Australia leadership spill when he was Leader of the Opposition, and from 2015 to 2018 when he was Prime Minister.",
+    "entities": [
+      {
+        "text": "Liberal Party of Australia",
+        "label": "politicalparty",
+        "start": 19,
+        "end": 45
+      },
+      {
+        "text": "2008 Liberal Party of Australia leadership spill",
+        "label": "election",
+        "start": 52,
+        "end": 100
+      },
+      {
+        "text": "2009 Liberal Party of Australia leadership spill",
+        "label": "election",
+        "start": 104,
+        "end": 152
+      },
+      {
+        "text": "Opposition",
+        "label": "politicalparty",
+        "start": 179,
+        "end": 189
+      }
+    ]
+  },
+  {
+    "text": "Fry has been re-elected in every subsequent election (1997 Canadian federal election, 2000 Canadian federal election, 2004 Canadian federal election, 2006 Canadian federal election, 2008 Canadian federal election, 2011 Canadian federal election, 2015 Canadian federal election and 2019 Canadian federal election).",
+    "entities": [
+      {
+        "text": "Fry",
+        "label": "politician",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "1997 Canadian federal election",
+        "label": "election",
+        "start": 54,
+        "end": 84
+      },
+      {
+        "text": "2000 Canadian federal election",
+        "label": "election",
+        "start": 86,
+        "end": 116
+      },
+      {
+        "text": "2004 Canadian federal election",
+        "label": "election",
+        "start": 118,
+        "end": 148
+      },
+      {
+        "text": "2006 Canadian federal election",
+        "label": "election",
+        "start": 150,
+        "end": 180
+      },
+      {
+        "text": "2008 Canadian federal election",
+        "label": "election",
+        "start": 182,
+        "end": 212
+      },
+      {
+        "text": "2011 Canadian federal election",
+        "label": "election",
+        "start": 214,
+        "end": 244
+      },
+      {
+        "text": "2015 Canadian federal election",
+        "label": "election",
+        "start": 246,
+        "end": 276
+      },
+      {
+        "text": "2019 Canadian federal election",
+        "label": "election",
+        "start": 281,
+        "end": 311
+      }
+    ]
+  },
+  {
+    "text": "In the 2007 French presidential election, he supported the Union for a Popular Movement (UMP) candidate Nicolas Sarkozy, despite having been a minister in a socialist government, and being a member of the Radical Party of the Left (PRG).",
+    "entities": [
+      {
+        "text": "2007 French presidential election",
+        "label": "election",
+        "start": 7,
+        "end": 40
+      },
+      {
+        "text": "Union for a Popular Movement",
+        "label": "politicalparty",
+        "start": 59,
+        "end": 87
+      },
+      {
+        "text": "UMP",
+        "label": "politicalparty",
+        "start": 89,
+        "end": 92
+      },
+      {
+        "text": "Nicolas Sarkozy",
+        "label": "politician",
+        "start": 104,
+        "end": 119
+      },
+      {
+        "text": "Radical Party of the Left",
+        "label": "politicalparty",
+        "start": 205,
+        "end": 230
+      },
+      {
+        "text": "PRG",
+        "label": "politicalparty",
+        "start": 232,
+        "end": 235
+      }
+    ]
+  },
+  {
+    "text": "Michael Bloomberg, formerly a Democrat, was elected as a Republican in 2001 New York City mayoral election and 2005 New York City mayoral election, succeeding another Republican mayor, Rudy Giuliani, elected in 1993 and 1997 New York City mayoral election.",
+    "entities": [
+      {
+        "text": "Michael Bloomberg",
+        "label": "politician",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "2001 New York City mayoral election",
+        "label": "election",
+        "start": 71,
+        "end": 106
+      },
+      {
+        "text": "2005 New York City mayoral election",
+        "label": "election",
+        "start": 111,
+        "end": 146
+      },
+      {
+        "text": "Rudy Giuliani",
+        "label": "politician",
+        "start": 185,
+        "end": 198
+      },
+      {
+        "text": "1993 and 1997 New York City mayoral election",
+        "label": "election",
+        "start": 211,
+        "end": 255
+      }
+    ]
+  },
+  {
+    "text": "AP was born as an anti-establishment party in 1993, in parallel with the rise of Lega Nord in Italy, of which it has been long considered the Sanmarinese counterpart, but has since then become a stable political force in San Marino, participating in government coalitions with the centrist Sammarinese Christian Democratic Party (PDCS) as well as with the centre-left Party of Socialists and Democrats (PSD) since 2002.",
+    "entities": [
+      {
+        "text": "AP",
+        "label": "politicalparty",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "Lega Nord",
+        "label": "politicalparty",
+        "start": 81,
+        "end": 90
+      },
+      {
+        "text": "San Marino",
+        "label": "location",
+        "start": 221,
+        "end": 231
+      },
+      {
+        "text": "Sammarinese Christian Democratic Party",
+        "label": "politicalparty",
+        "start": 290,
+        "end": 328
+      },
+      {
+        "text": "PDCS",
+        "label": "politicalparty",
+        "start": 330,
+        "end": 334
+      },
+      {
+        "text": "Party of Socialists and Democrats",
+        "label": "politicalparty",
+        "start": 368,
+        "end": 401
+      },
+      {
+        "text": "PSD",
+        "label": "politicalparty",
+        "start": 403,
+        "end": 406
+      }
+    ]
+  },
+  {
+    "text": "Krasinski also stars in the series as the title character, making him the fifth actor to portray the character after Alec Baldwin, Harrison Ford, Ben Affleck, and Chris Pine from the film series.",
+    "entities": []
+  },
+  {
+    "text": "Throughout the 2000s (decade), Thai aggressively continued its route network expansion with new services to Chengdu, Busan, Chennai, Xiamen, Milan, Moscow, Islamabad, Hyderabad, Johannesburg (later suspended) and Oslo.",
+    "entities": [
+      {
+        "text": "Chengdu",
+        "label": "location",
+        "start": 108,
+        "end": 115
+      },
+      {
+        "text": "Busan",
+        "label": "location",
+        "start": 117,
+        "end": 122
+      },
+      {
+        "text": "Chennai",
+        "label": "location",
+        "start": 124,
+        "end": 131
+      },
+      {
+        "text": "Xiamen",
+        "label": "location",
+        "start": 133,
+        "end": 139
+      },
+      {
+        "text": "Milan",
+        "label": "location",
+        "start": 141,
+        "end": 146
+      },
+      {
+        "text": "Moscow",
+        "label": "location",
+        "start": 148,
+        "end": 154
+      },
+      {
+        "text": "Islamabad",
+        "label": "location",
+        "start": 156,
+        "end": 165
+      },
+      {
+        "text": "Hyderabad",
+        "label": "location",
+        "start": 167,
+        "end": 176
+      },
+      {
+        "text": "Johannesburg",
+        "label": "location",
+        "start": 178,
+        "end": 190
+      },
+      {
+        "text": "Oslo",
+        "label": "location",
+        "start": 213,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "At the age of 16, he graduated from high school in Husum and later studied at the universities of University of Jena, University of Bonn, Leipzig, Berlin, and University of Tübingen.",
+    "entities": [
+      {
+        "text": "Husum",
+        "label": "location",
+        "start": 51,
+        "end": 56
+      },
+      {
+        "text": "University of Jena",
+        "label": "organisation",
+        "start": 98,
+        "end": 116
+      },
+      {
+        "text": "University of Bonn",
+        "label": "organisation",
+        "start": 118,
+        "end": 136
+      },
+      {
+        "text": "Leipzig",
+        "label": "location",
+        "start": 138,
+        "end": 145
+      },
+      {
+        "text": "Berlin",
+        "label": "location",
+        "start": 147,
+        "end": 153
+      },
+      {
+        "text": "University of Tübingen",
+        "label": "organisation",
+        "start": 159,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "A disastrous ad was run by the Progressive Conservative Party of Canada in the 1993 Canadian federal election, apparently emphasizing Liberal Party of Canada leader Jean Chrétien ' s Bell's Palsy partial facial paralysis in a number of unflattering photos, with the subtext of criticizing his platforms.",
+    "entities": [
+      {
+        "text": "Progressive Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 31,
+        "end": 71
+      },
+      {
+        "text": "1993 Canadian federal election",
+        "label": "election",
+        "start": 79,
+        "end": 109
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 134,
+        "end": 157
+      },
+      {
+        "text": "Jean Chrétien",
+        "label": "politician",
+        "start": 165,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "Van Susteren serves on the advisory board of the Center for Health and the Global Environment at Harvard Medical School and the grassroots advocacy group The Climate Mobilization, and is a member of the Board of Directors of the National Wildlife Federation and the Chesapeake Climate Action Network.",
+    "entities": [
+      {
+        "text": "Center for Health and the Global Environment at Harvard Medical School",
+        "label": "organisation",
+        "start": 49,
+        "end": 119
+      },
+      {
+        "text": "The Climate Mobilization",
+        "label": "organisation",
+        "start": 154,
+        "end": 178
+      },
+      {
+        "text": "National Wildlife Federation",
+        "label": "organisation",
+        "start": 229,
+        "end": 257
+      },
+      {
+        "text": "Chesapeake Climate Action Network",
+        "label": "organisation",
+        "start": 266,
+        "end": 299
+      }
+    ]
+  },
+  {
+    "text": "He was elected for the UK Independence Party in the European elections of 2004 European Parliament election in the United Kingdom and 2009 European Parliament election in the United Kingdom, representing UKIP until September 2013, when UKIP withdrew the party whip from him.",
+    "entities": [
+      {
+        "text": "UK Independence Party",
+        "label": "politicalparty",
+        "start": 23,
+        "end": 44
+      },
+      {
+        "text": "2004 European Parliament election in the United Kingdom",
+        "label": "election",
+        "start": 74,
+        "end": 129
+      },
+      {
+        "text": "2009 European Parliament election in the United Kingdom",
+        "label": "election",
+        "start": 134,
+        "end": 189
+      },
+      {
+        "text": "UKIP",
+        "label": "politicalparty",
+        "start": 204,
+        "end": 208
+      },
+      {
+        "text": "UKIP",
+        "label": "politicalparty",
+        "start": 236,
+        "end": 240
+      }
+    ]
+  },
+  {
+    "text": "A 2013 University of the Sunshine Coast study of the voting intentions of journalists found that 73.6 per cent of ABC journalists supported Australian Labor Party or Australian Greens - with 41% supporting the Greens (whereas only around 10% of people in the general population voted Green).",
+    "entities": [
+      {
+        "text": "University of the Sunshine Coast",
+        "label": "organisation",
+        "start": 7,
+        "end": 39
+      },
+      {
+        "text": "ABC",
+        "label": "organisation",
+        "start": 114,
+        "end": 117
+      },
+      {
+        "text": "Australian Labor Party",
+        "label": "politicalparty",
+        "start": 140,
+        "end": 162
+      },
+      {
+        "text": "Australian Greens",
+        "label": "politicalparty",
+        "start": 166,
+        "end": 183
+      },
+      {
+        "text": "Greens",
+        "label": "politicalparty",
+        "start": 210,
+        "end": 216
+      },
+      {
+        "text": "Green",
+        "label": "politicalparty",
+        "start": 284,
+        "end": 289
+      }
+    ]
+  },
+  {
+    "text": "Groups opposing the bill include the Blue Cross Blue Shield Association, America's Health Insurance Plans, American Medical Association, American Hospital Association, AARP, American Cancer Society,",
+    "entities": [
+      {
+        "text": "Blue Cross Blue Shield Association",
+        "label": "organisation",
+        "start": 37,
+        "end": 71
+      },
+      {
+        "text": "America's Health Insurance Plans",
+        "label": "organisation",
+        "start": 73,
+        "end": 105
+      },
+      {
+        "text": "American Medical Association",
+        "label": "organisation",
+        "start": 107,
+        "end": 135
+      },
+      {
+        "text": "American Hospital Association",
+        "label": "organisation",
+        "start": 137,
+        "end": 166
+      },
+      {
+        "text": "AARP",
+        "label": "organisation",
+        "start": 168,
+        "end": 172
+      },
+      {
+        "text": "American Cancer Society",
+        "label": "organisation",
+        "start": 174,
+        "end": 197
+      }
+    ]
+  },
+  {
+    "text": "Dion would hold the riding in 1997 Canadian federal election, and was reelected again in the 2000 Canadian federal election, 2004 Canadian federal election, 2006 Canadian federal election, 2008 Canadian federal election, 2011 Canadian federal election, and 2015 Canadian federal election.",
+    "entities": [
+      {
+        "text": "Dion",
+        "label": "politician",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "1997 Canadian federal election",
+        "label": "election",
+        "start": 30,
+        "end": 60
+      },
+      {
+        "text": "2000 Canadian federal election",
+        "label": "election",
+        "start": 93,
+        "end": 123
+      },
+      {
+        "text": "2004 Canadian federal election",
+        "label": "election",
+        "start": 125,
+        "end": 155
+      },
+      {
+        "text": "2006 Canadian federal election",
+        "label": "election",
+        "start": 157,
+        "end": 187
+      },
+      {
+        "text": "2008 Canadian federal election",
+        "label": "election",
+        "start": 189,
+        "end": 219
+      },
+      {
+        "text": "2011 Canadian federal election",
+        "label": "election",
+        "start": 221,
+        "end": 251
+      },
+      {
+        "text": "2015 Canadian federal election",
+        "label": "election",
+        "start": 257,
+        "end": 287
+      }
+    ]
+  },
+  {
+    "text": "In the only election held in Zimbabwe Rhodesia, Bishop Abel Muzorewa ' s United African National Council (United African National Council) won a majority in the common-roll seats, while Ian Smith's Rhodesian Front (RF) won all of the old voter roll seats.",
+    "entities": [
+      {
+        "text": "Zimbabwe Rhodesia",
+        "label": "location",
+        "start": 29,
+        "end": 46
+      },
+      {
+        "text": "Abel Muzorewa",
+        "label": "politician",
+        "start": 55,
+        "end": 68
+      },
+      {
+        "text": "United African National Council",
+        "label": "politicalparty",
+        "start": 73,
+        "end": 104
+      },
+      {
+        "text": "United African National Council",
+        "label": "politicalparty",
+        "start": 106,
+        "end": 137
+      },
+      {
+        "text": "Ian Smith",
+        "label": "politician",
+        "start": 186,
+        "end": 195
+      },
+      {
+        "text": "Rhodesian Front",
+        "label": "politicalparty",
+        "start": 198,
+        "end": 213
+      },
+      {
+        "text": "RF",
+        "label": "politicalparty",
+        "start": 215,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "Attempts to secure its operation on a permanent basis had been frustrated by disagreements between the two main unionist parties (the Democratic Unionist Party (DUP) and the Ulster Unionist Party) and Sinn Féin, the largest nationalist party.",
+    "entities": [
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 134,
+        "end": 159
+      },
+      {
+        "text": "DUP",
+        "label": "politicalparty",
+        "start": 161,
+        "end": 164
+      },
+      {
+        "text": "Ulster Unionist Party",
+        "label": "politicalparty",
+        "start": 174,
+        "end": 195
+      },
+      {
+        "text": "Sinn Féin",
+        "label": "politicalparty",
+        "start": 201,
+        "end": 210
+      }
+    ]
+  },
+  {
+    "text": "The series starred Ben Platt, Gwyneth Paltrow, Jessica Lange, Zoey Deutch, Lucy Boynton, Bob Balaban, Laura Dreyfuss, David Corenswet, Julia Schlaepfer, Theo Germaine, Rahne Jones, and Benjamin Barrett.",
+    "entities": []
+  },
+  {
+    "text": "The 2017 United Kingdom general election produced a mixed result for the party as it gained six seat and increased its vote by 2.8% but the party came in third behind the Scottish National Party and Scottish Conservatives.",
+    "entities": [
+      {
+        "text": "2017 United Kingdom general election",
+        "label": "election",
+        "start": 4,
+        "end": 40
+      },
+      {
+        "text": "Scottish National Party",
+        "label": "politicalparty",
+        "start": 171,
+        "end": 194
+      },
+      {
+        "text": "Scottish Conservatives",
+        "label": "politicalparty",
+        "start": 199,
+        "end": 221
+      }
+    ]
+  },
+  {
+    "text": "The demonstration was organised by the Stop the War Coalition, the Campaign for Nuclear Disarmament (CND) and the Muslim Association of Britain (MAB).",
+    "entities": [
+      {
+        "text": "Stop the War Coalition",
+        "label": "organisation",
+        "start": 39,
+        "end": 61
+      },
+      {
+        "text": "Campaign for Nuclear Disarmament",
+        "label": "organisation",
+        "start": 67,
+        "end": 99
+      },
+      {
+        "text": "CND",
+        "label": "organisation",
+        "start": 101,
+        "end": 104
+      },
+      {
+        "text": "Muslim Association of Britain",
+        "label": "organisation",
+        "start": 114,
+        "end": 143
+      },
+      {
+        "text": "MAB",
+        "label": "organisation",
+        "start": 145,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "text": "The 1988 United States Senate elections was an election for the United States Senate in which, in spite of the Republican victory by George H. W. Bush in the 1988 United States presidential election, the Democrats gained a net of one seat in the Senate.",
+    "entities": [
+      {
+        "text": "1988 United States Senate elections",
+        "label": "election",
+        "start": 4,
+        "end": 39
+      },
+      {
+        "text": "United States Senate",
+        "label": "organisation",
+        "start": 64,
+        "end": 84
+      },
+      {
+        "text": "George H. W. Bush",
+        "label": "politician",
+        "start": 133,
+        "end": 150
+      },
+      {
+        "text": "1988 United States presidential election",
+        "label": "election",
+        "start": 158,
+        "end": 198
+      },
+      {
+        "text": "Senate",
+        "label": "organisation",
+        "start": 246,
+        "end": 252
+      }
+    ]
+  },
+  {
+    "text": "Silva was the Ontario New Democratic Party ' s candidate in Parkdale in the 1995 Ontario general election but was defeated by incumbent Ontario Liberal Party MPP Tony Ruprecht.",
+    "entities": [
+      {
+        "text": "Silva",
+        "label": "politician",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Ontario New Democratic Party",
+        "label": "politicalparty",
+        "start": 14,
+        "end": 42
+      },
+      {
+        "text": "Parkdale",
+        "label": "location",
+        "start": 60,
+        "end": 68
+      },
+      {
+        "text": "1995 Ontario general election",
+        "label": "election",
+        "start": 76,
+        "end": 105
+      },
+      {
+        "text": "Ontario Liberal Party",
+        "label": "politicalparty",
+        "start": 136,
+        "end": 157
+      },
+      {
+        "text": "Tony Ruprecht",
+        "label": "politician",
+        "start": 162,
+        "end": 175
+      }
+    ]
+  }
+]

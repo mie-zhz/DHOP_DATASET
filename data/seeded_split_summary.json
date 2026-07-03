@@ -1,0 +1,537 @@
+[
+  {
+    "seed": 2026,
+    "dataset": "bc5cdr",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2026/bc5cdr",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "Chemical",
+      "Disease"
+    ]
+  },
+  {
+    "seed": 2026,
+    "dataset": "conll2003",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2026/conll2003",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "LOC",
+      "ORG",
+      "PER"
+    ]
+  },
+  {
+    "seed": 2026,
+    "dataset": "cross_ner_ai",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2026/cross_ner/ai",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "algorithm",
+      "field",
+      "product",
+      "researcher",
+      "task"
+    ]
+  },
+  {
+    "seed": 2026,
+    "dataset": "cross_ner_literature",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2026/cross_ner/literature",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "book",
+      "literarygenre",
+      "location",
+      "person",
+      "writer"
+    ]
+  },
+  {
+    "seed": 2026,
+    "dataset": "cross_ner_music",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2026/cross_ner/music",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "album",
+      "award",
+      "band",
+      "musicalartist",
+      "musicgenre"
+    ]
+  },
+  {
+    "seed": 2026,
+    "dataset": "cross_ner_politics",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2026/cross_ner/politics",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "election",
+      "location",
+      "organisation",
+      "politicalparty",
+      "politician"
+    ]
+  },
+  {
+    "seed": 2026,
+    "dataset": "cross_ner_science",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2026/cross_ner/science",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "astronomicalobject",
+      "chemicalcompound",
+      "organisation",
+      "person",
+      "scientist"
+    ]
+  },
+  {
+    "seed": 2026,
+    "dataset": "few-nerd",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2026/few-nerd",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "art",
+      "location",
+      "organization",
+      "person",
+      "product"
+    ]
+  },
+  {
+    "seed": 2027,
+    "dataset": "bc5cdr",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2027/bc5cdr",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "Chemical",
+      "Disease"
+    ]
+  },
+  {
+    "seed": 2027,
+    "dataset": "conll2003",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2027/conll2003",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "LOC",
+      "ORG",
+      "PER"
+    ]
+  },
+  {
+    "seed": 2027,
+    "dataset": "cross_ner_ai",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2027/cross_ner/ai",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "algorithm",
+      "field",
+      "product",
+      "researcher",
+      "task"
+    ]
+  },
+  {
+    "seed": 2027,
+    "dataset": "cross_ner_literature",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2027/cross_ner/literature",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "book",
+      "literarygenre",
+      "location",
+      "person",
+      "writer"
+    ]
+  },
+  {
+    "seed": 2027,
+    "dataset": "cross_ner_music",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2027/cross_ner/music",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "album",
+      "award",
+      "band",
+      "musicalartist",
+      "musicgenre"
+    ]
+  },
+  {
+    "seed": 2027,
+    "dataset": "cross_ner_politics",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2027/cross_ner/politics",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "election",
+      "location",
+      "organisation",
+      "politicalparty",
+      "politician"
+    ]
+  },
+  {
+    "seed": 2027,
+    "dataset": "cross_ner_science",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2027/cross_ner/science",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "astronomicalobject",
+      "chemicalcompound",
+      "organisation",
+      "person",
+      "scientist"
+    ]
+  },
+  {
+    "seed": 2027,
+    "dataset": "few-nerd",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2027/few-nerd",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "art",
+      "location",
+      "organization",
+      "person",
+      "product"
+    ]
+  },
+  {
+    "seed": 2028,
+    "dataset": "bc5cdr",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2028/bc5cdr",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "Chemical",
+      "Disease"
+    ]
+  },
+  {
+    "seed": 2028,
+    "dataset": "conll2003",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2028/conll2003",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "LOC",
+      "ORG",
+      "PER"
+    ]
+  },
+  {
+    "seed": 2028,
+    "dataset": "cross_ner_ai",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2028/cross_ner/ai",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "algorithm",
+      "field",
+      "product",
+      "researcher",
+      "task"
+    ]
+  },
+  {
+    "seed": 2028,
+    "dataset": "cross_ner_literature",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2028/cross_ner/literature",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "book",
+      "literarygenre",
+      "location",
+      "person",
+      "writer"
+    ]
+  },
+  {
+    "seed": 2028,
+    "dataset": "cross_ner_music",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2028/cross_ner/music",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "album",
+      "award",
+      "band",
+      "musicalartist",
+      "musicgenre"
+    ]
+  },
+  {
+    "seed": 2028,
+    "dataset": "cross_ner_politics",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2028/cross_ner/politics",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "election",
+      "location",
+      "organisation",
+      "politicalparty",
+      "politician"
+    ]
+  },
+  {
+    "seed": 2028,
+    "dataset": "cross_ner_science",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2028/cross_ner/science",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "astronomicalobject",
+      "chemicalcompound",
+      "organisation",
+      "person",
+      "scientist"
+    ]
+  },
+  {
+    "seed": 2028,
+    "dataset": "few-nerd",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2028/few-nerd",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "art",
+      "location",
+      "organization",
+      "person",
+      "product"
+    ]
+  },
+  {
+    "seed": 2029,
+    "dataset": "bc5cdr",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2029/bc5cdr",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "Chemical",
+      "Disease"
+    ]
+  },
+  {
+    "seed": 2029,
+    "dataset": "conll2003",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2029/conll2003",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "LOC",
+      "ORG",
+      "PER"
+    ]
+  },
+  {
+    "seed": 2029,
+    "dataset": "cross_ner_ai",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2029/cross_ner/ai",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "algorithm",
+      "field",
+      "product",
+      "researcher",
+      "task"
+    ]
+  },
+  {
+    "seed": 2029,
+    "dataset": "cross_ner_literature",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2029/cross_ner/literature",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "book",
+      "literarygenre",
+      "location",
+      "person",
+      "writer"
+    ]
+  },
+  {
+    "seed": 2029,
+    "dataset": "cross_ner_music",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2029/cross_ner/music",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "album",
+      "award",
+      "band",
+      "musicalartist",
+      "musicgenre"
+    ]
+  },
+  {
+    "seed": 2029,
+    "dataset": "cross_ner_politics",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2029/cross_ner/politics",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "election",
+      "location",
+      "organisation",
+      "politicalparty",
+      "politician"
+    ]
+  },
+  {
+    "seed": 2029,
+    "dataset": "cross_ner_science",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2029/cross_ner/science",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "astronomicalobject",
+      "chemicalcompound",
+      "organisation",
+      "person",
+      "scientist"
+    ]
+  },
+  {
+    "seed": 2029,
+    "dataset": "few-nerd",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2029/few-nerd",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "art",
+      "location",
+      "organization",
+      "person",
+      "product"
+    ]
+  },
+  {
+    "seed": 2030,
+    "dataset": "bc5cdr",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2030/bc5cdr",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "Chemical",
+      "Disease"
+    ]
+  },
+  {
+    "seed": 2030,
+    "dataset": "conll2003",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2030/conll2003",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "LOC",
+      "ORG",
+      "PER"
+    ]
+  },
+  {
+    "seed": 2030,
+    "dataset": "cross_ner_ai",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2030/cross_ner/ai",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "algorithm",
+      "field",
+      "product",
+      "researcher",
+      "task"
+    ]
+  },
+  {
+    "seed": 2030,
+    "dataset": "cross_ner_literature",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2030/cross_ner/literature",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "book",
+      "literarygenre",
+      "location",
+      "person",
+      "writer"
+    ]
+  },
+  {
+    "seed": 2030,
+    "dataset": "cross_ner_music",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2030/cross_ner/music",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "album",
+      "award",
+      "band",
+      "musicalartist",
+      "musicgenre"
+    ]
+  },
+  {
+    "seed": 2030,
+    "dataset": "cross_ner_politics",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2030/cross_ner/politics",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "election",
+      "location",
+      "organisation",
+      "politicalparty",
+      "politician"
+    ]
+  },
+  {
+    "seed": 2030,
+    "dataset": "cross_ner_science",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2030/cross_ner/science",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "astronomicalobject",
+      "chemicalcompound",
+      "organisation",
+      "person",
+      "scientist"
+    ]
+  },
+  {
+    "seed": 2030,
+    "dataset": "few-nerd",
+    "output_dir": "/data/zhz/git/my_experiment/experiment_for_all/sampled_dataset/seed_2030/few-nerd",
+    "runtime_samples": 200,
+    "blind_samples": 500,
+    "entity_types": [
+      "art",
+      "location",
+      "organization",
+      "person",
+      "product"
+    ]
+  }
+]

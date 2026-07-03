@@ -1,0 +1,1503 @@
+[
+  {
+    "text": "He even writes a book about mystery fiction in which he deals sternly with Edgar Allan Poe and Wilkie Collins.",
+    "entities": [
+      {
+        "text": "mystery fiction",
+        "label": "literarygenre",
+        "start": 28,
+        "end": 43
+      },
+      {
+        "text": "Edgar Allan Poe",
+        "label": "writer",
+        "start": 75,
+        "end": 90
+      },
+      {
+        "text": "Wilkie Collins",
+        "label": "writer",
+        "start": 95,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "Rushdie wrote a non-fiction book about Nicaragua in 1987 called The Jaguar Smile.",
+    "entities": [
+      {
+        "text": "Rushdie",
+        "label": "writer",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "The Jaguar Smile",
+        "label": "book",
+        "start": 64,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "Nin was a friend, and in some cases lover, of many literary figures, including Henry Miller, John Steinbeck, Antonin Artaud, Edmund Wilson, Gore Vidal, James Agee, James Leo Herlihy, and Lawrence Durrell.",
+    "entities": [
+      {
+        "text": "Nin",
+        "label": "writer",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Henry Miller",
+        "label": "writer",
+        "start": 79,
+        "end": 91
+      },
+      {
+        "text": "John Steinbeck",
+        "label": "writer",
+        "start": 93,
+        "end": 107
+      },
+      {
+        "text": "Antonin Artaud",
+        "label": "writer",
+        "start": 109,
+        "end": 123
+      },
+      {
+        "text": "Edmund Wilson",
+        "label": "writer",
+        "start": 125,
+        "end": 138
+      },
+      {
+        "text": "Gore Vidal",
+        "label": "writer",
+        "start": 140,
+        "end": 150
+      },
+      {
+        "text": "James Agee",
+        "label": "writer",
+        "start": 152,
+        "end": 162
+      },
+      {
+        "text": "James Leo Herlihy",
+        "label": "writer",
+        "start": 164,
+        "end": 181
+      },
+      {
+        "text": "Lawrence Durrell",
+        "label": "writer",
+        "start": 187,
+        "end": 203
+      }
+    ]
+  },
+  {
+    "text": "Slaughterhouse-Five received generally positive reviews, with Michael Crichton writing in The New Republic, he writes about the most excruciatingly painful things.",
+    "entities": [
+      {
+        "text": "Slaughterhouse-Five",
+        "label": "book",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Michael Crichton",
+        "label": "writer",
+        "start": 62,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "The Story of Civilization: Volume 8, The Age of Louis XIV by Will Durant; chapter II, subsection 4.1 p.56)",
+    "entities": [
+      {
+        "text": "The Story of Civilization",
+        "label": "book",
+        "start": 0,
+        "end": 25
+      },
+      {
+        "text": "The Age of Louis XIV",
+        "label": "book",
+        "start": 37,
+        "end": 57
+      },
+      {
+        "text": "Will Durant",
+        "label": "writer",
+        "start": 61,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "text": "The three films garnered prestigious international awards, including the Golden Lion for Best Film at the Venice Film Festival and the Silver Bear for Best Director at the 44th Berlin International Film Festival, in addition to three Academy Awards nominations.",
+    "entities": []
+  },
+  {
+    "text": "Under the influence of Adrian Maniu, the adolescent Tzara became interested in Symbolism and co-founded the magazine Simbolul with Ion Vinea (with whom he also wrote experimental poetry) and painter Marcel Janco.",
+    "entities": [
+      {
+        "text": "Adrian Maniu",
+        "label": "writer",
+        "start": 23,
+        "end": 35
+      },
+      {
+        "text": "Tzara",
+        "label": "writer",
+        "start": 52,
+        "end": 57
+      },
+      {
+        "text": "Symbolism",
+        "label": "literarygenre",
+        "start": 79,
+        "end": 88
+      },
+      {
+        "text": "Ion Vinea",
+        "label": "writer",
+        "start": 131,
+        "end": 140
+      },
+      {
+        "text": "experimental poetry",
+        "label": "literarygenre",
+        "start": 166,
+        "end": 185
+      },
+      {
+        "text": "Marcel Janco",
+        "label": "person",
+        "start": 199,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "Albert Einstein was born in Ulm, in the Kingdom of Württemberg in the German Empire, on March 14, 1879.",
+    "entities": [
+      {
+        "text": "Albert Einstein",
+        "label": "person",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Ulm",
+        "label": "location",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "Kingdom of Württemberg",
+        "label": "location",
+        "start": 40,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "The only completed screenplay, Heaven, was filmed by Tom Tykwer and premiered in 2002 at the Berlin International Film Festival.",
+    "entities": [
+      {
+        "text": "Heaven",
+        "label": "book",
+        "start": 31,
+        "end": 37
+      },
+      {
+        "text": "Tom Tykwer",
+        "label": "person",
+        "start": 53,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "Although Nietzsche had previously announced at the end of On the Genealogy of Morality a new work with the title The Will to Power: Attempt at a Revaluation of All Values, he eventually seems to have abandoned this idea and instead used some of the draft passages to compose Twilight of the Idols and The Antichrist in 1888.",
+    "entities": [
+      {
+        "text": "Nietzsche",
+        "label": "writer",
+        "start": 9,
+        "end": 18
+      },
+      {
+        "text": "On the Genealogy of Morality",
+        "label": "book",
+        "start": 58,
+        "end": 86
+      },
+      {
+        "text": "The Will to Power: Attempt at a Revaluation of All Values",
+        "label": "book",
+        "start": 113,
+        "end": 170
+      },
+      {
+        "text": "Twilight of the Idols",
+        "label": "book",
+        "start": 275,
+        "end": 296
+      },
+      {
+        "text": "The Antichrist",
+        "label": "book",
+        "start": 301,
+        "end": 315
+      }
+    ]
+  },
+  {
+    "text": "Apuleius (He was a Numidian who lived under the Roman Empire Berbers: ... The best known of them were the Roman author Apuleius, the Roman emperor Septimius Severus, and St. Augustine, Encyclopedia Americana, Scholastic Library Publishing, 2005, v. 3, p.",
+    "entities": [
+      {
+        "text": "Apuleius",
+        "label": "person",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Apuleius",
+        "label": "writer",
+        "start": 119,
+        "end": 127
+      },
+      {
+        "text": "Septimius Severus",
+        "label": "person",
+        "start": 147,
+        "end": 164
+      },
+      {
+        "text": "St. Augustine",
+        "label": "person",
+        "start": 170,
+        "end": 183
+      },
+      {
+        "text": "Encyclopedia Americana",
+        "label": "book",
+        "start": 185,
+        "end": 207
+      }
+    ]
+  },
+  {
+    "text": "Before writing Dracula, Stoker met Ármin Vámbéry, a Hungarian-Jewish writer and traveller (born in Szent-György, Kingdom of Hungary now Svätý Jur, Slovakia).",
+    "entities": [
+      {
+        "text": "Dracula",
+        "label": "book",
+        "start": 15,
+        "end": 22
+      },
+      {
+        "text": "Stoker",
+        "label": "writer",
+        "start": 24,
+        "end": 30
+      },
+      {
+        "text": "Ármin Vámbéry",
+        "label": "writer",
+        "start": 35,
+        "end": 48
+      },
+      {
+        "text": "Szent-György",
+        "label": "location",
+        "start": 99,
+        "end": 111
+      },
+      {
+        "text": "Svätý Jur",
+        "label": "location",
+        "start": 136,
+        "end": 145
+      }
+    ]
+  },
+  {
+    "text": "Jewish historians who lived at Alexandria, such as Eupolemus, attributed to Moses the feat of having taught the Phoenicians their alphabet, Eusebius, Praeparatio evangelica ix.",
+    "entities": [
+      {
+        "text": "Alexandria",
+        "label": "location",
+        "start": 31,
+        "end": 41
+      },
+      {
+        "text": "Eupolemus",
+        "label": "person",
+        "start": 51,
+        "end": 60
+      },
+      {
+        "text": "Moses",
+        "label": "person",
+        "start": 76,
+        "end": 81
+      },
+      {
+        "text": "Eusebius",
+        "label": "writer",
+        "start": 140,
+        "end": 148
+      },
+      {
+        "text": "Praeparatio evangelica ix",
+        "label": "book",
+        "start": 150,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "Sagan served as Chairman of the Division for Planetary Science of the American Astronomical Society, as President of the Planetology Section of the American Geophysical Union, and as Chairman of the Astronomy Section of the American Association for the Advancement of Science (AAAS).",
+    "entities": [
+      {
+        "text": "Sagan",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "On November 17, 2010, Smith won the National Book Award for her memoir Just Kids.",
+    "entities": [
+      {
+        "text": "Smith",
+        "label": "writer",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "Just Kids",
+        "label": "book",
+        "start": 71,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "His non-fiction works, including The Road to Wigan Pier (1937), documenting his experience of working-class life in the north of England, and Homage to Catalonia (1938), an account of his experiences soldiering for the Republican faction of the Spanish Civil War (1936-1939), are as critically respected as his essays on politics and literature, language and culture.",
+    "entities": [
+      {
+        "text": "The Road to Wigan Pier",
+        "label": "book",
+        "start": 33,
+        "end": 55
+      },
+      {
+        "text": "Homage to Catalonia",
+        "label": "book",
+        "start": 142,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "At the 2012 Pride of Britain Awards shown on ITV on 30 October, Fry, along with Michael Caine, Elton John, Richard Branson and Simon Cowell, recited Rudyard Kipling ' s poem If - in tribute to the 2012 British Olympic and Paralympic athletes.",
+    "entities": [
+      {
+        "text": "Fry",
+        "label": "person",
+        "start": 64,
+        "end": 67
+      },
+      {
+        "text": "Michael Caine",
+        "label": "person",
+        "start": 80,
+        "end": 93
+      },
+      {
+        "text": "Elton John",
+        "label": "person",
+        "start": 95,
+        "end": 105
+      },
+      {
+        "text": "Richard Branson",
+        "label": "person",
+        "start": 107,
+        "end": 122
+      },
+      {
+        "text": "Simon Cowell",
+        "label": "person",
+        "start": 127,
+        "end": 139
+      },
+      {
+        "text": "Rudyard Kipling",
+        "label": "writer",
+        "start": 149,
+        "end": 164
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 169,
+        "end": 173
+      }
+    ]
+  },
+  {
+    "text": "His poem, Jai Jai Garavi Gujarat (1873), is used as a de facto state song for Gujarat.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Nabokov's Lolita (1955) was ranked fourth in the list of the Modern Library 100 Best Novels in 2007; He was a finalist for the National Book Award for Fiction seven times.",
+    "entities": [
+      {
+        "text": "Nabokov",
+        "label": "writer",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Lolita",
+        "label": "book",
+        "start": 10,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "Writing for The Spectator in 1936, Graham Greene gave the film a tepid review, describing it on the one hand as his favorite of the films he reviewed that week, but describing it as a fine spirited mix-up and making pointed note of the magnificently wrong characterization of bad King James.",
+    "entities": [
+      {
+        "text": "Graham Greene",
+        "label": "writer",
+        "start": 35,
+        "end": 48
+      },
+      {
+        "text": "King James",
+        "label": "person",
+        "start": 280,
+        "end": 290
+      }
+    ]
+  },
+  {
+    "text": "The concept of a cross-time version of a world war, involving rival paratime empires, was developed in Fritz Leiber ' s Change War series, starting with the Hugo Award winning The Big Time (1958); followed by Richard C. Meredith ' s Timeliner trilogy in the 1970s, Michael McCollum ' s A Greater Infinity (1982) and John Barnes ' Timeline Wars trilogy in the 1990s.",
+    "entities": [
+      {
+        "text": "Fritz Leiber",
+        "label": "writer",
+        "start": 103,
+        "end": 115
+      },
+      {
+        "text": "Change War series",
+        "label": "book",
+        "start": 120,
+        "end": 137
+      },
+      {
+        "text": "The Big Time",
+        "label": "book",
+        "start": 176,
+        "end": 188
+      },
+      {
+        "text": "Richard C. Meredith",
+        "label": "writer",
+        "start": 209,
+        "end": 228
+      },
+      {
+        "text": "Timeliner",
+        "label": "book",
+        "start": 233,
+        "end": 242
+      },
+      {
+        "text": "Michael McCollum",
+        "label": "writer",
+        "start": 265,
+        "end": 281
+      },
+      {
+        "text": "A Greater Infinity",
+        "label": "book",
+        "start": 286,
+        "end": 304
+      },
+      {
+        "text": "John Barnes",
+        "label": "writer",
+        "start": 316,
+        "end": 327
+      },
+      {
+        "text": "Timeline Wars trilogy",
+        "label": "book",
+        "start": 330,
+        "end": 351
+      }
+    ]
+  },
+  {
+    "text": "In 1982, she wrote the novel The Color Purple, for which she won the National Book Award for hardcover fiction, and the Pulitzer Prize for Fiction.",
+    "entities": [
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 23,
+        "end": 28
+      },
+      {
+        "text": "The Color Purple",
+        "label": "book",
+        "start": 29,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "247 Many lyricists worked on the show, including James Agee, Dorothy Parker, John Latouche, Richard Wilbur, Leonard and Felicia Bernstein, and Hellman.",
+    "entities": [
+      {
+        "text": "James Agee",
+        "label": "writer",
+        "start": 49,
+        "end": 59
+      },
+      {
+        "text": "Dorothy Parker",
+        "label": "writer",
+        "start": 61,
+        "end": 75
+      },
+      {
+        "text": "John Latouche",
+        "label": "writer",
+        "start": 77,
+        "end": 90
+      },
+      {
+        "text": "Richard Wilbur",
+        "label": "writer",
+        "start": 92,
+        "end": 106
+      },
+      {
+        "text": "Leonard",
+        "label": "writer",
+        "start": 108,
+        "end": 115
+      },
+      {
+        "text": "Felicia Bernstein",
+        "label": "writer",
+        "start": 120,
+        "end": 137
+      },
+      {
+        "text": "Hellman",
+        "label": "writer",
+        "start": 143,
+        "end": 150
+      }
+    ]
+  },
+  {
+    "text": "Harry Segall won the Academy Awards for Best Story, while Sidney Buchman and Seton I. Miller won for Best Screenplay.",
+    "entities": [
+      {
+        "text": "Harry Segall",
+        "label": "writer",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Sidney Buchman",
+        "label": "writer",
+        "start": 58,
+        "end": 72
+      },
+      {
+        "text": "Seton I. Miller",
+        "label": "writer",
+        "start": 77,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "Caterina di Giacomo di Benincasa was born on 25 March 1347 (shortly before the Black Death ravaged Europe) in Siena, Republic of Siena (today Italy), to Lapa Piagenti, the daughter of a local poet, and Giacomo di Benincasa, a cloth dyer who ran his enterprise with the help of his sons.",
+    "entities": [
+      {
+        "text": "Caterina di",
+        "label": "person",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Giacomo di Benincasa",
+        "label": "person",
+        "start": 12,
+        "end": 32
+      },
+      {
+        "text": "Europe",
+        "label": "location",
+        "start": 99,
+        "end": 105
+      },
+      {
+        "text": "Siena",
+        "label": "location",
+        "start": 110,
+        "end": 115
+      },
+      {
+        "text": "Lapa Piagenti",
+        "label": "person",
+        "start": 153,
+        "end": 166
+      },
+      {
+        "text": "Giacomo di Benincasa",
+        "label": "person",
+        "start": 202,
+        "end": 222
+      }
+    ]
+  },
+  {
+    "text": "Thompson remains best known for Fear and Loathing in Las Vegas (1971), a book first serialized in Rolling Stone in which he grapples with the implications of what he considered the failure of the 1960s counterculture movement.",
+    "entities": [
+      {
+        "text": "Thompson",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Fear and Loathing in Las Vegas",
+        "label": "book",
+        "start": 32,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "Some of his early novels, called scientific romance s, invented several themes now classic in science fiction in such works as The Time Machine, The Island of Doctor Moreau, The Invisible Man, The War of the Worlds, The Sleeper Awakes, and The First Men in the Moon.",
+    "entities": [
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 18,
+        "end": 24
+      },
+      {
+        "text": "scientific romance",
+        "label": "literarygenre",
+        "start": 33,
+        "end": 51
+      },
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 94,
+        "end": 109
+      },
+      {
+        "text": "The Time Machine",
+        "label": "book",
+        "start": 127,
+        "end": 143
+      },
+      {
+        "text": "The Island of Doctor Moreau",
+        "label": "book",
+        "start": 145,
+        "end": 172
+      },
+      {
+        "text": "The Invisible Man",
+        "label": "book",
+        "start": 174,
+        "end": 191
+      },
+      {
+        "text": "The War of the Worlds",
+        "label": "book",
+        "start": 193,
+        "end": 214
+      },
+      {
+        "text": "The Sleeper Awakes",
+        "label": "book",
+        "start": 216,
+        "end": 234
+      },
+      {
+        "text": "The First Men in the Moon",
+        "label": "book",
+        "start": 240,
+        "end": 265
+      }
+    ]
+  },
+  {
+    "text": "Later, he was best known for his setting the Draumkvedet (1905) and the Poetic Edda (1908) into modern Norwegian.",
+    "entities": [
+      {
+        "text": "Poetic Edda",
+        "label": "book",
+        "start": 72,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "text": "He eventually returned to Christianity, having been influenced by arguments with his Oxford colleague and Christian friend J. R. R. Tolkien, whom he seems to have met for the first time on 11 May 1926, and the book The Everlasting Man by G. K. Chesterton.",
+    "entities": [
+      {
+        "text": "J. R. R. Tolkien",
+        "label": "writer",
+        "start": 123,
+        "end": 139
+      },
+      {
+        "text": "The Everlasting Man",
+        "label": "book",
+        "start": 215,
+        "end": 234
+      },
+      {
+        "text": "G. K. Chesterton",
+        "label": "writer",
+        "start": 238,
+        "end": 254
+      }
+    ]
+  },
+  {
+    "text": "In 1930, an American film of the novel was made, directed by Lewis Milestone; with a screenplay by Maxwell Anderson, George Abbott, Del Andrews, C. Gardner Sullivan; and with uncredited work by Walter Anthony.",
+    "entities": [
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 33,
+        "end": 38
+      },
+      {
+        "text": "Lewis Milestone",
+        "label": "person",
+        "start": 61,
+        "end": 76
+      },
+      {
+        "text": "Maxwell Anderson",
+        "label": "writer",
+        "start": 99,
+        "end": 115
+      },
+      {
+        "text": "George Abbott",
+        "label": "writer",
+        "start": 117,
+        "end": 130
+      },
+      {
+        "text": "Del Andrews",
+        "label": "writer",
+        "start": 132,
+        "end": 143
+      },
+      {
+        "text": "C. Gardner Sullivan",
+        "label": "writer",
+        "start": 145,
+        "end": 164
+      },
+      {
+        "text": "Walter Anthony",
+        "label": "writer",
+        "start": 194,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "In November 1924 he was awarded the Nobel Prize for Literature over rivals Thomas Mann, George Bernard Shaw and Thomas Hardy, after he had been nominated by Anders Österling, member of the Swedish Academy.",
+    "entities": [
+      {
+        "text": "Thomas Mann",
+        "label": "writer",
+        "start": 75,
+        "end": 86
+      },
+      {
+        "text": "George Bernard Shaw",
+        "label": "writer",
+        "start": 88,
+        "end": 107
+      },
+      {
+        "text": "Thomas Hardy",
+        "label": "writer",
+        "start": 112,
+        "end": 124
+      },
+      {
+        "text": "Anders Österling",
+        "label": "writer",
+        "start": 157,
+        "end": 173
+      }
+    ]
+  },
+  {
+    "text": "Moore won the Academy Award for Best Actress for her playing an Alzheimer's patient in Still Alice (2014) and was named Best Actress at the Cannes Film Festival for Maps to the Stars (2014).",
+    "entities": [
+      {
+        "text": "Moore",
+        "label": "person",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "Nigerian Wole Soyinka was the first African to win the Nobel Prize in Literature in 1986, and American Toni Morrison was the first black woman to win in 1993.",
+    "entities": [
+      {
+        "text": "Wole Soyinka",
+        "label": "writer",
+        "start": 9,
+        "end": 21
+      },
+      {
+        "text": "Toni Morrison",
+        "label": "writer",
+        "start": 103,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "text": "Writing for The Spectator, Graham Greene expressed similar views, acerbically noting of the film that it goes on too long, otherwise it might have been the funniest film since The Crusades.",
+    "entities": [
+      {
+        "text": "Graham Greene",
+        "label": "writer",
+        "start": 27,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "The rights to A. A. Milne's Pooh books were left to four beneficiaries: his family, the Royal Literary Fund, Westminster School and the Garrick Club at the beginning of the year after the 70th anniversary of the author's death (PMA -70), and has already expired in those countries with a PMA-50 rule.",
+    "entities": [
+      {
+        "text": "A. A. Milne",
+        "label": "writer",
+        "start": 14,
+        "end": 25
+      },
+      {
+        "text": "Pooh",
+        "label": "book",
+        "start": 28,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "The operetta Candide was originally conceived by playwright Lillian Hellman, as a play with incidental music.",
+    "entities": [
+      {
+        "text": "Candide",
+        "label": "book",
+        "start": 13,
+        "end": 20
+      },
+      {
+        "text": "Lillian Hellman",
+        "label": "writer",
+        "start": 60,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "In the early 6th century BC, the Kingdom of Judah rebelled against the Neo-Babylonian Empire and was destroyed.",
+    "entities": []
+  },
+  {
+    "text": "In 1998, he was a member of the jury at the 48th Berlin International Film Festival.",
+    "entities": []
+  },
+  {
+    "text": "Philip Lamantia introduced him to other Surrealists and Surrealism continued to be an influence (for example, sections of Kaddish were inspired by André Breton ' s Free Union).",
+    "entities": [
+      {
+        "text": "Philip Lamantia",
+        "label": "writer",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "André Breton",
+        "label": "writer",
+        "start": 147,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "Gaiman's 2009 Newbery Medal winning book The Graveyard Book will be made into a movie, with Ron Howard as the director.",
+    "entities": [
+      {
+        "text": "Gaiman",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "The Graveyard Book",
+        "label": "book",
+        "start": 41,
+        "end": 59
+      },
+      {
+        "text": "Ron Howard",
+        "label": "person",
+        "start": 92,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Seymour Hersh, Nixon's Last Cover-Up: The Tapes He Wants the Archives to Suppress; The New Yorker, December 14, 1992, pp. 80-81 In passing sentence in February 1972, the judge rejected the D.A. ' s motion that Capp agree to undergo psychiatric treatment.",
+    "entities": [
+      {
+        "text": "Seymour Hersh",
+        "label": "writer",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Nixon",
+        "label": "person",
+        "start": 15,
+        "end": 20
+      },
+      {
+        "text": "Capp",
+        "label": "writer",
+        "start": 210,
+        "end": 214
+      }
+    ]
+  },
+  {
+    "text": "Modern children's literature has been more or less influenced by Lewis's series, such as Daniel Handler ' s A Series of Unfortunate Events, Eoin Colfer ' s Artemis Fowl, Philip Pullman ' s His Dark Materials, and J. K. Rowling ' s Harry Potter.",
+    "entities": [
+      {
+        "text": "Lewis",
+        "label": "writer",
+        "start": 65,
+        "end": 70
+      },
+      {
+        "text": "Daniel Handler",
+        "label": "writer",
+        "start": 89,
+        "end": 103
+      },
+      {
+        "text": "A Series of Unfortunate Events",
+        "label": "book",
+        "start": 108,
+        "end": 138
+      },
+      {
+        "text": "Eoin Colfer",
+        "label": "writer",
+        "start": 140,
+        "end": 151
+      },
+      {
+        "text": "Artemis Fowl",
+        "label": "book",
+        "start": 156,
+        "end": 168
+      },
+      {
+        "text": "Philip Pullman",
+        "label": "writer",
+        "start": 170,
+        "end": 184
+      },
+      {
+        "text": "His Dark Materials",
+        "label": "book",
+        "start": 189,
+        "end": 207
+      },
+      {
+        "text": "J. K. Rowling",
+        "label": "writer",
+        "start": 213,
+        "end": 226
+      },
+      {
+        "text": "Harry Potter",
+        "label": "book",
+        "start": 231,
+        "end": 243
+      }
+    ]
+  },
+  {
+    "text": "Like his contemporaries Algernon Blackwood and Arthur Machen, Rohmer claimed membership to one of the factions of the qabbalistic Hermetic Order of the Golden Dawn.",
+    "entities": [
+      {
+        "text": "Algernon Blackwood",
+        "label": "writer",
+        "start": 24,
+        "end": 42
+      },
+      {
+        "text": "Arthur Machen",
+        "label": "writer",
+        "start": 47,
+        "end": 60
+      },
+      {
+        "text": "Rohmer",
+        "label": "writer",
+        "start": 62,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "text": "Kim Stanley Robinson ' s novel, The Years of Rice and Salt (2002), starts at the point of divergence with Timur turning his army away from Europe, and the Black Death has killed 99% of Europe's population, instead of only a third.",
+    "entities": [
+      {
+        "text": "Kim Stanley Robinson",
+        "label": "writer",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 25,
+        "end": 30
+      },
+      {
+        "text": "The Years of Rice and Salt",
+        "label": "book",
+        "start": 32,
+        "end": 58
+      },
+      {
+        "text": "Timur",
+        "label": "person",
+        "start": 106,
+        "end": 111
+      },
+      {
+        "text": "Europe",
+        "label": "location",
+        "start": 139,
+        "end": 145
+      },
+      {
+        "text": "Europe",
+        "label": "location",
+        "start": 185,
+        "end": 191
+      }
+    ]
+  },
+  {
+    "text": "Richard Henry Dana, Jr ' s new book Two Years Before the Mast, and by Jeremiah N. Reynolds ' s account in the May 1839 issue of The Knickerbocker magazine of the hunt for a great white sperm whale named Mocha Dick, Melville and Gansevoort traveled to New Bedford, where Melville signed up for a whaling voyage aboard a new ship, the Acushnet.",
+    "entities": [
+      {
+        "text": "Richard Henry Dana, Jr",
+        "label": "writer",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "Two Years Before the Mast",
+        "label": "book",
+        "start": 36,
+        "end": 61
+      },
+      {
+        "text": "Jeremiah N. Reynolds",
+        "label": "writer",
+        "start": 70,
+        "end": 90
+      },
+      {
+        "text": "Melville",
+        "label": "writer",
+        "start": 215,
+        "end": 223
+      },
+      {
+        "text": "Gansevoort",
+        "label": "person",
+        "start": 228,
+        "end": 238
+      },
+      {
+        "text": "New Bedford",
+        "label": "location",
+        "start": 251,
+        "end": 262
+      },
+      {
+        "text": "Melville",
+        "label": "writer",
+        "start": 270,
+        "end": 278
+      }
+    ]
+  },
+  {
+    "text": "Shot in January, it premièred at the Cannes Film Festival on 27 May 2007.",
+    "entities": []
+  },
+  {
+    "text": "To Dolapdere, he sarcastically gave the name Cholera (Kolera in Turkish) in Ağır Roman, thereby recalling both its shabbiness and the fact that the great Poland poet Adam Mickiewicz died there from the cholera in 1855.",
+    "entities": [
+      {
+        "text": "Dolapdere",
+        "label": "location",
+        "start": 3,
+        "end": 12
+      },
+      {
+        "text": "Ağır Roman",
+        "label": "book",
+        "start": 76,
+        "end": 86
+      },
+      {
+        "text": "Adam Mickiewicz",
+        "label": "writer",
+        "start": 166,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "Gide went successively to Middle Congo (now the Republic of the Congo), Ubangi-Shari (now the Central African Republic), briefly to Chad and then to Cameroon before returning to France.",
+    "entities": [
+      {
+        "text": "Gide",
+        "label": "person",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "In May 1999, after the Council of Fashion Designers of America recognized Cher with an award for her influence on fashion, Robin Givhan of the Los Angeles Times called her a fashion visionary for striking just the right note of contemporary wretched excess.",
+    "entities": [
+      {
+        "text": "Cher",
+        "label": "writer",
+        "start": 74,
+        "end": 78
+      },
+      {
+        "text": "Robin Givhan",
+        "label": "writer",
+        "start": 123,
+        "end": 135
+      }
+    ]
+  },
+  {
+    "text": "In the 1970s, Pohl re-emerged as a novel writer in his own right, with books such as Man Plus and the Heechee series.",
+    "entities": [
+      {
+        "text": "Pohl",
+        "label": "writer",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 35,
+        "end": 40
+      },
+      {
+        "text": "Man Plus",
+        "label": "book",
+        "start": 85,
+        "end": 93
+      },
+      {
+        "text": "Heechee",
+        "label": "book",
+        "start": 102,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "The Saga of Eric Brighteyes is an epic viking novel by H. Rider Haggard that concerns the adventures of its eponymous principal character in 10th-century Iceland.",
+    "entities": [
+      {
+        "text": "The Saga of Eric Brighteyes",
+        "label": "book",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "epic viking novel",
+        "label": "literarygenre",
+        "start": 34,
+        "end": 51
+      },
+      {
+        "text": "H. Rider Haggard",
+        "label": "writer",
+        "start": 55,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "His most famous works were his longer and more moralistic Troy Book (1412-20), a 30,000 line translation of the Latin prose narrative by Guido delle Colonne, Historia destructionis Troiae, the Siege of Thebes which was translated from a French prose redaction of the Roman de Thebes and the Fall of Princes.",
+    "entities": [
+      {
+        "text": "Latin prose",
+        "label": "literarygenre",
+        "start": 112,
+        "end": 123
+      },
+      {
+        "text": "Guido delle Colonne",
+        "label": "writer",
+        "start": 137,
+        "end": 156
+      },
+      {
+        "text": "French prose",
+        "label": "literarygenre",
+        "start": 237,
+        "end": 249
+      }
+    ]
+  },
+  {
+    "text": "His mother was murdered by the Nazi Germany, and two other sisters, Gittel and Devorah, died in Nazi concentration camps.",
+    "entities": [
+      {
+        "text": "Gittel",
+        "label": "person",
+        "start": 68,
+        "end": 74
+      },
+      {
+        "text": "Devorah",
+        "label": "person",
+        "start": 79,
+        "end": 86
+      },
+      {
+        "text": "Nazi concentration camps",
+        "label": "location",
+        "start": 96,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "In 1946 the Society of Jesus was banned and the Franciscans were banned in 1947.",
+    "entities": []
+  },
+  {
+    "text": "Snyder's interest in things Chinese and Japanese stemmed from his early reading of Pound's writings. and his long poem Mountains and Rivers Without End (1965-1996) reflects his reading of The Cantos in many of the formal devices used.",
+    "entities": [
+      {
+        "text": "Snyder",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Pound",
+        "label": "writer",
+        "start": 83,
+        "end": 88
+      },
+      {
+        "text": "long poem",
+        "label": "literarygenre",
+        "start": 109,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "His interest in space, however, was his primary focus, especially after reading science fiction stories by writers such as H. G. Wells and Edgar Rice Burroughs, which stirred his imagination about life on other planets such as Mars.",
+    "entities": [
+      {
+        "text": "science fiction stories",
+        "label": "literarygenre",
+        "start": 80,
+        "end": 103
+      },
+      {
+        "text": "H. G. Wells",
+        "label": "writer",
+        "start": 123,
+        "end": 134
+      },
+      {
+        "text": "Edgar Rice Burroughs",
+        "label": "writer",
+        "start": 139,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "Much of her work, including the collections of erotica Delta of Venus and Little Birds, was published posthumously amid renewed critical interest in her life and work.",
+    "entities": [
+      {
+        "text": "Delta of Venus",
+        "label": "book",
+        "start": 55,
+        "end": 69
+      },
+      {
+        "text": "Little Birds",
+        "label": "book",
+        "start": 74,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "text": "His original works include the Saga of Seven Suns series and the Nebula Award -nominated Assemblers of Infinity.",
+    "entities": [
+      {
+        "text": "Saga of Seven Suns",
+        "label": "book",
+        "start": 31,
+        "end": 49
+      },
+      {
+        "text": "Assemblers of Infinity",
+        "label": "book",
+        "start": 89,
+        "end": 111
+      }
+    ]
+  },
+  {
+    "text": "Percy is known for his philosophical novels set in and around New Orleans; the first, The Moviegoer, won the U.S. National Book Award for Fiction.",
+    "entities": [
+      {
+        "text": "Percy",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "philosophical novels",
+        "label": "literarygenre",
+        "start": 23,
+        "end": 43
+      },
+      {
+        "text": "New Orleans",
+        "label": "location",
+        "start": 62,
+        "end": 73
+      },
+      {
+        "text": "The Moviegoer",
+        "label": "book",
+        "start": 86,
+        "end": 99
+      }
+    ]
+  },
+  {
+    "text": "Verne's collaboration with the publisher Pierre-Jules Hetzel led to the creation of the Voyages extraordinaires, a widely popular series of scrupulously researched adventure novels including Journey to the Center of the Earth (1864), Twenty Thousand Leagues Under the Sea (1870), and Around the World in Eighty Days (1873).",
+    "entities": [
+      {
+        "text": "Verne",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Pierre-Jules Hetzel",
+        "label": "writer",
+        "start": 41,
+        "end": 60
+      },
+      {
+        "text": "Voyages extraordinaires",
+        "label": "book",
+        "start": 88,
+        "end": 111
+      },
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 174,
+        "end": 180
+      },
+      {
+        "text": "Journey to the Center of the Earth",
+        "label": "book",
+        "start": 191,
+        "end": 225
+      },
+      {
+        "text": "Twenty Thousand Leagues Under the Sea",
+        "label": "book",
+        "start": 234,
+        "end": 271
+      },
+      {
+        "text": "Around the World in Eighty Days",
+        "label": "book",
+        "start": 284,
+        "end": 315
+      }
+    ]
+  }
+]

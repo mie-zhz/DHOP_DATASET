@@ -1,0 +1,1490 @@
+[
+  {
+    "text": "She competed in Cross-country skiing at the 1976 Winter Olympics.",
+    "entities": []
+  },
+  {
+    "text": "He is a member of the American Philosophical Society and an elected Fellow of the American Academy of Arts and Sciences, and in 1985 was a Corresponding Fellow of the British Academy 0.2001.",
+    "entities": [
+      {
+        "text": "American Philosophical Society",
+        "label": "organisation",
+        "start": 22,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "The original body farm is the University of Tennessee Anthropological Research Facility located a few miles from downtown on Alcoa Highway in Tennessee, behind the University of Tennessee Medical Center.",
+    "entities": []
+  },
+  {
+    "text": "DSBs can be artificially induced using genome editing technologies such as CRISPR or TALEN.",
+    "entities": []
+  },
+  {
+    "text": "Several genes known to be affected by differential methylation are the CYP1A1 xenobiotic response element, Aryl hydrocarbon receptor repressor, and F2RL3.",
+    "entities": []
+  },
+  {
+    "text": "Red Mars won the BSFA Award in 1992 and Nebula Award for Best Novel in 1993.",
+    "entities": []
+  },
+  {
+    "text": "As examples, for Greeks, Constantine XI Palaiologos and Kolokotronis; and for Serbs, Miloš Obilić and Tzar Lazar; for Montenegrins, Đurađ I Balšić and Ivan Crnojević; for Albanians, George Kastrioti Skanderbeg; for ethnic Macedonians, Nikola Karev for Bulgarians, Vasil Levski, Georgi Sava Rakovski and Hristo Botev and for Croats, Nikola Šubić Zrinjski.",
+    "entities": [
+      {
+        "text": "Constantine XI Palaiologos",
+        "label": "person",
+        "start": 25,
+        "end": 51
+      },
+      {
+        "text": "Kolokotronis",
+        "label": "person",
+        "start": 56,
+        "end": 68
+      },
+      {
+        "text": "Miloš Obilić",
+        "label": "person",
+        "start": 85,
+        "end": 97
+      },
+      {
+        "text": "Tzar Lazar",
+        "label": "person",
+        "start": 102,
+        "end": 112
+      },
+      {
+        "text": "Đurađ I Balšić",
+        "label": "person",
+        "start": 132,
+        "end": 146
+      },
+      {
+        "text": "Ivan Crnojević",
+        "label": "person",
+        "start": 151,
+        "end": 165
+      },
+      {
+        "text": "George Kastrioti Skanderbeg",
+        "label": "person",
+        "start": 182,
+        "end": 209
+      },
+      {
+        "text": "Nikola Karev",
+        "label": "person",
+        "start": 235,
+        "end": 247
+      },
+      {
+        "text": "Vasil Levski",
+        "label": "person",
+        "start": 264,
+        "end": 276
+      },
+      {
+        "text": "Georgi Sava Rakovski",
+        "label": "person",
+        "start": 278,
+        "end": 298
+      },
+      {
+        "text": "Hristo Botev",
+        "label": "person",
+        "start": 303,
+        "end": 315
+      },
+      {
+        "text": "Nikola Šubić Zrinjski",
+        "label": "person",
+        "start": 332,
+        "end": 353
+      }
+    ]
+  },
+  {
+    "text": "Other studied asteroids included 15 Eunomia, 43 Ariadne, 44 Nysa, and 624 Hektor.",
+    "entities": [
+      {
+        "text": "15 Eunomia",
+        "label": "astronomicalobject",
+        "start": 33,
+        "end": 43
+      },
+      {
+        "text": "43 Ariadne",
+        "label": "astronomicalobject",
+        "start": 45,
+        "end": 55
+      },
+      {
+        "text": "44 Nysa",
+        "label": "astronomicalobject",
+        "start": 57,
+        "end": 64
+      },
+      {
+        "text": "624 Hektor",
+        "label": "astronomicalobject",
+        "start": 70,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "Mining interests Thomas Ewing and George W. Grayson, then miner Edward Blewett, Judge Hiram G. Bond of Denver and New York City, and Seattle publisher Leigh S. J. Hunt, funded further work and soon a wagon road was built over Barlow Pass to join the Sauk wagon road.",
+    "entities": [
+      {
+        "text": "Thomas Ewing",
+        "label": "person",
+        "start": 17,
+        "end": 29
+      },
+      {
+        "text": "George W. Grayson",
+        "label": "person",
+        "start": 34,
+        "end": 51
+      },
+      {
+        "text": "Edward Blewett",
+        "label": "person",
+        "start": 64,
+        "end": 78
+      },
+      {
+        "text": "Hiram G. Bond",
+        "label": "person",
+        "start": 86,
+        "end": 99
+      },
+      {
+        "text": "Leigh S. J. Hunt",
+        "label": "person",
+        "start": 151,
+        "end": 167
+      }
+    ]
+  },
+  {
+    "text": "The theory has been published in three peer-reviewed journals: The Quarterly Review of Biology, Evolutionary Anthropology and the Journal of Theoretical Biology.",
+    "entities": []
+  },
+  {
+    "text": "He won silver medals at the 1989 Southeast Asian Games, 1991 Southeast Asian Games, and 1993 Southeast Asian Games.",
+    "entities": []
+  },
+  {
+    "text": "Both Jupiter and Saturn have magnetic fields that are stronger than Earth's (Jupiter's equatorial field strength is 4.3 gauss, compared to 0.3 gauss for Earth), and both have extensive radiation belts.",
+    "entities": [
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 5,
+        "end": 12
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 17,
+        "end": 23
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 68,
+        "end": 73
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 77,
+        "end": 84
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 153,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "text": "Witten has been honored with numerous awards including a MacArthur Grant (1982), the Fields Medal (1990), the Nemmers Prize in Mathematics (2000), the National Medal of Science, retrieved 2013-09-01.",
+    "entities": [
+      {
+        "text": "Witten",
+        "label": "scientist",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "The gaseous outer atmospheres of Jupiter and Saturn transition smoothly into the dense liquid interior, while the nature of the transition zones of Neptune and Uranus is unknown.",
+    "entities": [
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 33,
+        "end": 40
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 45,
+        "end": 51
+      },
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 148,
+        "end": 155
+      },
+      {
+        "text": "Uranus",
+        "label": "astronomicalobject",
+        "start": 160,
+        "end": 166
+      }
+    ]
+  },
+  {
+    "text": "Notable companions from the earlier series included Romana (Mary Tamm and Lalla Ward), a Time Lady; Sarah Jane Smith (Elisabeth Sladen); and Jo Grant (Katy Manning).",
+    "entities": [
+      {
+        "text": "Romana",
+        "label": "person",
+        "start": 52,
+        "end": 58
+      },
+      {
+        "text": "Mary Tamm",
+        "label": "person",
+        "start": 60,
+        "end": 69
+      },
+      {
+        "text": "Lalla Ward",
+        "label": "person",
+        "start": 74,
+        "end": 84
+      },
+      {
+        "text": "Time Lady",
+        "label": "person",
+        "start": 89,
+        "end": 98
+      },
+      {
+        "text": "Sarah Jane Smith",
+        "label": "person",
+        "start": 100,
+        "end": 116
+      },
+      {
+        "text": "Elisabeth Sladen",
+        "label": "person",
+        "start": 118,
+        "end": 134
+      },
+      {
+        "text": "Jo Grant",
+        "label": "person",
+        "start": 141,
+        "end": 149
+      },
+      {
+        "text": "Katy Manning",
+        "label": "person",
+        "start": 151,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "Stanley N. Cohen (November 17, 1922 - February 5, 2020) was an American biochemist who, along with Rita Levi-Montalcini, was awarded the Nobel Prize in Physiology or Medicine in 1986 for the isolation of nerve growth factor and the discovery of epidermal growth factor.",
+    "entities": [
+      {
+        "text": "Stanley N. Cohen",
+        "label": "scientist",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "Rita Levi-Montalcini",
+        "label": "scientist",
+        "start": 99,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "He also included perturbations due to the other planets (principally Jupiter and Venus) and also accounted for the more difficult problem of the non-spherical nature of the Earth and Moon.",
+    "entities": [
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 69,
+        "end": 76
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 81,
+        "end": 86
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 173,
+        "end": 178
+      },
+      {
+        "text": "Moon",
+        "label": "astronomicalobject",
+        "start": 183,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "text": "A key step in nitrification is the oxidation of ammonia to hydroxylamine (NH2OH) catalyzed by the enzyme Ammonia monooxygenase (AMO) .Arciero, D.; Vannelli, T.; Logan, M.; Hopper, A. B.Degradation of trichloroethylene by the ammonia-oxidizing bacterium Nitrosomonas europaea Biochem.",
+    "entities": [
+      {
+        "text": "ammonia",
+        "label": "chemicalcompound",
+        "start": 48,
+        "end": 55
+      },
+      {
+        "text": "hydroxylamine",
+        "label": "chemicalcompound",
+        "start": 59,
+        "end": 72
+      },
+      {
+        "text": "NH2OH",
+        "label": "chemicalcompound",
+        "start": 74,
+        "end": 79
+      },
+      {
+        "text": ".Arciero, D.",
+        "label": "person",
+        "start": 133,
+        "end": 145
+      },
+      {
+        "text": "Vannelli, T.",
+        "label": "person",
+        "start": 147,
+        "end": 159
+      },
+      {
+        "text": "Logan, M.",
+        "label": "person",
+        "start": 161,
+        "end": 170
+      },
+      {
+        "text": "Hopper, A.",
+        "label": "person",
+        "start": 172,
+        "end": 182
+      },
+      {
+        "text": "trichloroethylene",
+        "label": "chemicalcompound",
+        "start": 200,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "CCR3 is a receptor for multiple inflammatory / inducible CC chemokines, including CCL11, CCL26, CCL7, CCL13, CCL15, CCL24 and CCL5 that attract eosinophils, and CCL28 that attracts B and T lymphocyte s to mucosal tissue s.ref name = Youn / It is most highly expressed in both eosinophils and basophils, but can also be found in Th1 and Th2 cells and airway epithelial cells.",
+    "entities": []
+  },
+  {
+    "text": "Neurexin - Neuroligin interactions help establish the trans-synaptic functional asymmetry essential for the stabilization and maintenance of proper synaptic transmission.",
+    "entities": []
+  },
+  {
+    "text": "Additionally, in 1999, it received nominations for Saturn Award for Best Actress on Television (Claudia Black as former soldier Aeryn Sun) and Saturn Award for Best Supporting Actress on Television (Virginia Hey as the Delvian Priestess Pa 'u Zotoh Zhaan).",
+    "entities": [
+      {
+        "text": "Claudia Black",
+        "label": "person",
+        "start": 96,
+        "end": 109
+      },
+      {
+        "text": "Aeryn Sun",
+        "label": "person",
+        "start": 128,
+        "end": 137
+      },
+      {
+        "text": "Virginia Hey",
+        "label": "person",
+        "start": 199,
+        "end": 211
+      },
+      {
+        "text": "Pa 'u Zotoh Zhaan",
+        "label": "person",
+        "start": 237,
+        "end": 254
+      }
+    ]
+  },
+  {
+    "text": "to University of Göttingen in 1913, to ETH Zurich in 1920, to University of Leipzig in 1927, and in 1934 to Humboldt University of Berlin, where, succeeding Einstein, he became director of the Kaiser Wilhelm Institute for Physics (now named the Max-Planck-Institut) whose facilities were built only during Debye's era.",
+    "entities": [
+      {
+        "text": "Einstein",
+        "label": "scientist",
+        "start": 157,
+        "end": 165
+      },
+      {
+        "text": "Kaiser Wilhelm Institute for Physics",
+        "label": "organisation",
+        "start": 193,
+        "end": 229
+      },
+      {
+        "text": "Max-Planck-Institut",
+        "label": "organisation",
+        "start": 245,
+        "end": 264
+      },
+      {
+        "text": "Debye",
+        "label": "scientist",
+        "start": 306,
+        "end": 311
+      }
+    ]
+  },
+  {
+    "text": "In December 2015, the Joint Working Party of international scientific bodies International Union of Pure and Applied Chemistry (IUPAC) and International Union of Pure and Applied Physics (IUPAP) recognized the element's discovery and assigned the priority of the discovery to the Dubna-Livermore collaboration ..",
+    "entities": [
+      {
+        "text": "Joint Working Party",
+        "label": "organisation",
+        "start": 22,
+        "end": 41
+      },
+      {
+        "text": "International Union of Pure and Applied Chemistry",
+        "label": "organisation",
+        "start": 77,
+        "end": 126
+      },
+      {
+        "text": "IUPAC",
+        "label": "organisation",
+        "start": 128,
+        "end": 133
+      },
+      {
+        "text": "International Union of Pure and Applied Physics",
+        "label": "organisation",
+        "start": 139,
+        "end": 186
+      },
+      {
+        "text": "IUPAP",
+        "label": "organisation",
+        "start": 188,
+        "end": 193
+      },
+      {
+        "text": "Dubna-Livermore",
+        "label": "scientist",
+        "start": 280,
+        "end": 295
+      }
+    ]
+  },
+  {
+    "text": "This interaction stabilizes both TOC1 and PRR5 and prevents their degradation by the F-box protein ZEITLUPE (ZTL).",
+    "entities": []
+  },
+  {
+    "text": "This is the Hong Kong roster in the women's basketball tournament of the 2018 Asian Games.",
+    "entities": []
+  },
+  {
+    "text": "The Dirac Medal of the ICTP is not awarded to Nobel Prize, Fields Medal ists, or Wolf Prize winners.",
+    "entities": []
+  },
+  {
+    "text": "Scientists who have contributed to advances in knowledge about the Earth's interior and seismology include Emil Wiechert, Beno Gutenberg, Andrija Mohorovičić, Harold Jeffreys, Inge Lehmann, Edward Bullard, Charles Francis Richter, Francis Birch, Frank Press, Hiroo Kanamori and Walter Elsasser.",
+    "entities": [
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 67,
+        "end": 72
+      },
+      {
+        "text": "Emil Wiechert",
+        "label": "scientist",
+        "start": 107,
+        "end": 120
+      },
+      {
+        "text": "Beno Gutenberg",
+        "label": "scientist",
+        "start": 122,
+        "end": 136
+      },
+      {
+        "text": "Andrija Mohorovičić",
+        "label": "scientist",
+        "start": 138,
+        "end": 157
+      },
+      {
+        "text": "Harold Jeffreys",
+        "label": "scientist",
+        "start": 159,
+        "end": 174
+      },
+      {
+        "text": "Inge Lehmann",
+        "label": "scientist",
+        "start": 176,
+        "end": 188
+      },
+      {
+        "text": "Edward Bullard",
+        "label": "scientist",
+        "start": 190,
+        "end": 204
+      },
+      {
+        "text": "Charles Francis Richter",
+        "label": "scientist",
+        "start": 206,
+        "end": 229
+      },
+      {
+        "text": "Francis Birch",
+        "label": "scientist",
+        "start": 231,
+        "end": 244
+      },
+      {
+        "text": "Frank Press",
+        "label": "scientist",
+        "start": 246,
+        "end": 257
+      },
+      {
+        "text": "Hiroo Kanamori",
+        "label": "scientist",
+        "start": 259,
+        "end": 273
+      },
+      {
+        "text": "Walter Elsasser",
+        "label": "scientist",
+        "start": 278,
+        "end": 293
+      }
+    ]
+  },
+  {
+    "text": "Before receiving his Ph.D. for atomic models of alkali metals from Massachusetts Institute of Technology in 1924, he spent the 1922-23 academic year as a Fellow of The American-Scandinavian Foundation at the University of Copenhagen under Niels Bohr and Hans Kramers.",
+    "entities": [
+      {
+        "text": "Niels Bohr",
+        "label": "scientist",
+        "start": 239,
+        "end": 249
+      },
+      {
+        "text": "Hans Kramers",
+        "label": "scientist",
+        "start": 254,
+        "end": 266
+      }
+    ]
+  },
+  {
+    "text": "Her lab currently has three main projects: identifying targets and mechanisms of expression regulation of the Nocturnin gene; identifying the mechanism of metabolic control of Nocturnin knockout lean mice; and defining structural components of the repressor protein Cryptochrome and how regulation of the nuclear entry of the protein contributes to circadian period length.",
+    "entities": []
+  },
+  {
+    "text": "The traditional precursor is N-Nitroso-N-methylurea, but this compound is itself somewhat unstable, and nowadays compounds such as Methylnitronitrosoguanidine (MNNG) and Diazald (Diazald) are preferred.",
+    "entities": [
+      {
+        "text": "N-Nitroso-N-methylurea",
+        "label": "chemicalcompound",
+        "start": 29,
+        "end": 51
+      },
+      {
+        "text": "Methylnitronitrosoguanidine",
+        "label": "chemicalcompound",
+        "start": 131,
+        "end": 158
+      },
+      {
+        "text": "MNNG",
+        "label": "chemicalcompound",
+        "start": 160,
+        "end": 164
+      },
+      {
+        "text": "Diazald",
+        "label": "chemicalcompound",
+        "start": 170,
+        "end": 177
+      },
+      {
+        "text": "Diazald",
+        "label": "chemicalcompound",
+        "start": 179,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "text": "He is also on the editorial board of multiple scientific journals, including Cell, Cell Stem Cell, Stem Cell Reports.",
+    "entities": []
+  },
+  {
+    "text": "Henry Taube, Ph.D, M.Sc, B.Sc., Fellow of the Royal Society of Canada (November 30, 1915 & amp; ndash; November 16, 2005) was a Canadian -born American chemist noted for having been awarded the 1983 Nobel Prize in Chemistry for his work in the mechanisms of electron-transfer reactions, especially in metal complexes.",
+    "entities": [
+      {
+        "text": "Henry",
+        "label": "scientist",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Taube",
+        "label": "scientist",
+        "start": 6,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "This methylation causes other factors like Histone deacetylase (HDACs) to bind to the chromosome and propagate heterochromatin formation, even into active gene regions.",
+    "entities": []
+  },
+  {
+    "text": "On 23 January 1960, the Swiss-designed Trieste, originally built in Italy and acquired by the U.S. Navy,, supported by the USS Wandank (ATF 204) and escorted by the USS Lewis (DE 535), descended to the ocean floor in the trench manned by Jacques Piccard (who co-designed the submersible along with his father, Auguste Piccard) and USN Lieutenant Don Walsh.",
+    "entities": [
+      {
+        "text": "U.S. Navy",
+        "label": "organisation",
+        "start": 94,
+        "end": 103
+      },
+      {
+        "text": "Jacques Piccard",
+        "label": "scientist",
+        "start": 238,
+        "end": 253
+      },
+      {
+        "text": "Auguste Piccard",
+        "label": "scientist",
+        "start": 310,
+        "end": 325
+      },
+      {
+        "text": "Don Walsh",
+        "label": "scientist",
+        "start": 346,
+        "end": 355
+      }
+    ]
+  },
+  {
+    "text": "He was elected President of the International Council for Science in 2008, to start his term in 2011 .. International Council for Science.",
+    "entities": [
+      {
+        "text": "International Council for Science",
+        "label": "organisation",
+        "start": 32,
+        "end": 65
+      },
+      {
+        "text": "International Council for Science",
+        "label": "organisation",
+        "start": 104,
+        "end": 137
+      }
+    ]
+  },
+  {
+    "text": "Later on, objects were found orbiting near the Lagrangian points of Neptune, Mars, Earth.",
+    "entities": [
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 68,
+        "end": 75
+      },
+      {
+        "text": "Mars",
+        "label": "astronomicalobject",
+        "start": 77,
+        "end": 81
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 83,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "text": "The primary effectors of Gβγ are various ion channels, such as G protein-coupled inwardly-rectifying potassium channel (GIRKs), P-type calcium channel / Q-type calcium channel - and N- type voltage-gated Casup2 + / sup channels, as well as some isoforms of AC and PLC, along with some phosphoinositide-3-kinase (PI3K) isoforms.",
+    "entities": []
+  },
+  {
+    "text": "The Asian Football Confederation, Oceania Football Confederation and CONCACAF (the governing body of football in North and Central America and the Caribbean) use blue text on their logos.",
+    "entities": [
+      {
+        "text": "Asian Football Confederation",
+        "label": "organisation",
+        "start": 4,
+        "end": 32
+      },
+      {
+        "text": "Oceania Football Confederation",
+        "label": "organisation",
+        "start": 34,
+        "end": 64
+      },
+      {
+        "text": "CONCACAF",
+        "label": "organisation",
+        "start": 69,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "Analysis of the elastic deformation happening when a pollinator lands on the sheath-like perch part of the flower Strelitzia reginae (known as Bird-of-Paradise flower) has inspired architects and scientists from the University of Freiburg and University of Stuttgart to create hingeless shading systems that can react to their environment.",
+    "entities": []
+  },
+  {
+    "text": "In 1972, LaHaye helped establish the Institute for Creation Research at San Diego Christian College in El Cajon, California, along with Henry M. Morris.",
+    "entities": [
+      {
+        "text": "LaHaye",
+        "label": "person",
+        "start": 9,
+        "end": 15
+      },
+      {
+        "text": "Institute for Creation Research",
+        "label": "organisation",
+        "start": 37,
+        "end": 68
+      },
+      {
+        "text": "Henry M. Morris",
+        "label": "person",
+        "start": 136,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "Viral TK phosphorylates aciclovir into its monophosphate form, which is subsequently phosphorylated to active aciclovir triphoshate by cellular kinase s, thus selectively inhibiting viral DNA polymerase.",
+    "entities": [
+      {
+        "text": "aciclovir triphoshate",
+        "label": "chemicalcompound",
+        "start": 110,
+        "end": 131
+      }
+    ]
+  },
+  {
+    "text": "Since its first season, the series received accolades ranging from Emmy Award to Teen Choice Awards.",
+    "entities": []
+  },
+  {
+    "text": "Two further super-Earths were discovered in 2006: OGLE-2005-BLG-390Lb with a mass of 5.5 Earth masses, which was found by gravitational microlensing, and HD 69830 b with a mass of 10 Earth masses.",
+    "entities": [
+      {
+        "text": "OGLE-2005-BLG-390Lb",
+        "label": "astronomicalobject",
+        "start": 50,
+        "end": 69
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 89,
+        "end": 94
+      },
+      {
+        "text": "HD 69830 b",
+        "label": "astronomicalobject",
+        "start": 154,
+        "end": 164
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 183,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "text": "The California portion of the desert also contains Edwards Air Force Base and Naval Air Weapons Station China Lake, noted for experimental aviation and weapons projects, and the Marine Corps Air Ground Combat Center Twentynine Palms in the world at Twentynine Palms.",
+    "entities": []
+  },
+  {
+    "text": "LINE1 transposable elements have been identified as targets for ionizing radiation.",
+    "entities": []
+  },
+  {
+    "text": "Repeated cocaine administration in mice induces post-translational modifications including hyperacetylation of Histone H3 or Histone H4 at 1,696 genes in one brain reward region the nucleus accumbens and deacetylation at 206 genes.",
+    "entities": [
+      {
+        "text": "cocaine",
+        "label": "chemicalcompound",
+        "start": 9,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "Charpentier is best known for her role in deciphering the molecular mechanisms of the bacterial CRISPR / Cas9 immune system and repurposing it into a tool for genome editing.",
+    "entities": [
+      {
+        "text": "Charpentier",
+        "label": "person",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "The AAA publishes more than 20 section publications including American Anthropologist, American Ethnologist, Cultural Anthropology, Anthropology & amp; Education Quarterly and Medical Anthropology Quarterly.",
+    "entities": [
+      {
+        "text": "AAA",
+        "label": "organisation",
+        "start": 4,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "This led to a vigorous debate between the biometricians, who supported Galton's ideas, as Walter Weldon, Arthur Dukinfield Darbishire and Karl Pearson, and Mendelians, who supported Bateson's (and Mendel's) ideas, such as Charles Davenport and Wilhelm Johannsen.",
+    "entities": [
+      {
+        "text": "Galton",
+        "label": "scientist",
+        "start": 71,
+        "end": 77
+      },
+      {
+        "text": "Walter Weldon",
+        "label": "scientist",
+        "start": 90,
+        "end": 103
+      },
+      {
+        "text": "Arthur Dukinfield Darbishire",
+        "label": "scientist",
+        "start": 105,
+        "end": 133
+      },
+      {
+        "text": "Karl Pearson",
+        "label": "scientist",
+        "start": 138,
+        "end": 150
+      },
+      {
+        "text": "Bateson",
+        "label": "scientist",
+        "start": 182,
+        "end": 189
+      },
+      {
+        "text": "Mendel",
+        "label": "scientist",
+        "start": 197,
+        "end": 203
+      },
+      {
+        "text": "Charles Davenport",
+        "label": "scientist",
+        "start": 222,
+        "end": 239
+      },
+      {
+        "text": "Wilhelm Johannsen",
+        "label": "scientist",
+        "start": 244,
+        "end": 261
+      }
+    ]
+  },
+  {
+    "text": "A second meeting was held soon thereafter and included Klaus Clusius, Robert Döpel, Werner Heisenberg, and Carl Friedrich von Weizsäcker.",
+    "entities": [
+      {
+        "text": "Klaus Clusius",
+        "label": "scientist",
+        "start": 55,
+        "end": 68
+      },
+      {
+        "text": "Robert Döpel",
+        "label": "scientist",
+        "start": 70,
+        "end": 82
+      },
+      {
+        "text": "Werner Heisenberg",
+        "label": "scientist",
+        "start": 84,
+        "end": 101
+      },
+      {
+        "text": "Carl Friedrich von Weizsäcker",
+        "label": "scientist",
+        "start": 107,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "Young began to study medicine in London at St Bartholomew's Hospital in 1792, moved to the University of Edinburgh Medical School in 1794, and a year later went to Göttingen, Lower Saxony, Germany, where he obtained the degree of doctor of medicine in 1796 from the University of Göttingen.",
+    "entities": [
+      {
+        "text": "St Bartholomew's Hospital",
+        "label": "organisation",
+        "start": 43,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "text": "Lin is recognized for his contributions to stem cell research, especially for his discoveries of the Piwi / Argonaute (AGO) gene family and the Piwi-interacting RNA s (piRNAs), and for proving the stem cell niche theory.",
+    "entities": [
+      {
+        "text": "Lin",
+        "label": "scientist",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "text": "Bennett was the flight safety manager for the radioisotope power sources currently in use on the Voyager 1 and Voyager 2 spacecraft (which went to Jupiter, Saturn, Uranus, Neptune and beyond) and on Lincoln Laboratory ' s LES 8 and LES 9 communications satellites.",
+    "entities": [
+      {
+        "text": "Bennett",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 147,
+        "end": 154
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 156,
+        "end": 162
+      },
+      {
+        "text": "Uranus",
+        "label": "astronomicalobject",
+        "start": 164,
+        "end": 170
+      },
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 172,
+        "end": 179
+      },
+      {
+        "text": "Lincoln Laboratory",
+        "label": "organisation",
+        "start": 199,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "Eduard Otto Emil Karl Adam Freiherr von Stackelberg (6 November 1867 in Sillamäe, Estonia - 7 April 1943 in Munich, Nazi Germany) was an Estonian chemist, landowner and politician who belonged to the Stackelberg family.",
+    "entities": [
+      {
+        "text": "Eduard Otto Emil Karl Adam Freiherr von Stackelberg",
+        "label": "scientist",
+        "start": 0,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "Thermales- rpoB motif RNAs likely function as cis-regulatory element s, in view of their positions upstream of protein-coding gene s, which invariably encode subunits of RNA polymerase.",
+    "entities": []
+  },
+  {
+    "text": "Also, they would like to find more information on the NF-κB signaling pathway as it was found to have proteins, called ELKS, which are found in the cortical complex.",
+    "entities": []
+  },
+  {
+    "text": "Cooper studied with Oliver Coleman and Walter Dyett in the late 1950s and early 1960s, then studied at the American Conservatory and Loop College.",
+    "entities": [
+      {
+        "text": "Oliver Coleman",
+        "label": "person",
+        "start": 20,
+        "end": 34
+      },
+      {
+        "text": "Walter Dyett",
+        "label": "person",
+        "start": 39,
+        "end": 51
+      },
+      {
+        "text": "American Conservatory",
+        "label": "organisation",
+        "start": 107,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "During the mid 1970s, he spent considerable time in Japan at the University of Tokyo and also at Kwame Nkrumah University of Science and Technology in Kumasi, Ghana.",
+    "entities": []
+  },
+  {
+    "text": "She represented her country at the 2017 World Championships in Athletics without reaching the semifinals.",
+    "entities": []
+  },
+  {
+    "text": "Richard Laurence Millington Synge Fellow of the Royal Society FRSE FRIC FRSC MRIA (Liverpool, 28 October 1914 - Norwich, 18 August 1994) was a British biochemist, and shared the 1952 Nobel Prize in Chemistry for the invention of partition chromatography with Archer Martin.",
+    "entities": [
+      {
+        "text": "Richard Laurence Millington Synge",
+        "label": "scientist",
+        "start": 0,
+        "end": 33
+      },
+      {
+        "text": "FRSE",
+        "label": "organisation",
+        "start": 62,
+        "end": 66
+      },
+      {
+        "text": "FRIC",
+        "label": "organisation",
+        "start": 67,
+        "end": 71
+      },
+      {
+        "text": "FRSC",
+        "label": "organisation",
+        "start": 72,
+        "end": 76
+      },
+      {
+        "text": "MRIA",
+        "label": "organisation",
+        "start": 77,
+        "end": 81
+      },
+      {
+        "text": "Archer Martin",
+        "label": "scientist",
+        "start": 259,
+        "end": 272
+      }
+    ]
+  },
+  {
+    "text": "Alberts has also served as an editor for numerous peer-reviewed journals in a variety of fields, including Behavioral Ecology (journal), the American Journal of Primatology, and PeerJ.",
+    "entities": [
+      {
+        "text": "Alberts",
+        "label": "scientist",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "One of these was in the category of Best Performance by an Actor in a Leading Role in a Dramatic Program or Mini-Series for Beau Bridges ' leading role as Simon Kress, which also garnered nominations for the Primetime Emmy Award for Outstanding Guest Actor in a Drama Series and the CableACE Award for Best Actor in a Dramatic Series.",
+    "entities": [
+      {
+        "text": "Simon Kress",
+        "label": "person",
+        "start": 155,
+        "end": 166
+      }
+    ]
+  },
+  {
+    "text": "Portions of Galveston County are served by College of the Mainland and Galveston College.",
+    "entities": []
+  },
+  {
+    "text": "He is currently Director of the Yale Center for the Study of Globalization at Yale University, is the Latin American co-chair of the Inter-American Dialogue, and is on the board of directors of Citigroup.",
+    "entities": [
+      {
+        "text": "Yale Center for the Study of Globalization",
+        "label": "organisation",
+        "start": 32,
+        "end": 74
+      },
+      {
+        "text": "Inter-American Dialogue",
+        "label": "organisation",
+        "start": 133,
+        "end": 156
+      },
+      {
+        "text": "Citigroup",
+        "label": "organisation",
+        "start": 194,
+        "end": 203
+      }
+    ]
+  },
+  {
+    "text": "Usually, in the presence of NADPH dehydrogenase or NADH dehydrogenase as the enzyme, NADPH or NADH is the reductant that converts resazurin to resorufin.",
+    "entities": [
+      {
+        "text": "NADPH",
+        "label": "chemicalcompound",
+        "start": 85,
+        "end": 90
+      },
+      {
+        "text": "NADH",
+        "label": "chemicalcompound",
+        "start": 94,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "text": "The Scottish chemist Joseph Black (the first experimental chemist) and the Dutchman J.B. van Helmont discovered carbon dioxide, or what Black called ' fixed air ' in 1754; Henry Cavendish discovered hydrogen and elucidated its properties and Joseph Priestley and, independently, Carl Wilhelm Scheele isolated pure oxygen.",
+    "entities": [
+      {
+        "text": "Joseph Black",
+        "label": "scientist",
+        "start": 21,
+        "end": 33
+      },
+      {
+        "text": "J.B. van Helmont",
+        "label": "scientist",
+        "start": 84,
+        "end": 100
+      },
+      {
+        "text": "carbon dioxide",
+        "label": "chemicalcompound",
+        "start": 112,
+        "end": 126
+      },
+      {
+        "text": "Henry Cavendish",
+        "label": "scientist",
+        "start": 172,
+        "end": 187
+      },
+      {
+        "text": "hydrogen",
+        "label": "chemicalcompound",
+        "start": 199,
+        "end": 207
+      },
+      {
+        "text": "Joseph Priestley",
+        "label": "scientist",
+        "start": 242,
+        "end": 258
+      },
+      {
+        "text": "Carl Wilhelm Scheele",
+        "label": "scientist",
+        "start": 279,
+        "end": 299
+      },
+      {
+        "text": "oxygen",
+        "label": "chemicalcompound",
+        "start": 314,
+        "end": 320
+      }
+    ]
+  },
+  {
+    "text": "In 1970, he was awarded the Louisa Gross Horwitz Prize from Columbia University together with Renato Dulbecco winner of 1975 Nobel Prize in Physiology or Medicine for discoveries concerning the functional organization of the cell that were seminal events in the development of modern cell biology, In 1988 he was also elected an Honorary Member of the American-Romanian Academy of Arts and Sciences (ARA).",
+    "entities": [
+      {
+        "text": "Renato Dulbecco",
+        "label": "scientist",
+        "start": 94,
+        "end": 109
+      },
+      {
+        "text": "American-Romanian Academy of Arts and Sciences",
+        "label": "organisation",
+        "start": 352,
+        "end": 398
+      },
+      {
+        "text": "ARA",
+        "label": "organisation",
+        "start": 400,
+        "end": 403
+      }
+    ]
+  },
+  {
+    "text": "Wilson won gold medals in the 800 metres at both the 2011 World Youth Championships in Athletics and the 2012 World Junior Championships in Athletics.",
+    "entities": [
+      {
+        "text": "Wilson",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Today we know that AHR / CYP1-signaling is involved in an amazing array of genetic networks and subcellular processes critical to lifesub production; crosstalk with hypoxia and Hypoxia-inducible factors (HIF) -signaling pathways; transforming growth factor -signaling pathways, as well as growth suppression; tumor initiation; tumor promotion; transgenerational inheritance and epigenetic effects; chromatin remodeling; histone modification; and aging-related and degenerative disease s.",
+    "entities": []
+  },
+  {
+    "text": "Sakharov was discovered on 24 September 1960, by the Dutch astronomers Ingrid van Houten-Groeneveld and Cornelis van Houten, on photographic plates taken by Dutch-American astronomer Tom Gehrels at the U.S. Palomar Observatory in California.",
+    "entities": [
+      {
+        "text": "Sakharov",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Ingrid van Houten-Groeneveld",
+        "label": "scientist",
+        "start": 71,
+        "end": 99
+      },
+      {
+        "text": "Cornelis van Houten",
+        "label": "scientist",
+        "start": 104,
+        "end": 123
+      },
+      {
+        "text": "Tom Gehrels",
+        "label": "person",
+        "start": 183,
+        "end": 194
+      }
+    ]
+  },
+  {
+    "text": "Of the sympatric species, they all contain Egg lysin that drives gamete isolation, but the allopatric species does not.",
+    "entities": []
+  },
+  {
+    "text": "As demonstrated by Temin and Baltimore, who shared the Nobel Prize in Physiology or Medicine with Dulbecco, the transfer of viral genes to the cell is mediated by an enzyme called reverse transcriptase (or, more precisely, RNA-dependent DNA polymerase), which replicates the viral genome (in this case made of RNA) into DNA, which is later incorporated in the host genome.",
+    "entities": [
+      {
+        "text": "Temin",
+        "label": "scientist",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "Baltimore",
+        "label": "scientist",
+        "start": 29,
+        "end": 38
+      },
+      {
+        "text": "Dulbecco",
+        "label": "scientist",
+        "start": 98,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "Pacific Union College, classified as a National Liberal Arts College by the Carnegie Foundation for the Advancement of Teaching, is the county's only four-year college and serves roughly 1,500 students.",
+    "entities": [
+      {
+        "text": "Carnegie Foundation for the Advancement of Teaching",
+        "label": "organisation",
+        "start": 76,
+        "end": 127
+      }
+    ]
+  },
+  {
+    "text": "Julius Tafel discovered that hydroxylamine hydrochloride or sulfate salts can be produced by electrolytic reduction of nitric acid with Hydrochloric acid or Sulfuric acid respectively:",
+    "entities": [
+      {
+        "text": "Julius Tafel",
+        "label": "scientist",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "hydroxylamine hydrochloride",
+        "label": "chemicalcompound",
+        "start": 29,
+        "end": 56
+      },
+      {
+        "text": "nitric acid",
+        "label": "chemicalcompound",
+        "start": 119,
+        "end": 130
+      },
+      {
+        "text": "Hydrochloric acid",
+        "label": "chemicalcompound",
+        "start": 136,
+        "end": 153
+      },
+      {
+        "text": "Sulfuric acid",
+        "label": "chemicalcompound",
+        "start": 157,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "Donna J. Haraway (born September 6, 1944) is an American Professor Emerita in the History of Consciousness Department and Feminist Studies Department at the University of California, Santa Cruz, United States.",
+    "entities": [
+      {
+        "text": "Donna J. Haraway",
+        "label": "scientist",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "History of Consciousness Department",
+        "label": "organisation",
+        "start": 82,
+        "end": 117
+      },
+      {
+        "text": "Feminist Studies Department",
+        "label": "organisation",
+        "start": 122,
+        "end": 149
+      }
+    ]
+  },
+  {
+    "text": "The German university system allowed students to move easily from one university to another, so he spent summer semesters at Heidelberg University in 1902 and the University of Zurich in 1903.",
+    "entities": []
+  },
+  {
+    "text": "The asteroids 271 Penthesilea and 10295 Hippolyta were named after queens of the Amazons, while 5143 Heracles was named after the hero who fought them.",
+    "entities": [
+      {
+        "text": "271 Penthesilea",
+        "label": "astronomicalobject",
+        "start": 14,
+        "end": 29
+      },
+      {
+        "text": "10295 Hippolyta",
+        "label": "astronomicalobject",
+        "start": 34,
+        "end": 49
+      },
+      {
+        "text": "5143 Heracles",
+        "label": "astronomicalobject",
+        "start": 96,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "For example, Venus ' s year (sidereal period) is 225 days, and Earth ' s is 365 days.",
+    "entities": [
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 13,
+        "end": 18
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 63,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "text": "Three of the newly confirmed exoplanets were found to orbit within habitable zones of their related star s: two of the three, Kepler-438b and Kepler-442b, are near-Earth-size and likely rocky; the third, Kepler-440b, is a super-Earth.",
+    "entities": [
+      {
+        "text": "Kepler-438b",
+        "label": "astronomicalobject",
+        "start": 126,
+        "end": 137
+      },
+      {
+        "text": "Kepler-442b",
+        "label": "astronomicalobject",
+        "start": 142,
+        "end": 153
+      },
+      {
+        "text": "Kepler-440b",
+        "label": "astronomicalobject",
+        "start": 204,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "During its ten seasons, Smallville won awards ranging from Primetime Emmy Award to Teen Choice Awards.",
+    "entities": [
+      {
+        "text": "Smallville",
+        "label": "person",
+        "start": 24,
+        "end": 34
+      }
+    ]
+  }
+]

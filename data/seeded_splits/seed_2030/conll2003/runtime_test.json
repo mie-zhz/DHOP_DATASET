@@ -1,0 +1,781 @@
+[
+  {
+    "text": "Fifth-seed Iva Majoli of Croatia was picked off by Austrian Judith Wiesner and Wimbledon semifinalist Kimiko Date of Japan, the 10th seed, fell 6-2 7-5 to 53rd-ranked American Kimberly Po.",
+    "entities": [
+      {
+        "text": "Iva Majoli",
+        "label": "PER",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "text": "Croatia",
+        "label": "LOC",
+        "start": 25,
+        "end": 32
+      },
+      {
+        "text": "Judith Wiesner",
+        "label": "PER",
+        "start": 60,
+        "end": 74
+      },
+      {
+        "text": "Kimiko Date",
+        "label": "PER",
+        "start": 102,
+        "end": 113
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 117,
+        "end": 122
+      },
+      {
+        "text": "Kimberly Po",
+        "label": "PER",
+        "start": 176,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "text": "At Leicester: Leicestershire 343-8 (P. Simmons 108, P. Nixon",
+    "entities": [
+      {
+        "text": "Leicester",
+        "label": "LOC",
+        "start": 3,
+        "end": 12
+      },
+      {
+        "text": "Leicestershire",
+        "label": "ORG",
+        "start": 14,
+        "end": 28
+      },
+      {
+        "text": "P. Simmons",
+        "label": "PER",
+        "start": 36,
+        "end": 46
+      },
+      {
+        "text": "P. Nixon",
+        "label": "PER",
+        "start": 52,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "Ecu (1) 28 August 1996 (96 / C 251/01) END OF DOCUMENT.",
+    "entities": []
+  },
+  {
+    "text": "The German government hailed the conviction as a major victory in the fight against neo-Nazism.",
+    "entities": []
+  },
+  {
+    "text": "He said at one point during a press conference: \" I have seen my whip (party manager) for next week which, of course, doesn't mean very much to me now. \"",
+    "entities": []
+  },
+  {
+    "text": "Pierre Belec",
+    "entities": [
+      {
+        "text": "Pierre Belec",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Numerous to scattered showers and thunderstorms in southern and central India, and isolated showers to the north Sunday through Tuesday.",
+    "entities": [
+      {
+        "text": "India",
+        "label": "LOC",
+        "start": 72,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "-- Hong Kong newsroom (852) 2843-6470",
+    "entities": [
+      {
+        "text": "Hong Kong",
+        "label": "LOC",
+        "start": 3,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "American world champion Gwen Torrence, the bronze medallist in Atlanta, was second in 11.00.",
+    "entities": [
+      {
+        "text": "Gwen Torrence",
+        "label": "PER",
+        "start": 24,
+        "end": 37
+      },
+      {
+        "text": "Atlanta",
+        "label": "LOC",
+        "start": 63,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "text": "The quake struck at 11.16 a.m. (1716 GMT) and was centred 10 miles (16 km) south of the port of Quepos, which is 90 miles (140 km) south of the capital San Jose, the Costa Rican Volcanic and Seismologicial Observatory said.",
+    "entities": [
+      {
+        "text": "Quepos",
+        "label": "LOC",
+        "start": 96,
+        "end": 102
+      },
+      {
+        "text": "San Jose",
+        "label": "LOC",
+        "start": 152,
+        "end": 160
+      },
+      {
+        "text": "Costa Rican Volcanic and Seismologicial Observatory",
+        "label": "ORG",
+        "start": 166,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "A visit to the computer centre offering Internet services found a lone European official clicking away on his mouse.",
+    "entities": []
+  },
+  {
+    "text": "Frankfurt was the one bright spot in Europe.",
+    "entities": [
+      {
+        "text": "Frankfurt",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 37,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "The Salang tunnel, the main supply route for Soviet troops when they were occupying Afghanistan in the 1980s, had been closed since 1994 when northern militia leader General Abdul Rashid Dostum rebelled against the Kabul government.",
+    "entities": [
+      {
+        "text": "Salang",
+        "label": "LOC",
+        "start": 4,
+        "end": 10
+      },
+      {
+        "text": "Afghanistan",
+        "label": "LOC",
+        "start": 84,
+        "end": 95
+      },
+      {
+        "text": "Abdul Rashid Dostum",
+        "label": "PER",
+        "start": 174,
+        "end": 193
+      },
+      {
+        "text": "Kabul",
+        "label": "LOC",
+        "start": 215,
+        "end": 220
+      }
+    ]
+  },
+  {
+    "text": "Trevor Holland, a 52 year-old with who has been convicted twice of gross indecency with children, was captured after being spotted in Worthing, a town on England's southern coast.",
+    "entities": [
+      {
+        "text": "Trevor Holland",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Worthing",
+        "label": "LOC",
+        "start": 134,
+        "end": 142
+      },
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 154,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "1996-08-27",
+    "entities": []
+  },
+  {
+    "text": "Swansea 3 1 0 2 3 7 3",
+    "entities": [
+      {
+        "text": "Swansea",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Andrew Gray",
+    "entities": [
+      {
+        "text": "Andrew Gray",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "TENNIS - TUESDAY 'S RESULTS FROM U.S. OPEN.",
+    "entities": []
+  },
+  {
+    "text": "BASKETBALL - INTERNATIONAL TOURNAMENT RESULT.",
+    "entities": []
+  },
+  {
+    "text": "HAARLEM, Netherlands 1996-08-27",
+    "entities": [
+      {
+        "text": "HAARLEM",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Netherlands",
+        "label": "LOC",
+        "start": 9,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Jailed Socialist leader Fatos Nano made the first call for change in July, a month after the party's chief opponents, the conservative Democrats of President Sali Berisha, almost swept the board in a disputed general election.",
+    "entities": [
+      {
+        "text": "Fatos Nano",
+        "label": "PER",
+        "start": 24,
+        "end": 34
+      },
+      {
+        "text": "Sali Berisha",
+        "label": "PER",
+        "start": 158,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "(57th)",
+    "entities": []
+  },
+  {
+    "text": "Elsewhere, basis values were mostly steady in quiet conditions with little noteworty domestic or export business, dealers said.",
+    "entities": []
+  },
+  {
+    "text": "Hindu party forces India parliament to adjourn.",
+    "entities": [
+      {
+        "text": "India",
+        "label": "LOC",
+        "start": 19,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "12,000.",
+    "entities": []
+  },
+  {
+    "text": "Women's singles",
+    "entities": []
+  },
+  {
+    "text": "Mladost (L) 4 2 1 1 8 5 7",
+    "entities": [
+      {
+        "text": "Mladost (L)",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "1993 - Six former Soviet republics, Russia, Belarus, Kazakhstan, Uzbekistan, Armenia and Tajikistan, signed framework agreement to keep the Russian rouble as their common currency.",
+    "entities": [
+      {
+        "text": "Russia",
+        "label": "LOC",
+        "start": 36,
+        "end": 42
+      },
+      {
+        "text": "Belarus",
+        "label": "LOC",
+        "start": 44,
+        "end": 51
+      },
+      {
+        "text": "Kazakhstan",
+        "label": "LOC",
+        "start": 53,
+        "end": 63
+      },
+      {
+        "text": "Uzbekistan",
+        "label": "LOC",
+        "start": 65,
+        "end": 75
+      },
+      {
+        "text": "Armenia",
+        "label": "LOC",
+        "start": 77,
+        "end": 84
+      },
+      {
+        "text": "Tajikistan",
+        "label": "LOC",
+        "start": 89,
+        "end": 99
+      }
+    ]
+  },
+  {
+    "text": "In sentencing Darrel Voeks, 38, to a 10-year prison term on Thursday, Outagmie County Circuit Court Judge Dennis Luebke said he was \" a thief by habit. \"",
+    "entities": [
+      {
+        "text": "Darrel Voeks",
+        "label": "PER",
+        "start": 14,
+        "end": 26
+      },
+      {
+        "text": "Outagmie County",
+        "label": "LOC",
+        "start": 70,
+        "end": 85
+      },
+      {
+        "text": "Dennis Luebke",
+        "label": "PER",
+        "start": 106,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "8 equal.",
+    "entities": []
+  },
+  {
+    "text": "VAIL, Colorado 1996-12-07",
+    "entities": [
+      {
+        "text": "VAIL",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Colorado",
+        "label": "LOC",
+        "start": 6,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "Bulgarian air traffic controllers will go on strike on September 3 demanding higher pay, the chief of the Bulgarian association of air traffic controllers (Bulatka) said on Monday.",
+    "entities": [
+      {
+        "text": "Bulatka",
+        "label": "ORG",
+        "start": 156,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "It took Martinez four Opens to get as far as the quarters, and another four to match that.",
+    "entities": [
+      {
+        "text": "Martinez",
+        "label": "PER",
+        "start": 8,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "210 Brett Liddle 75 65 70",
+    "entities": [
+      {
+        "text": "Brett Liddle",
+        "label": "PER",
+        "start": 4,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "In an affidavit, the princess said that in chasing her Stenning had got so close that he twice smashed into her car and pushed her when she tried to remove the film from his camera.",
+    "entities": [
+      {
+        "text": "Stenning",
+        "label": "PER",
+        "start": 55,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "Attendance: 20,000",
+    "entities": []
+  },
+  {
+    "text": "There have only been a few skirmishes in Guerrero in which a handful of police, soldiers and civilians have been killed or injured.",
+    "entities": [
+      {
+        "text": "Guerrero",
+        "label": "LOC",
+        "start": 41,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "4. Paula Radcliffe (Britain) 14:59.70",
+    "entities": [
+      {
+        "text": "Paula Radcliffe",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 20,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "Still, markets may have little to fear from any Rubin successor because the firm dollar policy has yielded positive results.",
+    "entities": [
+      {
+        "text": "Rubin",
+        "label": "PER",
+        "start": 48,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "text": "Men's 100 metres",
+    "entities": []
+  },
+  {
+    "text": "(tabulate under won, lost, percentage, games behind):",
+    "entities": []
+  },
+  {
+    "text": "16. Leatitia Dalloz (France) 33",
+    "entities": [
+      {
+        "text": "Leatitia Dalloz",
+        "label": "PER",
+        "start": 4,
+        "end": 19
+      },
+      {
+        "text": "France",
+        "label": "LOC",
+        "start": 21,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "OAKLAND 7 Boston 0",
+    "entities": [
+      {
+        "text": "OAKLAND",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Boston",
+        "label": "ORG",
+        "start": 10,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "But the court heard that receipts showed much of the money went to dancers at strip clubs where he was known as a big tipper.",
+    "entities": []
+  },
+  {
+    "text": "\" The (dollar's) rise was due to demand from importers who have a lot of wire transfers accumulated, \" one dealer said.",
+    "entities": []
+  },
+  {
+    "text": "Croft 29-6-64-1, Cork 14.3-4-45-1, Salisbury 17-0-91-0",
+    "entities": [
+      {
+        "text": "Croft",
+        "label": "PER",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Cork",
+        "label": "PER",
+        "start": 17,
+        "end": 21
+      },
+      {
+        "text": "Salisbury",
+        "label": "PER",
+        "start": 35,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": ", Aa3 / VMIG-1 - Moody's.",
+    "entities": [
+      {
+        "text": "Moody's",
+        "label": "ORG",
+        "start": 17,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "5. Mika Hakkinen (Finland) 23",
+    "entities": [
+      {
+        "text": "Mika Hakkinen",
+        "label": "PER",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "Finland",
+        "label": "LOC",
+        "start": 18,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "Women's singles, first round 1 - Steffi Graf (Germany) beat Yayuk Basuki (Indonesia) 6-3 7-6 (7-4)",
+    "entities": [
+      {
+        "text": "Steffi Graf",
+        "label": "PER",
+        "start": 33,
+        "end": 44
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "Yayuk Basuki",
+        "label": "PER",
+        "start": 60,
+        "end": 72
+      },
+      {
+        "text": "Indonesia",
+        "label": "LOC",
+        "start": 74,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "text": "Nearly 100 students have been injured in the clashes in Dhaka and Bogra, police told reporters.",
+    "entities": [
+      {
+        "text": "Dhaka",
+        "label": "LOC",
+        "start": 56,
+        "end": 61
+      },
+      {
+        "text": "Bogra",
+        "label": "LOC",
+        "start": 66,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "Cannes 0 Monaco 2 (Henry 26th, 71st).",
+    "entities": [
+      {
+        "text": "Cannes",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Monaco",
+        "label": "ORG",
+        "start": 9,
+        "end": 15
+      },
+      {
+        "text": "Henry",
+        "label": "PER",
+        "start": 19,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "BRITAIN WELCOMES ROMANIA-HUNGARY TREATY ACCORD.",
+    "entities": [
+      {
+        "text": "BRITAIN",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "But I think it's not that.",
+    "entities": []
+  },
+  {
+    "text": "out, M. Dowman 107) v Surrey.",
+    "entities": [
+      {
+        "text": "M. Dowman",
+        "label": "PER",
+        "start": 5,
+        "end": 14
+      },
+      {
+        "text": "Surrey",
+        "label": "ORG",
+        "start": 22,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "\" Towards the end of my match my stomach felt like week-old sushi, \" said Washington. \"",
+    "entities": [
+      {
+        "text": "Washington",
+        "label": "LOC",
+        "start": 74,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "text": "German Bunds were not much better, offering returns of 0.05 percent, while Japanese government bonds managed a 0.38 percent gain.",
+    "entities": []
+  },
+  {
+    "text": "Ferrigato, winner of the Leeds Classic last Sunday with a one second win over Britain's Max Sciandri, posted a similarly narrow margin of victory again.",
+    "entities": [
+      {
+        "text": "Ferrigato",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 78,
+        "end": 85
+      },
+      {
+        "text": "Max Sciandri",
+        "label": "PER",
+        "start": 88,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "text": "NEW YORK 1996-08-28",
+    "entities": [
+      {
+        "text": "NEW YORK",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Rafter missed 10 weeks after wrist surgery earlier this year and the time away from tennis has given him a new perspective.",
+    "entities": [
+      {
+        "text": "Rafter",
+        "label": "PER",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "The HCFA Administrator reversed a previously favorable decision regarding the reimbursement of costs related to the company's community liaison personnel, it added.",
+    "entities": [
+      {
+        "text": "HCFA",
+        "label": "ORG",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  }
+]

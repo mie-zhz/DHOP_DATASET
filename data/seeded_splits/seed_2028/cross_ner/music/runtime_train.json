@@ -1,0 +1,2518 @@
+[
+  {
+    "text": "! --as per MOS: BIO; became notable as Welsh, and self identifies as Welsh; 2012 Guardian interview; I suppose it's because we are both Welsh -- He won the Academy Award for Best Actor in 1992 and has also received three British Academy Film Awards s, two Emmy Award and the Golden Globe Cecil B. DeMille Award.",
+    "entities": [
+      {
+        "text": "Academy Award for Best Actor",
+        "label": "award",
+        "start": 156,
+        "end": 184
+      },
+      {
+        "text": "British Academy Film Awards",
+        "label": "award",
+        "start": 221,
+        "end": 248
+      },
+      {
+        "text": "Emmy Award",
+        "label": "award",
+        "start": 256,
+        "end": 266
+      },
+      {
+        "text": "Golden Globe Cecil B. DeMille Award",
+        "label": "award",
+        "start": 275,
+        "end": 310
+      }
+    ]
+  },
+  {
+    "text": "Prior to recording, Dylan previewed the songs that would constitute Blood on the Tracks for a number of friends in the music world, including David Crosby, Graham Nash, Stephen Stills, Tim Drummond and Peter Rowan.",
+    "entities": [
+      {
+        "text": "Dylan",
+        "label": "musicalartist",
+        "start": 20,
+        "end": 25
+      },
+      {
+        "text": "Blood on the Tracks",
+        "label": "album",
+        "start": 68,
+        "end": 87
+      },
+      {
+        "text": "David Crosby",
+        "label": "musicalartist",
+        "start": 142,
+        "end": 154
+      },
+      {
+        "text": "Graham Nash",
+        "label": "musicalartist",
+        "start": 156,
+        "end": 167
+      },
+      {
+        "text": "Stephen Stills",
+        "label": "musicalartist",
+        "start": 169,
+        "end": 183
+      },
+      {
+        "text": "Tim Drummond",
+        "label": "musicalartist",
+        "start": 185,
+        "end": 197
+      },
+      {
+        "text": "Peter Rowan",
+        "label": "musicalartist",
+        "start": 202,
+        "end": 213
+      }
+    ]
+  },
+  {
+    "text": "The film drew many of the biggest living influencers of the rhythm and blues genre together, such as Ray Charles, James Brown, Cab Calloway, Aretha Franklin, and John Lee Hooker.",
+    "entities": [
+      {
+        "text": "rhythm and blues",
+        "label": "musicgenre",
+        "start": 60,
+        "end": 76
+      },
+      {
+        "text": "Ray Charles",
+        "label": "musicalartist",
+        "start": 101,
+        "end": 112
+      },
+      {
+        "text": "James Brown",
+        "label": "musicalartist",
+        "start": 114,
+        "end": 125
+      },
+      {
+        "text": "Cab Calloway",
+        "label": "musicalartist",
+        "start": 127,
+        "end": 139
+      },
+      {
+        "text": "Aretha Franklin",
+        "label": "musicalartist",
+        "start": 141,
+        "end": 156
+      },
+      {
+        "text": "John Lee Hooker",
+        "label": "musicalartist",
+        "start": 162,
+        "end": 177
+      }
+    ]
+  },
+  {
+    "text": "Country music, also known as country and western (or simply country), and hillbilly music, is a genre of popular music that takes its roots from genres such as blues and old-time music, and various types of American folk music including Appalachian music, Cajun music, and the cowboy Western music styles of Red Dirt, New Mexico music, Texas country music, and Tejano music.",
+    "entities": [
+      {
+        "text": "Country music",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "country",
+        "label": "musicgenre",
+        "start": 29,
+        "end": 36
+      },
+      {
+        "text": "western",
+        "label": "musicgenre",
+        "start": 41,
+        "end": 48
+      },
+      {
+        "text": "country",
+        "label": "musicgenre",
+        "start": 60,
+        "end": 67
+      },
+      {
+        "text": "hillbilly music",
+        "label": "musicgenre",
+        "start": 74,
+        "end": 89
+      },
+      {
+        "text": "popular music",
+        "label": "musicgenre",
+        "start": 105,
+        "end": 118
+      },
+      {
+        "text": "blues",
+        "label": "musicgenre",
+        "start": 160,
+        "end": 165
+      },
+      {
+        "text": "old-time music",
+        "label": "musicgenre",
+        "start": 170,
+        "end": 184
+      },
+      {
+        "text": "American folk music",
+        "label": "musicgenre",
+        "start": 207,
+        "end": 226
+      },
+      {
+        "text": "Red Dirt",
+        "label": "musicgenre",
+        "start": 308,
+        "end": 316
+      },
+      {
+        "text": "New Mexico music",
+        "label": "musicgenre",
+        "start": 318,
+        "end": 334
+      },
+      {
+        "text": "Texas country music",
+        "label": "musicgenre",
+        "start": 336,
+        "end": 355
+      },
+      {
+        "text": "Tejano music",
+        "label": "musicgenre",
+        "start": 361,
+        "end": 373
+      }
+    ]
+  },
+  {
+    "text": "Today there are Celtic-influenced subgenres of virtually every type of popular music including electronica, Celtic rock, Celtic metal, Celtic punk, Hip hop music, reggae, New-age music, Latin, Andean and Pop music.",
+    "entities": [
+      {
+        "text": "electronica",
+        "label": "musicgenre",
+        "start": 95,
+        "end": 106
+      },
+      {
+        "text": "Celtic rock",
+        "label": "musicgenre",
+        "start": 108,
+        "end": 119
+      },
+      {
+        "text": "Celtic metal",
+        "label": "musicgenre",
+        "start": 121,
+        "end": 133
+      },
+      {
+        "text": "Celtic punk",
+        "label": "musicgenre",
+        "start": 135,
+        "end": 146
+      },
+      {
+        "text": "Hip hop music",
+        "label": "musicgenre",
+        "start": 148,
+        "end": 161
+      },
+      {
+        "text": "reggae",
+        "label": "musicgenre",
+        "start": 163,
+        "end": 169
+      },
+      {
+        "text": "New-age music",
+        "label": "musicgenre",
+        "start": 171,
+        "end": 184
+      },
+      {
+        "text": "Latin",
+        "label": "musicgenre",
+        "start": 186,
+        "end": 191
+      },
+      {
+        "text": "Andean",
+        "label": "musicgenre",
+        "start": 193,
+        "end": 199
+      },
+      {
+        "text": "Pop music",
+        "label": "musicgenre",
+        "start": 204,
+        "end": 213
+      }
+    ]
+  },
+  {
+    "text": "Their musical style is eclectic, covering styles such as Hip hop music, Rock music, blues, jazz, R & amp; B, Punk rock, and funk.",
+    "entities": [
+      {
+        "text": "eclectic",
+        "label": "musicgenre",
+        "start": 23,
+        "end": 31
+      },
+      {
+        "text": "Hip hop music",
+        "label": "musicgenre",
+        "start": 57,
+        "end": 70
+      },
+      {
+        "text": "Rock music",
+        "label": "musicgenre",
+        "start": 72,
+        "end": 82
+      },
+      {
+        "text": "blues",
+        "label": "musicgenre",
+        "start": 84,
+        "end": 89
+      },
+      {
+        "text": "jazz",
+        "label": "musicgenre",
+        "start": 91,
+        "end": 95
+      },
+      {
+        "text": "R & amp; B",
+        "label": "musicgenre",
+        "start": 97,
+        "end": 107
+      },
+      {
+        "text": "Punk rock",
+        "label": "musicgenre",
+        "start": 109,
+        "end": 118
+      },
+      {
+        "text": "funk",
+        "label": "musicgenre",
+        "start": 124,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "In 1974 he returned to the No. 1 spot on the R & B charts with The Payback, with the The Payback reaching the same spot on the album charts; he would reach No. 1 two more times in 1974, with My Thang and Papa Don 't Take No Mess.",
+    "entities": [
+      {
+        "text": "R & B",
+        "label": "musicgenre",
+        "start": 45,
+        "end": 50
+      },
+      {
+        "text": "The Payback",
+        "label": "album",
+        "start": 63,
+        "end": 74
+      },
+      {
+        "text": "The Payback",
+        "label": "album",
+        "start": 85,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "text": "The album was certified gold by both British Phonographic Industry and the Recording Industry Association of America in December 2007.",
+    "entities": []
+  },
+  {
+    "text": "In 1984, Loverboy recorded the United States at the 1984 Summer Olympics theme for the 1984 Summer Olympics, Nothing's Gonna Stop You Now.",
+    "entities": [
+      {
+        "text": "Loverboy",
+        "label": "band",
+        "start": 9,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "With the advent of the radio, bugle signaling units became obsolete and surplus equipment was sold to veteran organizations (such as the Veterans of Foreign Wars and American Legion, two major organizers for classic drum corps).",
+    "entities": []
+  },
+  {
+    "text": "On 9 June 1892 the Paris Opéra-Comique staged Les Troyens à Carthage (in the Théâtre de la Ville as its premiere) and witnessed a triumphant debut for the 17-year-old Marie Delna as Didon, with Stéphane Lafarge as Énée, conducted by Jules Danbé; these staged performances of Part 2 continued into the next year.",
+    "entities": [
+      {
+        "text": "Marie Delna",
+        "label": "musicalartist",
+        "start": 167,
+        "end": 178
+      },
+      {
+        "text": "Jules Danbé",
+        "label": "musicalartist",
+        "start": 233,
+        "end": 244
+      }
+    ]
+  },
+  {
+    "text": "The 5th Dimension is an United States popular music vocal group, whose repertoire includes Pop music, Rhythm and blues, Soul music, jazz, light opera, and Broadway - the melange was coined as Champagne Soul.",
+    "entities": [
+      {
+        "text": "The 5th Dimension",
+        "label": "band",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "popular music",
+        "label": "musicgenre",
+        "start": 38,
+        "end": 51
+      },
+      {
+        "text": "Pop music",
+        "label": "musicgenre",
+        "start": 91,
+        "end": 100
+      },
+      {
+        "text": "Rhythm and blues",
+        "label": "musicgenre",
+        "start": 102,
+        "end": 118
+      },
+      {
+        "text": "Soul music",
+        "label": "musicgenre",
+        "start": 120,
+        "end": 130
+      },
+      {
+        "text": "jazz",
+        "label": "musicgenre",
+        "start": 132,
+        "end": 136
+      },
+      {
+        "text": "light opera",
+        "label": "musicgenre",
+        "start": 138,
+        "end": 149
+      },
+      {
+        "text": "Broadway",
+        "label": "musicgenre",
+        "start": 155,
+        "end": 163
+      },
+      {
+        "text": "Champagne Soul",
+        "label": "musicgenre",
+        "start": 192,
+        "end": 206
+      }
+    ]
+  },
+  {
+    "text": "In addition to being named Top Female Vocalist by the Academy of Country Music (ACM) twice and Female Vocalist of the Year by the Country Music Association (CMA), she also won a Grammy Award (earning seven nominations), People's Choice Award and an American Music Award (AMA).",
+    "entities": [
+      {
+        "text": "Top Female Vocalist",
+        "label": "award",
+        "start": 27,
+        "end": 46
+      },
+      {
+        "text": "Female Vocalist of the Year",
+        "label": "award",
+        "start": 95,
+        "end": 122
+      },
+      {
+        "text": "Grammy Award",
+        "label": "award",
+        "start": 178,
+        "end": 190
+      },
+      {
+        "text": "People's Choice Award",
+        "label": "award",
+        "start": 220,
+        "end": 241
+      },
+      {
+        "text": "American Music Award",
+        "label": "award",
+        "start": 249,
+        "end": 269
+      },
+      {
+        "text": "AMA",
+        "label": "award",
+        "start": 271,
+        "end": 274
+      }
+    ]
+  },
+  {
+    "text": "After Deftones ' third album White Pony, subsequent releases would be written with seven-strings, until 2010's Diamond Eyes and 2012's Koi No Yokan, which were written with an eight-string guitar.",
+    "entities": [
+      {
+        "text": "Deftones",
+        "label": "band",
+        "start": 6,
+        "end": 14
+      },
+      {
+        "text": "White Pony",
+        "label": "album",
+        "start": 29,
+        "end": 39
+      },
+      {
+        "text": "Diamond Eyes",
+        "label": "album",
+        "start": 111,
+        "end": 123
+      },
+      {
+        "text": "Koi No Yokan",
+        "label": "album",
+        "start": 135,
+        "end": 147
+      }
+    ]
+  },
+  {
+    "text": "Thumrī is also used as a generic name for some other, even lighter, forms such as Dadra, Hori, Kajari, Sawani, Jhoola, and Chaiti, even though each of them has its own structure and content - either lyrical or musical or both - and so the exposition of these forms vary.",
+    "entities": [
+      {
+        "text": "Thumrī",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Dadra",
+        "label": "musicgenre",
+        "start": 82,
+        "end": 87
+      },
+      {
+        "text": "Hori",
+        "label": "musicgenre",
+        "start": 89,
+        "end": 93
+      },
+      {
+        "text": "Kajari",
+        "label": "musicgenre",
+        "start": 95,
+        "end": 101
+      },
+      {
+        "text": "Sawani",
+        "label": "musicgenre",
+        "start": 103,
+        "end": 109
+      },
+      {
+        "text": "Jhoola",
+        "label": "musicgenre",
+        "start": 111,
+        "end": 117
+      },
+      {
+        "text": "Chaiti",
+        "label": "musicgenre",
+        "start": 123,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "Brooks is one of the few people who have received an Academy Awards, an Emmy Award, a Tony Award, and a Grammy Award.",
+    "entities": [
+      {
+        "text": "Brooks",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 53,
+        "end": 67
+      },
+      {
+        "text": "Emmy Award",
+        "label": "award",
+        "start": 72,
+        "end": 82
+      },
+      {
+        "text": "Tony Award",
+        "label": "award",
+        "start": 86,
+        "end": 96
+      },
+      {
+        "text": "Grammy Award",
+        "label": "award",
+        "start": 104,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "text": "Indo-Caribbean music of Indo-Caribbean people in Caribbean is most common in Trinidad and Tobago, Guyana, Jamaica, and Suriname, which reflects their Bhojpuri heritage.",
+    "entities": []
+  },
+  {
+    "text": "In 2003, the Stade de France was the primary site of the 2003 World Championships in Athletics.",
+    "entities": []
+  },
+  {
+    "text": "The banned monastic orders: Jesuits, Camaldolese, Order of Friars Minor Capuchin, Carmelites, Carthusians, Poor Clares, Order of Saint Benedict, Cistercians, Dominican Order (Order of Preachers), Franciscans, Order of Saint Paul the First Hermit and Premonstratensians, and their wealth was taken over by the Religious Fund.",
+    "entities": []
+  },
+  {
+    "text": "After their first two albums, Fungus Amongus (1995) and S.C.I.E.N.C.E. (1997), the band earned mainstream recognition with the release of their 1999 album Make Yourself which spawned several hits, including the band's highest charting song Drive.",
+    "entities": [
+      {
+        "text": "Fungus Amongus",
+        "label": "album",
+        "start": 30,
+        "end": 44
+      },
+      {
+        "text": "S.C.I.E.N.C.E.",
+        "label": "album",
+        "start": 56,
+        "end": 70
+      },
+      {
+        "text": "Make Yourself",
+        "label": "album",
+        "start": 155,
+        "end": 168
+      }
+    ]
+  },
+  {
+    "text": "Since 2000, France, Germany, Spain and United Kingdom have automatically qualified for the final, regardless of their positions on the scoreboard in previous contests, as they are the four biggest financial contributors to the European Broadcasting Union.",
+    "entities": []
+  },
+  {
+    "text": "Based on the songs of the Spice Girls, the show began previews at the Piccadilly Theatre in the West End on 27 November 2012 and had its Press Night on 11 December 2012 and features some of the group's biggest hit songs including Wannabe, Spice Up Your Life and the eponymous Viva Forever.",
+    "entities": [
+      {
+        "text": "Spice Girls",
+        "label": "band",
+        "start": 26,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "text": "For Mirrors, instead of working with previous producers Sandy Pearlman (who instead went on to manage Black Sabbath) and Murray Krugman, Blue Öyster Cult chose Tom Werman, who had worked with acts such as Cheap Trick and Ted Nugent.",
+    "entities": [
+      {
+        "text": "Mirrors",
+        "label": "album",
+        "start": 4,
+        "end": 11
+      },
+      {
+        "text": "Black Sabbath",
+        "label": "band",
+        "start": 102,
+        "end": 115
+      },
+      {
+        "text": "Blue Öyster Cult",
+        "label": "band",
+        "start": 137,
+        "end": 153
+      },
+      {
+        "text": "Cheap Trick",
+        "label": "band",
+        "start": 205,
+        "end": 216
+      },
+      {
+        "text": "Ted Nugent",
+        "label": "musicalartist",
+        "start": 221,
+        "end": 231
+      }
+    ]
+  },
+  {
+    "text": "More recently, Illinois Jacquet, Ray Pizzi, Frank Tiberi, and Marshall Allen have both doubled on bassoon in addition to their saxophone performances.",
+    "entities": [
+      {
+        "text": "Illinois Jacquet",
+        "label": "musicalartist",
+        "start": 15,
+        "end": 31
+      },
+      {
+        "text": "Ray Pizzi",
+        "label": "musicalartist",
+        "start": 33,
+        "end": 42
+      },
+      {
+        "text": "Frank Tiberi",
+        "label": "musicalartist",
+        "start": 44,
+        "end": 56
+      },
+      {
+        "text": "Marshall Allen",
+        "label": "musicalartist",
+        "start": 62,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "text": "(e.g. Red Sector A, Closer to the Heart on A Show of Hands and Mystic Rhythms on R30.",
+    "entities": [
+      {
+        "text": "A Show of Hands",
+        "label": "album",
+        "start": 43,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "It is based on the classic song The Guns of Brixton on The Clash ' s London Calling and has proven to be a success on the modern rock charts.",
+    "entities": [
+      {
+        "text": "The Clash",
+        "label": "band",
+        "start": 55,
+        "end": 64
+      },
+      {
+        "text": "London Calling",
+        "label": "album",
+        "start": 69,
+        "end": 83
+      },
+      {
+        "text": "modern rock",
+        "label": "musicgenre",
+        "start": 122,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "Chuck Burgi (1991-1992, 1992-1995, 1996-1997), John Miceli (1992, 1995), John O 'Reilly (1995-1996) and Bobby Rondinelli (1997-2004).",
+    "entities": [
+      {
+        "text": "Chuck Burgi",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "John Miceli",
+        "label": "musicalartist",
+        "start": 47,
+        "end": 58
+      },
+      {
+        "text": "John O 'Reilly",
+        "label": "musicalartist",
+        "start": 73,
+        "end": 87
+      },
+      {
+        "text": "Bobby Rondinelli",
+        "label": "musicalartist",
+        "start": 104,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "In addition to relentless touring in the U.S. and Canada, PUSA made multiple tours of Europe, Australia, New Zealand and Japan.",
+    "entities": [
+      {
+        "text": "PUSA",
+        "label": "band",
+        "start": 58,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "The song's popularity resulted in its being covered by other musicians, such as The Disposable Heroes of Hiphoprisy (who rewrote the lyrics to parody Pete Wilson), John Linnell of They Might Be Giants and Six Feet Under on their Graveyard Classics album of cover versions.",
+    "entities": [
+      {
+        "text": "The Disposable Heroes of Hiphoprisy",
+        "label": "band",
+        "start": 80,
+        "end": 115
+      },
+      {
+        "text": "John Linnell",
+        "label": "musicalartist",
+        "start": 164,
+        "end": 176
+      },
+      {
+        "text": "They Might Be Giants",
+        "label": "band",
+        "start": 180,
+        "end": 200
+      },
+      {
+        "text": "Six Feet Under",
+        "label": "band",
+        "start": 205,
+        "end": 219
+      },
+      {
+        "text": "Graveyard Classics",
+        "label": "album",
+        "start": 229,
+        "end": 247
+      }
+    ]
+  },
+  {
+    "text": "Often termed soul blues or Southern soul, the music at the heart of this movement was given new life by the unexpected success of two particular recordings on the Jackson-based Malaco label: Z. Z. Hill ' s Down Home Blues (1982) and Little Milton ' s The Blues is Alright (1984).",
+    "entities": [
+      {
+        "text": "soul blues",
+        "label": "musicgenre",
+        "start": 13,
+        "end": 23
+      },
+      {
+        "text": "Southern soul",
+        "label": "musicgenre",
+        "start": 27,
+        "end": 40
+      },
+      {
+        "text": "Z. Z. Hill",
+        "label": "musicalartist",
+        "start": 191,
+        "end": 201
+      },
+      {
+        "text": "Little Milton",
+        "label": "musicalartist",
+        "start": 233,
+        "end": 246
+      }
+    ]
+  },
+  {
+    "text": "G-Mex was also the 2002 Commonwealth Games venue for gymnastics, weightlifting, judo and wrestling.",
+    "entities": []
+  },
+  {
+    "text": "Four singles - Until It Sleeps, Hero of the Day, Mama Said, and King Nothing - were released as part of the marketing campaign for the album.",
+    "entities": []
+  },
+  {
+    "text": "They collaborated with producer Brian Eno on a trio of experimental and critically acclaimed releases: More Songs About Buildings and Food (1978), Fear of Music (1979), and Remain in Light (1980).",
+    "entities": [
+      {
+        "text": "Brian Eno",
+        "label": "musicalartist",
+        "start": 32,
+        "end": 41
+      },
+      {
+        "text": "More Songs About Buildings and Food",
+        "label": "album",
+        "start": 103,
+        "end": 138
+      },
+      {
+        "text": "Fear of Music",
+        "label": "album",
+        "start": 147,
+        "end": 160
+      },
+      {
+        "text": "Remain in Light",
+        "label": "album",
+        "start": 173,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "text": "After a long campaign, the World DanceSport Federation (WDSF), formerly IDSF, was recognized by the International Olympic Committee as the sole representative body for dancesport, on September 5, 1997.Long, Daniel 1999.",
+    "entities": []
+  },
+  {
+    "text": "DC Talk (stylized as dc Talk) is a Christian hip hop and Christian rock trio.",
+    "entities": [
+      {
+        "text": "DC Talk",
+        "label": "band",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "dc Talk",
+        "label": "band",
+        "start": 21,
+        "end": 28
+      },
+      {
+        "text": "Christian hip hop",
+        "label": "musicgenre",
+        "start": 35,
+        "end": 52
+      },
+      {
+        "text": "Christian rock",
+        "label": "musicgenre",
+        "start": 57,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "The Locust, from San Diego, In Los Angeles, Hole also initially drew influence from grindcore in their early releases, particularly on their singles Dicknail and Teenage Whore, as well as on their debut album, Pretty on the Inside (1991), {{cite AV media notes",
+    "entities": [
+      {
+        "text": "The Locust",
+        "label": "band",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Hole",
+        "label": "band",
+        "start": 44,
+        "end": 48
+      },
+      {
+        "text": "grindcore",
+        "label": "musicgenre",
+        "start": 84,
+        "end": 93
+      },
+      {
+        "text": "Pretty on the Inside",
+        "label": "album",
+        "start": 210,
+        "end": 230
+      }
+    ]
+  },
+  {
+    "text": "Stock Aitken Waterman (SAW) expensively-produced productions for Mel and Kim, including the number-one hit Respectable, added elements of house to their previous Europop sound.",
+    "entities": [
+      {
+        "text": "Stock Aitken Waterman",
+        "label": "band",
+        "start": 0,
+        "end": 21
+      },
+      {
+        "text": "SAW",
+        "label": "band",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "Mel and Kim",
+        "label": "band",
+        "start": 65,
+        "end": 76
+      },
+      {
+        "text": "house",
+        "label": "musicgenre",
+        "start": 138,
+        "end": 143
+      },
+      {
+        "text": "Europop",
+        "label": "musicgenre",
+        "start": 162,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "She later released a CD on Righteous Babe of the concert Til We Outnumber Em featuring artists such as DiFranco, Billy Bragg, Ramblin ' Jack Elliott, Arlo Guthrie, Indigo Girls, Dave Pirner, Tim Robbins, and Bruce Springsteen with 100 percent of proceeds going to the Woody Guthrie Foundation and Archives and the Rock and Roll Hall of Fame Museum educational department.",
+    "entities": [
+      {
+        "text": "Til We Outnumber Em",
+        "label": "album",
+        "start": 57,
+        "end": 76
+      },
+      {
+        "text": "DiFranco",
+        "label": "musicalartist",
+        "start": 103,
+        "end": 111
+      },
+      {
+        "text": "Billy Bragg",
+        "label": "musicalartist",
+        "start": 113,
+        "end": 124
+      },
+      {
+        "text": "Ramblin ' Jack Elliott",
+        "label": "musicalartist",
+        "start": 126,
+        "end": 148
+      },
+      {
+        "text": "Arlo Guthrie",
+        "label": "musicalartist",
+        "start": 150,
+        "end": 162
+      },
+      {
+        "text": "Indigo Girls",
+        "label": "band",
+        "start": 164,
+        "end": 176
+      },
+      {
+        "text": "Dave Pirner",
+        "label": "musicalartist",
+        "start": 178,
+        "end": 189
+      },
+      {
+        "text": "Tim Robbins",
+        "label": "musicalartist",
+        "start": 191,
+        "end": 202
+      },
+      {
+        "text": "Bruce Springsteen",
+        "label": "musicalartist",
+        "start": 208,
+        "end": 225
+      }
+    ]
+  },
+  {
+    "text": "Follow-up albums You 've Come a Long Way, Baby, Halfway Between the Gutter and the Stars, and Palookaville, as well as singles such as The Rockafeller Skank, Praise You, Right Here, Right Now, Weapon of Choice, and Wonderful Night, achieved commercial and critical success.",
+    "entities": [
+      {
+        "text": "You 've Come a Long Way, Baby",
+        "label": "album",
+        "start": 17,
+        "end": 46
+      },
+      {
+        "text": "Halfway Between the Gutter and the Stars",
+        "label": "album",
+        "start": 48,
+        "end": 88
+      },
+      {
+        "text": "Palookaville",
+        "label": "album",
+        "start": 94,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "In 1990, he appeared on Kool Thing, a song by the alternative rock band Sonic Youth, and along with Flavor Flav, he sang on George Clinton ' s song Tweakin ', which appears on his 1989 album The Cinderella Theory.",
+    "entities": [
+      {
+        "text": "alternative rock",
+        "label": "musicgenre",
+        "start": 50,
+        "end": 66
+      },
+      {
+        "text": "Sonic Youth",
+        "label": "band",
+        "start": 72,
+        "end": 83
+      },
+      {
+        "text": "Flavor Flav",
+        "label": "musicalartist",
+        "start": 100,
+        "end": 111
+      },
+      {
+        "text": "George Clinton",
+        "label": "musicalartist",
+        "start": 124,
+        "end": 138
+      },
+      {
+        "text": "The Cinderella Theory",
+        "label": "album",
+        "start": 191,
+        "end": 212
+      }
+    ]
+  },
+  {
+    "text": "The duo released the double platinum, The Jerky Boys 2 in 1994, followed by The Jerky Boys 3 in 1996, The Jerky Boys 4 in 1997, Stop Staring at Me! in 1999, and The Jerky Tapes in 2001.",
+    "entities": [
+      {
+        "text": "The Jerky Boys 2",
+        "label": "album",
+        "start": 38,
+        "end": 54
+      },
+      {
+        "text": "The Jerky Boys 3",
+        "label": "album",
+        "start": 76,
+        "end": 92
+      },
+      {
+        "text": "The Jerky Boys 4",
+        "label": "album",
+        "start": 102,
+        "end": 118
+      },
+      {
+        "text": "Stop Staring at Me!",
+        "label": "album",
+        "start": 128,
+        "end": 147
+      },
+      {
+        "text": "The Jerky Tapes",
+        "label": "album",
+        "start": 161,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "Today, musicians as diverse as Keith Urban, Rod Stewart, Taj Mahal, Joe Satriani, David Hidalgo, Larry Lalonde and Doc Watson play the six-string guitar banjo.",
+    "entities": [
+      {
+        "text": "Keith Urban",
+        "label": "musicalartist",
+        "start": 31,
+        "end": 42
+      },
+      {
+        "text": "Rod Stewart",
+        "label": "musicalartist",
+        "start": 44,
+        "end": 55
+      },
+      {
+        "text": "Taj Mahal",
+        "label": "musicalartist",
+        "start": 57,
+        "end": 66
+      },
+      {
+        "text": "Joe Satriani",
+        "label": "musicalartist",
+        "start": 68,
+        "end": 80
+      },
+      {
+        "text": "David Hidalgo",
+        "label": "musicalartist",
+        "start": 82,
+        "end": 95
+      },
+      {
+        "text": "Larry Lalonde",
+        "label": "musicalartist",
+        "start": 97,
+        "end": 110
+      },
+      {
+        "text": "Doc Watson",
+        "label": "musicalartist",
+        "start": 115,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "Polka is still a popular genre of folk music in many European countries and is performed by folk artists in Poland, Latvia, Lithuania, Czech Republic, Netherlands, Croatia, Slovenia, Germany, Hungary, Austria, Switzerland, Italy, Ukraine, Belarus, Russia and Slovakia.",
+    "entities": [
+      {
+        "text": "Polka",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "folk music",
+        "label": "musicgenre",
+        "start": 34,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "Rock and roll songs critical of disco included Bob Seger ' s Old Time Rock and Roll and, especially, The Who ' s Sister Disco (both 1978) - although The Who's Eminence Front (four years later) had a disco feel.",
+    "entities": [
+      {
+        "text": "Rock and roll",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "disco",
+        "label": "musicgenre",
+        "start": 32,
+        "end": 37
+      },
+      {
+        "text": "Bob Seger",
+        "label": "musicalartist",
+        "start": 47,
+        "end": 56
+      },
+      {
+        "text": "The Who",
+        "label": "band",
+        "start": 101,
+        "end": 108
+      },
+      {
+        "text": "The Who",
+        "label": "band",
+        "start": 149,
+        "end": 156
+      },
+      {
+        "text": "disco",
+        "label": "musicgenre",
+        "start": 199,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "In 1990, he appeared on Kool Thing, a song by the alternative rock band Sonic Youth, and along with Flavor Flav, he sang on George Clinton ' s song Tweakin ', which appears on his 1989 album The Cinderella Theory.",
+    "entities": [
+      {
+        "text": "alternative rock",
+        "label": "musicgenre",
+        "start": 50,
+        "end": 66
+      },
+      {
+        "text": "Sonic Youth",
+        "label": "band",
+        "start": 72,
+        "end": 83
+      },
+      {
+        "text": "Flavor Flav",
+        "label": "musicalartist",
+        "start": 100,
+        "end": 111
+      },
+      {
+        "text": "George Clinton",
+        "label": "musicalartist",
+        "start": 124,
+        "end": 138
+      },
+      {
+        "text": "The Cinderella Theory",
+        "label": "album",
+        "start": 191,
+        "end": 212
+      }
+    ]
+  },
+  {
+    "text": "During his early childhood, Holley was influenced by the music of Hank Williams, Jimmie Rodgers, Hank Snow, Bob Wills, and the Carter Family.",
+    "entities": [
+      {
+        "text": "Holley",
+        "label": "musicalartist",
+        "start": 28,
+        "end": 34
+      },
+      {
+        "text": "Hank Williams",
+        "label": "musicalartist",
+        "start": 66,
+        "end": 79
+      },
+      {
+        "text": "Jimmie Rodgers",
+        "label": "musicalartist",
+        "start": 81,
+        "end": 95
+      },
+      {
+        "text": "Hank Snow",
+        "label": "musicalartist",
+        "start": 97,
+        "end": 106
+      },
+      {
+        "text": "Bob Wills",
+        "label": "musicalartist",
+        "start": 108,
+        "end": 117
+      },
+      {
+        "text": "Carter Family",
+        "label": "band",
+        "start": 127,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "The subgenre was popularized by the Big Four of Thrash: Metallica, Anthrax, Megadeth, and Slayer. Walser (1993), p.14 Three German bands, Kreator, Sodom, and Destruction, played a central role in bringing the style to Europe.",
+    "entities": [
+      {
+        "text": "Metallica",
+        "label": "band",
+        "start": 56,
+        "end": 65
+      },
+      {
+        "text": "Anthrax",
+        "label": "band",
+        "start": 67,
+        "end": 74
+      },
+      {
+        "text": "Megadeth",
+        "label": "band",
+        "start": 76,
+        "end": 84
+      },
+      {
+        "text": "Slayer",
+        "label": "band",
+        "start": 90,
+        "end": 96
+      },
+      {
+        "text": "Kreator",
+        "label": "band",
+        "start": 138,
+        "end": 145
+      },
+      {
+        "text": "Sodom",
+        "label": "band",
+        "start": 147,
+        "end": 152
+      },
+      {
+        "text": "Destruction",
+        "label": "band",
+        "start": 158,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "However, much of his output, which included A Poke in the Eye ... With a Sharp Stick!, Praise the Lard, A Stroll in the Pork and The Swining, was scattered across numerous labels around the world and often proved difficult to find.",
+    "entities": [
+      {
+        "text": "A Poke in the Eye ... With a Sharp Stick!",
+        "label": "album",
+        "start": 44,
+        "end": 85
+      },
+      {
+        "text": "Praise the Lard",
+        "label": "album",
+        "start": 87,
+        "end": 102
+      },
+      {
+        "text": "A Stroll in the Pork",
+        "label": "album",
+        "start": 104,
+        "end": 124
+      },
+      {
+        "text": "The Swining",
+        "label": "album",
+        "start": 129,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "Female artists such as Reba McEntire, Patty Loveless, Faith Hill, Martina McBride, Deana Carter, LeAnn Rimes, Mindy McCready, Lorrie Morgan, Shania Twain, and Mary Chapin Carpenter all released platinum-selling albums in the 1990s.",
+    "entities": [
+      {
+        "text": "Patty Loveless",
+        "label": "musicalartist",
+        "start": 38,
+        "end": 52
+      },
+      {
+        "text": "Martina McBride",
+        "label": "musicalartist",
+        "start": 66,
+        "end": 81
+      },
+      {
+        "text": "Deana Carter",
+        "label": "musicalartist",
+        "start": 83,
+        "end": 95
+      },
+      {
+        "text": "LeAnn Rimes",
+        "label": "musicalartist",
+        "start": 97,
+        "end": 108
+      },
+      {
+        "text": "Mindy McCready",
+        "label": "musicalartist",
+        "start": 110,
+        "end": 124
+      },
+      {
+        "text": "Lorrie Morgan",
+        "label": "musicalartist",
+        "start": 126,
+        "end": 139
+      },
+      {
+        "text": "Mary Chapin Carpenter",
+        "label": "musicalartist",
+        "start": 159,
+        "end": 180
+      }
+    ]
+  },
+  {
+    "text": "In June 2010, ASCAP sent letters to its members soliciting donations to fight entities that support weaker copyright restrictions, such as Public Knowledge, the Electronic Frontier Foundation, and Creative Commons,",
+    "entities": []
+  },
+  {
+    "text": "Well-known disco artists include Donna Summer, Gloria Gaynor, the Bee Gees, Chic, KC and the Sunshine Band, Thelma Houston, Sister Sledge, The Trammps, the Village People and Michael Jackson.",
+    "entities": [
+      {
+        "text": "disco",
+        "label": "musicgenre",
+        "start": 11,
+        "end": 16
+      },
+      {
+        "text": "Donna Summer",
+        "label": "musicalartist",
+        "start": 33,
+        "end": 45
+      },
+      {
+        "text": "Gloria Gaynor",
+        "label": "musicalartist",
+        "start": 47,
+        "end": 60
+      },
+      {
+        "text": "Bee Gees",
+        "label": "band",
+        "start": 66,
+        "end": 74
+      },
+      {
+        "text": "Chic",
+        "label": "band",
+        "start": 76,
+        "end": 80
+      },
+      {
+        "text": "KC and the Sunshine Band",
+        "label": "band",
+        "start": 82,
+        "end": 106
+      },
+      {
+        "text": "Thelma Houston",
+        "label": "musicalartist",
+        "start": 108,
+        "end": 122
+      },
+      {
+        "text": "Sister Sledge",
+        "label": "band",
+        "start": 124,
+        "end": 137
+      },
+      {
+        "text": "The Trammps",
+        "label": "band",
+        "start": 139,
+        "end": 150
+      },
+      {
+        "text": "Village People",
+        "label": "band",
+        "start": 156,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "Schoolly D's debut album, Schoolly D, and especially the song P.S.K. What Does It Mean?, would heavily influence not only Ice-T, but also Eazy-E and N.W.A (most notably in the song Boyz-n-the-Hood) as well as the Beastie Boys on their seminal hardcore hip hop inspired album Licensed to Ill (1986).",
+    "entities": [
+      {
+        "text": "Schoolly D",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Schoolly D",
+        "label": "album",
+        "start": 26,
+        "end": 36
+      },
+      {
+        "text": "Ice-T",
+        "label": "musicalartist",
+        "start": 122,
+        "end": 127
+      },
+      {
+        "text": "Eazy-E",
+        "label": "musicalartist",
+        "start": 138,
+        "end": 144
+      },
+      {
+        "text": "N.W.A",
+        "label": "band",
+        "start": 149,
+        "end": 154
+      },
+      {
+        "text": "Beastie Boys",
+        "label": "band",
+        "start": 213,
+        "end": 225
+      },
+      {
+        "text": "hip hop",
+        "label": "musicgenre",
+        "start": 252,
+        "end": 259
+      },
+      {
+        "text": "Licensed to Ill",
+        "label": "album",
+        "start": 275,
+        "end": 290
+      }
+    ]
+  },
+  {
+    "text": "On February 17, 2020, a 50th anniversary concert production of Joseph was staged at Lincoln Center ' s David Geffen Hall in New York City.",
+    "entities": []
+  },
+  {
+    "text": "Independent from the United Kingdom scene, in the late 1970s and early 1980s in California, deathrock developed as a distinct branch of American punk rock, with acts such as Christian Death and 45 Grave.",
+    "entities": [
+      {
+        "text": "deathrock",
+        "label": "musicgenre",
+        "start": 92,
+        "end": 101
+      },
+      {
+        "text": "punk rock",
+        "label": "musicgenre",
+        "start": 145,
+        "end": 154
+      },
+      {
+        "text": "Christian Death",
+        "label": "band",
+        "start": 174,
+        "end": 189
+      },
+      {
+        "text": "45 Grave",
+        "label": "band",
+        "start": 194,
+        "end": 202
+      }
+    ]
+  },
+  {
+    "text": "Their styles developed into West Coast blues, Detroit blues, and post-World War II Chicago blues, which differed from earlier, predominantly acoustic-style blues.",
+    "entities": [
+      {
+        "text": "West Coast blues",
+        "label": "musicgenre",
+        "start": 28,
+        "end": 44
+      },
+      {
+        "text": "Detroit blues",
+        "label": "musicgenre",
+        "start": 46,
+        "end": 59
+      },
+      {
+        "text": "Chicago blues",
+        "label": "musicgenre",
+        "start": 83,
+        "end": 96
+      },
+      {
+        "text": "acoustic-style blues",
+        "label": "musicgenre",
+        "start": 141,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "Funds raised by the project will go to Amazon Watch and Extinction Rebellion.",
+    "entities": []
+  },
+  {
+    "text": "Larner had previously played koto with John Fahey, Jim O 'Rourke, and members of indie rock groups including Camper Van Beethoven, Deerhoof, Jackie O Motherfucker, and Mr. Bungle.",
+    "entities": [
+      {
+        "text": "Larner",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "John Fahey",
+        "label": "musicalartist",
+        "start": 39,
+        "end": 49
+      },
+      {
+        "text": "Jim O 'Rourke",
+        "label": "musicalartist",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "rock",
+        "label": "musicgenre",
+        "start": 87,
+        "end": 91
+      },
+      {
+        "text": "Camper Van Beethoven",
+        "label": "band",
+        "start": 109,
+        "end": 129
+      },
+      {
+        "text": "Deerhoof",
+        "label": "band",
+        "start": 131,
+        "end": 139
+      },
+      {
+        "text": "Jackie O Motherfucker",
+        "label": "band",
+        "start": 141,
+        "end": 162
+      },
+      {
+        "text": "Mr. Bungle",
+        "label": "band",
+        "start": 168,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "In 1994, Yauch and activist Erin Potts The events became annual, and shortly after went international with acts such as Live, Mike Mills and Michael Stipe of R.E.M., Rage Against the Machine, The Smashing Pumpkins, and U2.",
+    "entities": [
+      {
+        "text": "Yauch",
+        "label": "musicalartist",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "text": "Erin Potts",
+        "label": "musicalartist",
+        "start": 28,
+        "end": 38
+      },
+      {
+        "text": "Live",
+        "label": "band",
+        "start": 120,
+        "end": 124
+      },
+      {
+        "text": "Mike Mills",
+        "label": "musicalartist",
+        "start": 126,
+        "end": 136
+      },
+      {
+        "text": "Michael Stipe",
+        "label": "musicalartist",
+        "start": 141,
+        "end": 154
+      },
+      {
+        "text": "R.E.M.",
+        "label": "band",
+        "start": 158,
+        "end": 164
+      },
+      {
+        "text": "Rage Against the Machine",
+        "label": "band",
+        "start": 166,
+        "end": 190
+      },
+      {
+        "text": "The Smashing Pumpkins",
+        "label": "band",
+        "start": 192,
+        "end": 213
+      },
+      {
+        "text": "U2",
+        "label": "band",
+        "start": 219,
+        "end": 221
+      }
+    ]
+  },
+  {
+    "text": "In February 1984, Queen released their eleventh studio album, The Works, which included the successful singles Radio Ga Ga, Hammer to Fall and I Want to Break Free.",
+    "entities": [
+      {
+        "text": "Queen",
+        "label": "band",
+        "start": 18,
+        "end": 23
+      },
+      {
+        "text": "The Works",
+        "label": "album",
+        "start": 62,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "Flood has been certified platinum and their children's music albums Here Come the ABCs, Here Come the 123s, and Here Comes Science have all been certified gold.",
+    "entities": [
+      {
+        "text": "Flood",
+        "label": "album",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Here Come the ABCs",
+        "label": "album",
+        "start": 68,
+        "end": 86
+      },
+      {
+        "text": "Here Come the 123s",
+        "label": "album",
+        "start": 88,
+        "end": 106
+      },
+      {
+        "text": "Here Comes Science",
+        "label": "album",
+        "start": 112,
+        "end": 130
+      }
+    ]
+  },
+  {
+    "text": "Hank Williams, Jr (and, to an even greater extent, Hank Williams III), Gary Allan, Shania Twain, Brooks & amp; Dunn, Faith Hill, Garth Brooks, Alan Jackson, Dwight Yoakam, Steve Earle, Dolly Parton, Rosanne Cash and Linda Ronstadt moved country further towards rock influence.",
+    "entities": [
+      {
+        "text": "Hank Williams, Jr",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "Hank Williams III",
+        "label": "musicalartist",
+        "start": 51,
+        "end": 68
+      },
+      {
+        "text": "Gary Allan",
+        "label": "musicalartist",
+        "start": 71,
+        "end": 81
+      },
+      {
+        "text": "Shania Twain",
+        "label": "musicalartist",
+        "start": 83,
+        "end": 95
+      },
+      {
+        "text": "Brooks & amp; Dunn",
+        "label": "band",
+        "start": 97,
+        "end": 115
+      },
+      {
+        "text": "Faith Hill",
+        "label": "musicalartist",
+        "start": 117,
+        "end": 127
+      },
+      {
+        "text": "Garth Brooks",
+        "label": "musicalartist",
+        "start": 129,
+        "end": 141
+      },
+      {
+        "text": "Alan Jackson",
+        "label": "musicalartist",
+        "start": 143,
+        "end": 155
+      },
+      {
+        "text": "Dwight Yoakam",
+        "label": "musicalartist",
+        "start": 157,
+        "end": 170
+      },
+      {
+        "text": "Steve Earle",
+        "label": "musicalartist",
+        "start": 172,
+        "end": 183
+      },
+      {
+        "text": "Dolly Parton",
+        "label": "musicalartist",
+        "start": 185,
+        "end": 197
+      },
+      {
+        "text": "Rosanne Cash",
+        "label": "musicalartist",
+        "start": 199,
+        "end": 211
+      },
+      {
+        "text": "Linda Ronstadt",
+        "label": "musicalartist",
+        "start": 216,
+        "end": 230
+      },
+      {
+        "text": "rock",
+        "label": "musicgenre",
+        "start": 261,
+        "end": 265
+      }
+    ]
+  },
+  {
+    "text": "Several notable albums have been released, in particular the Morris On series, which consists of Morris On, Son of Morris On, Grandson of Morris On, Great Grandson of Morris On, Morris on the Road, and Mother of all Morris.",
+    "entities": [
+      {
+        "text": "Morris On",
+        "label": "album",
+        "start": 61,
+        "end": 70
+      },
+      {
+        "text": "Morris On",
+        "label": "album",
+        "start": 97,
+        "end": 106
+      },
+      {
+        "text": "Son of Morris On",
+        "label": "album",
+        "start": 108,
+        "end": 124
+      },
+      {
+        "text": "Grandson of Morris On",
+        "label": "album",
+        "start": 126,
+        "end": 147
+      },
+      {
+        "text": "Great Grandson of Morris On",
+        "label": "album",
+        "start": 149,
+        "end": 176
+      },
+      {
+        "text": "Morris on the Road",
+        "label": "album",
+        "start": 178,
+        "end": 196
+      },
+      {
+        "text": "Mother of all Morris",
+        "label": "album",
+        "start": 202,
+        "end": 222
+      }
+    ]
+  },
+  {
+    "text": "Many stations play primarily gospel music, including Urban contemporary gospel and Southern Gospel, or contemporary worship music, while others play all formats of contemporary Christian music, including Christian pop, Christian rock, Christian rap, Christian country music, and Christian alternative rock.",
+    "entities": [
+      {
+        "text": "gospel music",
+        "label": "musicgenre",
+        "start": 29,
+        "end": 41
+      },
+      {
+        "text": "Urban contemporary gospel",
+        "label": "musicgenre",
+        "start": 53,
+        "end": 78
+      },
+      {
+        "text": "Southern Gospel",
+        "label": "musicgenre",
+        "start": 83,
+        "end": 98
+      },
+      {
+        "text": "contemporary worship music",
+        "label": "musicgenre",
+        "start": 103,
+        "end": 129
+      },
+      {
+        "text": "contemporary Christian music",
+        "label": "musicgenre",
+        "start": 164,
+        "end": 192
+      },
+      {
+        "text": "Christian rock",
+        "label": "musicgenre",
+        "start": 219,
+        "end": 233
+      },
+      {
+        "text": "Christian rap",
+        "label": "musicgenre",
+        "start": 235,
+        "end": 248
+      },
+      {
+        "text": "Christian country music",
+        "label": "musicgenre",
+        "start": 250,
+        "end": 273
+      },
+      {
+        "text": "Christian alternative rock",
+        "label": "musicgenre",
+        "start": 279,
+        "end": 305
+      }
+    ]
+  },
+  {
+    "text": "Influenced by 1960s rhythm and blues, Soul music, Bluegrass music, and Rock music bands such as the Byrds and Buffalo Springfield,",
+    "entities": [
+      {
+        "text": "rhythm and blues",
+        "label": "musicgenre",
+        "start": 20,
+        "end": 36
+      },
+      {
+        "text": "Soul music",
+        "label": "musicgenre",
+        "start": 38,
+        "end": 48
+      },
+      {
+        "text": "Bluegrass music",
+        "label": "musicgenre",
+        "start": 50,
+        "end": 65
+      },
+      {
+        "text": "Rock music",
+        "label": "musicgenre",
+        "start": 71,
+        "end": 81
+      },
+      {
+        "text": "the Byrds",
+        "label": "band",
+        "start": 96,
+        "end": 105
+      },
+      {
+        "text": "Buffalo Springfield",
+        "label": "band",
+        "start": 110,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "He helped found the American Conservatory Theater in San Francisco, the Mark Taper Forum in Los Angeles, and the Brooklyn Academy of Music Repertory Company in New York City.",
+    "entities": []
+  },
+  {
+    "text": "Following this success, Francis recorded seven more albums of favorites between 1960 and 1964, including Connie Francis Sings Jewish Favorites, Connie Francis Sings German Favorites, and Connie Francis Sings Irish Favorites, among others.",
+    "entities": [
+      {
+        "text": "Francis",
+        "label": "musicalartist",
+        "start": 24,
+        "end": 31
+      },
+      {
+        "text": "Connie Francis Sings Jewish Favorites",
+        "label": "album",
+        "start": 105,
+        "end": 142
+      },
+      {
+        "text": "Connie Francis Sings German Favorites",
+        "label": "album",
+        "start": 144,
+        "end": 181
+      },
+      {
+        "text": "Connie Francis Sings Irish Favorites",
+        "label": "album",
+        "start": 187,
+        "end": 223
+      }
+    ]
+  },
+  {
+    "text": "Scandinavia n punk was propelled early on by tour dates by bands such as the Clash and the Ramones (both in Stockholm in May 1977), and the Sex Pistols ' tour through Denmark, Sweden and Norway in July the same year.",
+    "entities": [
+      {
+        "text": "punk",
+        "label": "musicgenre",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "Clash",
+        "label": "band",
+        "start": 77,
+        "end": 82
+      },
+      {
+        "text": "Ramones",
+        "label": "band",
+        "start": 91,
+        "end": 98
+      },
+      {
+        "text": "Sex Pistols",
+        "label": "band",
+        "start": 140,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "High-pitched screaming is occasionally utilized in death metal, being heard in songs by Death, Aborted, Exhumed, Dying Fetus, Cannibal Corpse, and Deicide.",
+    "entities": [
+      {
+        "text": "death metal",
+        "label": "musicgenre",
+        "start": 51,
+        "end": 62
+      },
+      {
+        "text": "Death",
+        "label": "band",
+        "start": 88,
+        "end": 93
+      },
+      {
+        "text": "Aborted",
+        "label": "band",
+        "start": 95,
+        "end": 102
+      },
+      {
+        "text": "Exhumed",
+        "label": "band",
+        "start": 104,
+        "end": 111
+      },
+      {
+        "text": "Dying Fetus",
+        "label": "band",
+        "start": 113,
+        "end": 124
+      },
+      {
+        "text": "Cannibal Corpse",
+        "label": "band",
+        "start": 126,
+        "end": 141
+      },
+      {
+        "text": "Deicide",
+        "label": "band",
+        "start": 147,
+        "end": 154
+      }
+    ]
+  },
+  {
+    "text": "In 2014, he performed in the opening ceremony of the 2014 Commonwealth Games in Glasgow, Scotland.",
+    "entities": []
+  },
+  {
+    "text": "In 2004, Grohl drummed on several tracks for Nine Inch Nails ' 2005 album With Teeth, later returning to play drums on ' The Idea of You ' from their 2016 EP Not the Actual Events.",
+    "entities": [
+      {
+        "text": "Grohl",
+        "label": "musicalartist",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "text": "Nine Inch Nails",
+        "label": "band",
+        "start": 45,
+        "end": 60
+      },
+      {
+        "text": "With Teeth",
+        "label": "album",
+        "start": 74,
+        "end": 84
+      },
+      {
+        "text": "Not the Actual Events",
+        "label": "album",
+        "start": 158,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "text": "In Southeast Asia, local boy bands also emerged as a result of the continued success of Korean and Japanese boy bands such as SMAP, Shinhwa, TVXQ!, Arashi, Exile, Super Junior, Big Bang, SHINee, EXO, and BTS.",
+    "entities": [
+      {
+        "text": "SMAP",
+        "label": "band",
+        "start": 126,
+        "end": 130
+      },
+      {
+        "text": "Shinhwa",
+        "label": "band",
+        "start": 132,
+        "end": 139
+      },
+      {
+        "text": "TVXQ!",
+        "label": "band",
+        "start": 141,
+        "end": 146
+      },
+      {
+        "text": "Arashi",
+        "label": "band",
+        "start": 148,
+        "end": 154
+      },
+      {
+        "text": "Exile",
+        "label": "band",
+        "start": 156,
+        "end": 161
+      },
+      {
+        "text": "Super Junior",
+        "label": "band",
+        "start": 163,
+        "end": 175
+      },
+      {
+        "text": "Big Bang",
+        "label": "band",
+        "start": 177,
+        "end": 185
+      },
+      {
+        "text": "SHINee",
+        "label": "band",
+        "start": 187,
+        "end": 193
+      },
+      {
+        "text": "EXO",
+        "label": "band",
+        "start": 195,
+        "end": 198
+      },
+      {
+        "text": "BTS",
+        "label": "band",
+        "start": 204,
+        "end": 207
+      }
+    ]
+  },
+  {
+    "text": "Under the direction of producers such as Chet Atkins, Bill Porter, Paul Cohen, Owen Bradley, Bob Ferguson, and later Billy Sherrill, the sound brought country music to a diverse audience and helped revive country as it emerged from a commercially fallow period.",
+    "entities": [
+      {
+        "text": "Chet Atkins",
+        "label": "musicalartist",
+        "start": 41,
+        "end": 52
+      },
+      {
+        "text": "Bill Porter",
+        "label": "musicalartist",
+        "start": 54,
+        "end": 65
+      },
+      {
+        "text": "Paul Cohen",
+        "label": "musicalartist",
+        "start": 67,
+        "end": 77
+      },
+      {
+        "text": "Owen Bradley",
+        "label": "musicalartist",
+        "start": 79,
+        "end": 91
+      },
+      {
+        "text": "Bob Ferguson",
+        "label": "musicalartist",
+        "start": 93,
+        "end": 105
+      },
+      {
+        "text": "Billy Sherrill",
+        "label": "musicalartist",
+        "start": 117,
+        "end": 131
+      },
+      {
+        "text": "country music",
+        "label": "musicgenre",
+        "start": 151,
+        "end": 164
+      },
+      {
+        "text": "country",
+        "label": "musicgenre",
+        "start": 205,
+        "end": 212
+      }
+    ]
+  },
+  {
+    "text": "Miles Davis on the roster, and his late 1960s recordings, In a Silent Way and Bitches Brew, pioneered a Jazz fusion.",
+    "entities": [
+      {
+        "text": "Miles Davis",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "In a Silent Way",
+        "label": "album",
+        "start": 58,
+        "end": 73
+      },
+      {
+        "text": "Bitches Brew",
+        "label": "album",
+        "start": 78,
+        "end": 90
+      },
+      {
+        "text": "Jazz fusion",
+        "label": "musicgenre",
+        "start": 104,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "text": "Dion's music has been influenced by genres ranging from rock and Rhythm and blues to Gospel music and classical.",
+    "entities": [
+      {
+        "text": "Dion",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Rhythm and blues",
+        "label": "musicgenre",
+        "start": 65,
+        "end": 81
+      },
+      {
+        "text": "Gospel music",
+        "label": "musicgenre",
+        "start": 85,
+        "end": 97
+      },
+      {
+        "text": "classical",
+        "label": "musicgenre",
+        "start": 102,
+        "end": 111
+      }
+    ]
+  },
+  {
+    "text": "His film Annie Hall (1977), a romantic comedy featuring Allen and his frequent collaborator Diane Keaton, won four Academy Awards, including Academy Award for Best Picture, Academy Award for Best Director, Academy Award for Best Original Screenplay, and Academy Award for Best Actress for Keaton.",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 115,
+        "end": 129
+      },
+      {
+        "text": "Academy Award for Best Picture",
+        "label": "award",
+        "start": 141,
+        "end": 171
+      },
+      {
+        "text": "Academy Award for Best Director",
+        "label": "award",
+        "start": 173,
+        "end": 204
+      },
+      {
+        "text": "Academy Award for Best Original Screenplay",
+        "label": "award",
+        "start": 206,
+        "end": 248
+      },
+      {
+        "text": "Academy Award for Best Actress",
+        "label": "award",
+        "start": 254,
+        "end": 284
+      }
+    ]
+  },
+  {
+    "text": "It won three Academy Awards, including Academy Award for Best Picture for producer Hunt Stromberg, Academy Award for Best Actress for Luise Rainer, and Best Dance Direction for Seymour Felix, and was nominated for four others.",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 13,
+        "end": 27
+      },
+      {
+        "text": "Academy Award for Best Picture",
+        "label": "award",
+        "start": 39,
+        "end": 69
+      },
+      {
+        "text": "Academy Award for Best Actress",
+        "label": "award",
+        "start": 99,
+        "end": 129
+      },
+      {
+        "text": "Best Dance Direction",
+        "label": "award",
+        "start": 152,
+        "end": 172
+      }
+    ]
+  },
+  {
+    "text": "Harper also contributed a recital of Jabberwocky for The Wildlife Album, an 18-track compilation CD to benefit the World Wide Fund for Nature and the Ulster Wildlife Trust.",
+    "entities": [
+      {
+        "text": "Harper",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Wildlife Album",
+        "label": "album",
+        "start": 57,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "Troy Cassar-Daley is among Australia's successful contemporary indigenous performers, and Kev Carmody and Archie Roach employ a combination of folk-rock and country music to sing about Aboriginal rights issues.",
+    "entities": [
+      {
+        "text": "Troy Cassar-Daley",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "Kev Carmody",
+        "label": "musicalartist",
+        "start": 90,
+        "end": 101
+      },
+      {
+        "text": "Archie Roach",
+        "label": "musicalartist",
+        "start": 106,
+        "end": 118
+      },
+      {
+        "text": "folk-rock",
+        "label": "musicgenre",
+        "start": 143,
+        "end": 152
+      },
+      {
+        "text": "country music",
+        "label": "musicgenre",
+        "start": 157,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "A few of those include bagad (Breton pipe bands), Fairport Convention, Pentangle, Steeleye Span and Horslips.",
+    "entities": [
+      {
+        "text": "bagad",
+        "label": "band",
+        "start": 23,
+        "end": 28
+      },
+      {
+        "text": "Breton pipe bands",
+        "label": "band",
+        "start": 30,
+        "end": 47
+      },
+      {
+        "text": "Fairport Convention",
+        "label": "band",
+        "start": 50,
+        "end": 69
+      },
+      {
+        "text": "Pentangle",
+        "label": "band",
+        "start": 71,
+        "end": 80
+      },
+      {
+        "text": "Steeleye Span",
+        "label": "band",
+        "start": 82,
+        "end": 95
+      },
+      {
+        "text": "Horslips",
+        "label": "band",
+        "start": 100,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "text": "The film was nominated for Academy Awards for Academy Award for Best Costume Design, Academy Award for Best Original Score and Academy Award for Best Original Screenplay.",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 27,
+        "end": 41
+      },
+      {
+        "text": "Academy Award for Best Costume Design",
+        "label": "award",
+        "start": 46,
+        "end": 83
+      },
+      {
+        "text": "Academy Award for Best Original Score",
+        "label": "award",
+        "start": 85,
+        "end": 122
+      },
+      {
+        "text": "Academy Award for Best Original Screenplay",
+        "label": "award",
+        "start": 127,
+        "end": 169
+      }
+    ]
+  }
+]

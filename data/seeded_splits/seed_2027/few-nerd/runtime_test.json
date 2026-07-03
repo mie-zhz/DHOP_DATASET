@@ -1,0 +1,942 @@
+[
+  {
+    "text": "The Grey Seas Under is a non-fiction book by Canadian author Farley Mowat about the Atlantic Salvage Tug ``Foundation Franklin ``, operated by the firm Foundation Maritime in Canada's Maritime provinces from 1930 to 1948.",
+    "entities": [
+      {
+        "text": "Canadian",
+        "label": "location",
+        "start": 45,
+        "end": 53
+      },
+      {
+        "text": "Farley Mowat",
+        "label": "person",
+        "start": 61,
+        "end": 73
+      },
+      {
+        "text": "Salvage Tug",
+        "label": "product",
+        "start": 93,
+        "end": 104
+      },
+      {
+        "text": "Foundation Franklin",
+        "label": "organization",
+        "start": 107,
+        "end": 126
+      },
+      {
+        "text": "Foundation Maritime",
+        "label": "organization",
+        "start": 152,
+        "end": 171
+      },
+      {
+        "text": "Canada",
+        "label": "location",
+        "start": 175,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "Also, his mother was a Sarangi player and was a vocalist.",
+    "entities": [
+      {
+        "text": "Sarangi",
+        "label": "art",
+        "start": 23,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "It was found that within this population, there was limited education and even if the Peruvian men knew their personal risk for the HIV infection, they were not more likely to try and obtain contraception.",
+    "entities": [
+      {
+        "text": "Peruvian",
+        "label": "location",
+        "start": 86,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "text": "Born in Bitam, Gabon, Ebanega was called up to Gabon national football team and played at the 2012 Africa Cup of Nations and the 2012 Summer Olympics.",
+    "entities": [
+      {
+        "text": "Bitam",
+        "label": "location",
+        "start": 8,
+        "end": 13
+      },
+      {
+        "text": "Gabon",
+        "label": "location",
+        "start": 15,
+        "end": 20
+      },
+      {
+        "text": "Gabon",
+        "label": "location",
+        "start": 47,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "They play their home games at Ullevaal Stadion which has a capacity of 28,972.",
+    "entities": []
+  },
+  {
+    "text": "A version for the Nintendo Entertainment System was released in 1987 in Japan and in 1988 in North America, and a Game Boy port was released in July of 1990.",
+    "entities": [
+      {
+        "text": "Japan",
+        "label": "location",
+        "start": 72,
+        "end": 77
+      },
+      {
+        "text": "North America",
+        "label": "location",
+        "start": 93,
+        "end": 106
+      },
+      {
+        "text": "Game Boy",
+        "label": "product",
+        "start": 114,
+        "end": 122
+      }
+    ]
+  },
+  {
+    "text": "The kulintang instrument itself could be traced to either the introduction of gongs to Southeast Asia from China before the 10th century CE, or more likely, to the introduction of bossed gong chimes from Java in the 15th century.",
+    "entities": [
+      {
+        "text": "Southeast Asia",
+        "label": "location",
+        "start": 87,
+        "end": 101
+      },
+      {
+        "text": "China",
+        "label": "location",
+        "start": 107,
+        "end": 112
+      },
+      {
+        "text": "Java",
+        "label": "location",
+        "start": 204,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "The Texas Medical Center Corporation is headquartered at the John P. McGovern Campus on Holcombe Boulevard southeast of Hermann Park, adjacent to the Michael E. DeBakey Veterans Affairs Medical Center.",
+    "entities": [
+      {
+        "text": "Texas Medical Center Corporation",
+        "label": "organization",
+        "start": 4,
+        "end": 36
+      },
+      {
+        "text": "John P. McGovern Campus",
+        "label": "organization",
+        "start": 61,
+        "end": 84
+      },
+      {
+        "text": "Holcombe Boulevard",
+        "label": "location",
+        "start": 88,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "Baachaa has called for new elections, protesting that the vote was rigged.",
+    "entities": [
+      {
+        "text": "Baachaa",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Between 2002 and 2006, Group Health Cooperative made reforms to increase efficiency and access at 20 primary care clinics in western Washington.",
+    "entities": [
+      {
+        "text": "Group Health Cooperative",
+        "label": "organization",
+        "start": 23,
+        "end": 47
+      },
+      {
+        "text": "Washington",
+        "label": "location",
+        "start": 133,
+        "end": 143
+      }
+    ]
+  },
+  {
+    "text": "Given the large number of Dodge dealerships in the U.S. at the time, few of them received a demonstration La Femme for their showroom.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "location",
+        "start": 51,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "text": "The film had musical score by T. R. Ramanath.",
+    "entities": [
+      {
+        "text": "T. R. Ramanath",
+        "label": "person",
+        "start": 30,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "After Savićević's disastrous spell as coach of Yugoslavia, the country went under a political transformation, and Ilija Petković became the newly named Serbia and Montenegro's new coach.",
+    "entities": [
+      {
+        "text": "Yugoslavia",
+        "label": "organization",
+        "start": 47,
+        "end": 57
+      },
+      {
+        "text": "Serbia",
+        "label": "location",
+        "start": 152,
+        "end": 158
+      },
+      {
+        "text": "Montenegro",
+        "label": "location",
+        "start": 163,
+        "end": 173
+      }
+    ]
+  },
+  {
+    "text": "Throughout its history and changing menus, Antoine's has had very little Cajun influence, and featured no Italian foods.",
+    "entities": [
+      {
+        "text": "Italian",
+        "label": "location",
+        "start": 106,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "degree majoring in atmospheric sciences from Texas Tech University in Lubbock with the thesis ``Topographic Influences on Amarillo Radar Echo Climatology ``, then went on to earn an M.S.",
+    "entities": [
+      {
+        "text": "Texas Tech University",
+        "label": "organization",
+        "start": 45,
+        "end": 66
+      },
+      {
+        "text": "Lubbock",
+        "label": "location",
+        "start": 70,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "In 2004 he published a statement in which he demanded apology from the Prime Minister Manmohan Singh and chairwoman Sonia Gandhi for removal of quotes from statues dedicated to the Indian revolutionaries, such as Subhas Chandra Bose, Madan Lal Dhingra, Vinayak Damodar Savarkar, Bhagat Singh, and Bahadur Shah Zafar.",
+    "entities": [
+      {
+        "text": "Manmohan Singh",
+        "label": "person",
+        "start": 86,
+        "end": 100
+      },
+      {
+        "text": "Sonia Gandhi",
+        "label": "person",
+        "start": 116,
+        "end": 128
+      },
+      {
+        "text": "Indian",
+        "label": "location",
+        "start": 181,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "text": "Chapman joined the French team FDJ Nouvelle-Aquitaine Futuroscope at the start of the 2020 season.",
+    "entities": [
+      {
+        "text": "French",
+        "label": "location",
+        "start": 19,
+        "end": 25
+      },
+      {
+        "text": "FDJ Nouvelle-Aquitaine Futuroscope",
+        "label": "organization",
+        "start": 31,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "text": "WWE Raw (along with the 30-minute pre-show) and WWE SmackDown are currently broadcast live weekly, along with ``NXT ``, ``Main Event ``, WWE ``Sunday Dhamaal'' and (generally) monthly pay-per-view specials.",
+    "entities": []
+  },
+  {
+    "text": "October 2009: IRNA reported that ``National Petrochemical Company's Managing Director Adel Nejad-Salim said in the opening ceremony that all petrochemical products will be gradually offered on the market.''",
+    "entities": [
+      {
+        "text": "IRNA",
+        "label": "organization",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "National Petrochemical Company",
+        "label": "organization",
+        "start": 35,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "text": "Between 1983 and 2008 while most of the world's glaciers were retreating many New Zealand glaciers advanced.",
+    "entities": [
+      {
+        "text": "New Zealand",
+        "label": "location",
+        "start": 78,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "The Mark I was essentially a 6-cylinder version of the 1945 Humber Hawk, itself a facelifted pre-war car.",
+    "entities": [
+      {
+        "text": "Mark I",
+        "label": "product",
+        "start": 4,
+        "end": 10
+      },
+      {
+        "text": "Humber Hawk",
+        "label": "product",
+        "start": 60,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "She told Japan's Kyodo News agency: ``I want to swim until I turn 105 if I can live that long.''",
+    "entities": [
+      {
+        "text": "Japan's Kyodo News agency",
+        "label": "organization",
+        "start": 9,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "Dousa ’ s historiographical labour is especially relevant.",
+    "entities": [
+      {
+        "text": "Dousa ’",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Mickery opted to set ``Instinct'' away from the anonymity of a large city, choosing the Lancashire Pennines to provide an atmospheric backdrop to the plot.",
+    "entities": [
+      {
+        "text": "Lancashire Pennines",
+        "label": "location",
+        "start": 88,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "It's Got Me Again!",
+    "entities": [
+      {
+        "text": "It's Got Me Again",
+        "label": "art",
+        "start": 0,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "When he was two, Tjader's parents settled in San Mateo, California, and opened a dance studio.",
+    "entities": [
+      {
+        "text": "Tjader",
+        "label": "person",
+        "start": 17,
+        "end": 23
+      },
+      {
+        "text": "San Mateo",
+        "label": "location",
+        "start": 45,
+        "end": 54
+      },
+      {
+        "text": "California",
+        "label": "location",
+        "start": 56,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "Mile High Stadium was closed in 2001, after the Colorado Rapids and Denver Broncos moved to neighboring Empower Field at Mile High (then known as Invesco Field at Mile High), upon completion of the new stadium.",
+    "entities": []
+  },
+  {
+    "text": "``Eagles ' Nest ``, the headquarters of the United States Park Police helicopter aviation unit is located in Anacostia Park.",
+    "entities": [
+      {
+        "text": "United States Park Police",
+        "label": "organization",
+        "start": 44,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "Optus Stadium replaced the WACA Ground as the home ground of Perth Scorchers commencing from the 2017–18 BBL semi-finals, where Perth's home match against Hobart Hurricanes (and a doubleheader WBBL match featuring the Perth Scorchers and Sydney Thunder) became only the second public event at the new stadium.",
+    "entities": [
+      {
+        "text": "Perth Scorchers",
+        "label": "organization",
+        "start": 61,
+        "end": 76
+      },
+      {
+        "text": "BBL",
+        "label": "organization",
+        "start": 105,
+        "end": 108
+      },
+      {
+        "text": "Perth",
+        "label": "organization",
+        "start": 128,
+        "end": 133
+      },
+      {
+        "text": "Hobart Hurricanes",
+        "label": "organization",
+        "start": 155,
+        "end": 172
+      },
+      {
+        "text": "WBBL",
+        "label": "organization",
+        "start": 193,
+        "end": 197
+      },
+      {
+        "text": "Perth Scorchers",
+        "label": "organization",
+        "start": 218,
+        "end": 233
+      },
+      {
+        "text": "Sydney Thunder",
+        "label": "organization",
+        "start": 238,
+        "end": 252
+      }
+    ]
+  },
+  {
+    "text": "Leo Passianos (died 22 June 1017) was the Byzantine general sent by the Catapan of Italy Leo Tornikios Kontoleon to fight the Lombard rebel Melus of Bari in 1017.",
+    "entities": [
+      {
+        "text": "Byzantine",
+        "label": "location",
+        "start": 42,
+        "end": 51
+      },
+      {
+        "text": "Italy",
+        "label": "location",
+        "start": 83,
+        "end": 88
+      },
+      {
+        "text": "Bari",
+        "label": "location",
+        "start": 149,
+        "end": 153
+      }
+    ]
+  },
+  {
+    "text": "He inherited the East Frisia after the unexpected death of his brother Rudolf Christian on 17 April 1628.",
+    "entities": [
+      {
+        "text": "East Frisia",
+        "label": "location",
+        "start": 17,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "The capital of the Union of Comoros is Moroni.",
+    "entities": [
+      {
+        "text": "Union of Comoros",
+        "label": "location",
+        "start": 19,
+        "end": 35
+      },
+      {
+        "text": "Moroni",
+        "label": "location",
+        "start": 39,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "At the foot of avenue is Library Hall, a renovated 1866 building, now residences.",
+    "entities": []
+  },
+  {
+    "text": "With eight different locations, the Newark Public Library serves as a Statewide Reference Center.",
+    "entities": []
+  },
+  {
+    "text": "This was because he had been sacked by the broadcaster TROS (which took over from NOS in 2010).",
+    "entities": [
+      {
+        "text": "TROS",
+        "label": "organization",
+        "start": 55,
+        "end": 59
+      },
+      {
+        "text": "NOS",
+        "label": "organization",
+        "start": 82,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "Tunley died at University Hospital Coventry on 30 October 2012, following an accident at an airfield in Hinton -in-the- Hedges.",
+    "entities": [
+      {
+        "text": "Hinton",
+        "label": "location",
+        "start": 104,
+        "end": 110
+      },
+      {
+        "text": "Hedges",
+        "label": "location",
+        "start": 120,
+        "end": 126
+      }
+    ]
+  },
+  {
+    "text": "The winds diminished along the southern and western side of the storm, although winds gusted to hurricane force in many locations in eastern coastal Florida.",
+    "entities": [
+      {
+        "text": "Florida",
+        "label": "location",
+        "start": 149,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "The body varies from being ornately carved, as in Java, to simpler models such as the 2-string Egyptian ``fiddle of the Nile.''",
+    "entities": [
+      {
+        "text": "Java",
+        "label": "product",
+        "start": 50,
+        "end": 54
+      },
+      {
+        "text": "Egyptian",
+        "label": "location",
+        "start": 95,
+        "end": 103
+      },
+      {
+        "text": "fiddle of the Nile",
+        "label": "product",
+        "start": 106,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "The right-of-way from the Port Richmond Viaduct to Arlington Yard has remained intact and in good condition, though the former station sites and infrastructure are dilapidated and need rehabilitation or replacement should passenger service be reactivated.",
+    "entities": [
+      {
+        "text": "Port Richmond Viaduct",
+        "label": "location",
+        "start": 26,
+        "end": 47
+      },
+      {
+        "text": "Arlington Yard",
+        "label": "location",
+        "start": 51,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "text": "In August 2011, Carrols Restaurant Corp named Tim Taft the CEO of Fiesta Restaurant Group, succeeding Fiesta chairman Alan Vituli.",
+    "entities": [
+      {
+        "text": "Carrols Restaurant Corp",
+        "label": "organization",
+        "start": 16,
+        "end": 39
+      },
+      {
+        "text": "Fiesta Restaurant Group",
+        "label": "organization",
+        "start": 66,
+        "end": 89
+      },
+      {
+        "text": "Fiesta",
+        "label": "organization",
+        "start": 102,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "text": "This antibody is related to Hashimoto's thyroiditis and Graves ' disease.",
+    "entities": []
+  },
+  {
+    "text": "The Vashon lobe of the ice sculpted Rattlesnake Ledge, steeply carved the east and west sides of Squak Mountain, and deposited a large erratic on Cougar Mountain, Fantastic Erratic.",
+    "entities": [
+      {
+        "text": "Squak Mountain",
+        "label": "location",
+        "start": 97,
+        "end": 111
+      },
+      {
+        "text": "Cougar Mountain",
+        "label": "location",
+        "start": 146,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "The British ships – five destroyers and two troop ships – entered the Vestfjord on the morning of 4 March, and launched their attack.",
+    "entities": [
+      {
+        "text": "British",
+        "label": "location",
+        "start": 4,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "Rutherford serves on the Board of Governors for the Liberty Memorial Association and on the executive committee for expansion of the National World War I Museum at Liberty Memorial.",
+    "entities": [
+      {
+        "text": "Board of Governors",
+        "label": "organization",
+        "start": 25,
+        "end": 43
+      },
+      {
+        "text": "Liberty Memorial Association",
+        "label": "organization",
+        "start": 52,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "Jaysay joined Liberian Premier League side Keitrace FC for the 2013–2014 season.",
+    "entities": [
+      {
+        "text": "Liberian Premier League",
+        "label": "organization",
+        "start": 14,
+        "end": 37
+      },
+      {
+        "text": "Keitrace FC",
+        "label": "organization",
+        "start": 43,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "After the war Widerøe started flying various seaplane routes that were too small for DNL and its successor, Scandinavian Airlines System (SAS).",
+    "entities": [
+      {
+        "text": "Widerøe",
+        "label": "organization",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "text": "DNL",
+        "label": "organization",
+        "start": 85,
+        "end": 88
+      },
+      {
+        "text": "Scandinavian Airlines System",
+        "label": "organization",
+        "start": 108,
+        "end": 136
+      },
+      {
+        "text": "SAS",
+        "label": "organization",
+        "start": 138,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "In ``Car Wash ``, Paley said the song is used to ``urge activist men to stand up for their activist sisters'', but in ``Seder-Masochism ``it is an ultimately unsuccessful plea to Moses to embrace goddess worship.",
+    "entities": [
+      {
+        "text": "Car Wash",
+        "label": "art",
+        "start": 5,
+        "end": 13
+      },
+      {
+        "text": "Seder-Masochism",
+        "label": "art",
+        "start": 120,
+        "end": 135
+      }
+    ]
+  },
+  {
+    "text": "Gene was also recognised by RSMC Nadi as the fifth tropical cyclone and fourth severe tropical cyclone to form within the South Pacific Ocean during the 2007-08 season.",
+    "entities": [
+      {
+        "text": "RSMC Nadi",
+        "label": "organization",
+        "start": 28,
+        "end": 37
+      },
+      {
+        "text": "South Pacific Ocean",
+        "label": "location",
+        "start": 122,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "The Sarah T. Hughes Field Politics Center at Hughes ' alma mater, Goucher College, founded in the 1950s with a grant from the Maurice and Laura Falk Foundation, is named in her honor.",
+    "entities": [
+      {
+        "text": "Goucher College",
+        "label": "organization",
+        "start": 66,
+        "end": 81
+      },
+      {
+        "text": "Maurice and Laura Falk Foundation",
+        "label": "organization",
+        "start": 126,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "Herman was one of the few journalists to spend time in the Fukushima I Nuclear Power Plant ``hot zone'' and visit the grounds of the crippled facility in April 2011.",
+    "entities": [
+      {
+        "text": "Herman",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "This star, along with Beta Draconis (Rastaban), Gamma Draconis (Eltanin), Nu Draconis (' Kuma ') and Xi Draconis (Grumium) were ``Al ʽAwāïd ``, the Mother Camels, which were known in Latin as the Quinque Dromedarii.",
+    "entities": []
+  },
+  {
+    "text": "Florida won two of the three games of the regular season series.",
+    "entities": [
+      {
+        "text": "Florida",
+        "label": "organization",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "The musical premiered in the United Kingdom at the Watermill Theatre in Newbury, where it ran from 11 April to 18 May 2019, before embarking on a UK tour.",
+    "entities": [
+      {
+        "text": "United Kingdom",
+        "label": "location",
+        "start": 29,
+        "end": 43
+      },
+      {
+        "text": "Newbury",
+        "label": "location",
+        "start": 72,
+        "end": 79
+      },
+      {
+        "text": "UK",
+        "label": "location",
+        "start": 146,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "text": "In 1975, President Gerald Ford signed the Indochina Migration and Refugee Assistance Act, budgeting roughly 415 million dollars in the effort of providing transportation, healthcare, and accommodations to the 130,000 Vietnamese, Cambodian, and Laos refugees.",
+    "entities": [
+      {
+        "text": "Gerald Ford",
+        "label": "person",
+        "start": 19,
+        "end": 30
+      },
+      {
+        "text": "Cambodian",
+        "label": "location",
+        "start": 229,
+        "end": 238
+      },
+      {
+        "text": "Laos",
+        "label": "location",
+        "start": 244,
+        "end": 248
+      }
+    ]
+  },
+  {
+    "text": "In 1914, Streatfeild became a mentor to the then-14-year-old actor and later famed author Noël Coward.",
+    "entities": [
+      {
+        "text": "Noël Coward",
+        "label": "person",
+        "start": 90,
+        "end": 101
+      }
+    ]
+  },
+  {
+    "text": "All calcins are composed of 33 amino acids, among which are 6 cysteines.",
+    "entities": []
+  },
+  {
+    "text": "His portrait statues include Frederick the Great playing the flute, and the crown-princess Louise and her sister Frederica.",
+    "entities": [
+      {
+        "text": "Frederick the Great",
+        "label": "person",
+        "start": 29,
+        "end": 48
+      },
+      {
+        "text": "Louise",
+        "label": "person",
+        "start": 91,
+        "end": 97
+      },
+      {
+        "text": "Frederica",
+        "label": "person",
+        "start": 113,
+        "end": 122
+      }
+    ]
+  },
+  {
+    "text": "A section of the A26 Moira Road, running from Nutts Corner Roundabout for approximately 2 km, is constructed on one of the old runways.",
+    "entities": [
+      {
+        "text": "A26 Moira Road",
+        "label": "location",
+        "start": 17,
+        "end": 31
+      },
+      {
+        "text": "Nutts Corner Roundabout",
+        "label": "location",
+        "start": 46,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "Its commander, I. I. Gusakovii, was a double Hero of the Soviet Union.",
+    "entities": [
+      {
+        "text": "I. I. Gusakovii",
+        "label": "person",
+        "start": 15,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "In addition to the naturally aspirated Carrera RSR introduced in 1974, Porsche offered a customer racing version of the 911 Turbo prepared for the more standard Group 4 rules, the Porsche 934.",
+    "entities": [
+      {
+        "text": "Porsche",
+        "label": "organization",
+        "start": 71,
+        "end": 78
+      }
+    ]
+  }
+]

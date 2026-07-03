@@ -1,0 +1,787 @@
+[
+  {
+    "text": "2. Lance Armstrong (U.S.) Motorola 1 second behind",
+    "entities": [
+      {
+        "text": "Lance Armstrong",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 20,
+        "end": 24
+      },
+      {
+        "text": "Motorola",
+        "label": "ORG",
+        "start": 26,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "For the distribution and supervision of humanitarian supplies the United Nations estimated it needed 1,190 people, including 267 international staff and 923 Iraqi support staff.",
+    "entities": [
+      {
+        "text": "United Nations",
+        "label": "ORG",
+        "start": 66,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "PRESS DIGEST - FRANCE - LE MONDE AUG 26.",
+    "entities": [
+      {
+        "text": "FRANCE",
+        "label": "LOC",
+        "start": 15,
+        "end": 21
+      },
+      {
+        "text": "LE MONDE",
+        "label": "ORG",
+        "start": 24,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "1996 5.83 13.8 2.75",
+    "entities": []
+  },
+  {
+    "text": "Paul Haarhuis (Netherlands) vs. Michael Joyce (U.S.)",
+    "entities": [
+      {
+        "text": "Paul Haarhuis",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Netherlands",
+        "label": "LOC",
+        "start": 15,
+        "end": 26
+      },
+      {
+        "text": "Michael Joyce",
+        "label": "PER",
+        "start": 32,
+        "end": 45
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 47,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "GOLF - BRITISH MASTERS FIRST ROUND SCORES.",
+    "entities": [
+      {
+        "text": "GOLF",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "Hanwha 58 1 49 .542 6",
+    "entities": [
+      {
+        "text": "Hanwha",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Geert de Clercq",
+    "entities": [
+      {
+        "text": "Geert de Clercq",
+        "label": "PER",
+        "start": 0,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "Thai Resource 264 31/12 Ras Tanura / Red Sea W46.50 Mobil.",
+    "entities": [
+      {
+        "text": "Ras Tanura",
+        "label": "LOC",
+        "start": 24,
+        "end": 34
+      },
+      {
+        "text": "Red Sea",
+        "label": "LOC",
+        "start": 37,
+        "end": 44
+      },
+      {
+        "text": "Mobil",
+        "label": "ORG",
+        "start": 52,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "text": "Hyundai 54 5 47 .533 7 1/2",
+    "entities": [
+      {
+        "text": "Hyundai",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "May 17 v Northampton",
+    "entities": [
+      {
+        "text": "Northampton",
+        "label": "ORG",
+        "start": 9,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "OSLOBODJENJE",
+    "entities": [
+      {
+        "text": "OSLOBODJENJE",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "The girl, Abyss DeJesus, suffers from a \" hairy nevus \" on the right side of her face, a condition that has only been reported a few times in medical journals, the St. Christopher Children's Hospital said.",
+    "entities": [
+      {
+        "text": "Abyss DeJesus",
+        "label": "PER",
+        "start": 10,
+        "end": 23
+      },
+      {
+        "text": "St. Christopher Children's Hospital",
+        "label": "LOC",
+        "start": 164,
+        "end": 199
+      }
+    ]
+  },
+  {
+    "text": "Toledo 61,514 0",
+    "entities": [
+      {
+        "text": "Toledo",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "- Top dealers in the London office of U.S. bankers Merrill Lynch are transferring to Dublin.",
+    "entities": [
+      {
+        "text": "London",
+        "label": "LOC",
+        "start": 21,
+        "end": 27
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 38,
+        "end": 42
+      },
+      {
+        "text": "Merrill Lynch",
+        "label": "ORG",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "Dublin",
+        "label": "LOC",
+        "start": 85,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "Jay Buhner hit a three-run homer and former Yankee Terry Mulholland allowed one run over seven innings as the Seattle Mariners completed a sweep of New York with a 10-2 victory in a game marred by a bench-clearing brawl.",
+    "entities": [
+      {
+        "text": "Jay Buhner",
+        "label": "PER",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Terry Mulholland",
+        "label": "PER",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "Seattle Mariners",
+        "label": "ORG",
+        "start": 110,
+        "end": 126
+      },
+      {
+        "text": "New York",
+        "label": "ORG",
+        "start": 148,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "NEW YORK 1996-08-27",
+    "entities": [
+      {
+        "text": "NEW YORK",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "this artificial atmosphere is very dangerous because those who spread it could become its prisoners, \" Levy said.",
+    "entities": [
+      {
+        "text": "Levy",
+        "label": "PER",
+        "start": 103,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "M / SP / F: NA / NA / NA BOOK ENTRY: N",
+    "entities": []
+  },
+  {
+    "text": "1. Thoma 210 points",
+    "entities": [
+      {
+        "text": "Thoma",
+        "label": "PER",
+        "start": 3,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Ramthan Hussain",
+    "entities": [
+      {
+        "text": "Ramthan Hussain",
+        "label": "PER",
+        "start": 0,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "The campaign catapulted BJP from the political fringe to become India's main opposition party in 1991.",
+    "entities": [
+      {
+        "text": "BJP",
+        "label": "ORG",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "India",
+        "label": "LOC",
+        "start": 64,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "Estonia presidential race next round on Sept 20.",
+    "entities": [
+      {
+        "text": "Estonia",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "MELBOURNE 1996-12-06",
+    "entities": [
+      {
+        "text": "MELBOURNE",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "I 'm not a supermodel you know, \" he said.",
+    "entities": []
+  },
+  {
+    "text": "matches on Friday:",
+    "entities": []
+  },
+  {
+    "text": "Nicol was full of praise for his opponent who has battled testicular cancer to return to the circuit. \"",
+    "entities": [
+      {
+        "text": "Nicol",
+        "label": "PER",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "-- Bombay newsroom +91-22-265 9000",
+    "entities": [
+      {
+        "text": "Bombay",
+        "label": "LOC",
+        "start": 3,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Bournemouth 22 7 4 11 20 27 25",
+    "entities": [
+      {
+        "text": "Bournemouth",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "Attendance: 5,000",
+    "entities": []
+  },
+  {
+    "text": "Bosnia's Moslem political parties have urged their refugees to boycott the elections until irregularities with voter registration are resolved.",
+    "entities": [
+      {
+        "text": "Bosnia",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "AS-SAFIR",
+    "entities": [
+      {
+        "text": "AS-SAFIR",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Samper -- who weathered a year-old crisis stemming from charges he financed his 1994 election campaign with drug money -- appeared less than enthusiastic, however.",
+    "entities": [
+      {
+        "text": "Samper",
+        "label": "PER",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Tampa Bay 2 LOS ANGELES 1",
+    "entities": [
+      {
+        "text": "Tampa Bay",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "LOS ANGELES",
+        "label": "ORG",
+        "start": 12,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "Their fate after the territory reverts to Chinese rule is unclear.",
+    "entities": []
+  },
+  {
+    "text": "SAN DIEGO 7 6 0 277 323",
+    "entities": [
+      {
+        "text": "SAN DIEGO",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "WESTERN DIVISION",
+    "entities": []
+  },
+  {
+    "text": "Six months to June 30,",
+    "entities": []
+  },
+  {
+    "text": "By selling the floating rate debt, the city hopes to establish a benchmark, the city official said, adding that it needed a large deal to accomplish this objective.",
+    "entities": []
+  },
+  {
+    "text": "RTRS - Guinness Peat expects strong full yr.",
+    "entities": [
+      {
+        "text": "RTRS",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Guinness Peat",
+        "label": "ORG",
+        "start": 7,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Everton 3 1 2 0 4 2 5",
+    "entities": [
+      {
+        "text": "Everton",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Bowyer, who moved to the Yorkshire club in August for 3.5 million pounds ($5.8 million), was expected to play against Middlesbrough on Saturday.",
+    "entities": [
+      {
+        "text": "Bowyer",
+        "label": "PER",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Yorkshire",
+        "label": "LOC",
+        "start": 25,
+        "end": 34
+      },
+      {
+        "text": "Middlesbrough",
+        "label": "ORG",
+        "start": 118,
+        "end": 131
+      }
+    ]
+  },
+  {
+    "text": "Burundi's parliament has been suspended and political parties are banned but Terence told reporters Buyoya would reconvene a new type of national assembly in October.",
+    "entities": [
+      {
+        "text": "Burundi",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Terence",
+        "label": "PER",
+        "start": 77,
+        "end": 84
+      },
+      {
+        "text": "Buyoya",
+        "label": "PER",
+        "start": 100,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "Todd Woodbridge (Australia beat Sebastien Lareau (Canada) 6-3",
+    "entities": [
+      {
+        "text": "Todd Woodbridge",
+        "label": "PER",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Australia",
+        "label": "LOC",
+        "start": 17,
+        "end": 26
+      },
+      {
+        "text": "Sebastien Lareau",
+        "label": "PER",
+        "start": 32,
+        "end": 48
+      },
+      {
+        "text": "Canada",
+        "label": "LOC",
+        "start": 50,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "text": "Jordanian PM Kabariti leaves for West Bank.",
+    "entities": [
+      {
+        "text": "Kabariti",
+        "label": "PER",
+        "start": 13,
+        "end": 21
+      },
+      {
+        "text": "West Bank",
+        "label": "LOC",
+        "start": 33,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "text": "*Note - OB and Lotte played two games.",
+    "entities": [
+      {
+        "text": "OB",
+        "label": "ORG",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "Lotte",
+        "label": "PER",
+        "start": 15,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Results of European Cup Winners '",
+    "entities": []
+  },
+  {
+    "text": "Banks do not want to hold big U.S. dollar positions at this moment, \" said one dealer, adding that the rate was likely to hover around current levels.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 30,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "Admira / Wacker 6 0 3 3 5 10 3",
+    "entities": [
+      {
+        "text": "Admira / Wacker",
+        "label": "ORG",
+        "start": 0,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "The official state news agency Petra said Kabariti would hold discussions \" on the latest developments in the peace process and bilateral cooperation \".",
+    "entities": [
+      {
+        "text": "Petra",
+        "label": "ORG",
+        "start": 31,
+        "end": 36
+      },
+      {
+        "text": "Kabariti",
+        "label": "PER",
+        "start": 42,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "1996 1995",
+    "entities": []
+  },
+  {
+    "text": "In local currency terms, Italian BTPs offered returns of 0.85 percent in the week ended on Thursday, with fellow high-yielder Sweden close behind on 0.80 percent.",
+    "entities": [
+      {
+        "text": "Sweden",
+        "label": "LOC",
+        "start": 126,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "text": "Chad government closes university after protests.",
+    "entities": [
+      {
+        "text": "Chad",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "Liam Gallagher, singer of Britain's top rock group Oasis, flew out on Thursday to join the band three days after the start of its U.S. tour.",
+    "entities": [
+      {
+        "text": "Liam Gallagher",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 26,
+        "end": 33
+      },
+      {
+        "text": "Oasis",
+        "label": "ORG",
+        "start": 51,
+        "end": 56
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 130,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "Two pct India current account deficit viable - RBI.",
+    "entities": [
+      {
+        "text": "India",
+        "label": "LOC",
+        "start": 8,
+        "end": 13
+      },
+      {
+        "text": "RBI",
+        "label": "ORG",
+        "start": 47,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "We might also help them to do it, if they go on like this, \" he said.",
+    "entities": []
+  },
+  {
+    "text": "Aberdeen v Hearts",
+    "entities": [
+      {
+        "text": "Aberdeen",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Hearts",
+        "label": "ORG",
+        "start": 11,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "Officials said the Ravi and Chenab rivers, which both flow through Punjab, were in high flood and emergency services backed by troops were on full alert.",
+    "entities": [
+      {
+        "text": "Ravi",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      },
+      {
+        "text": "Chenab",
+        "label": "LOC",
+        "start": 28,
+        "end": 34
+      },
+      {
+        "text": "Punjab",
+        "label": "LOC",
+        "start": 67,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "There were several damp patches on the square and the outfield and it was still raining when the players took an early lunch at 1230 local time (1130 GMT).",
+    "entities": []
+  },
+  {
+    "text": "Davies said he knew of no plans to return the man to Cuba.",
+    "entities": [
+      {
+        "text": "Davies",
+        "label": "PER",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Cuba",
+        "label": "LOC",
+        "start": 53,
+        "end": 57
+      }
+    ]
+  }
+]

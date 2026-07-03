@@ -1,0 +1,1305 @@
+[
+  {
+    "text": "For example, the ambiguity of ' mouse ' (animal or device) is not relevant in machine translation, but is relevant in information retrieval.",
+    "entities": [
+      {
+        "text": "machine translation",
+        "label": "task",
+        "start": 78,
+        "end": 97
+      },
+      {
+        "text": "information retrieval",
+        "label": "task",
+        "start": 118,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "text": "Neuromorphic engineering is an interdisciplinary subject that takes inspiration from biology, physics, mathematics, computer science, and electronic engineering to design artificial neural systems, such as vision systems, head-eye systems, auditory processors, and autonomous robots, whose physical architecture and design principles are based on those of biological nervous systems.",
+    "entities": [
+      {
+        "text": "Neuromorphic engineering",
+        "label": "field",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "biology",
+        "label": "field",
+        "start": 85,
+        "end": 92
+      },
+      {
+        "text": "physics",
+        "label": "field",
+        "start": 94,
+        "end": 101
+      },
+      {
+        "text": "mathematics",
+        "label": "field",
+        "start": 103,
+        "end": 114
+      },
+      {
+        "text": "computer science",
+        "label": "field",
+        "start": 116,
+        "end": 132
+      },
+      {
+        "text": "electronic engineering",
+        "label": "field",
+        "start": 138,
+        "end": 160
+      },
+      {
+        "text": "vision systems",
+        "label": "product",
+        "start": 206,
+        "end": 220
+      },
+      {
+        "text": "head-eye systems",
+        "label": "product",
+        "start": 222,
+        "end": 238
+      },
+      {
+        "text": "auditory processors",
+        "label": "product",
+        "start": 240,
+        "end": 259
+      },
+      {
+        "text": "autonomous robots",
+        "label": "product",
+        "start": 265,
+        "end": 282
+      },
+      {
+        "text": "biological nervous systems",
+        "label": "product",
+        "start": 356,
+        "end": 382
+      }
+    ]
+  },
+  {
+    "text": "Neuroevolution is commonly used as part of the reinforcement learning paradigm, and it can be contrasted with conventional deep learning techniques that use gradient descent on a neural network with a fixed topology.",
+    "entities": [
+      {
+        "text": "reinforcement learning",
+        "label": "field",
+        "start": 47,
+        "end": 69
+      },
+      {
+        "text": "deep learning",
+        "label": "field",
+        "start": 123,
+        "end": 136
+      },
+      {
+        "text": "gradient descent",
+        "label": "algorithm",
+        "start": 157,
+        "end": 173
+      },
+      {
+        "text": "neural network",
+        "label": "algorithm",
+        "start": 179,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Artificial neural networks are computational models that excel at machine learning and pattern recognition.",
+    "entities": [
+      {
+        "text": "Artificial neural networks",
+        "label": "algorithm",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 66,
+        "end": 82
+      },
+      {
+        "text": "pattern recognition",
+        "label": "field",
+        "start": 87,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "In many applications the units of these networks apply a sigmoid function as an activation function.",
+    "entities": [
+      {
+        "text": "sigmoid function",
+        "label": "algorithm",
+        "start": 57,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "At Indiana University in 1999 he organized such a symposium, and in April 2000, he organized a larger symposium entitled Spiritual Robots at Stanford University, in which he moderated a panel consisting of Ray Kurzweil, Hans Moravec, Kevin Kelly, Ralph Merkle, Bill Joy, Frank Drake, John Henry Holland and John Koza.",
+    "entities": [
+      {
+        "text": "Ray Kurzweil",
+        "label": "researcher",
+        "start": 206,
+        "end": 218
+      },
+      {
+        "text": "Hans Moravec",
+        "label": "researcher",
+        "start": 220,
+        "end": 232
+      },
+      {
+        "text": "Kevin Kelly",
+        "label": "researcher",
+        "start": 234,
+        "end": 245
+      },
+      {
+        "text": "Ralph Merkle",
+        "label": "researcher",
+        "start": 247,
+        "end": 259
+      },
+      {
+        "text": "Bill Joy",
+        "label": "researcher",
+        "start": 261,
+        "end": 269
+      },
+      {
+        "text": "Frank Drake",
+        "label": "researcher",
+        "start": 271,
+        "end": 282
+      },
+      {
+        "text": "John Henry Holland",
+        "label": "researcher",
+        "start": 284,
+        "end": 302
+      },
+      {
+        "text": "John Koza",
+        "label": "researcher",
+        "start": 307,
+        "end": 316
+      }
+    ]
+  },
+  {
+    "text": "In Cryo Electron Tomography, where the limited number of projections are acquired due to the hardware limitations and to avoid the biological specimen damage, it can be used along with compressive sensing techniques or regularization functions (e.g. Huber loss) to improve the reconstruction for better interpretation.",
+    "entities": [
+      {
+        "text": "compressive sensing techniques",
+        "label": "algorithm",
+        "start": 185,
+        "end": 215
+      },
+      {
+        "text": "regularization functions",
+        "label": "algorithm",
+        "start": 219,
+        "end": 243
+      }
+    ]
+  },
+  {
+    "text": "Since 2002, perceptron training has become popular in the field of natural language processing for such tasks as part-of-speech tagging and syntactic parsing (Collins, 2002).",
+    "entities": [
+      {
+        "text": "natural language processing",
+        "label": "field",
+        "start": 67,
+        "end": 94
+      },
+      {
+        "text": "part-of-speech tagging",
+        "label": "task",
+        "start": 113,
+        "end": 135
+      },
+      {
+        "text": "syntactic parsing",
+        "label": "task",
+        "start": 140,
+        "end": 157
+      },
+      {
+        "text": "Collins",
+        "label": "researcher",
+        "start": 159,
+        "end": 166
+      }
+    ]
+  },
+  {
+    "text": "Same implementation, to run in Java with JShell (Java 9 minimum): codejshell scriptfile / codesyntaxhighlight lang = java",
+    "entities": [
+      {
+        "text": "JShell",
+        "label": "product",
+        "start": 41,
+        "end": 47
+      },
+      {
+        "text": "codejshell",
+        "label": "product",
+        "start": 66,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "text": "A deep learning based approach to MT, neural machine translation has made rapid progress in recent years, and Google has announced its translation services are now using this technology in preference to its previous statistical methods.",
+    "entities": [
+      {
+        "text": "deep learning",
+        "label": "field",
+        "start": 2,
+        "end": 15
+      },
+      {
+        "text": "MT",
+        "label": "task",
+        "start": 34,
+        "end": 36
+      },
+      {
+        "text": "neural machine translation",
+        "label": "task",
+        "start": 38,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "The Institute has collaborated closely with the Janelia Farm Campus of Howard Hughes Medical Institute, the Allen Institute for Brain Science and the National Institutes of Health to develop better methods of reconstructing neuronal architectures.",
+    "entities": []
+  },
+  {
+    "text": "Kernel SVMs are available in many machine-learning toolkits, including LIBSVM, MATLAB, and others.",
+    "entities": [
+      {
+        "text": "Kernel SVMs",
+        "label": "algorithm",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "machine-learning",
+        "label": "field",
+        "start": 34,
+        "end": 50
+      },
+      {
+        "text": "LIBSVM",
+        "label": "product",
+        "start": 71,
+        "end": 77
+      },
+      {
+        "text": "MATLAB",
+        "label": "product",
+        "start": 79,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "Such a sequence (which depends on the outcome of the investigation of previous attributes at each stage) is called a decision tree and applied in the area of machine learning known as decision tree learning.",
+    "entities": [
+      {
+        "text": "decision tree",
+        "label": "algorithm",
+        "start": 117,
+        "end": 130
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 158,
+        "end": 174
+      },
+      {
+        "text": "decision tree learning",
+        "label": "algorithm",
+        "start": 184,
+        "end": 206
+      }
+    ]
+  },
+  {
+    "text": "The first publication about the LMF specification as it has been ratified by ISO (this paper became (in 2015) the 9th most cited paper within the LREC conferences from LREC papers):",
+    "entities": [
+      {
+        "text": "LMF specification",
+        "label": "task",
+        "start": 32,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "Perhaps the simplest statistic is accuracy or Fraction Correct (FC), which measures the fraction of all instances that are correctly categorized; it is the ratio of the number of correct classifications to the total number of correct or incorrect classifications: (TP + TN) / Total Population = (TP + TN) / (TP + TN + FP + FN).",
+    "entities": []
+  },
+  {
+    "text": "A number of WordNet-based word similarity algorithms are implemented in a Perl package called WordNet :: Similarity.",
+    "entities": [
+      {
+        "text": "WordNet-based word similarity algorithms",
+        "label": "algorithm",
+        "start": 12,
+        "end": 52
+      },
+      {
+        "text": "WordNet :: Similarity",
+        "label": "product",
+        "start": 94,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "text": "Examples of supervised learning are Naive Bayes classifier, Support vector machine, mixtures of Gaussians, and network.",
+    "entities": [
+      {
+        "text": "supervised learning",
+        "label": "field",
+        "start": 12,
+        "end": 31
+      },
+      {
+        "text": "Naive Bayes classifier",
+        "label": "algorithm",
+        "start": 36,
+        "end": 58
+      },
+      {
+        "text": "Support vector machine",
+        "label": "algorithm",
+        "start": 60,
+        "end": 82
+      },
+      {
+        "text": "mixtures of Gaussians",
+        "label": "algorithm",
+        "start": 84,
+        "end": 105
+      },
+      {
+        "text": "network",
+        "label": "algorithm",
+        "start": 111,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "The most common way is using the so-called ROUGE (Recall-Oriented Understudy for Gisting Evaluation) measure.",
+    "entities": []
+  },
+  {
+    "text": "The F-score has been widely used in the natural language processing literature, such as the evaluation of named entity recognition (NER) and word segmentation.",
+    "entities": [
+      {
+        "text": "natural language processing",
+        "label": "field",
+        "start": 40,
+        "end": 67
+      },
+      {
+        "text": "named entity recognition",
+        "label": "task",
+        "start": 106,
+        "end": 130
+      },
+      {
+        "text": "NER",
+        "label": "task",
+        "start": 132,
+        "end": 135
+      },
+      {
+        "text": "word segmentation",
+        "label": "task",
+        "start": 141,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "text": "Prova is an open source programming language that combines Prolog with Java.",
+    "entities": []
+  },
+  {
+    "text": "It comes with 3 Java games that are controlled with the remote control and displayed to its LCD screen.",
+    "entities": [
+      {
+        "text": "LCD screen",
+        "label": "product",
+        "start": 92,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "For the 2016 season, Samantha Ponder was added as host, replacing Molly McGrath.",
+    "entities": []
+  },
+  {
+    "text": "His research in cognitive psychology has won the Early Career Award (1984) and Boyd McCandless Award 1986) from the American Psychological Association, the Troland Research Award (1993) from the National Academy of Sciences, the Henry Dale Prize (2004) from the Royal Institution of Great Britain, and the George Miller Prize (2010) from the Cognitive Neuroscience Society.",
+    "entities": [
+      {
+        "text": "cognitive psychology",
+        "label": "field",
+        "start": 16,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "R functionality is accessible from several scripting languages such as Python, are available as well.",
+    "entities": []
+  },
+  {
+    "text": "In May 2016, NtechLab was admitted to the official testing of biometrics technology by NIST among the three Russian companies.",
+    "entities": [
+      {
+        "text": "biometrics",
+        "label": "field",
+        "start": 62,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "text": "Formal concept analysis finds practical application in fields including data mining, text mining, machine learning, knowledge management, semantic web, software development, chemistry and biology.",
+    "entities": [
+      {
+        "text": "data mining",
+        "label": "field",
+        "start": 72,
+        "end": 83
+      },
+      {
+        "text": "text mining",
+        "label": "field",
+        "start": 85,
+        "end": 96
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 98,
+        "end": 114
+      },
+      {
+        "text": "knowledge management",
+        "label": "field",
+        "start": 116,
+        "end": 136
+      },
+      {
+        "text": "semantic web",
+        "label": "field",
+        "start": 138,
+        "end": 150
+      },
+      {
+        "text": "software development",
+        "label": "field",
+        "start": 152,
+        "end": 172
+      },
+      {
+        "text": "chemistry",
+        "label": "field",
+        "start": 174,
+        "end": 183
+      },
+      {
+        "text": "biology",
+        "label": "field",
+        "start": 188,
+        "end": 195
+      }
+    ]
+  },
+  {
+    "text": "Machine vision as a systems engineering discipline can be considered distinct from computer vision, a form of computer science.",
+    "entities": [
+      {
+        "text": "Machine vision",
+        "label": "field",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "systems engineering",
+        "label": "field",
+        "start": 20,
+        "end": 39
+      },
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 83,
+        "end": 98
+      },
+      {
+        "text": "computer science",
+        "label": "field",
+        "start": 110,
+        "end": 126
+      }
+    ]
+  },
+  {
+    "text": "John McCarthy is one of the founding fathers of artificial intelligence, together with Alan Turing, Marvin Minsky, Allen Newell, and Herbert A. Simon.",
+    "entities": [
+      {
+        "text": "John McCarthy",
+        "label": "researcher",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 48,
+        "end": 71
+      },
+      {
+        "text": "Alan Turing",
+        "label": "researcher",
+        "start": 87,
+        "end": 98
+      },
+      {
+        "text": "Marvin Minsky",
+        "label": "researcher",
+        "start": 100,
+        "end": 113
+      },
+      {
+        "text": "Allen Newell",
+        "label": "researcher",
+        "start": 115,
+        "end": 127
+      },
+      {
+        "text": "Herbert A. Simon",
+        "label": "researcher",
+        "start": 133,
+        "end": 149
+      }
+    ]
+  },
+  {
+    "text": "The Roberts cross operator is used in image processing and computer vision for edge detection.",
+    "entities": [
+      {
+        "text": "Roberts cross operator",
+        "label": "algorithm",
+        "start": 4,
+        "end": 26
+      },
+      {
+        "text": "image processing",
+        "label": "field",
+        "start": 38,
+        "end": 54
+      },
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 59,
+        "end": 74
+      },
+      {
+        "text": "edge detection",
+        "label": "task",
+        "start": 79,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "text": ", C. Papageorgiou and T. Poggio, A Trainable Pedestrian Detection system, International Journal of Computer Vision (IJCV), pages 1: 15-33, 2000 others uses local features like histogram of oriented gradients N. Dalal, B. Triggs, Histograms of oriented gradients for human detection, IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR), pages 1: 886-893, 2005 descriptors.",
+    "entities": [
+      {
+        "text": "C. Papageorgiou",
+        "label": "researcher",
+        "start": 2,
+        "end": 17
+      },
+      {
+        "text": "T. Poggio",
+        "label": "researcher",
+        "start": 22,
+        "end": 31
+      },
+      {
+        "text": "Trainable Pedestrian Detection system",
+        "label": "product",
+        "start": 35,
+        "end": 72
+      },
+      {
+        "text": "histogram of oriented gradients",
+        "label": "algorithm",
+        "start": 176,
+        "end": 207
+      },
+      {
+        "text": "N. Dalal",
+        "label": "researcher",
+        "start": 208,
+        "end": 216
+      },
+      {
+        "text": "B. Triggs",
+        "label": "researcher",
+        "start": 218,
+        "end": 227
+      },
+      {
+        "text": "Histograms of oriented gradients",
+        "label": "algorithm",
+        "start": 229,
+        "end": 261
+      },
+      {
+        "text": "human detection",
+        "label": "task",
+        "start": 266,
+        "end": 281
+      }
+    ]
+  },
+  {
+    "text": "Now let us start explaining the different possible relations between predicted and actual outcome: Confusion matrix",
+    "entities": []
+  },
+  {
+    "text": "Robots can be autonomous or semi-autonomous and range from humanoids such as Honda ' s Advanced Step in Innovative Mobility (ASIMO) and TOSY ' s TOSY Ping Pong Playing Robot (TOPIO) to industrial robot s, medical operating robot s, patient assist robots, dog therapy robots, collectively programmed swarm robots, UAV drones such as General Atomics MQ-1 Predator, and even microscopic nano robots.",
+    "entities": [
+      {
+        "text": "Advanced Step in Innovative Mobility",
+        "label": "product",
+        "start": 87,
+        "end": 123
+      },
+      {
+        "text": "ASIMO",
+        "label": "product",
+        "start": 125,
+        "end": 130
+      },
+      {
+        "text": "TOSY Ping Pong Playing Robot",
+        "label": "product",
+        "start": 145,
+        "end": 173
+      },
+      {
+        "text": "TOPIO",
+        "label": "product",
+        "start": 175,
+        "end": 180
+      },
+      {
+        "text": "industrial robot",
+        "label": "product",
+        "start": 185,
+        "end": 201
+      },
+      {
+        "text": "medical operating robot",
+        "label": "product",
+        "start": 205,
+        "end": 228
+      },
+      {
+        "text": "patient assist robots",
+        "label": "product",
+        "start": 232,
+        "end": 253
+      },
+      {
+        "text": "dog therapy robots",
+        "label": "product",
+        "start": 255,
+        "end": 273
+      },
+      {
+        "text": "swarm robots",
+        "label": "product",
+        "start": 299,
+        "end": 311
+      },
+      {
+        "text": "UAV drones",
+        "label": "product",
+        "start": 313,
+        "end": 323
+      },
+      {
+        "text": "General Atomics MQ-1 Predator",
+        "label": "product",
+        "start": 332,
+        "end": 361
+      },
+      {
+        "text": "microscopic nano robots",
+        "label": "product",
+        "start": 372,
+        "end": 395
+      }
+    ]
+  },
+  {
+    "text": "In 2013, at the International Conference on Computer Vision, Terzopoulos was awarded a Helmholtz Prize for his 1987 ICCV paper with Kass and Witkin on active contour model s.",
+    "entities": [
+      {
+        "text": "Terzopoulos",
+        "label": "researcher",
+        "start": 61,
+        "end": 72
+      },
+      {
+        "text": "Kass",
+        "label": "researcher",
+        "start": 132,
+        "end": 136
+      },
+      {
+        "text": "Witkin",
+        "label": "researcher",
+        "start": 141,
+        "end": 147
+      },
+      {
+        "text": "active contour model",
+        "label": "algorithm",
+        "start": 151,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "The method of defining the linked list specifies the use of a depth-first search or a breadth-first search.",
+    "entities": [
+      {
+        "text": "depth-first search",
+        "label": "algorithm",
+        "start": 62,
+        "end": 80
+      },
+      {
+        "text": "breadth-first search",
+        "label": "algorithm",
+        "start": 86,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "Getoor has multiple best paper awards, an NSF Career Award, and is an Association for the Advancement of Artificial Intelligence (AAAI) Fellow.",
+    "entities": [
+      {
+        "text": "Getoor",
+        "label": "researcher",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "A single grid can be analysed for both content (eyeball inspection) and structure (cluster analysis, principal component analysis, and a variety of structural indices relating to the complexity and range of the ratings being the chief techniques used).",
+    "entities": [
+      {
+        "text": "eyeball inspection",
+        "label": "task",
+        "start": 48,
+        "end": 66
+      },
+      {
+        "text": "cluster analysis",
+        "label": "task",
+        "start": 83,
+        "end": 99
+      },
+      {
+        "text": "principal component analysis",
+        "label": "task",
+        "start": 101,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "OCR is a field of research in pattern recognition, artificial intelligence and computer vision.",
+    "entities": [
+      {
+        "text": "OCR",
+        "label": "task",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "pattern recognition",
+        "label": "field",
+        "start": 30,
+        "end": 49
+      },
+      {
+        "text": "artificial intelligence",
+        "label": "field",
+        "start": 51,
+        "end": 74
+      },
+      {
+        "text": "computer vision",
+        "label": "field",
+        "start": 79,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "text": "Recently, Google announced that Google Translate translates roughly enough text to fill 1 million books in one day (2012).",
+    "entities": [
+      {
+        "text": "Google Translate",
+        "label": "product",
+        "start": 32,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "In 2018, a report by the civil liberties and rights campaigning organisation Big Brother Watch revealed that two United Kingdom police forces, South Wales Police and the Metropolitan Police, were using live facial recognition at public events and in public spaces, in September 2019, South Wales Police use of facial recognition was ruled lawful.",
+    "entities": [
+      {
+        "text": "facial recognition",
+        "label": "task",
+        "start": 207,
+        "end": 225
+      },
+      {
+        "text": "facial recognition",
+        "label": "task",
+        "start": 310,
+        "end": 328
+      }
+    ]
+  },
+  {
+    "text": "Here, math \\ sigma / math is an element-wise activation function such as a sigmoid function or a rectified linear unit.",
+    "entities": [
+      {
+        "text": "element-wise activation function",
+        "label": "algorithm",
+        "start": 32,
+        "end": 64
+      },
+      {
+        "text": "sigmoid function",
+        "label": "algorithm",
+        "start": 75,
+        "end": 91
+      },
+      {
+        "text": "rectified linear unit",
+        "label": "algorithm",
+        "start": 97,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "Sigmoid function activation functions use a second non-linearity for large inputs: math \\ phi (v _ i) = (1 + \\ exp (-v _ i)) ^ {-1} / math.",
+    "entities": [
+      {
+        "text": "Sigmoid function",
+        "label": "algorithm",
+        "start": 0,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "Čapek was born in Hronov, Bohemia (Austria-Hungary, later Czechoslovakia, now the Czech Republic) in 1887.",
+    "entities": []
+  },
+  {
+    "text": "Here, the Kronecker delta is used for simplicity (cf. the derivative of a sigmoid function, being expressed via the function itself).",
+    "entities": [
+      {
+        "text": "Kronecker delta",
+        "label": "algorithm",
+        "start": 10,
+        "end": 25
+      },
+      {
+        "text": "sigmoid function",
+        "label": "algorithm",
+        "start": 74,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "text": "Their ' parallel ' distinction, as opposed to a serial manipulator, is that the end effector (or ' hand ') of this linkage (or ' arm ') is directly connected to its base by a number of (usually three or six) separate and independent linkages working simultaneously.",
+    "entities": [
+      {
+        "text": "serial manipulator",
+        "label": "product",
+        "start": 48,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "More recently, fictional representations of artificially intelligent robots in films such as A.I. Artificial Intelligence and Ex Machina and the 2016 TV adaptation of Westworld have engaged audience sympathy for the robots themselves.",
+    "entities": [
+      {
+        "text": "artificially intelligent robots",
+        "label": "product",
+        "start": 44,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "Despite those humanoid robots for utilitarian uses, there are some humanoid robots which aims at entertainment uses, such as Sony ' s QRIO and Wow Wee ' s RoboSapien.",
+    "entities": [
+      {
+        "text": "QRIO",
+        "label": "product",
+        "start": 134,
+        "end": 138
+      },
+      {
+        "text": "RoboSapien",
+        "label": "product",
+        "start": 155,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "text": "Localized versions of the site available in the United Kingdom, India, and Australia were discontinued following the acquisition of Rotten Tomatoes by Fandango.",
+    "entities": []
+  },
+  {
+    "text": "FrameNet has been used in applications like question answering, paraphrasing, recognizing textual entailment, and information extraction, either directly or by means of Semantic Role Labeling tools.",
+    "entities": [
+      {
+        "text": "FrameNet",
+        "label": "product",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "question answering",
+        "label": "task",
+        "start": 44,
+        "end": 62
+      },
+      {
+        "text": "paraphrasing",
+        "label": "task",
+        "start": 64,
+        "end": 76
+      },
+      {
+        "text": "recognizing textual entailment",
+        "label": "task",
+        "start": 78,
+        "end": 108
+      },
+      {
+        "text": "information extraction",
+        "label": "task",
+        "start": 114,
+        "end": 136
+      },
+      {
+        "text": "Semantic Role Labeling",
+        "label": "task",
+        "start": 169,
+        "end": 191
+      }
+    ]
+  },
+  {
+    "text": "The most commonly used robot configurations are articulated robots, SCARA robots, delta robots and cartesian coordinate robots, (gantry robots or x-y-z robots).",
+    "entities": [
+      {
+        "text": "articulated robots",
+        "label": "product",
+        "start": 48,
+        "end": 66
+      },
+      {
+        "text": "SCARA robots",
+        "label": "product",
+        "start": 68,
+        "end": 80
+      },
+      {
+        "text": "delta robots",
+        "label": "product",
+        "start": 82,
+        "end": 94
+      },
+      {
+        "text": "cartesian coordinate robots",
+        "label": "product",
+        "start": 99,
+        "end": 126
+      },
+      {
+        "text": "gantry robots",
+        "label": "product",
+        "start": 129,
+        "end": 142
+      },
+      {
+        "text": "x-y-z robots",
+        "label": "product",
+        "start": 146,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "text": "A parallel manipulator is a mechanical system that uses several serial manipulator s to support a single platform, or end-effector.",
+    "entities": [
+      {
+        "text": "serial manipulator",
+        "label": "product",
+        "start": 64,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "In this approach, models are developed using different data mining, machine learning algorithms to predict users ' rating of unrated items.",
+    "entities": [
+      {
+        "text": "data mining",
+        "label": "field",
+        "start": 55,
+        "end": 66
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 68,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "text": "In 1991 he was elected as a fellow of the Association for the Advancement of Artificial Intelligence (1990, founding fellow).",
+    "entities": []
+  },
+  {
+    "text": "Bigrams are used in most successful language model s for speech recognition.",
+    "entities": [
+      {
+        "text": "language model",
+        "label": "algorithm",
+        "start": 36,
+        "end": 50
+      },
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 57,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "(2005) we can differ three different perspectives of text mining, namely text mining as information extraction, text mining as text data mining, and text mining as Data mining (Knowledge Discovery in Databases) process.Hotho, A., Nürnberger, A. and Paaß, G. (2005).",
+    "entities": [
+      {
+        "text": "text mining",
+        "label": "field",
+        "start": 53,
+        "end": 64
+      },
+      {
+        "text": "text mining",
+        "label": "field",
+        "start": 73,
+        "end": 84
+      },
+      {
+        "text": "information extraction",
+        "label": "task",
+        "start": 88,
+        "end": 110
+      },
+      {
+        "text": "text mining",
+        "label": "field",
+        "start": 112,
+        "end": 123
+      },
+      {
+        "text": "data mining",
+        "label": "field",
+        "start": 132,
+        "end": 143
+      },
+      {
+        "text": "text mining",
+        "label": "field",
+        "start": 149,
+        "end": 160
+      },
+      {
+        "text": "Data mining",
+        "label": "field",
+        "start": 164,
+        "end": 175
+      },
+      {
+        "text": "Knowledge Discovery",
+        "label": "task",
+        "start": 177,
+        "end": 196
+      }
+    ]
+  },
+  {
+    "text": "The Rancho Arm was developed as a robotic arm to help handicapped patients at the Rancho Los Amigos National Rehabilitation Center in Downey, California; this computer-controlled arm was bought by Stanford University in 1963.",
+    "entities": [
+      {
+        "text": "Rancho Arm",
+        "label": "product",
+        "start": 4,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "Segmenting the text into topics or discourse turns might be useful in some natural processing tasks: it can improve information retrieval or speech recognition significantly (by indexing / recognizing documents more precisely or by giving the specific part of a document corresponding to the query as a result).",
+    "entities": [
+      {
+        "text": "Segmenting the text into topics",
+        "label": "task",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "information retrieval",
+        "label": "task",
+        "start": 116,
+        "end": 137
+      },
+      {
+        "text": "speech recognition",
+        "label": "task",
+        "start": 141,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "2 The program was rewritten in Java beginning in 1998.",
+    "entities": []
+  },
+  {
+    "text": "However, in contrast to boosting algorithms that analytically minimize a convex loss function (e.g. AdaBoost and LogitBoost), BrownBoost solves a system of two equations and two unknowns using standard numerical methods.",
+    "entities": [
+      {
+        "text": "AdaBoost",
+        "label": "algorithm",
+        "start": 100,
+        "end": 108
+      },
+      {
+        "text": "LogitBoost",
+        "label": "algorithm",
+        "start": 113,
+        "end": 123
+      },
+      {
+        "text": "BrownBoost",
+        "label": "algorithm",
+        "start": 126,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "Unlike neural network s and Support vector machine, the AdaBoost training process selects only those features known to improve the predictive power of the model, reducing dimensionality and potentially improving execution time as irrelevant features need not be computed.",
+    "entities": [
+      {
+        "text": "neural network",
+        "label": "algorithm",
+        "start": 7,
+        "end": 21
+      },
+      {
+        "text": "Support vector machine",
+        "label": "algorithm",
+        "start": 28,
+        "end": 50
+      },
+      {
+        "text": "AdaBoost",
+        "label": "algorithm",
+        "start": 56,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "Increasingly, however, work at Cycorp involves giving the Cyc system the ability to communicate with end users in natural language, and to assist with the ongoing knowledge formation process via machine learning and natural language understanding.",
+    "entities": [
+      {
+        "text": "Cyc system",
+        "label": "product",
+        "start": 58,
+        "end": 68
+      },
+      {
+        "text": "machine learning",
+        "label": "field",
+        "start": 195,
+        "end": 211
+      },
+      {
+        "text": "natural language understanding",
+        "label": "task",
+        "start": 216,
+        "end": 246
+      }
+    ]
+  }
+]

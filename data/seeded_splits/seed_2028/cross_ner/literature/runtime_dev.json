@@ -1,0 +1,1388 @@
+[
+  {
+    "text": "However, Oscar Wilde, Henry James, and Virginia Woolf complained of a lack of psychological depth, loose writing, and a vein of sentimentalism.",
+    "entities": [
+      {
+        "text": "Oscar Wilde",
+        "label": "writer",
+        "start": 9,
+        "end": 20
+      },
+      {
+        "text": "Henry James",
+        "label": "writer",
+        "start": 22,
+        "end": 33
+      },
+      {
+        "text": "Virginia Woolf",
+        "label": "writer",
+        "start": 39,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "text": "These include the Universal Natural History and Theory of the Heavens (1755), the Critique of Practical Reason (1788), the Metaphysics of Morals (1797), the Critique of Judgment (1790), which looks at aesthetics and teleology, and Religion within the Bounds of Bare Reason (1793).",
+    "entities": [
+      {
+        "text": "Universal Natural History and Theory of the Heavens",
+        "label": "book",
+        "start": 18,
+        "end": 69
+      },
+      {
+        "text": "Critique of Practical Reason",
+        "label": "book",
+        "start": 82,
+        "end": 110
+      },
+      {
+        "text": "Metaphysics of Morals",
+        "label": "book",
+        "start": 123,
+        "end": 144
+      },
+      {
+        "text": "Critique of Judgment",
+        "label": "book",
+        "start": 157,
+        "end": 177
+      },
+      {
+        "text": "Religion within the Bounds of Bare Reason",
+        "label": "book",
+        "start": 231,
+        "end": 272
+      }
+    ]
+  },
+  {
+    "text": "1789) with the addition of five of his poems: the Introduction and The Divine Image from the Songs of Innocence (1789), The Tyger and A Divine Image from the Songs of Experience (1789-1794), and A Cradle Song from his Note-book (Manuscript Dante Gabriel Rossetti, 1793).",
+    "entities": [
+      {
+        "text": "Songs of Innocence",
+        "label": "book",
+        "start": 93,
+        "end": 111
+      },
+      {
+        "text": "Songs of Experience",
+        "label": "book",
+        "start": 158,
+        "end": 177
+      },
+      {
+        "text": "Dante Gabriel Rossetti",
+        "label": "writer",
+        "start": 240,
+        "end": 262
+      }
+    ]
+  },
+  {
+    "text": "Writing for The Spectator, Graham Greene expressed similar views, acerbically noting of the film that it goes on too long, otherwise it might have been the funniest film since The Crusades.",
+    "entities": [
+      {
+        "text": "Graham Greene",
+        "label": "writer",
+        "start": 27,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "In 1993, Thornton married Playboy model Pietra Dawn Cherniak, with whom he had two sons, Harry James and William.",
+    "entities": [
+      {
+        "text": "Thornton",
+        "label": "person",
+        "start": 9,
+        "end": 17
+      },
+      {
+        "text": "Pietra Dawn Cherniak",
+        "label": "person",
+        "start": 40,
+        "end": 60
+      },
+      {
+        "text": "Harry James",
+        "label": "person",
+        "start": 89,
+        "end": 100
+      },
+      {
+        "text": "William",
+        "label": "person",
+        "start": 105,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "text": "The film earned Tarkovsky international acclaim and won the Golden Lion award at the Venice Film Festival in the year 1962.",
+    "entities": [
+      {
+        "text": "Tarkovsky",
+        "label": "writer",
+        "start": 16,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "Alan Moore had this to say about the use of the Guy Fawkes motif adopted from his comic V for Vendetta, in an interview with Entertainment Weekly:",
+    "entities": [
+      {
+        "text": "Alan Moore",
+        "label": "writer",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Guy Fawkes",
+        "label": "person",
+        "start": 48,
+        "end": 58
+      },
+      {
+        "text": "V for Vendetta",
+        "label": "book",
+        "start": 88,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Unable to pay independently to return for the appeal and second trial, Hurston contacted journalist William Bradford Huie, with whom she had worked at The American Mercury, to try to interest him in the case.",
+    "entities": [
+      {
+        "text": "Hurston",
+        "label": "writer",
+        "start": 71,
+        "end": 78
+      },
+      {
+        "text": "William Bradford Huie",
+        "label": "writer",
+        "start": 100,
+        "end": 121
+      }
+    ]
+  },
+  {
+    "text": "The Door into Summer is a science fiction novel by American writer Robert A. Heinlein, originally serialized in The Magazine of Fantasy & Science Fiction (October, November, December 1956, with covers and interior illustrations by Kelly Freas).",
+    "entities": [
+      {
+        "text": "The Door into Summer",
+        "label": "book",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "science fiction novel",
+        "label": "literarygenre",
+        "start": 26,
+        "end": 47
+      },
+      {
+        "text": "Robert A. Heinlein",
+        "label": "writer",
+        "start": 67,
+        "end": 85
+      },
+      {
+        "text": "Kelly Freas",
+        "label": "writer",
+        "start": 231,
+        "end": 242
+      }
+    ]
+  },
+  {
+    "text": "For his work, he received numerous accolades, including six Primetime Emmy Award s, a Tony Award, a Mark Twain Prize and a star on the Hollywood Walk of Fame in 1991.",
+    "entities": [
+      {
+        "text": "Hollywood Walk of Fame",
+        "label": "location",
+        "start": 135,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "text": "The contest over the authenticity of Macpherson's pseudo-Gaelic productions, Curley asserts, became a seismograph of the fragile unity within restive diversity of British Empire Kingdom of Great Britain in the age of Samuel Johnson.",
+    "entities": [
+      {
+        "text": "Macpherson",
+        "label": "writer",
+        "start": 37,
+        "end": 47
+      },
+      {
+        "text": "Curley",
+        "label": "person",
+        "start": 77,
+        "end": 83
+      },
+      {
+        "text": "Samuel Johnson",
+        "label": "writer",
+        "start": 217,
+        "end": 231
+      }
+    ]
+  },
+  {
+    "text": "In 2005, Arkham House was awarded the World Fantasy Award for Small Press Achievements - the trophy at that time was a bust of H. P. Lovecraft.",
+    "entities": [
+      {
+        "text": "H. P. Lovecraft",
+        "label": "writer",
+        "start": 127,
+        "end": 142
+      }
+    ]
+  },
+  {
+    "text": "Spears has earned numerous awards and accolades, including a Grammy Award; seven Guinness World Records; six MTV Video Music Awards, including the Michael Jackson Video Vanguard Award; seven Billboard Music Awards, including the Millennium Award; the inaugural Radio Disney Icon Award; the GLAAD Media Award ' s Vanguard Award and a star on the Hollywood Walk of Fame.",
+    "entities": [
+      {
+        "text": "Spears",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Guinness World Records",
+        "label": "book",
+        "start": 81,
+        "end": 103
+      },
+      {
+        "text": "Hollywood Walk of Fame",
+        "label": "location",
+        "start": 345,
+        "end": 367
+      }
+    ]
+  },
+  {
+    "text": "The late 1980s and the 1990s saw a boom in popular-fiction versions of alternate history, fueled by the emergence of the prolific alternate history author Harry Turtledove, as well as the development of the steampunk genre and two series of anthologies - the What Might Have Been series edited by Gregory Benford and the Alternate series edited by Mike Resnick.",
+    "entities": [
+      {
+        "text": "popular-fiction",
+        "label": "literarygenre",
+        "start": 43,
+        "end": 58
+      },
+      {
+        "text": "alternate history",
+        "label": "literarygenre",
+        "start": 71,
+        "end": 88
+      },
+      {
+        "text": "Harry Turtledove",
+        "label": "writer",
+        "start": 155,
+        "end": 171
+      },
+      {
+        "text": "steampunk genre",
+        "label": "literarygenre",
+        "start": 207,
+        "end": 222
+      },
+      {
+        "text": "What Might Have Been",
+        "label": "book",
+        "start": 259,
+        "end": 279
+      },
+      {
+        "text": "Gregory Benford",
+        "label": "writer",
+        "start": 297,
+        "end": 312
+      },
+      {
+        "text": "Alternate series",
+        "label": "book",
+        "start": 321,
+        "end": 337
+      },
+      {
+        "text": "Mike Resnick",
+        "label": "writer",
+        "start": 348,
+        "end": 360
+      }
+    ]
+  },
+  {
+    "text": "Formally, the use of sound to create atmosphere, and of symbols (images that take on an expanded function within the poem), betray a move towards considering the poem as a self-referential object, an idea further developed by the Symbolists Paul Verlaine and Stéphane Mallarmé, who acknowledge Baudelaire as a pioneer in this regard.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 117,
+        "end": 121
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 162,
+        "end": 166
+      },
+      {
+        "text": "Paul Verlaine",
+        "label": "writer",
+        "start": 241,
+        "end": 254
+      },
+      {
+        "text": "Stéphane Mallarmé",
+        "label": "writer",
+        "start": 259,
+        "end": 276
+      },
+      {
+        "text": "Baudelaire",
+        "label": "writer",
+        "start": 294,
+        "end": 304
+      }
+    ]
+  },
+  {
+    "text": "197, Oxford University Press, 1969 and gave lectures on Human Potentialities both at the UCSF Medical Center and at the Esalen Institute.",
+    "entities": [
+      {
+        "text": "Human Potentialities",
+        "label": "book",
+        "start": 56,
+        "end": 76
+      },
+      {
+        "text": "UCSF Medical Center",
+        "label": "location",
+        "start": 89,
+        "end": 108
+      },
+      {
+        "text": "Esalen Institute",
+        "label": "location",
+        "start": 120,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "It was followed the next year by The Tale of Squirrel Nutkin and The Tailor of Gloucester, which had also first been written as picture letters to the Moore children.",
+    "entities": [
+      {
+        "text": "The Tale of Squirrel Nutkin",
+        "label": "book",
+        "start": 33,
+        "end": 60
+      },
+      {
+        "text": "The Tailor of Gloucester",
+        "label": "book",
+        "start": 65,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "He is ironic, as in Invective Against Swans and Anatomy of Monotony, about the ' spiritual ' demand to transcend nature.",
+    "entities": []
+  },
+  {
+    "text": "A documentary was also made for BBC Radio 4 entitled The Story of O: The Vice Francaise, presented by Rowan Pelling, former editor of the Erotic Review, which looked at the history of the book and its author Anne Desclos.",
+    "entities": [
+      {
+        "text": "Rowan Pelling",
+        "label": "writer",
+        "start": 102,
+        "end": 115
+      },
+      {
+        "text": "Anne Desclos",
+        "label": "writer",
+        "start": 208,
+        "end": 220
+      }
+    ]
+  },
+  {
+    "text": "In March 2020, a third season of Cosmos named Cosmos: Possible Worlds, for which Druyan was executive producer, writer, and director premiered on National Geographic.",
+    "entities": [
+      {
+        "text": "Druyan",
+        "label": "writer",
+        "start": 81,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "text": "Four more children followed: Charlotte Brontë, (1816-1855), Branwell Brontë (1817-1848), Emily Brontë, (1818-1848) and Anne (1820-1849).",
+    "entities": [
+      {
+        "text": "Charlotte Brontë",
+        "label": "writer",
+        "start": 29,
+        "end": 45
+      },
+      {
+        "text": "Branwell Brontë",
+        "label": "writer",
+        "start": 60,
+        "end": 75
+      },
+      {
+        "text": "Emily Brontë",
+        "label": "writer",
+        "start": 89,
+        "end": 101
+      }
+    ]
+  },
+  {
+    "text": "According to Plutarch ' s Life of Theseus, the ship Theseus used on his return from Crete to Classical Athens was kept in the Athenian harbour as a memorial for several centuries.",
+    "entities": [
+      {
+        "text": "Plutarch",
+        "label": "writer",
+        "start": 13,
+        "end": 21
+      },
+      {
+        "text": "Life of Theseus",
+        "label": "book",
+        "start": 26,
+        "end": 41
+      },
+      {
+        "text": "Theseus",
+        "label": "person",
+        "start": 52,
+        "end": 59
+      },
+      {
+        "text": "Crete",
+        "label": "location",
+        "start": 84,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "Asimov notes in his introduction to the short story collection The Complete Robot (1982) that he was largely inspired by the almost relentless tendency of robots up to that time to fall consistently into a Frankenstein plot in which they destroyed their creators.",
+    "entities": [
+      {
+        "text": "Asimov",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "short story",
+        "label": "literarygenre",
+        "start": 40,
+        "end": 51
+      },
+      {
+        "text": "The Complete Robot",
+        "label": "book",
+        "start": 63,
+        "end": 81
+      },
+      {
+        "text": "Frankenstein",
+        "label": "book",
+        "start": 206,
+        "end": 218
+      }
+    ]
+  },
+  {
+    "text": "5 Smith later taught himself French and Spanish to translate verse out of those languages, including works by Gérard de Nerval, Paul Verlaine, and all but 6 of Charles Baudelaire ' s 157 poems in Les Fleurs du mal.",
+    "entities": [
+      {
+        "text": "Smith",
+        "label": "writer",
+        "start": 2,
+        "end": 7
+      },
+      {
+        "text": "verse",
+        "label": "literarygenre",
+        "start": 61,
+        "end": 66
+      },
+      {
+        "text": "Gérard de Nerval",
+        "label": "writer",
+        "start": 110,
+        "end": 126
+      },
+      {
+        "text": "Paul Verlaine",
+        "label": "writer",
+        "start": 128,
+        "end": 141
+      },
+      {
+        "text": "Charles Baudelaire",
+        "label": "writer",
+        "start": 160,
+        "end": 178
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 187,
+        "end": 192
+      },
+      {
+        "text": "Les Fleurs du mal",
+        "label": "book",
+        "start": 196,
+        "end": 213
+      }
+    ]
+  },
+  {
+    "text": "Shortly after, he signed a contract with RCA Victor and one of his early singles, Trouble in the Amen Corner reached the 1960 country music Top 25.",
+    "entities": []
+  },
+  {
+    "text": "The Ghost Writer, a thriller focusing on a ghostwriter working on the memoirs of a character based loosely on former British prime minister Tony Blair, swept the European Film Awards in 2010, winning six awards, including best movie, director, actor and screenplay.",
+    "entities": [
+      {
+        "text": "The Ghost Writer",
+        "label": "book",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "thriller",
+        "label": "literarygenre",
+        "start": 20,
+        "end": 28
+      },
+      {
+        "text": "Tony Blair",
+        "label": "person",
+        "start": 140,
+        "end": 150
+      }
+    ]
+  },
+  {
+    "text": "Jagger has had an intermittent acting career, his most significant role being in Donald Cammell and Nicolas Roeg ' s Performance (1968), and as Australian bushranger Ned Kelly in the film of the same name (1970).",
+    "entities": [
+      {
+        "text": "Jagger",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Donald Cammell",
+        "label": "writer",
+        "start": 81,
+        "end": 95
+      },
+      {
+        "text": "Nicolas Roeg",
+        "label": "writer",
+        "start": 100,
+        "end": 112
+      },
+      {
+        "text": "Ned Kelly",
+        "label": "person",
+        "start": 166,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "It was a finalist for the National Book Award for Fiction! -- National Book Awards were called American for several years from 1980, but must not be confused with American Book Awards -- in 1979 (which ultimately went to Tim O 'Brien for Going After Cacciato) in the film as an official in one of Garp's high school wrestling matches.",
+    "entities": [
+      {
+        "text": "Tim O 'Brien",
+        "label": "writer",
+        "start": 221,
+        "end": 233
+      },
+      {
+        "text": "Going After Cacciato",
+        "label": "book",
+        "start": 238,
+        "end": 258
+      },
+      {
+        "text": "Garp",
+        "label": "person",
+        "start": 297,
+        "end": 301
+      }
+    ]
+  },
+  {
+    "text": "His most famous works were his longer and more moralistic Troy Book (1412-20), a 30,000 line translation of the Latin prose narrative by Guido delle Colonne, Historia destructionis Troiae, the Siege of Thebes which was translated from a French prose redaction of the Roman de Thebes and the Fall of Princes.",
+    "entities": [
+      {
+        "text": "Latin prose",
+        "label": "literarygenre",
+        "start": 112,
+        "end": 123
+      },
+      {
+        "text": "Guido delle Colonne",
+        "label": "writer",
+        "start": 137,
+        "end": 156
+      },
+      {
+        "text": "French prose",
+        "label": "literarygenre",
+        "start": 237,
+        "end": 249
+      }
+    ]
+  },
+  {
+    "text": "Marilynne Robinson, On Edgar Allan Poe, The New York Review of Books, vol.",
+    "entities": [
+      {
+        "text": "Marilynne Robinson",
+        "label": "writer",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "Edgar Allan Poe",
+        "label": "writer",
+        "start": 23,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "These styles included the historical fiction of Memories of the Ford Administration (1992), the magical realism of Brazil (1994), the science fiction of Toward the End of Time (1997), the postmodernism of Gertrude and Claudius (2000), and the experimental fiction of Seek My Face (2002).",
+    "entities": [
+      {
+        "text": "historical fiction",
+        "label": "literarygenre",
+        "start": 26,
+        "end": 44
+      },
+      {
+        "text": "Memories of the Ford Administration",
+        "label": "book",
+        "start": 48,
+        "end": 83
+      },
+      {
+        "text": "magical realism",
+        "label": "literarygenre",
+        "start": 96,
+        "end": 111
+      },
+      {
+        "text": "Brazil",
+        "label": "book",
+        "start": 115,
+        "end": 121
+      },
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 134,
+        "end": 149
+      },
+      {
+        "text": "Toward the End of Time",
+        "label": "book",
+        "start": 153,
+        "end": 175
+      },
+      {
+        "text": "postmodernism",
+        "label": "literarygenre",
+        "start": 188,
+        "end": 201
+      },
+      {
+        "text": "Gertrude and Claudius",
+        "label": "book",
+        "start": 205,
+        "end": 226
+      },
+      {
+        "text": "experimental fiction",
+        "label": "literarygenre",
+        "start": 243,
+        "end": 263
+      },
+      {
+        "text": "Seek My Face",
+        "label": "book",
+        "start": 267,
+        "end": 279
+      }
+    ]
+  },
+  {
+    "text": "His 1974 short story The Four-Hour Fugue was nominated for a Hugo Award, and Nebula Award nominations for his 1975 novel The Computer Connection (titled The Indian Giver as a magazine serial and later reprinted as Extro).",
+    "entities": [
+      {
+        "text": "short story",
+        "label": "literarygenre",
+        "start": 9,
+        "end": 20
+      },
+      {
+        "text": "The Four-Hour Fugue",
+        "label": "book",
+        "start": 21,
+        "end": 40
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 115,
+        "end": 120
+      },
+      {
+        "text": "The Computer Connection",
+        "label": "book",
+        "start": 121,
+        "end": 144
+      },
+      {
+        "text": "The Indian Giver",
+        "label": "book",
+        "start": 153,
+        "end": 169
+      },
+      {
+        "text": "Extro",
+        "label": "book",
+        "start": 214,
+        "end": 219
+      }
+    ]
+  },
+  {
+    "text": "The poem's major source is Guido delle Colonne ' s Historia destructionis Troiae.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "Guido delle Colonne",
+        "label": "writer",
+        "start": 27,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "Le Guin influenced many other authors, including Booker Prize winner Salman Rushdie, David Mitchell, Neil Gaiman, and Iain Banks.",
+    "entities": [
+      {
+        "text": "Le Guin",
+        "label": "writer",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Salman Rushdie",
+        "label": "writer",
+        "start": 69,
+        "end": 83
+      },
+      {
+        "text": "David Mitchell",
+        "label": "writer",
+        "start": 85,
+        "end": 99
+      },
+      {
+        "text": "Neil Gaiman",
+        "label": "writer",
+        "start": 101,
+        "end": 112
+      },
+      {
+        "text": "Iain Banks",
+        "label": "writer",
+        "start": 118,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "He has received five Robert Awards (including Best Film and Best Director) and three Bodil Awards for Best Danish Film.",
+    "entities": []
+  },
+  {
+    "text": "Hughes wrote of inequality (I, Too), of resilience (Mother to Son and The Negro Speaks of Rivers), of pride (My People), of hope (Freedom's Plow), and of music (The Trumpet Player and Juke Box Love Song).",
+    "entities": [
+      {
+        "text": "Hughes",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "My People",
+        "label": "book",
+        "start": 109,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "His name had sometimes been mentioned as a contender for the Nobel Prize in Literature, but in 1971, after losing to Aleksandr Solzhenitsyn, he wrote to a friend: That Nobel Prize! I hope I never hear it mentioned again.",
+    "entities": [
+      {
+        "text": "Aleksandr Solzhenitsyn",
+        "label": "writer",
+        "start": 117,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "text": "For the general reader, Jonson's reputation rests on a few lyrics that, though brief, are surpassed for grace and precision by very few Renaissance poems: On My First Sonne; To Celia; To Penshurst; and the epitaph on Salomon Pavy, a boy player abducted from his parents who acted in Jonson's plays.",
+    "entities": [
+      {
+        "text": "Jonson",
+        "label": "person",
+        "start": 24,
+        "end": 30
+      },
+      {
+        "text": "Renaissance poems",
+        "label": "literarygenre",
+        "start": 136,
+        "end": 153
+      },
+      {
+        "text": "Salomon Pavy",
+        "label": "person",
+        "start": 217,
+        "end": 229
+      },
+      {
+        "text": "Jonson",
+        "label": "writer",
+        "start": 283,
+        "end": 289
+      }
+    ]
+  },
+  {
+    "text": "Soon after his return to England, Dickens began work on the first of his Christmas stories, A Christmas Carol, written in 1843, which was followed by The Chimes in 1844 and The Cricket on the Hearth in 1845.",
+    "entities": [
+      {
+        "text": "Dickens",
+        "label": "writer",
+        "start": 34,
+        "end": 41
+      },
+      {
+        "text": "A Christmas Carol",
+        "label": "book",
+        "start": 92,
+        "end": 109
+      },
+      {
+        "text": "The Chimes",
+        "label": "book",
+        "start": 150,
+        "end": 160
+      },
+      {
+        "text": "The Cricket on the Hearth",
+        "label": "book",
+        "start": 173,
+        "end": 198
+      }
+    ]
+  },
+  {
+    "text": "His first published novels were social satires, Crome Yellow (1921), Antic Hay (1923), Those Barren Leaves (1925), and Point Counter Point (1928).",
+    "entities": [
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 20,
+        "end": 26
+      },
+      {
+        "text": "social satires",
+        "label": "literarygenre",
+        "start": 32,
+        "end": 46
+      },
+      {
+        "text": "Crome Yellow",
+        "label": "book",
+        "start": 48,
+        "end": 60
+      },
+      {
+        "text": "Antic Hay",
+        "label": "book",
+        "start": 69,
+        "end": 78
+      },
+      {
+        "text": "Those Barren Leaves",
+        "label": "book",
+        "start": 87,
+        "end": 106
+      },
+      {
+        "text": "Point Counter Point",
+        "label": "book",
+        "start": 119,
+        "end": 138
+      }
+    ]
+  },
+  {
+    "text": "On the day of the preview, however, he was expelled from the Surrealist Group by André Breton, who ordered the poet Paul Éluard to take down his pictures.",
+    "entities": [
+      {
+        "text": "André Breton",
+        "label": "writer",
+        "start": 81,
+        "end": 93
+      },
+      {
+        "text": "Paul Éluard",
+        "label": "writer",
+        "start": 116,
+        "end": 127
+      }
+    ]
+  },
+  {
+    "text": "247 Many lyricists worked on the show, including James Agee, Dorothy Parker, John Latouche, Richard Wilbur, Leonard and Felicia Bernstein, and Hellman.",
+    "entities": [
+      {
+        "text": "James Agee",
+        "label": "writer",
+        "start": 49,
+        "end": 59
+      },
+      {
+        "text": "Dorothy Parker",
+        "label": "writer",
+        "start": 61,
+        "end": 75
+      },
+      {
+        "text": "John Latouche",
+        "label": "writer",
+        "start": 77,
+        "end": 90
+      },
+      {
+        "text": "Richard Wilbur",
+        "label": "writer",
+        "start": 92,
+        "end": 106
+      },
+      {
+        "text": "Leonard",
+        "label": "writer",
+        "start": 108,
+        "end": 115
+      },
+      {
+        "text": "Felicia Bernstein",
+        "label": "writer",
+        "start": 120,
+        "end": 137
+      },
+      {
+        "text": "Hellman",
+        "label": "writer",
+        "start": 143,
+        "end": 150
+      }
+    ]
+  },
+  {
+    "text": "Lindbergh's Pulitzer Prize -winning biographer, A. Scott Berg, contended that Lindbergh was not so much a supporter of the Nazi regime as someone so stubborn in his convictions and relatively inexperienced in political maneuvering that he easily allowed rivals to portray him as one.",
+    "entities": [
+      {
+        "text": "Lindbergh",
+        "label": "person",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "A. Scott Berg",
+        "label": "writer",
+        "start": 48,
+        "end": 61
+      },
+      {
+        "text": "Lindbergh",
+        "label": "person",
+        "start": 78,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "text": "After making a series of westerns and comedies, Dwan directed fellow Canadian-American Mary Pickford in several very successful movies as well as her husband, Douglas Fairbanks, notably in the acclaimed 1922 Robin Hood.",
+    "entities": [
+      {
+        "text": "Dwan",
+        "label": "person",
+        "start": 48,
+        "end": 52
+      },
+      {
+        "text": "Mary Pickford",
+        "label": "person",
+        "start": 87,
+        "end": 100
+      },
+      {
+        "text": "Douglas Fairbanks",
+        "label": "person",
+        "start": 159,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "Gathering widespread critical acclaim at the Toronto and New York Film Festival film festivals, the film also became a favorite when Academy Awards nominations were announced in 2001.",
+    "entities": []
+  },
+  {
+    "text": "Sometimes a Great Notion inspired a 1970 film starring and directed by Paul Newman; it was nominated for two Academy Awards, and in 1972 was the first film shown by the new television network HBO,",
+    "entities": [
+      {
+        "text": "Sometimes a Great Notion",
+        "label": "book",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "Paul Newman",
+        "label": "person",
+        "start": 71,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "She later formed the Pagan Babies with friend Kat Bjelland, whom she met at the Satyricon club in Portland in 1984.",
+    "entities": [
+      {
+        "text": "Pagan Babies",
+        "label": "book",
+        "start": 21,
+        "end": 33
+      },
+      {
+        "text": "Kat Bjelland",
+        "label": "person",
+        "start": 46,
+        "end": 58
+      },
+      {
+        "text": "Satyricon club",
+        "label": "location",
+        "start": 80,
+        "end": 94
+      },
+      {
+        "text": "Portland",
+        "label": "location",
+        "start": 98,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "Adapted by Anne Washburn and directed by Laurence Olivier Award winner Richard Jones, and will be based on stories from the original series by Rod Serling, Charles Beaumont and Richard Matheson.",
+    "entities": [
+      {
+        "text": "Anne Washburn",
+        "label": "writer",
+        "start": 11,
+        "end": 24
+      },
+      {
+        "text": "Richard Jones",
+        "label": "person",
+        "start": 71,
+        "end": 84
+      },
+      {
+        "text": "Rod Serling",
+        "label": "writer",
+        "start": 143,
+        "end": 154
+      },
+      {
+        "text": "Charles Beaumont",
+        "label": "writer",
+        "start": 156,
+        "end": 172
+      },
+      {
+        "text": "Richard Matheson",
+        "label": "writer",
+        "start": 177,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Although first presented at the Venice Film Festival on August 28 the same year, Affliction did not see a theatrical release until some time later in most countries.",
+    "entities": []
+  },
+  {
+    "text": "In 1962, Percy was awarded the National Book Award for Fiction for his first novel, The Moviegoer.",
+    "entities": [
+      {
+        "text": "Percy",
+        "label": "writer",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 77,
+        "end": 82
+      },
+      {
+        "text": "The Moviegoer",
+        "label": "book",
+        "start": 84,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "Darkness at Noon for the New Statesman in 1941, saying:",
+    "entities": [
+      {
+        "text": "Darkness at Noon",
+        "label": "book",
+        "start": 0,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "The Professor and the Woggle-Bug try to dissuade the girls from war, the Woggle-Bug saying that it is better to be a Maud Muller than a Carrie Nation.",
+    "entities": [
+      {
+        "text": "Woggle-Bug",
+        "label": "person",
+        "start": 22,
+        "end": 32
+      },
+      {
+        "text": "Woggle-Bug",
+        "label": "person",
+        "start": 73,
+        "end": 83
+      },
+      {
+        "text": "Carrie Nation",
+        "label": "person",
+        "start": 136,
+        "end": 149
+      }
+    ]
+  },
+  {
+    "text": "Shot in January, it premièred at the Cannes Film Festival on 27 May 2007.",
+    "entities": []
+  },
+  {
+    "text": "7th Century CE), author of Shishupala Vadha, an epic famous for its linguistic ingenuity, and Śrīharṣa (12th century CE), author of Naishadha Charita (Naiṣadhīya-carita).",
+    "entities": [
+      {
+        "text": "Śrīharṣa",
+        "label": "writer",
+        "start": 94,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Hannon contributed to a musical version of Swallows and Amazons, writing the music while Helen Edmundson wrote the book and lyrics, which premiered in December 2010 at the Bristol Old Vic.",
+    "entities": [
+      {
+        "text": "Hannon",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Swallows and Amazons",
+        "label": "book",
+        "start": 43,
+        "end": 63
+      },
+      {
+        "text": "Helen Edmundson",
+        "label": "writer",
+        "start": 89,
+        "end": 104
+      },
+      {
+        "text": "Bristol Old Vic",
+        "label": "location",
+        "start": 172,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "text": "This was the case, for instance, in the The Weapon Shops of Isher series, the The Mixed Men series, and in single stories such as Heir Apparent (1945), whose protagonist was described as a benevolent dictator.",
+    "entities": [
+      {
+        "text": "The Weapon Shops of Isher",
+        "label": "book",
+        "start": 40,
+        "end": 65
+      },
+      {
+        "text": "The Mixed Men",
+        "label": "book",
+        "start": 78,
+        "end": 91
+      },
+      {
+        "text": "Heir Apparent",
+        "label": "book",
+        "start": 130,
+        "end": 143
+      }
+    ]
+  },
+  {
+    "text": "In 1982, she wrote the novel The Color Purple, for which she won the National Book Award for hardcover fiction, and the Pulitzer Prize for Fiction.",
+    "entities": [
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 23,
+        "end": 28
+      },
+      {
+        "text": "The Color Purple",
+        "label": "book",
+        "start": 29,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "Seymour Hersh, Nixon's Last Cover-Up: The Tapes He Wants the Archives to Suppress; The New Yorker, December 14, 1992, pp. 80-81 In passing sentence in February 1972, the judge rejected the D.A. ' s motion that Capp agree to undergo psychiatric treatment.",
+    "entities": [
+      {
+        "text": "Seymour Hersh",
+        "label": "writer",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Nixon",
+        "label": "person",
+        "start": 15,
+        "end": 20
+      },
+      {
+        "text": "Capp",
+        "label": "writer",
+        "start": 210,
+        "end": 214
+      }
+    ]
+  },
+  {
+    "text": "Although German language writers such as Hilde Domin, Luise Rinser and Nelly Sachs had published notable works on women's issues in the post-war period it was only in the 1970s that a feminist movement emerged in West Germany.",
+    "entities": [
+      {
+        "text": "Hilde Domin",
+        "label": "writer",
+        "start": 41,
+        "end": 52
+      },
+      {
+        "text": "Luise Rinser",
+        "label": "writer",
+        "start": 54,
+        "end": 66
+      },
+      {
+        "text": "Nelly Sachs",
+        "label": "writer",
+        "start": 71,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "Śrīharṣa composed the poem (kāvya) Naishadha Charita (IAST: Naiṣadhacarita) in 1174, during the reign of the Vijayachandra's son Jayachandra.",
+    "entities": [
+      {
+        "text": "Śrīharṣa",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 22,
+        "end": 26
+      },
+      {
+        "text": "kāvya",
+        "label": "literarygenre",
+        "start": 28,
+        "end": 33
+      },
+      {
+        "text": "Vijayachandra",
+        "label": "person",
+        "start": 109,
+        "end": 122
+      },
+      {
+        "text": "Jayachandra",
+        "label": "person",
+        "start": 129,
+        "end": 140
+      }
+    ]
+  }
+]

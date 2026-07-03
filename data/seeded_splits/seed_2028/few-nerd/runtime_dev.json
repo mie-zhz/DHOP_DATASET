@@ -1,0 +1,916 @@
+[
+  {
+    "text": "The Wensleydale Railway is a heritage line which operates from Redmire to Leeming Bar and.",
+    "entities": [
+      {
+        "text": "Wensleydale Railway",
+        "label": "location",
+        "start": 4,
+        "end": 23
+      },
+      {
+        "text": "Redmire",
+        "label": "location",
+        "start": 63,
+        "end": 70
+      },
+      {
+        "text": "Leeming Bar",
+        "label": "location",
+        "start": 74,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "He also has played for Kleanthis Paradeisiou and Thrasyvoulos F.C..",
+    "entities": [
+      {
+        "text": "Kleanthis Paradeisiou",
+        "label": "organization",
+        "start": 23,
+        "end": 44
+      },
+      {
+        "text": "Thrasyvoulos F.C.",
+        "label": "organization",
+        "start": 49,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "Other career highlights include reaching the 2018 US Open final, winning the bronze medal in men's singles at the 2012 London Olympics, the silver medal at the 2016 Rio Olympics, the Indian Wells Masters in 2018, and being part of his country's successful Davis Cup team; but his career has also been hampered by a succession of wrist and knee injuries.",
+    "entities": []
+  },
+  {
+    "text": "Van Beek made his full debut on 30 January 2013 against PSV Eindhove n in the KNVB Cup.",
+    "entities": [
+      {
+        "text": "PSV Eindhove",
+        "label": "organization",
+        "start": 56,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "text": "Copley was fielding at deep mid on which is well short of the boundary.",
+    "entities": [
+      {
+        "text": "Copley",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "to the south, Tampa International Airport to the west, and Dale Mabry Highway to the east.",
+    "entities": [
+      {
+        "text": "Dale Mabry Highway",
+        "label": "location",
+        "start": 59,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "The song was featured in the BBC documentary, ``The Great Crash 1929 ``.",
+    "entities": [
+      {
+        "text": "BBC",
+        "label": "organization",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "The Great Crash 1929",
+        "label": "art",
+        "start": 48,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "text": "He also known for along had solo recitals and chamber concerts in London's Wigmore Hall and Paris's Louvre and played Mozart's ``Sinfonia Concertante ``with Israel Sinfonietta, Wuppertal Symphony and the Berlin Symphony Orchestra.",
+    "entities": [
+      {
+        "text": "London",
+        "label": "location",
+        "start": 66,
+        "end": 72
+      },
+      {
+        "text": "Paris",
+        "label": "location",
+        "start": 92,
+        "end": 97
+      },
+      {
+        "text": "Mozart",
+        "label": "person",
+        "start": 118,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "Heller was several times curator for exhibitions in Tibetan art, including for the Beinecke Rare Book and Manuscript Library and Yale University Art Gallery, both part of Yale University.",
+    "entities": [
+      {
+        "text": "Tibetan",
+        "label": "location",
+        "start": 52,
+        "end": 59
+      },
+      {
+        "text": "Yale University",
+        "label": "organization",
+        "start": 171,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "text": "For example, benzyl chloroformate is used to introduce the Cbz (carboxybenzyl) protecting group and fluorenylmethyloxycarbonyl chloride is used to introduce the FMOC protecting group.",
+    "entities": []
+  },
+  {
+    "text": "Zaheer Farooqui (Adv.)",
+    "entities": [
+      {
+        "text": "Zaheer Farooqui",
+        "label": "person",
+        "start": 0,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "By the time the Siamese reached Chiang Mai, however, the Manchus had given up their invasion of Burma while Lan Na had renewed its relationship with the Toungoo and tried to distance itself from the Siamese.",
+    "entities": [
+      {
+        "text": "Siamese",
+        "label": "location",
+        "start": 16,
+        "end": 23
+      },
+      {
+        "text": "Chiang Mai",
+        "label": "location",
+        "start": 32,
+        "end": 42
+      },
+      {
+        "text": "Manchus",
+        "label": "location",
+        "start": 57,
+        "end": 64
+      },
+      {
+        "text": "Burma",
+        "label": "location",
+        "start": 96,
+        "end": 101
+      },
+      {
+        "text": "Lan Na",
+        "label": "location",
+        "start": 108,
+        "end": 114
+      },
+      {
+        "text": "Toungoo",
+        "label": "location",
+        "start": 153,
+        "end": 160
+      },
+      {
+        "text": "Siamese",
+        "label": "location",
+        "start": 199,
+        "end": 206
+      }
+    ]
+  },
+  {
+    "text": "In October 1942, the contract for two prototypes, designated ``XP-75 ``, was signed with the Fisher Body Division of GM.",
+    "entities": [
+      {
+        "text": "XP-75",
+        "label": "product",
+        "start": 63,
+        "end": 68
+      },
+      {
+        "text": "Fisher Body Division",
+        "label": "organization",
+        "start": 93,
+        "end": 113
+      },
+      {
+        "text": "GM",
+        "label": "organization",
+        "start": 117,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "Any planetary sized body 180 degrees from Earth should also have been visible to some space probes, such as NASA's STEREO coronagraph probes (two spacecraft launched into orbits around the Sun in 2006, one farther ahead of and one behind the Earth's orbit) which would have seen the Counter- Earth during the first half of 2007.",
+    "entities": [
+      {
+        "text": "NASA's STEREO coronagraph probes",
+        "label": "product",
+        "start": 108,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "The game's name originates from its original concept, referred to as ``armored dragon ``(``kiko-ryu ``in Japanese), but Futatsugi, feeling that this was too bland, decided to translate it to German.",
+    "entities": [
+      {
+        "text": "Futatsugi",
+        "label": "organization",
+        "start": 120,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "In 1748 the Gradis house established itself on Gorée and became a major participant in the slave trade with the Americas.",
+    "entities": [
+      {
+        "text": "Gorée",
+        "label": "location",
+        "start": 47,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "He has also been the ``Minister for Urban Development & amp; Revenue, Education, Transport, Tourism, Languages, Gurudwara Election, Local Bodies & amp; Gurudwara Administration'' in the Sheila Dikshit government of Delhi.",
+    "entities": [
+      {
+        "text": "Delhi",
+        "label": "location",
+        "start": 215,
+        "end": 220
+      }
+    ]
+  },
+  {
+    "text": "The Chuuk State Government established the Chuuk Political Status Commission (CPSC) in 2012 through Chuuk State Public Law 11-18 (CSL 11-12-08).",
+    "entities": []
+  },
+  {
+    "text": "Reid got her first career knockout win on August 26, 2000, by defeating Jessica Elgin Combs in the first round of their fight at the Mandalay Bay Resort and Casino in Las Vegas, Nevada.",
+    "entities": [
+      {
+        "text": "Las Vegas",
+        "label": "location",
+        "start": 167,
+        "end": 176
+      },
+      {
+        "text": "Nevada",
+        "label": "location",
+        "start": 178,
+        "end": 184
+      }
+    ]
+  },
+  {
+    "text": "In 1991, both AAI RQ-2 Pioneer and AeroVironment FQM-151 Pointer drones were used for surveillance during the Gulf War.",
+    "entities": [
+      {
+        "text": "AAI RQ-2 Pioneer",
+        "label": "product",
+        "start": 14,
+        "end": 30
+      },
+      {
+        "text": "AeroVironment FQM-151 Pointer",
+        "label": "product",
+        "start": 35,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "After hearing of this action Safdarjung fell ill and died.",
+    "entities": [
+      {
+        "text": "Safdarjung",
+        "label": "person",
+        "start": 29,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "text": "Prior to the discovery of 3C 273, several other radio sources had been associated with optical counterparts, the first being 3C 48.",
+    "entities": []
+  },
+  {
+    "text": "The following year he moved to London to learn English and finish his graduate studies.",
+    "entities": []
+  },
+  {
+    "text": "This was mortgaged (``Rente ``is a technical term for mortgage in German) to the tune of 3.2 billion Goldmarks, based on the 1913 wealth charge called ``Wehrbeitrag ``which had helped fund the German war effort from 1914–1918.",
+    "entities": [
+      {
+        "text": "German",
+        "label": "location",
+        "start": 66,
+        "end": 72
+      },
+      {
+        "text": "German",
+        "label": "location",
+        "start": 193,
+        "end": 199
+      }
+    ]
+  },
+  {
+    "text": "Following that, in the Japanese epic, Taiheki, one of the characters, Nitta Yoshisada (), made comparisons with Amaterasu and a dragon with the quote: “ I have heard that the Sun Goddess of Ise … conceals her true being in the august image of Vairocana, and that she has appeared in this world in the guise of a dragon god of the blue ocean. ”",
+    "entities": [
+      {
+        "text": "Japanese",
+        "label": "location",
+        "start": 23,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "Limited quantities of the Sterling submachine gun and L1A1 SLR Assault rifle were acquired from the British for evaluation, but they were never adopted as standard weapons by the RLA.",
+    "entities": [
+      {
+        "text": "British",
+        "label": "location",
+        "start": 100,
+        "end": 107
+      },
+      {
+        "text": "RLA",
+        "label": "organization",
+        "start": 179,
+        "end": 182
+      }
+    ]
+  },
+  {
+    "text": "He is a qualified MCA RYA Yachtmaster, a member of the Naval and Military Club and The Royal Yachting Association",
+    "entities": [
+      {
+        "text": "MCA RYA",
+        "label": "organization",
+        "start": 18,
+        "end": 25
+      },
+      {
+        "text": "Naval and Military Club",
+        "label": "organization",
+        "start": 55,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "The Hittite language had been gaining speakers at the Hattic language's expense for some time.",
+    "entities": []
+  },
+  {
+    "text": "Moi died at The Nairobi Hospital on the early morning of 4 February 2020, at the age of 95, in the presence of family.",
+    "entities": [
+      {
+        "text": "Moi",
+        "label": "person",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "text": "After four years in which the club was relegated twice and promoted once, Huizingh signed for FC Groningen again in 1990.",
+    "entities": [
+      {
+        "text": "FC Groningen",
+        "label": "organization",
+        "start": 94,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "The ``Railway Gazette ``reported that EMD SD70 and GE Dash-9 were candidates for the lines ' locomotives.",
+    "entities": [
+      {
+        "text": "Railway Gazette",
+        "label": "organization",
+        "start": 6,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "Kempston & amp; Elstow Halt was a railway station on the Varsity Line which served the Bedfordshire town of Kempston in England.",
+    "entities": [
+      {
+        "text": "Varsity Line",
+        "label": "location",
+        "start": 57,
+        "end": 69
+      },
+      {
+        "text": "Bedfordshire",
+        "label": "location",
+        "start": 87,
+        "end": 99
+      },
+      {
+        "text": "Kempston",
+        "label": "location",
+        "start": 108,
+        "end": 116
+      },
+      {
+        "text": "England",
+        "label": "location",
+        "start": 120,
+        "end": 127
+      }
+    ]
+  },
+  {
+    "text": "He also presented Nyhetsmorgon at TV4.",
+    "entities": [
+      {
+        "text": "Nyhetsmorgon",
+        "label": "art",
+        "start": 18,
+        "end": 30
+      },
+      {
+        "text": "TV4",
+        "label": "organization",
+        "start": 34,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "text": "In 1943, the building was sold to Alfred Lawrence & amp; Co Ltd, manufacturing chemists.",
+    "entities": [
+      {
+        "text": "Alfred Lawrence & amp; Co Ltd",
+        "label": "organization",
+        "start": 34,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "The 1956 Torneo Godó was the fourth edition of the Torneo Godó annual tennis tournament played on clay courts in Barcelona, Spain and it took place from May 28 to June 3, 1956.",
+    "entities": [
+      {
+        "text": "Barcelona",
+        "label": "location",
+        "start": 113,
+        "end": 122
+      },
+      {
+        "text": "Spain",
+        "label": "location",
+        "start": 124,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "The 2018–19 USC Trojans men's basketball team represented the University of Southern California during the 2018–19 NCAA Division I men's basketball season.",
+    "entities": [
+      {
+        "text": "USC Trojans",
+        "label": "organization",
+        "start": 12,
+        "end": 23
+      },
+      {
+        "text": "University of Southern California",
+        "label": "organization",
+        "start": 62,
+        "end": 95
+      }
+    ]
+  },
+  {
+    "text": "Das served as member of PSP's Bihar Provincial Executive Council.",
+    "entities": [
+      {
+        "text": "PSP",
+        "label": "organization",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "Bihar Provincial Executive Council",
+        "label": "organization",
+        "start": 30,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "In either event the class was undoubtedly Maunsell ’ s most immediately successful design, and the locomotives did some of their best work on the Hastings route.",
+    "entities": [
+      {
+        "text": "Hastings route",
+        "label": "location",
+        "start": 146,
+        "end": 160
+      }
+    ]
+  },
+  {
+    "text": "The Mauna Kea Observatories (MKO) are a number of independent astronomical research facilities and large telescope observatories that are located at the summit of Mauna Kea on the Big Island of Hawaiʻi, United States.",
+    "entities": [
+      {
+        "text": "Mauna Kea",
+        "label": "location",
+        "start": 163,
+        "end": 172
+      },
+      {
+        "text": "Big Island",
+        "label": "location",
+        "start": 180,
+        "end": 190
+      },
+      {
+        "text": "Hawaiʻi",
+        "label": "location",
+        "start": 194,
+        "end": 201
+      },
+      {
+        "text": "United States",
+        "label": "location",
+        "start": 203,
+        "end": 216
+      }
+    ]
+  },
+  {
+    "text": "Research have been made on the effect of biological differences between male and female on the exposure to both Post-Traumatic Stress Disorder (PTSD) and Depression.",
+    "entities": []
+  },
+  {
+    "text": "Labrador's sparse settlement and a local topography similar to parts of the Soviet Union, in addition to proximity to European NATO nations caused CFB Goose Bay to grow and become the primary low-level tactical training area for several NATO air forces during the 1980s.",
+    "entities": [
+      {
+        "text": "Labrador",
+        "label": "location",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "the Soviet Union",
+        "label": "location",
+        "start": 72,
+        "end": 88
+      },
+      {
+        "text": "European",
+        "label": "location",
+        "start": 118,
+        "end": 126
+      }
+    ]
+  },
+  {
+    "text": "Picking the second dollar sign earned the contestant $100,000.",
+    "entities": []
+  },
+  {
+    "text": "A sequel to the film was released on 10 November 2017 in the United Kingdom.",
+    "entities": [
+      {
+        "text": "United Kingdom",
+        "label": "location",
+        "start": 61,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "Long's replacement Kirstie Alley debuted as businesswoman Rebecca Howe in the sixth season and became a main cast member thereafter.",
+    "entities": [
+      {
+        "text": "Rebecca Howe",
+        "label": "person",
+        "start": 58,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "text": "After being permitted to return to the United States, he became a prominent attorney in Louisville, Kentucky.",
+    "entities": [
+      {
+        "text": "United States",
+        "label": "location",
+        "start": 39,
+        "end": 52
+      },
+      {
+        "text": "Louisville",
+        "label": "location",
+        "start": 88,
+        "end": 98
+      },
+      {
+        "text": "Kentucky",
+        "label": "location",
+        "start": 100,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "text": "Valerian, Humulus lupulus and Passiflora incarnata may be safe and effective in the treatment of dysmenorrhea.",
+    "entities": [
+      {
+        "text": "Valerian",
+        "label": "product",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Humulus lupulus",
+        "label": "product",
+        "start": 10,
+        "end": 25
+      },
+      {
+        "text": "Passiflora incarnata",
+        "label": "product",
+        "start": 30,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "It was led by and named for Colonel Ahmed ʻUrabi (also spelled Orabi and Arabi) and sought to depose the Khedive Tewfik Pasha and end British and French influence over the country.",
+    "entities": [
+      {
+        "text": "Ahmed ʻUrabi",
+        "label": "person",
+        "start": 36,
+        "end": 48
+      },
+      {
+        "text": "Orabi",
+        "label": "person",
+        "start": 63,
+        "end": 68
+      },
+      {
+        "text": "Arabi",
+        "label": "person",
+        "start": 73,
+        "end": 78
+      },
+      {
+        "text": "Khedive Tewfik Pasha",
+        "label": "location",
+        "start": 105,
+        "end": 125
+      },
+      {
+        "text": "British",
+        "label": "location",
+        "start": 134,
+        "end": 141
+      },
+      {
+        "text": "French",
+        "label": "location",
+        "start": 146,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "text": "In 1930, Pius XI declared the Immaculate Conception under the title of Our Lady of Aparecida as the Queen and Patroness of Brazil.",
+    "entities": [
+      {
+        "text": "Aparecida",
+        "label": "location",
+        "start": 83,
+        "end": 92
+      },
+      {
+        "text": "Brazil",
+        "label": "location",
+        "start": 123,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "In a pre-game ceremony before the 2016 MLB All Star Game in San Diego, the American League batting championship trophy was named the ``Rod Carew American League Batting Championship Award ``.",
+    "entities": [
+      {
+        "text": "San Diego",
+        "label": "location",
+        "start": 60,
+        "end": 69
+      },
+      {
+        "text": "American League",
+        "label": "organization",
+        "start": 75,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "text": "It won the second prize in the Carlos Palanca Award for 1963.",
+    "entities": []
+  },
+  {
+    "text": "The Weisshorn (from German: ``white peak'') is a mountain located in the Pennine Alps.",
+    "entities": [
+      {
+        "text": "Weisshorn",
+        "label": "location",
+        "start": 4,
+        "end": 13
+      },
+      {
+        "text": "Pennine Alps",
+        "label": "location",
+        "start": 73,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "In an interview with WFAA-TV in Dallas, James revealed that he was interested in getting involved in politics as a member of the Republican Party.",
+    "entities": [
+      {
+        "text": "WFAA-TV",
+        "label": "organization",
+        "start": 21,
+        "end": 28
+      },
+      {
+        "text": "Dallas",
+        "label": "location",
+        "start": 32,
+        "end": 38
+      },
+      {
+        "text": "James",
+        "label": "person",
+        "start": 40,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "On 27 November 2017, Jollibee opened a second location in Winnipeg at the Northgate Mall.",
+    "entities": [
+      {
+        "text": "Winnipeg",
+        "label": "location",
+        "start": 58,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "``Unconditional ``a song recorded by American singer-songwriter Ne-Yo for his fifth studio album ``R.E.D. ``",
+    "entities": [
+      {
+        "text": "American",
+        "label": "location",
+        "start": 37,
+        "end": 45
+      },
+      {
+        "text": "Ne-Yo",
+        "label": "person",
+        "start": 64,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "First announced in March 2018, it is the fifth installment of the crossover series ``Warriors Orochi ``, a combination of the ``Dynasty Warriors ``and ``Samurai Warriors ``series.",
+    "entities": [
+      {
+        "text": "Warriors Orochi",
+        "label": "product",
+        "start": 85,
+        "end": 100
+      },
+      {
+        "text": "Dynasty Warriors",
+        "label": "product",
+        "start": 128,
+        "end": 144
+      },
+      {
+        "text": "Samurai Warriors",
+        "label": "product",
+        "start": 153,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "The Hobart Cenotaph was originally designed as a memorial to the Tasmanians who died serving their country in World War I.",
+    "entities": []
+  },
+  {
+    "text": "The United States vs. Billie Holiday is an upcoming American biographical drama film directed by Lee Daniels and based on the book ``Chasing the Scream: The First and Last Days of the War on Drugs ``by Johann Hari.",
+    "entities": [
+      {
+        "text": "The United States vs. Billie Holiday",
+        "label": "art",
+        "start": 0,
+        "end": 36
+      },
+      {
+        "text": "American",
+        "label": "location",
+        "start": 52,
+        "end": 60
+      },
+      {
+        "text": "Lee Daniels",
+        "label": "person",
+        "start": 97,
+        "end": 108
+      },
+      {
+        "text": "Johann Hari",
+        "label": "person",
+        "start": 202,
+        "end": 213
+      }
+    ]
+  },
+  {
+    "text": "Pirotte visited Israel in 1957.",
+    "entities": [
+      {
+        "text": "Pirotte",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Israel",
+        "label": "location",
+        "start": 16,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "Four locomotives of the Milwaukee Road class A were constructed for this service in 1935.",
+    "entities": [
+      {
+        "text": "Milwaukee Road",
+        "label": "organization",
+        "start": 24,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "After the Cowdenbeath loan, Holmes started the following season in the Hearts first team squad.",
+    "entities": [
+      {
+        "text": "Cowdenbeath",
+        "label": "organization",
+        "start": 10,
+        "end": 21
+      },
+      {
+        "text": "Hearts",
+        "label": "organization",
+        "start": 71,
+        "end": 77
+      }
+    ]
+  }
+]

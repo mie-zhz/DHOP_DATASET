@@ -1,0 +1,1475 @@
+[
+  {
+    "text": "1. Katja Seizinger (Germany) 414 points",
+    "entities": [
+      {
+        "text": "Katja Seizinger",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 20,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "8 .Giuseppe Citterio (Italy) Aki",
+    "entities": [
+      {
+        "text": ".Giuseppe Citterio",
+        "label": "PER",
+        "start": 2,
+        "end": 20
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "Aki",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "ESCHEN 1996-08-31",
+    "entities": [
+      {
+        "text": "ESCHEN",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "SOCCER - SCOTTISH PREMIER DIVISION RESULT / STANDINGS.",
+    "entities": []
+  },
+  {
+    "text": "\" Coming just a million guilders under the forecast range isn't overwhelmingly surprising, \" said ING analyst Steven Vrolijk, who is continuing to look for a nine to 10 percent rise in 1996 earnings.",
+    "entities": [
+      {
+        "text": "ING",
+        "label": "ORG",
+        "start": 98,
+        "end": 101
+      },
+      {
+        "text": "Steven Vrolijk",
+        "label": "PER",
+        "start": 110,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "Universitatea Craiova 4 1 1 2 8 6 4",
+    "entities": [
+      {
+        "text": "Universitatea Craiova",
+        "label": "ORG",
+        "start": 0,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "However, it called the conditions \" more severe \" than those imposed by other regulatory authorities on similar airline alliances.",
+    "entities": []
+  },
+  {
+    "text": "MUNICH, Germany 1996-12-06",
+    "entities": [
+      {
+        "text": "MUNICH",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 8,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "BUDAPEST 1996-08-23",
+    "entities": [
+      {
+        "text": "BUDAPEST",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Value to the winning owner: $233,600",
+    "entities": []
+  },
+  {
+    "text": "But the driver's wife kept her nerve, got out her camera and photographed him.",
+    "entities": []
+  },
+  {
+    "text": "NATO's top military men -- General George Joulwan, Supreme Allied Commander Europe, and General John Sheehan, Supreme Allied Commander Atlantic -- will also attend.",
+    "entities": [
+      {
+        "text": "NATO",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "George Joulwan",
+        "label": "PER",
+        "start": 35,
+        "end": 49
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 76,
+        "end": 82
+      },
+      {
+        "text": "John Sheehan",
+        "label": "PER",
+        "start": 96,
+        "end": 108
+      },
+      {
+        "text": "Atlantic",
+        "label": "LOC",
+        "start": 135,
+        "end": 143
+      }
+    ]
+  },
+  {
+    "text": "------------------------------------------------------------",
+    "entities": []
+  },
+  {
+    "text": "Excise Commissioner W.N.F. Chandraratne denies allegations that new guidelines in issue of liquor licences are aimed at forcing large number of liquor licence holders out of business for political reasons.",
+    "entities": [
+      {
+        "text": "W.N.F. Chandraratne",
+        "label": "PER",
+        "start": 20,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "text": "Sparta Rotterdam 2 0 1 1 0 1 1",
+    "entities": [
+      {
+        "text": "Sparta Rotterdam",
+        "label": "ORG",
+        "start": 0,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "Kryvbas Kryvy Rig 1 Karpaty Lviv 2",
+    "entities": [
+      {
+        "text": "Kryvbas Kryvy Rig",
+        "label": "ORG",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "Karpaty Lviv",
+        "label": "ORG",
+        "start": 20,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "U.N. oficials have said Ekeus would hold talks with Iraqi Deputy Prime Minister Tareq Aziz and other officials as part of an agreement Iraq reached with the United Nations in June to hold higher level political talks with Ekeus.",
+    "entities": [
+      {
+        "text": "U.N.",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Ekeus",
+        "label": "PER",
+        "start": 24,
+        "end": 29
+      },
+      {
+        "text": "Tareq Aziz",
+        "label": "PER",
+        "start": 80,
+        "end": 90
+      },
+      {
+        "text": "Iraq",
+        "label": "LOC",
+        "start": 135,
+        "end": 139
+      },
+      {
+        "text": "United Nations",
+        "label": "ORG",
+        "start": 157,
+        "end": 171
+      },
+      {
+        "text": "Ekeus",
+        "label": "PER",
+        "start": 222,
+        "end": 227
+      }
+    ]
+  },
+  {
+    "text": "Lincoln 3 0 2 1 3 4 2",
+    "entities": [
+      {
+        "text": "Lincoln",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Jul 97 74.45 74.01 69.95 71.39-76.12",
+    "entities": []
+  },
+  {
+    "text": "The number of plastic surgeries in Brazil has jumped 30 percent to an estimated 150,000 this year since an anti-inflation plan was introduced in July 1994, Farid Hakme, the president of the Brazilian Plastic Surgery Society (SBCP), said.",
+    "entities": [
+      {
+        "text": "Brazil",
+        "label": "LOC",
+        "start": 35,
+        "end": 41
+      },
+      {
+        "text": "Farid Hakme",
+        "label": "PER",
+        "start": 156,
+        "end": 167
+      },
+      {
+        "text": "Brazilian Plastic Surgery Society",
+        "label": "ORG",
+        "start": 190,
+        "end": 223
+      },
+      {
+        "text": "SBCP",
+        "label": "ORG",
+        "start": 225,
+        "end": 229
+      }
+    ]
+  },
+  {
+    "text": "England - Mike Atherton (captain), Nick Knight, Alec Stewart, Graham Thorpe, Matthew Maynard, Graham Lloyd, Ronnie Irani, Robert Croft, Darren Gough, Dean Headley, Alan Mullally.",
+    "entities": [
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Mike Atherton",
+        "label": "PER",
+        "start": 10,
+        "end": 23
+      },
+      {
+        "text": "Nick Knight",
+        "label": "PER",
+        "start": 35,
+        "end": 46
+      },
+      {
+        "text": "Alec Stewart",
+        "label": "PER",
+        "start": 48,
+        "end": 60
+      },
+      {
+        "text": "Graham Thorpe",
+        "label": "PER",
+        "start": 62,
+        "end": 75
+      },
+      {
+        "text": "Matthew Maynard",
+        "label": "PER",
+        "start": 77,
+        "end": 92
+      },
+      {
+        "text": "Graham Lloyd",
+        "label": "PER",
+        "start": 94,
+        "end": 106
+      },
+      {
+        "text": "Ronnie Irani",
+        "label": "PER",
+        "start": 108,
+        "end": 120
+      },
+      {
+        "text": "Robert Croft",
+        "label": "PER",
+        "start": 122,
+        "end": 134
+      },
+      {
+        "text": "Darren Gough",
+        "label": "PER",
+        "start": 136,
+        "end": 148
+      },
+      {
+        "text": "Dean Headley",
+        "label": "PER",
+        "start": 150,
+        "end": 162
+      },
+      {
+        "text": "Alan Mullally",
+        "label": "PER",
+        "start": 164,
+        "end": 177
+      }
+    ]
+  },
+  {
+    "text": "NOTE - Full name of the state-owned German railway company is Deutsche Bahn AG.",
+    "entities": [
+      {
+        "text": "Deutsche Bahn AG",
+        "label": "ORG",
+        "start": 62,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "With more room to the downside anticipated early next week, traders said support in January was at $3.47, then $3.35.",
+    "entities": []
+  },
+  {
+    "text": "Berlin, Brussels and Zurich all belong to the most lucrative series in the sport, the Golden Four.",
+    "entities": [
+      {
+        "text": "Berlin",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Brussels",
+        "label": "LOC",
+        "start": 8,
+        "end": 16
+      },
+      {
+        "text": "Zurich",
+        "label": "LOC",
+        "start": 21,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "Results of Italian Cup second round",
+    "entities": []
+  },
+  {
+    "text": "Albright will meet Foreign Minister Jose Miguel Insulza Monday for talks on issues currently up for debate on the council, of which Chile is a non-permanent member, a U.S. embassy statement said.",
+    "entities": [
+      {
+        "text": "Albright",
+        "label": "PER",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Jose Miguel Insulza",
+        "label": "PER",
+        "start": 36,
+        "end": 55
+      },
+      {
+        "text": "Chile",
+        "label": "LOC",
+        "start": 132,
+        "end": 137
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 167,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "Dalian port officials, contacted by telephone, confirmed the collision but gave no further details.",
+    "entities": [
+      {
+        "text": "Dalian",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "INDICATORS - Hungary - updated Aug 22.",
+    "entities": [
+      {
+        "text": "Hungary",
+        "label": "LOC",
+        "start": 13,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Olympiakos of Greece beat Russia's Dinamo 69-60 (halftime 35-23) in the third match of an international basketball tournament on Thursday, qualifying for the finals.",
+    "entities": [
+      {
+        "text": "Olympiakos",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Greece",
+        "label": "LOC",
+        "start": 14,
+        "end": 20
+      },
+      {
+        "text": "Russia",
+        "label": "LOC",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "text": "Dinamo",
+        "label": "ORG",
+        "start": 35,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "text": "Iraq's deputy ambassador, Saeed Hasan, noted that the May 20 accord said that the number of personnel would be determined by the United Nations and that the government of Iraq would be consulted.",
+    "entities": [
+      {
+        "text": "Iraq",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Saeed Hasan",
+        "label": "PER",
+        "start": 26,
+        "end": 37
+      },
+      {
+        "text": "United Nations",
+        "label": "ORG",
+        "start": 129,
+        "end": 143
+      },
+      {
+        "text": "Iraq",
+        "label": "LOC",
+        "start": 171,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "Philip Maslowe, chief financial officer of the preschool and child care company, said the buyback \" offered an opportunity to reduce the company's weighted average interest costs and improve future cash flows and earnings. \"",
+    "entities": [
+      {
+        "text": "Philip Maslowe",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "\" It was Greenspan at first.",
+    "entities": [
+      {
+        "text": "Greenspan",
+        "label": "PER",
+        "start": 9,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "HONG KONG 1996-08-23",
+    "entities": [
+      {
+        "text": "HONG KONG",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "The conditions for clearance of the alliance were that British Airways and American drop 168 slots at London Heathrow airport, the busiest in Europe.",
+    "entities": [
+      {
+        "text": "British Airways",
+        "label": "ORG",
+        "start": 55,
+        "end": 70
+      },
+      {
+        "text": "American",
+        "label": "ORG",
+        "start": 75,
+        "end": 83
+      },
+      {
+        "text": "London Heathrow",
+        "label": "LOC",
+        "start": 102,
+        "end": 117
+      },
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 142,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "text": "NEW YORK 1996-08-26",
+    "entities": [
+      {
+        "text": "NEW YORK",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "State security officials were not immediately available for comment.",
+    "entities": []
+  },
+  {
+    "text": "Grimsby 22 5 6 11 24 41 21",
+    "entities": [
+      {
+        "text": "Grimsby",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Results at the world track cycling championships on Thursday:",
+    "entities": []
+  },
+  {
+    "text": "It is a very true film. \"",
+    "entities": []
+  },
+  {
+    "text": "Standings:",
+    "entities": []
+  },
+  {
+    "text": "It started operations in January 1985 and has registered capital of 1.56 billion baht, it said but gave no further details.",
+    "entities": []
+  },
+  {
+    "text": "He denied that his contacts, criticised by Kinshasa, with the Zairean rebels amounted to negotiations.",
+    "entities": [
+      {
+        "text": "Kinshasa",
+        "label": "LOC",
+        "start": 43,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "Men's singles, first round",
+    "entities": []
+  },
+  {
+    "text": "MOSCOW 1996-08-26",
+    "entities": [
+      {
+        "text": "MOSCOW",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Montreal 3 SAN FRANCISCO 0",
+    "entities": [
+      {
+        "text": "Montreal",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "SAN FRANCISCO",
+        "label": "ORG",
+        "start": 11,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "May 13 Arrive in London",
+    "entities": [
+      {
+        "text": "London",
+        "label": "LOC",
+        "start": 17,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "Their families are not told, \" she said.",
+    "entities": []
+  },
+  {
+    "text": "12/15/2009 1,240M 5.05 5.05",
+    "entities": []
+  },
+  {
+    "text": "Choudhury also was president of the 41st session of the U.N. General Assembly in 1986-87.",
+    "entities": [
+      {
+        "text": "Choudhury",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "U.N. General Assembly",
+        "label": "ORG",
+        "start": 56,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "Magnificent, ' ' said Fitzpatrick, New Zealand's most capped player and the world's most capped forward.",
+    "entities": [
+      {
+        "text": "Fitzpatrick",
+        "label": "PER",
+        "start": 22,
+        "end": 33
+      },
+      {
+        "text": "New Zealand",
+        "label": "LOC",
+        "start": 35,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "MADRID 1996-08-31",
+    "entities": [
+      {
+        "text": "MADRID",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "SK Slavia Praha 3 1 2 0 6 3 5",
+    "entities": [
+      {
+        "text": "SK Slavia Praha",
+        "label": "ORG",
+        "start": 0,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "8. Giuseppe Citterio (Italy) Aki",
+    "entities": [
+      {
+        "text": "Giuseppe Citterio",
+        "label": "PER",
+        "start": 3,
+        "end": 20
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "Aki",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "The cause of the crash of the helicopter, which went down on Sunday while on a routine resupply flight between Phnom Penh and Stung Treng, was not known.",
+    "entities": [
+      {
+        "text": "Phnom Penh",
+        "label": "LOC",
+        "start": 111,
+        "end": 121
+      },
+      {
+        "text": "Stung Treng",
+        "label": "LOC",
+        "start": 126,
+        "end": 137
+      }
+    ]
+  },
+  {
+    "text": "A.G. Edwards & Sons, Inc.",
+    "entities": [
+      {
+        "text": "A.G. Edwards & Sons, Inc",
+        "label": "ORG",
+        "start": 0,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "4. Pauline Davis (Bahamas) 50.14",
+    "entities": [
+      {
+        "text": "Pauline Davis",
+        "label": "PER",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "Bahamas",
+        "label": "LOC",
+        "start": 18,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "CHICAGO 3 Atlanta 2 (1st game)",
+    "entities": [
+      {
+        "text": "CHICAGO",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Atlanta",
+        "label": "ORG",
+        "start": 10,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "- USDA",
+    "entities": [
+      {
+        "text": "USDA",
+        "label": "ORG",
+        "start": 2,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "The tourists will play nine first-class matches against",
+    "entities": []
+  },
+  {
+    "text": "Hong Kong nabs blind 10-year-old illegal immigrant.",
+    "entities": [
+      {
+        "text": "Hong Kong",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Derek Ryan (Ireland) beat 5 - Simon Parke (England) 15-11 15-11",
+    "entities": [
+      {
+        "text": "Derek Ryan",
+        "label": "PER",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Ireland",
+        "label": "LOC",
+        "start": 12,
+        "end": 19
+      },
+      {
+        "text": "Simon Parke",
+        "label": "PER",
+        "start": 30,
+        "end": 41
+      },
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 43,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "9. Alexandre Barros (Brazil) Honda 1:51.784",
+    "entities": [
+      {
+        "text": "Alexandre Barros",
+        "label": "PER",
+        "start": 3,
+        "end": 19
+      },
+      {
+        "text": "Brazil",
+        "label": "LOC",
+        "start": 21,
+        "end": 27
+      },
+      {
+        "text": "Honda",
+        "label": "ORG",
+        "start": 29,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "Sydney Bulldogs 21 10 0 11 325 356 20",
+    "entities": [
+      {
+        "text": "Sydney Bulldogs",
+        "label": "ORG",
+        "start": 0,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "SUGO, Japan 1996-08-25",
+    "entities": [
+      {
+        "text": "SUGO",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 6,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "15. Katharina Gutensohn (Germany) 1:18.92",
+    "entities": [
+      {
+        "text": "Katharina Gutensohn",
+        "label": "PER",
+        "start": 4,
+        "end": 23
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 25,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "Le Havre 1 Caen 1",
+    "entities": [
+      {
+        "text": "Le Havre",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Caen",
+        "label": "ORG",
+        "start": 11,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "Samsung 48 5 55 .468 14",
+    "entities": [
+      {
+        "text": "Samsung",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Pettite (19-7) allowed two runs and eight hits over eight innings with a walk and seven strikeouts.",
+    "entities": [
+      {
+        "text": "Pettite",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Turnover on BSM, which trades only SOLIDERE shares, was 8,049 shares from Thursday's 8,757 and value was $850,968 from $918,288.",
+    "entities": [
+      {
+        "text": "BSM",
+        "label": "ORG",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "SOLIDERE",
+        "label": "ORG",
+        "start": 35,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "5. Olga Slioussareva (Russia) 36.170",
+    "entities": [
+      {
+        "text": "Olga Slioussareva",
+        "label": "PER",
+        "start": 3,
+        "end": 20
+      },
+      {
+        "text": "Russia",
+        "label": "LOC",
+        "start": 22,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "Lucchese 1 Vicenza 2",
+    "entities": [
+      {
+        "text": "Lucchese",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Vicenza",
+        "label": "ORG",
+        "start": 11,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "HK has infrastructure in place for post-97 - Tsang.",
+    "entities": [
+      {
+        "text": "HK",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "Tsang",
+        "label": "PER",
+        "start": 45,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "At the end of a January 1967 concert in the English city of Nottingham he threw the sheet of paper into the audience, where it was retrieved by a fan.",
+    "entities": [
+      {
+        "text": "Nottingham",
+        "label": "LOC",
+        "start": 60,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "text": "Motherwell 3 1 2 0 6 3 5",
+    "entities": [
+      {
+        "text": "Motherwell",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "But General Baril said it would be premature to rule out any course of action until he had more information.",
+    "entities": [
+      {
+        "text": "Baril",
+        "label": "PER",
+        "start": 12,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "BOSTON 64 65 .496 10",
+    "entities": [
+      {
+        "text": "BOSTON",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "PARIS 1996-08-24",
+    "entities": [
+      {
+        "text": "PARIS",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "5. Giunluca Gorini (Italy) Aki 45",
+    "entities": [
+      {
+        "text": "Giunluca Gorini",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 20,
+        "end": 25
+      },
+      {
+        "text": "Aki",
+        "label": "ORG",
+        "start": 27,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "Sri Lanka - Arjuna Ranatunga (captain), Sanath Jayasuriya, Romesh Kaluwitharana, Asanka Gurusinha, Aravinda de Silva, Hashan Tillekeratne, Roshan Mahanama, Kumara Dharmasena, Chaminda Vaas, Muthiah Muralitharan, Ravindra Pushpakumara.",
+    "entities": [
+      {
+        "text": "Sri Lanka",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Arjuna Ranatunga",
+        "label": "PER",
+        "start": 12,
+        "end": 28
+      },
+      {
+        "text": "Sanath Jayasuriya",
+        "label": "PER",
+        "start": 40,
+        "end": 57
+      },
+      {
+        "text": "Romesh Kaluwitharana",
+        "label": "PER",
+        "start": 59,
+        "end": 79
+      },
+      {
+        "text": "Asanka Gurusinha",
+        "label": "PER",
+        "start": 81,
+        "end": 97
+      },
+      {
+        "text": "Aravinda de Silva",
+        "label": "PER",
+        "start": 99,
+        "end": 116
+      },
+      {
+        "text": "Hashan Tillekeratne",
+        "label": "PER",
+        "start": 118,
+        "end": 137
+      },
+      {
+        "text": "Roshan Mahanama",
+        "label": "PER",
+        "start": 139,
+        "end": 154
+      },
+      {
+        "text": "Kumara Dharmasena",
+        "label": "PER",
+        "start": 156,
+        "end": 173
+      },
+      {
+        "text": "Chaminda Vaas",
+        "label": "PER",
+        "start": 175,
+        "end": 188
+      },
+      {
+        "text": "Muthiah Muralitharan",
+        "label": "PER",
+        "start": 190,
+        "end": 210
+      },
+      {
+        "text": "Ravindra Pushpakumara",
+        "label": "PER",
+        "start": 212,
+        "end": 233
+      }
+    ]
+  },
+  {
+    "text": "CRICKET - INDIA V SRI LANKA SCOREBOARD.",
+    "entities": [
+      {
+        "text": "INDIA",
+        "label": "LOC",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "SRI LANKA",
+        "label": "LOC",
+        "start": 18,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "CHICAGO AT HOUSTON",
+    "entities": [
+      {
+        "text": "CHICAGO",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "HOUSTON",
+        "label": "LOC",
+        "start": 11,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "Bread and flour prices have been raised with immediate effect but government will provide relief to underpriviledged sections of society.",
+    "entities": []
+  },
+  {
+    "text": "There were no clashes.",
+    "entities": []
+  },
+  {
+    "text": "A boisterous cheering section backed the distracted Chilean and booed the lanky American, who ate up all the attention.",
+    "entities": []
+  },
+  {
+    "text": "The study involved 115 people with high blood cholesterol levels.",
+    "entities": []
+  },
+  {
+    "text": "2021 5.45 5.40 5.60 5.55 5.90 5.85 6.20 6.15",
+    "entities": []
+  },
+  {
+    "text": "Benetton (Italy) 92 Dinamo (Russia) 81 (halftime 50-28)",
+    "entities": [
+      {
+        "text": "Benetton",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "Dinamo",
+        "label": "ORG",
+        "start": 20,
+        "end": 26
+      },
+      {
+        "text": "Russia",
+        "label": "LOC",
+        "start": 28,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "Chechnya must be accorded the maximum autonomy possible within the framework of Russian integrity, \" said Cotti.",
+    "entities": [
+      {
+        "text": "Chechnya",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Cotti",
+        "label": "PER",
+        "start": 106,
+        "end": 111
+      }
+    ]
+  },
+  {
+    "text": "Western powers regard diplomatic normalisation between Croatia and Serbia, twin pillars of the old multinational federal Yugoslavia, as a crucial step towards a lasting peace in the Balkans.",
+    "entities": [
+      {
+        "text": "Croatia",
+        "label": "LOC",
+        "start": 55,
+        "end": 62
+      },
+      {
+        "text": "Serbia",
+        "label": "LOC",
+        "start": 67,
+        "end": 73
+      },
+      {
+        "text": "Yugoslavia",
+        "label": "LOC",
+        "start": 121,
+        "end": 131
+      },
+      {
+        "text": "Balkans",
+        "label": "LOC",
+        "start": 182,
+        "end": 189
+      }
+    ]
+  },
+  {
+    "text": "Honda Motor Co Ltd said on Friday that it had received 15,000 domestic orders for its S-MX recreational vehicle in the first two weeks after its launch.",
+    "entities": [
+      {
+        "text": "Honda Motor Co Ltd",
+        "label": "ORG",
+        "start": 0,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "Eighth seed Jim Courier withdrew because of a bruised right knee, and 1988 Open champion Mats Wilander bowed out due to a groin pull, organisers said.",
+    "entities": [
+      {
+        "text": "Jim Courier",
+        "label": "PER",
+        "start": 12,
+        "end": 23
+      },
+      {
+        "text": "Mats Wilander",
+        "label": "PER",
+        "start": 89,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "The Russians, working for the Aerostan firm in the Russian republic of Tatarstan, were taken hostage after a Taleban MiG-19 fighter forced their cargo plane to land in August 1995.",
+    "entities": [
+      {
+        "text": "Aerostan",
+        "label": "ORG",
+        "start": 30,
+        "end": 38
+      },
+      {
+        "text": "Tatarstan",
+        "label": "LOC",
+        "start": 71,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "21. Shannon Nobis (U.S.) 1:19.08",
+    "entities": [
+      {
+        "text": "Shannon Nobis",
+        "label": "PER",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "A British photographer branded a stalker by Princess Diana has been forced to postpone a legal challenge to a ban on approaching her because he's been jailed for criminal damage, his lawyer said on Friday.",
+    "entities": [
+      {
+        "text": "Diana",
+        "label": "PER",
+        "start": 53,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "Kankkunen has set an astonishing pace for a driver who has not rallied for three months.",
+    "entities": [
+      {
+        "text": "Kankkunen",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "New York 6 CALIFORNIA 2",
+    "entities": [
+      {
+        "text": "New York",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "CALIFORNIA",
+        "label": "ORG",
+        "start": 11,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "Woman charged over N. Ireland arms find.",
+    "entities": [
+      {
+        "text": "N. Ireland",
+        "label": "LOC",
+        "start": 19,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "The value of exports fell one percent year-on-year in April and the value of imports fell two percent, NCB said.",
+    "entities": [
+      {
+        "text": "NCB",
+        "label": "ORG",
+        "start": 103,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "NEW JERSEY 4 10 .286 7 1/2",
+    "entities": [
+      {
+        "text": "NEW JERSEY",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "Polish ex-communist president to visit Pope.",
+    "entities": []
+  }
+]

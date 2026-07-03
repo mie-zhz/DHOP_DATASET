@@ -1,0 +1,2398 @@
+[
+  {
+    "text": "At Oxford he met Robert Graves, also an Old Carthusian, and they co-edited a poetry publication, Oxford Poetry, in 1921.",
+    "entities": [
+      {
+        "text": "Robert Graves",
+        "label": "writer",
+        "start": 17,
+        "end": 30
+      },
+      {
+        "text": "poetry",
+        "label": "literarygenre",
+        "start": 77,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "text": "See also The Snow Man and Gubbinal for related experiments in perspective.",
+    "entities": []
+  },
+  {
+    "text": ") Huxley received screen credit for Pride and Prejudice (1940) and was paid for his work on a number of other films, including Jane Eyre (1944).",
+    "entities": [
+      {
+        "text": "Huxley",
+        "label": "writer",
+        "start": 2,
+        "end": 8
+      },
+      {
+        "text": "Pride and Prejudice",
+        "label": "book",
+        "start": 36,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "text": "In the Swahili and Indonesian culture, many of his stories are being told under the name of Abunuwasi or Abunawas, though this confuses Nasreddin with an entirely different man - the poet Abu Nuwas, known for homoerotic verse.",
+    "entities": [
+      {
+        "text": "Abunuwasi",
+        "label": "person",
+        "start": 92,
+        "end": 101
+      },
+      {
+        "text": "Abunawas",
+        "label": "person",
+        "start": 105,
+        "end": 113
+      },
+      {
+        "text": "Nasreddin",
+        "label": "person",
+        "start": 136,
+        "end": 145
+      },
+      {
+        "text": "Abu Nuwas",
+        "label": "writer",
+        "start": 188,
+        "end": 197
+      },
+      {
+        "text": "homoerotic verse",
+        "label": "literarygenre",
+        "start": 209,
+        "end": 225
+      }
+    ]
+  },
+  {
+    "text": "It tied with Roger Zelazny ' s This Immortal for the Hugo Award in 1966,",
+    "entities": [
+      {
+        "text": "Roger Zelazny",
+        "label": "writer",
+        "start": 13,
+        "end": 26
+      },
+      {
+        "text": "This Immortal",
+        "label": "book",
+        "start": 31,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "Meanwhile, Housman pursued his classical studies independently, and published scholarly articles on Horace, Propertius, Ovid, Aeschylus, Euripides and Sophocles .ref Name = Poets / He also completed an edition of Propertius, which however was rejected by both Oxford University Press and Macmillan in 1885, and was destroyed after his death.",
+    "entities": [
+      {
+        "text": "Housman",
+        "label": "writer",
+        "start": 11,
+        "end": 18
+      },
+      {
+        "text": "Horace",
+        "label": "writer",
+        "start": 100,
+        "end": 106
+      },
+      {
+        "text": "Propertius",
+        "label": "writer",
+        "start": 108,
+        "end": 118
+      },
+      {
+        "text": "Ovid",
+        "label": "writer",
+        "start": 120,
+        "end": 124
+      },
+      {
+        "text": "Aeschylus",
+        "label": "writer",
+        "start": 126,
+        "end": 135
+      },
+      {
+        "text": "Euripides",
+        "label": "writer",
+        "start": 137,
+        "end": 146
+      },
+      {
+        "text": "Sophocles",
+        "label": "writer",
+        "start": 151,
+        "end": 160
+      },
+      {
+        "text": "Propertius",
+        "label": "writer",
+        "start": 213,
+        "end": 223
+      }
+    ]
+  },
+  {
+    "text": "In 1926, Hugo Gernsback published the first United States science-fiction magazine, Amazing Stories.",
+    "entities": [
+      {
+        "text": "Hugo Gernsback",
+        "label": "writer",
+        "start": 9,
+        "end": 23
+      },
+      {
+        "text": "science-fiction",
+        "label": "literarygenre",
+        "start": 58,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "In an April 2015 interview with Billboard, Lavigne announced a new single titled Fly, which was released on April 26 in association with the 2015 Special Olympics World Summer Games.",
+    "entities": [
+      {
+        "text": "Lavigne",
+        "label": "person",
+        "start": 43,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "He soon produced acclaimed translations of Sándor Petőfi, Johann Wolfgang von Goethe, Rainer Maria Rilke, Paul Verlaine, Taras Shevchenko, and Nikoloz Baratashvili.",
+    "entities": [
+      {
+        "text": "Sándor Petőfi",
+        "label": "writer",
+        "start": 43,
+        "end": 56
+      },
+      {
+        "text": "Johann Wolfgang von Goethe",
+        "label": "writer",
+        "start": 58,
+        "end": 84
+      },
+      {
+        "text": "Rainer Maria Rilke",
+        "label": "writer",
+        "start": 86,
+        "end": 104
+      },
+      {
+        "text": "Paul Verlaine",
+        "label": "writer",
+        "start": 106,
+        "end": 119
+      },
+      {
+        "text": "Taras Shevchenko",
+        "label": "writer",
+        "start": 121,
+        "end": 137
+      },
+      {
+        "text": "Nikoloz Baratashvili",
+        "label": "writer",
+        "start": 143,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "However, in the parallel poem The Greene Knight, the lace is white, not green, and is considered the origin of the collar worn by the knights of the Bath, not the Order of the Garter.",
+    "entities": [
+      {
+        "text": "parallel poem",
+        "label": "literarygenre",
+        "start": 16,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "United States poets such as John Ashbery, Marilyn Hacker, Donald Justice (Pantoum of the Great Depression), and David Trinidad have done work in this form, as has Irish poet Caitriona O 'Reilly.",
+    "entities": [
+      {
+        "text": "John Ashbery",
+        "label": "writer",
+        "start": 28,
+        "end": 40
+      },
+      {
+        "text": "Marilyn Hacker",
+        "label": "writer",
+        "start": 42,
+        "end": 56
+      },
+      {
+        "text": "Donald Justice",
+        "label": "writer",
+        "start": 58,
+        "end": 72
+      },
+      {
+        "text": "Pantoum of the Great Depression",
+        "label": "book",
+        "start": 74,
+        "end": 105
+      },
+      {
+        "text": "David Trinidad",
+        "label": "writer",
+        "start": 112,
+        "end": 126
+      },
+      {
+        "text": "Caitriona O 'Reilly",
+        "label": "writer",
+        "start": 174,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Before writing Dracula, Stoker met Ármin Vámbéry, a Hungarian-Jewish writer and traveller (born in Szent-György, Kingdom of Hungary now Svätý Jur, Slovakia).",
+    "entities": [
+      {
+        "text": "Dracula",
+        "label": "book",
+        "start": 15,
+        "end": 22
+      },
+      {
+        "text": "Stoker",
+        "label": "writer",
+        "start": 24,
+        "end": 30
+      },
+      {
+        "text": "Ármin Vámbéry",
+        "label": "writer",
+        "start": 35,
+        "end": 48
+      },
+      {
+        "text": "Szent-György",
+        "label": "location",
+        "start": 99,
+        "end": 111
+      },
+      {
+        "text": "Svätý Jur",
+        "label": "location",
+        "start": 136,
+        "end": 145
+      }
+    ]
+  },
+  {
+    "text": "The list has also no films or directors from Tarkovsky's native Russia, although he rated Soviet directors such as Boris Barnet, Sergei Parajanov and Alexander Dovzhenko highly.",
+    "entities": [
+      {
+        "text": "Tarkovsky",
+        "label": "writer",
+        "start": 45,
+        "end": 54
+      },
+      {
+        "text": "Boris Barnet",
+        "label": "person",
+        "start": 115,
+        "end": 127
+      },
+      {
+        "text": "Sergei Parajanov",
+        "label": "person",
+        "start": 129,
+        "end": 145
+      },
+      {
+        "text": "Alexander Dovzhenko",
+        "label": "person",
+        "start": 150,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "It is partially a science-fictional pastiche of Moby-Dick by Herman Melville.",
+    "entities": [
+      {
+        "text": "science-fictional",
+        "label": "literarygenre",
+        "start": 18,
+        "end": 35
+      },
+      {
+        "text": "Moby-Dick",
+        "label": "book",
+        "start": 48,
+        "end": 57
+      },
+      {
+        "text": "Herman Melville",
+        "label": "writer",
+        "start": 61,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "text": "Philip Lamantia introduced him to other Surrealists and Surrealism continued to be an influence (for example, sections of Kaddish were inspired by André Breton ' s Free Union).",
+    "entities": [
+      {
+        "text": "Philip Lamantia",
+        "label": "writer",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "André Breton",
+        "label": "writer",
+        "start": 147,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "Ireland's 1990 FIFA World Cup Group F opponents in Italy ' 90 were England, Egypt and the Netherlands.",
+    "entities": []
+  },
+  {
+    "text": "She portrayed Nora in Henrik Ibsen ' s A Doll's House at the Donmar Warehouse in London's West End during a limited engagement which ran from May 14, 2009, until July 18, 2009.",
+    "entities": [
+      {
+        "text": "Nora",
+        "label": "person",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "Henrik Ibsen",
+        "label": "writer",
+        "start": 22,
+        "end": 34
+      },
+      {
+        "text": "A Doll's House",
+        "label": "book",
+        "start": 39,
+        "end": 53
+      },
+      {
+        "text": "Donmar Warehouse",
+        "label": "location",
+        "start": 61,
+        "end": 77
+      },
+      {
+        "text": "London's West End",
+        "label": "location",
+        "start": 81,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "text": "In 1351, during the reign of Emperor Toghon Temür of the Yuan dynasty, 93rd-generation descendant Kong Huan (孔浣) ' s 2nd son Kong Shao (孔昭) moved from China to Korea during the Goryeo, and was received courteously by Princess Noguk (the Mongolian-born wife of the future king Gongmin).",
+    "entities": [
+      {
+        "text": "Emperor Toghon Temür",
+        "label": "person",
+        "start": 29,
+        "end": 49
+      },
+      {
+        "text": "Kong Huan",
+        "label": "writer",
+        "start": 98,
+        "end": 107
+      },
+      {
+        "text": "孔浣",
+        "label": "writer",
+        "start": 109,
+        "end": 111
+      },
+      {
+        "text": "Kong Shao",
+        "label": "writer",
+        "start": 125,
+        "end": 134
+      },
+      {
+        "text": "孔昭",
+        "label": "writer",
+        "start": 136,
+        "end": 138
+      },
+      {
+        "text": "Princess Noguk",
+        "label": "person",
+        "start": 217,
+        "end": 231
+      },
+      {
+        "text": "Gongmin",
+        "label": "person",
+        "start": 276,
+        "end": 283
+      }
+    ]
+  },
+  {
+    "text": "Wilder earned the Academy Award for Best Director and Academy Award for Best Adapted Screenplay Academy Awards for the adaptation of a Charles R. Jackson story, The Lost Weekend (1945), about alcoholism.",
+    "entities": [
+      {
+        "text": "Wilder",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Charles R. Jackson",
+        "label": "writer",
+        "start": 135,
+        "end": 153
+      },
+      {
+        "text": "The Lost Weekend",
+        "label": "book",
+        "start": 161,
+        "end": 177
+      }
+    ]
+  },
+  {
+    "text": "During this part of his career, he was often seen as a rival to the The New Yorker ' s Pauline Kael, who had originally attacked the auteur theory in her essay Circles and Squares.",
+    "entities": [
+      {
+        "text": "Pauline Kael",
+        "label": "writer",
+        "start": 87,
+        "end": 99
+      },
+      {
+        "text": "Circles and Squares",
+        "label": "book",
+        "start": 160,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "text": "He served as President of the Academy of Motion Picture Arts and Sciences, worked alongside the Writers Guild of America, and was head of the Directors Guild of America.",
+    "entities": []
+  },
+  {
+    "text": "Parodies of courtly poetry also exist, among them Der Weinschwelg.",
+    "entities": [
+      {
+        "text": "courtly poetry",
+        "label": "literarygenre",
+        "start": 12,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "In Far from the Madding Crowd, Hardy first introduced the idea of calling the region in the west of England, where his novels are set, Wessex.",
+    "entities": [
+      {
+        "text": "Far from the Madding Crowd",
+        "label": "book",
+        "start": 3,
+        "end": 29
+      },
+      {
+        "text": "Hardy",
+        "label": "writer",
+        "start": 31,
+        "end": 36
+      },
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 119,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "Cuban-American writer Daína Chaviano paid homage to Anaïs Nin and Henry Miller in her novel Gata encerrada (2001), where both characters are portraited as disembodied spirits whose previous lives they shared with Melisa, the main character - and presumably Chaviano's alter ego --, a young Cuban obsessed with Anaïs Nin.",
+    "entities": [
+      {
+        "text": "Daína Chaviano",
+        "label": "writer",
+        "start": 22,
+        "end": 36
+      },
+      {
+        "text": "Anaïs Nin",
+        "label": "writer",
+        "start": 52,
+        "end": 61
+      },
+      {
+        "text": "Henry Miller",
+        "label": "writer",
+        "start": 66,
+        "end": 78
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 86,
+        "end": 91
+      },
+      {
+        "text": "Gata encerrada",
+        "label": "book",
+        "start": 92,
+        "end": 106
+      },
+      {
+        "text": "Melisa",
+        "label": "person",
+        "start": 213,
+        "end": 219
+      },
+      {
+        "text": "Chaviano",
+        "label": "person",
+        "start": 257,
+        "end": 265
+      },
+      {
+        "text": "Anaïs Nin",
+        "label": "writer",
+        "start": 310,
+        "end": 319
+      }
+    ]
+  },
+  {
+    "text": "Prahlādacharita a Sanskrit work written by Rama Varma Parikshith Thampuran, former Maharaja of Cochin is in Champu style.",
+    "entities": [
+      {
+        "text": "Rama Varma Parikshith Thampuran",
+        "label": "writer",
+        "start": 43,
+        "end": 74
+      },
+      {
+        "text": "Champu style",
+        "label": "literarygenre",
+        "start": 108,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "91 A subsequent journey through the British East Africa colonies and the Belgian Congo formed the basis of two books; the travelogue Remote People (1931) and the comic novel Black Mischief (1932). Sykes, p.",
+    "entities": [
+      {
+        "text": "British East Africa colonies",
+        "label": "location",
+        "start": 36,
+        "end": 64
+      },
+      {
+        "text": "Remote People",
+        "label": "book",
+        "start": 133,
+        "end": 146
+      },
+      {
+        "text": "comic novel",
+        "label": "literarygenre",
+        "start": 162,
+        "end": 173
+      },
+      {
+        "text": "Black Mischief",
+        "label": "book",
+        "start": 174,
+        "end": 188
+      },
+      {
+        "text": "Sykes",
+        "label": "writer",
+        "start": 197,
+        "end": 202
+      }
+    ]
+  },
+  {
+    "text": "The film was presented at the Cannes Film Festival, won the Grand Prix Spécial du Jury and the FIPRESCI prize, and was nominated for the Palme d 'Or.",
+    "entities": []
+  },
+  {
+    "text": "In 1990, he published the last Rabbit novel, Rabbit at Rest, which won the Pulitzer Prize and the National Book Critics Circle Award.",
+    "entities": [
+      {
+        "text": "Rabbit at Rest",
+        "label": "book",
+        "start": 45,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "text": "In 1930, Milne adapted Kenneth Grahame ' s novel The Wind in the Willows for the stage as Toad of Toad Hall.",
+    "entities": [
+      {
+        "text": "Milne",
+        "label": "writer",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "text": "Kenneth Grahame",
+        "label": "writer",
+        "start": 23,
+        "end": 38
+      },
+      {
+        "text": "The Wind in the Willows",
+        "label": "book",
+        "start": 49,
+        "end": 72
+      },
+      {
+        "text": "Toad of Toad Hall",
+        "label": "book",
+        "start": 90,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "The dramatist, author and philosopher Voltaire created, with the support of the Académie française, a twelve-volume annotated set of Corneille's dramatic works, the Commentaires sur Corneille.",
+    "entities": [
+      {
+        "text": "Voltaire",
+        "label": "writer",
+        "start": 38,
+        "end": 46
+      },
+      {
+        "text": "Corneille",
+        "label": "writer",
+        "start": 133,
+        "end": 142
+      },
+      {
+        "text": "Commentaires sur Corneille",
+        "label": "book",
+        "start": 165,
+        "end": 191
+      }
+    ]
+  },
+  {
+    "text": "The Color Purple is a 1982 epistolary novel by American author Alice Walker which won the 1983 Pulitzer Prize for Fiction and the National Book Award for Fiction.",
+    "entities": [
+      {
+        "text": "The Color Purple",
+        "label": "book",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "epistolary novel",
+        "label": "literarygenre",
+        "start": 27,
+        "end": 43
+      },
+      {
+        "text": "Alice Walker",
+        "label": "writer",
+        "start": 63,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "Ansgar received the mission of evangelizing pagan Denmark, Norway and Sweden.",
+    "entities": [
+      {
+        "text": "Ansgar",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "But in 1950, he starred as the teenager Bigger Thomas (Wright was 42) in an Argentina film version of Native Son.",
+    "entities": [
+      {
+        "text": "Bigger Thomas",
+        "label": "person",
+        "start": 40,
+        "end": 53
+      },
+      {
+        "text": "Wright",
+        "label": "person",
+        "start": 55,
+        "end": 61
+      },
+      {
+        "text": "Native Son",
+        "label": "book",
+        "start": 102,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "text": "Three of his films - Andrei Rublev, Mirror, and Stalker - featured in Sight & Sound s 2012 poll of the 50 greatest films of all time.",
+    "entities": []
+  },
+  {
+    "text": "Disraeli's early silver fork novels Vivian Grey (1826) and The Young Duke (1831) featured romanticised depictions of aristocratic life (despite his ignorance of it) with character sketches of well-known public figures lightly disguised.",
+    "entities": [
+      {
+        "text": "Disraeli",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "silver fork novels",
+        "label": "literarygenre",
+        "start": 17,
+        "end": 35
+      },
+      {
+        "text": "Vivian Grey",
+        "label": "book",
+        "start": 36,
+        "end": 47
+      },
+      {
+        "text": "The Young Duke",
+        "label": "book",
+        "start": 59,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "The most celebrated work of Ramapurathu Warrier is Kuchelavritham Vanchippattu, which depicts the story of Kuchela, a devotee and an old classmate of Krishna, going to Dwaraka to meet with him.",
+    "entities": [
+      {
+        "text": "Ramapurathu Warrier",
+        "label": "writer",
+        "start": 28,
+        "end": 47
+      },
+      {
+        "text": "Kuchela",
+        "label": "person",
+        "start": 107,
+        "end": 114
+      },
+      {
+        "text": "Krishna",
+        "label": "person",
+        "start": 150,
+        "end": 157
+      },
+      {
+        "text": "Dwaraka",
+        "label": "location",
+        "start": 168,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "Her first appearance in a full-length novel was in The Murder at the Vicarage in 1930 and her last appearance was in Sleeping Murder in 1976.",
+    "entities": [
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 38,
+        "end": 43
+      },
+      {
+        "text": "The Murder at the Vicarage",
+        "label": "book",
+        "start": 51,
+        "end": 77
+      },
+      {
+        "text": "Sleeping Murder",
+        "label": "book",
+        "start": 117,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "text": "Among his awards for particular works were: Hugo Award s, in 1963 for The Dragon Masters, in 1967 for The Last Castle, and in 2010 for his memoir This is Me, Jack Vance!; a Nebula Award in 1966, also for The Last Castle; the Jupiter Award in 1975; the World Fantasy Award in 1990 for Lyonesse: Madouc.",
+    "entities": [
+      {
+        "text": "The Dragon Masters",
+        "label": "book",
+        "start": 70,
+        "end": 88
+      },
+      {
+        "text": "The Last Castle",
+        "label": "book",
+        "start": 102,
+        "end": 117
+      },
+      {
+        "text": "This is Me, Jack Vance!",
+        "label": "book",
+        "start": 146,
+        "end": 169
+      },
+      {
+        "text": "The Last Castle",
+        "label": "book",
+        "start": 204,
+        "end": 219
+      },
+      {
+        "text": "Lyonesse: Madouc",
+        "label": "book",
+        "start": 284,
+        "end": 300
+      }
+    ]
+  },
+  {
+    "text": "In 1550, one year after Marguerite's death, a tributary poem, Hecatodistichon, was published in England.",
+    "entities": [
+      {
+        "text": "Marguerite",
+        "label": "writer",
+        "start": 24,
+        "end": 34
+      },
+      {
+        "text": "tributary poem",
+        "label": "literarygenre",
+        "start": 46,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "Paradoxically, one of his most famous works, a book called Safahat, was not widely read or published until recently.",
+    "entities": []
+  },
+  {
+    "text": "The Tale of Jemima Puddle-Duck and The Tale of Tom Kitten are representative of Hill Top Farm and her farming life and reflect her happiness with her country life. John Heelis, (1999) The Tale of Mrs William Heelis - Beatrix Potter; Lear, Ch.",
+    "entities": [
+      {
+        "text": "The Tale of Jemima Puddle-Duck",
+        "label": "book",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "The Tale of Tom Kitten",
+        "label": "book",
+        "start": 35,
+        "end": 57
+      },
+      {
+        "text": "Hill Top Farm",
+        "label": "location",
+        "start": 80,
+        "end": 93
+      },
+      {
+        "text": "John Heelis",
+        "label": "writer",
+        "start": 164,
+        "end": 175
+      },
+      {
+        "text": "The Tale of Mrs William Heelis - Beatrix Potter",
+        "label": "book",
+        "start": 184,
+        "end": 231
+      }
+    ]
+  },
+  {
+    "text": "A tribute show to Wilson, organized by Coldcut and Mixmaster Morris and performed in London as a part of the Ether 7 Festival held at the Queen Elizabeth Hall on March 18, 2007, also included Ken Campbell, Bill Drummond and Alan Moore.",
+    "entities": [
+      {
+        "text": "Wilson",
+        "label": "writer",
+        "start": 18,
+        "end": 24
+      },
+      {
+        "text": "Coldcut",
+        "label": "person",
+        "start": 39,
+        "end": 46
+      },
+      {
+        "text": "Mixmaster Morris",
+        "label": "person",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 85,
+        "end": 91
+      },
+      {
+        "text": "Queen Elizabeth Hall",
+        "label": "location",
+        "start": 138,
+        "end": 158
+      },
+      {
+        "text": "Ken Campbell",
+        "label": "writer",
+        "start": 192,
+        "end": 204
+      },
+      {
+        "text": "Bill Drummond",
+        "label": "writer",
+        "start": 206,
+        "end": 219
+      },
+      {
+        "text": "Alan Moore",
+        "label": "writer",
+        "start": 224,
+        "end": 234
+      }
+    ]
+  },
+  {
+    "text": "In a 2006 interview with Tatler magazine, Rowling noted that, like Graham Greene, my faith is sometimes about if my faith will return.",
+    "entities": [
+      {
+        "text": "Rowling",
+        "label": "writer",
+        "start": 42,
+        "end": 49
+      },
+      {
+        "text": "Graham Greene",
+        "label": "writer",
+        "start": 67,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "His poem Jai Jai Garavi Gujarat, written in the preface of Narmakosh, listed with a sense of pride all the cultural symbols that go into constituting the Gujarati identity.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "Narmakosh",
+        "label": "book",
+        "start": 59,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "text": "This aversion to war also led Einstein to befriend author Upton Sinclair and film star Charlie Chaplin, both noted for their pacifism.",
+    "entities": [
+      {
+        "text": "Einstein",
+        "label": "person",
+        "start": 30,
+        "end": 38
+      },
+      {
+        "text": "Upton Sinclair",
+        "label": "writer",
+        "start": 58,
+        "end": 72
+      },
+      {
+        "text": "Charlie Chaplin",
+        "label": "person",
+        "start": 87,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Richards has received numerous awards including two Gemini Awards for scriptwriting for Small Gifts and For Those Who Hunt the Wounded Down, the Alden Nowlan Award for Excellence in the Arts, and the Canadian Authors Association Award for his novel Evening Snow Will Bring Such Peace.",
+    "entities": [
+      {
+        "text": "Richards",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Small Gifts",
+        "label": "book",
+        "start": 88,
+        "end": 99
+      },
+      {
+        "text": "For Those Who Hunt the Wounded Down",
+        "label": "book",
+        "start": 104,
+        "end": 139
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 243,
+        "end": 248
+      },
+      {
+        "text": "Evening Snow Will Bring Such Peace",
+        "label": "book",
+        "start": 249,
+        "end": 283
+      }
+    ]
+  },
+  {
+    "text": "Qualification for Euro 1988 meant winning UEFA Euro 1988 qualifying Group 7 containing Bulgaria, Luxembourg and Scotland.",
+    "entities": []
+  },
+  {
+    "text": "In 1970, he published Five Patients, a book which recounts his experiences of hospital practices in the late 1960s at Massachusetts General Hospital in Boston, Massachusetts.",
+    "entities": [
+      {
+        "text": "Five Patients",
+        "label": "book",
+        "start": 22,
+        "end": 35
+      },
+      {
+        "text": "Massachusetts General Hospital",
+        "label": "location",
+        "start": 118,
+        "end": 148
+      },
+      {
+        "text": "Boston",
+        "label": "location",
+        "start": 152,
+        "end": 158
+      },
+      {
+        "text": "Massachusetts",
+        "label": "location",
+        "start": 160,
+        "end": 173
+      }
+    ]
+  },
+  {
+    "text": "During China ' s Warring States period, the Songs of Chu collected by Qu Yuan and Song Yu defined a new form of poetry that came from the exotic Yangtze Valley, far from the Wei and Yellow River homeland of the traditional four-character verses collected in the Classic of Poetry.",
+    "entities": [
+      {
+        "text": "Songs of Chu",
+        "label": "book",
+        "start": 44,
+        "end": 56
+      },
+      {
+        "text": "Qu Yuan",
+        "label": "writer",
+        "start": 70,
+        "end": 77
+      },
+      {
+        "text": "Song Yu",
+        "label": "writer",
+        "start": 82,
+        "end": 89
+      },
+      {
+        "text": "poetry",
+        "label": "literarygenre",
+        "start": 112,
+        "end": 118
+      },
+      {
+        "text": "Yangtze Valley",
+        "label": "location",
+        "start": 145,
+        "end": 159
+      },
+      {
+        "text": "Wei",
+        "label": "location",
+        "start": 174,
+        "end": 177
+      },
+      {
+        "text": "Yellow River",
+        "label": "location",
+        "start": 182,
+        "end": 194
+      },
+      {
+        "text": "verses",
+        "label": "literarygenre",
+        "start": 238,
+        "end": 244
+      },
+      {
+        "text": "Classic of Poetry",
+        "label": "book",
+        "start": 262,
+        "end": 279
+      }
+    ]
+  },
+  {
+    "text": "Some of his early novels, called scientific romance s, invented several themes now classic in science fiction in such works as The Time Machine, The Island of Doctor Moreau, The Invisible Man, The War of the Worlds, The Sleeper Awakes, and The First Men in the Moon.",
+    "entities": [
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 18,
+        "end": 24
+      },
+      {
+        "text": "scientific romance",
+        "label": "literarygenre",
+        "start": 33,
+        "end": 51
+      },
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 94,
+        "end": 109
+      },
+      {
+        "text": "The Time Machine",
+        "label": "book",
+        "start": 127,
+        "end": 143
+      },
+      {
+        "text": "The Island of Doctor Moreau",
+        "label": "book",
+        "start": 145,
+        "end": 172
+      },
+      {
+        "text": "The Invisible Man",
+        "label": "book",
+        "start": 174,
+        "end": 191
+      },
+      {
+        "text": "The War of the Worlds",
+        "label": "book",
+        "start": 193,
+        "end": 214
+      },
+      {
+        "text": "The Sleeper Awakes",
+        "label": "book",
+        "start": 216,
+        "end": 234
+      },
+      {
+        "text": "The First Men in the Moon",
+        "label": "book",
+        "start": 240,
+        "end": 265
+      }
+    ]
+  },
+  {
+    "text": "In 1959, Capp recorded and released an album for Folkways Records (now owned by the Smithsonian) on which he identified and described The Mechanics of the Comic Strip.",
+    "entities": [
+      {
+        "text": "Capp",
+        "label": "writer",
+        "start": 9,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "Bal Thackeray in India Today, Shiv Sena leader of Bombay, 15 June 1984.",
+    "entities": [
+      {
+        "text": "Bal Thackeray",
+        "label": "person",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Bombay",
+        "label": "location",
+        "start": 50,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "text": "Dick said he conceived The Man in the High Castle when reading Bring the Jubilee (1953), by Ward Moore, which occurs mainly in an alternative 20th-century US wherein the Confederate States of America won the American Civil War.",
+    "entities": [
+      {
+        "text": "Dick",
+        "label": "writer",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "The Man in the High Castle",
+        "label": "book",
+        "start": 23,
+        "end": 49
+      },
+      {
+        "text": "Bring the Jubilee",
+        "label": "book",
+        "start": 63,
+        "end": 80
+      },
+      {
+        "text": "Ward Moore",
+        "label": "writer",
+        "start": 92,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Although its setting is Trojan, Boccaccio's story is not taken from Greek myth, but from the Roman de Troie, a twelfth-century French medieval re-elaboration of the Trojan legend by Benoît de Sainte-Maure known to Boccaccio in the Latin prose version by Guido delle Colonne (Historia destructionis Troiae).",
+    "entities": [
+      {
+        "text": "Trojan",
+        "label": "book",
+        "start": 24,
+        "end": 30
+      },
+      {
+        "text": "Boccaccio",
+        "label": "writer",
+        "start": 32,
+        "end": 41
+      },
+      {
+        "text": "Roman de Troie",
+        "label": "book",
+        "start": 93,
+        "end": 107
+      },
+      {
+        "text": "Trojan",
+        "label": "book",
+        "start": 165,
+        "end": 171
+      },
+      {
+        "text": "Benoît de Sainte-Maure",
+        "label": "writer",
+        "start": 182,
+        "end": 204
+      },
+      {
+        "text": "Boccaccio",
+        "label": "writer",
+        "start": 214,
+        "end": 223
+      },
+      {
+        "text": "prose",
+        "label": "literarygenre",
+        "start": 237,
+        "end": 242
+      },
+      {
+        "text": "Guido delle Colonne",
+        "label": "writer",
+        "start": 254,
+        "end": 273
+      }
+    ]
+  },
+  {
+    "text": "Other highlights were The Dosadi Experiment, The Godmakers, The White Plague and the books he wrote in partnership with Bill Ransom: The Jesus Incident, The Lazarus Effect, and The Ascension Factor which were sequels to Destination: Void.",
+    "entities": [
+      {
+        "text": "The Dosadi Experiment",
+        "label": "book",
+        "start": 22,
+        "end": 43
+      },
+      {
+        "text": "The Godmakers",
+        "label": "book",
+        "start": 45,
+        "end": 58
+      },
+      {
+        "text": "The White Plague",
+        "label": "book",
+        "start": 60,
+        "end": 76
+      },
+      {
+        "text": "Bill Ransom",
+        "label": "writer",
+        "start": 120,
+        "end": 131
+      },
+      {
+        "text": "The Jesus Incident",
+        "label": "book",
+        "start": 133,
+        "end": 151
+      },
+      {
+        "text": "The Lazarus Effect",
+        "label": "book",
+        "start": 153,
+        "end": 171
+      },
+      {
+        "text": "The Ascension Factor",
+        "label": "book",
+        "start": 177,
+        "end": 197
+      },
+      {
+        "text": "Destination: Void",
+        "label": "book",
+        "start": 220,
+        "end": 237
+      }
+    ]
+  },
+  {
+    "text": "He came to wide public attention with his first book Poems at the age of twenty-three in 1930; it was followed in 1932 by The Orators.",
+    "entities": []
+  },
+  {
+    "text": "British policy in South Africa was to encourage federation between the British-run Cape Colony and Colony of Natal, and the Boer republics, the South African Republic (annexed by Britain in 1877) and the Orange Free State.",
+    "entities": [
+      {
+        "text": "Cape Colony",
+        "label": "location",
+        "start": 83,
+        "end": 94
+      },
+      {
+        "text": "Colony of Natal",
+        "label": "location",
+        "start": 99,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "text": "For example, Susanna Moodie and Catharine Parr Traill, English sisters who adopted the country as their own, moved to Upper Canada in 1832.",
+    "entities": [
+      {
+        "text": "Susanna Moodie",
+        "label": "writer",
+        "start": 13,
+        "end": 27
+      },
+      {
+        "text": "Catharine Parr Traill",
+        "label": "writer",
+        "start": 32,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "text": "The Pulitzer Prize -winning The Grapes of Wrath (1939)",
+    "entities": [
+      {
+        "text": "The Grapes of Wrath",
+        "label": "book",
+        "start": 28,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "text": "The illustrated and audio adventure is titled Winnie-the-Pooh Meets the Queen, and has been narrated by actor Jim Broadbent.",
+    "entities": [
+      {
+        "text": "Winnie-the-Pooh Meets the Queen",
+        "label": "book",
+        "start": 46,
+        "end": 77
+      },
+      {
+        "text": "Jim Broadbent",
+        "label": "person",
+        "start": 110,
+        "end": 123
+      }
+    ]
+  },
+  {
+    "text": "According to Henry Littlefield's 1964 article, L. Frank Baum ' s The Wonderful Wizard of Oz, may be readily understood as a plot-driven fantasy narrative in an extended fable with talking animals and broadly sketched characters, intended to discuss the politics of the time.",
+    "entities": [
+      {
+        "text": "Henry Littlefield",
+        "label": "writer",
+        "start": 13,
+        "end": 30
+      },
+      {
+        "text": "L. Frank Baum",
+        "label": "writer",
+        "start": 47,
+        "end": 60
+      },
+      {
+        "text": "The Wonderful Wizard of Oz",
+        "label": "book",
+        "start": 65,
+        "end": 91
+      },
+      {
+        "text": "fantasy narrative",
+        "label": "literarygenre",
+        "start": 136,
+        "end": 153
+      }
+    ]
+  },
+  {
+    "text": "His son played rugby sevens at the 2014 Commonwealth Games for Barbados.",
+    "entities": []
+  },
+  {
+    "text": "Early collections of English ballads were made by Samuel Pepys (1633-1703) and in the Roxburghe Ballads collected by Robert Harley, (1661 & ndash; 1724), which paralleled the work in Scotland by Walter Scott and Robert Burns.",
+    "entities": [
+      {
+        "text": "English ballads",
+        "label": "literarygenre",
+        "start": 21,
+        "end": 36
+      },
+      {
+        "text": "Samuel Pepys",
+        "label": "person",
+        "start": 50,
+        "end": 62
+      },
+      {
+        "text": "Roxburghe Ballads",
+        "label": "book",
+        "start": 86,
+        "end": 103
+      },
+      {
+        "text": "Robert Harley",
+        "label": "person",
+        "start": 117,
+        "end": 130
+      },
+      {
+        "text": "Walter Scott",
+        "label": "writer",
+        "start": 195,
+        "end": 207
+      },
+      {
+        "text": "Robert Burns",
+        "label": "writer",
+        "start": 212,
+        "end": 224
+      }
+    ]
+  },
+  {
+    "text": "Tarkovsky studied film at Moscow's State Institute of Cinematography under filmmaker Mikhail Romm, and subsequently directed his first five feature film s in the Soviet Union: Ivan's Childhood (1962), Andrei Rublev (1966), Solaris (1972), Mirror (1975), and Stalker (1979).",
+    "entities": [
+      {
+        "text": "Tarkovsky",
+        "label": "writer",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Moscow",
+        "label": "location",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "text": "Mikhail Romm",
+        "label": "person",
+        "start": 85,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "A keen reader, Truffaut adapted many literary works, including two novels by Henri-Pierre Roché, Ray Bradbury ' s Fahrenheit 451, Henry James ' The Altar of the Dead, filmed as The Green Room, and several American detective novels.",
+    "entities": [
+      {
+        "text": "Truffaut",
+        "label": "writer",
+        "start": 15,
+        "end": 23
+      },
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 67,
+        "end": 73
+      },
+      {
+        "text": "Henri-Pierre Roché",
+        "label": "writer",
+        "start": 77,
+        "end": 95
+      },
+      {
+        "text": "Ray Bradbury",
+        "label": "writer",
+        "start": 97,
+        "end": 109
+      },
+      {
+        "text": "Fahrenheit 451",
+        "label": "book",
+        "start": 114,
+        "end": 128
+      },
+      {
+        "text": "Henry James",
+        "label": "writer",
+        "start": 130,
+        "end": 141
+      },
+      {
+        "text": "The Altar of the Dead",
+        "label": "book",
+        "start": 144,
+        "end": 165
+      },
+      {
+        "text": "detective novels",
+        "label": "literarygenre",
+        "start": 214,
+        "end": 230
+      }
+    ]
+  },
+  {
+    "text": "Sabotage was loosely based on Joseph Conrad ' s novel, The Secret Agent (1907), about a woman who discovers that her husband is a terrorist, and Secret Agent, based on two stories in Ashenden: Or the British Agent (1928) by W. Somerset Maugham.",
+    "entities": [
+      {
+        "text": "Sabotage",
+        "label": "book",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Joseph Conrad",
+        "label": "writer",
+        "start": 30,
+        "end": 43
+      },
+      {
+        "text": "The Secret Agent",
+        "label": "book",
+        "start": 55,
+        "end": 71
+      },
+      {
+        "text": "Secret Agent",
+        "label": "book",
+        "start": 145,
+        "end": 157
+      },
+      {
+        "text": "Ashenden: Or the British Agent",
+        "label": "book",
+        "start": 183,
+        "end": 213
+      },
+      {
+        "text": "W. Somerset Maugham",
+        "label": "writer",
+        "start": 224,
+        "end": 243
+      }
+    ]
+  },
+  {
+    "text": "Norman Spinrad wrote The Iron Dream in 1972, which is intended to be a science fiction novel written by Adolf Hitler after fleeing from Europe to North America in the 1920s.",
+    "entities": [
+      {
+        "text": "Norman Spinrad",
+        "label": "writer",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "The Iron Dream",
+        "label": "book",
+        "start": 21,
+        "end": 35
+      },
+      {
+        "text": "science fiction novel",
+        "label": "literarygenre",
+        "start": 71,
+        "end": 92
+      },
+      {
+        "text": "Adolf Hitler",
+        "label": "person",
+        "start": 104,
+        "end": 116
+      },
+      {
+        "text": "Europe",
+        "label": "location",
+        "start": 136,
+        "end": 142
+      },
+      {
+        "text": "North America",
+        "label": "location",
+        "start": 146,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "They believe that the gathering of all of the nations of the earth refers to the uniting of the world's political powers, as a gradual process which began in 1914 and was later seen in manifestations such as the League of Nations and the United Nations following the First and Second World War s.",
+    "entities": []
+  },
+  {
+    "text": "The novel was called The Monogram Murders, and was set in the late 1920s, placing it chronologically between The Mystery of the Blue Train and Peril at End House.",
+    "entities": [
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 9
+      },
+      {
+        "text": "The Monogram Murders",
+        "label": "book",
+        "start": 21,
+        "end": 41
+      },
+      {
+        "text": "The Mystery of the Blue Train",
+        "label": "book",
+        "start": 109,
+        "end": 138
+      },
+      {
+        "text": "Peril at End House",
+        "label": "book",
+        "start": 143,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "In the 1990 steampunk novel The Difference Engine by William Gibson and Bruce Sterling, Ada Lovelace delivers a lecture on the punched cards programme that proves two theorems, the discovery that, in reality, would not be made until 1931 by Kurt Gödel.",
+    "entities": [
+      {
+        "text": "steampunk novel",
+        "label": "literarygenre",
+        "start": 12,
+        "end": 27
+      },
+      {
+        "text": "The Difference Engine",
+        "label": "book",
+        "start": 28,
+        "end": 49
+      },
+      {
+        "text": "William Gibson",
+        "label": "writer",
+        "start": 53,
+        "end": 67
+      },
+      {
+        "text": "Bruce Sterling",
+        "label": "writer",
+        "start": 72,
+        "end": 86
+      },
+      {
+        "text": "Ada Lovelace",
+        "label": "person",
+        "start": 88,
+        "end": 100
+      },
+      {
+        "text": "Kurt Gödel",
+        "label": "person",
+        "start": 241,
+        "end": 251
+      }
+    ]
+  },
+  {
+    "text": "Controversial wars in Afghanistan and South Africa undermined his public support.",
+    "entities": []
+  },
+  {
+    "text": "February 2015 saw Ellis release his first album as Zarelli, Soft Rains on the Seriés Aphōnos label - a mostly instrumental synthesizer record, featuring the voice of Leonard Nimoy reading the Ray Bradbury short story There Will Come Soft Rains.",
+    "entities": [
+      {
+        "text": "Ellis",
+        "label": "person",
+        "start": 18,
+        "end": 23
+      },
+      {
+        "text": "Zarelli",
+        "label": "person",
+        "start": 51,
+        "end": 58
+      },
+      {
+        "text": "Leonard Nimoy",
+        "label": "person",
+        "start": 166,
+        "end": 179
+      },
+      {
+        "text": "Ray Bradbury",
+        "label": "writer",
+        "start": 192,
+        "end": 204
+      },
+      {
+        "text": "short story",
+        "label": "literarygenre",
+        "start": 205,
+        "end": 216
+      }
+    ]
+  },
+  {
+    "text": "The Man in the High Castle (1962) is set in an alternate history in which the United States is ruled by the victorious Axis powers.",
+    "entities": [
+      {
+        "text": "The Man in the High Castle",
+        "label": "book",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "alternate history",
+        "label": "literarygenre",
+        "start": 47,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "In 1905 H. G. Wells published A Modern Utopia.",
+    "entities": [
+      {
+        "text": "H. G. Wells",
+        "label": "writer",
+        "start": 8,
+        "end": 19
+      },
+      {
+        "text": "A Modern Utopia",
+        "label": "book",
+        "start": 30,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "The poem was inspired by The Rodiad (1871), falsely ascribed to George Colman the Younger,",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "George Colman the Younger",
+        "label": "writer",
+        "start": 64,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "Hawks was venerated by French critics associated with Cahiers du cinéma, who intellectualized his work in a way that Hawks himself found moderately amusing (his work was promoted in France by The Studio des Ursulines cinema), and though he was not taken seriously by British critics of the Sight & Sound circle at first, other independent British writers, such as Robin Wood, admired his films.",
+    "entities": [
+      {
+        "text": "Hawks",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Hawks",
+        "label": "writer",
+        "start": 117,
+        "end": 122
+      },
+      {
+        "text": "Robin Wood",
+        "label": "writer",
+        "start": 364,
+        "end": 374
+      }
+    ]
+  },
+  {
+    "text": "The Faerie Queene by Edmund Spenser, with its stanzas of eight iambic pentameter lines followed by one alexandrine, exemplifies what came to be its chief role: as a somewhat infrequent variant line in an otherwise iambic pentameter context.",
+    "entities": [
+      {
+        "text": "The Faerie Queene",
+        "label": "book",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "Edmund Spenser",
+        "label": "writer",
+        "start": 21,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "text": "The poem was translated into a number of languages, including the Middle English Ywain and Gawain; the Old Norwegian Chivaldric Ívens saga, and the Old Swedish Herr Ivan.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "The friendship between Graves and Sassoon is documented in Graves's letters and biographies; the story is fictionalised in Pat Barker ' s novel Regeneration.",
+    "entities": [
+      {
+        "text": "Graves",
+        "label": "writer",
+        "start": 23,
+        "end": 29
+      },
+      {
+        "text": "Sassoon",
+        "label": "writer",
+        "start": 34,
+        "end": 41
+      },
+      {
+        "text": "Graves",
+        "label": "writer",
+        "start": 59,
+        "end": 65
+      },
+      {
+        "text": "Pat Barker",
+        "label": "writer",
+        "start": 123,
+        "end": 133
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 138,
+        "end": 143
+      },
+      {
+        "text": "Regeneration",
+        "label": "book",
+        "start": 144,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "He proposed that Germany be reunified and accept the Oder-Neisse line as its border, and that a neutral zone be established in Central Europe, consisting at the minimum of Germany, Poland, Hungary, and Czechoslovakia, with each of these countries being free of foreign troops and influence, and prohibited from forming alliances with countries outside the zone.",
+    "entities": [
+      {
+        "text": "Oder-Neisse line",
+        "label": "location",
+        "start": 53,
+        "end": 69
+      },
+      {
+        "text": "Central Europe",
+        "label": "location",
+        "start": 127,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "However, Oscar Wilde, Henry James, and Virginia Woolf complained of a lack of psychological depth, loose writing, and a vein of sentimentalism.",
+    "entities": [
+      {
+        "text": "Oscar Wilde",
+        "label": "writer",
+        "start": 9,
+        "end": 20
+      },
+      {
+        "text": "Henry James",
+        "label": "writer",
+        "start": 22,
+        "end": 33
+      },
+      {
+        "text": "Virginia Woolf",
+        "label": "writer",
+        "start": 39,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "text": "These include the Universal Natural History and Theory of the Heavens (1755), the Critique of Practical Reason (1788), the Metaphysics of Morals (1797), the Critique of Judgment (1790), which looks at aesthetics and teleology, and Religion within the Bounds of Bare Reason (1793).",
+    "entities": [
+      {
+        "text": "Universal Natural History and Theory of the Heavens",
+        "label": "book",
+        "start": 18,
+        "end": 69
+      },
+      {
+        "text": "Critique of Practical Reason",
+        "label": "book",
+        "start": 82,
+        "end": 110
+      },
+      {
+        "text": "Metaphysics of Morals",
+        "label": "book",
+        "start": 123,
+        "end": 144
+      },
+      {
+        "text": "Critique of Judgment",
+        "label": "book",
+        "start": 157,
+        "end": 177
+      },
+      {
+        "text": "Religion within the Bounds of Bare Reason",
+        "label": "book",
+        "start": 231,
+        "end": 272
+      }
+    ]
+  },
+  {
+    "text": "1789) with the addition of five of his poems: the Introduction and The Divine Image from the Songs of Innocence (1789), The Tyger and A Divine Image from the Songs of Experience (1789-1794), and A Cradle Song from his Note-book (Manuscript Dante Gabriel Rossetti, 1793).",
+    "entities": [
+      {
+        "text": "Songs of Innocence",
+        "label": "book",
+        "start": 93,
+        "end": 111
+      },
+      {
+        "text": "Songs of Experience",
+        "label": "book",
+        "start": 158,
+        "end": 177
+      },
+      {
+        "text": "Dante Gabriel Rossetti",
+        "label": "writer",
+        "start": 240,
+        "end": 262
+      }
+    ]
+  },
+  {
+    "text": "Writing for The Spectator, Graham Greene expressed similar views, acerbically noting of the film that it goes on too long, otherwise it might have been the funniest film since The Crusades.",
+    "entities": [
+      {
+        "text": "Graham Greene",
+        "label": "writer",
+        "start": 27,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "In 1993, Thornton married Playboy model Pietra Dawn Cherniak, with whom he had two sons, Harry James and William.",
+    "entities": [
+      {
+        "text": "Thornton",
+        "label": "person",
+        "start": 9,
+        "end": 17
+      },
+      {
+        "text": "Pietra Dawn Cherniak",
+        "label": "person",
+        "start": 40,
+        "end": 60
+      },
+      {
+        "text": "Harry James",
+        "label": "person",
+        "start": 89,
+        "end": 100
+      },
+      {
+        "text": "William",
+        "label": "person",
+        "start": 105,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "text": "The film earned Tarkovsky international acclaim and won the Golden Lion award at the Venice Film Festival in the year 1962.",
+    "entities": [
+      {
+        "text": "Tarkovsky",
+        "label": "writer",
+        "start": 16,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "Alan Moore had this to say about the use of the Guy Fawkes motif adopted from his comic V for Vendetta, in an interview with Entertainment Weekly:",
+    "entities": [
+      {
+        "text": "Alan Moore",
+        "label": "writer",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Guy Fawkes",
+        "label": "person",
+        "start": 48,
+        "end": 58
+      },
+      {
+        "text": "V for Vendetta",
+        "label": "book",
+        "start": 88,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Unable to pay independently to return for the appeal and second trial, Hurston contacted journalist William Bradford Huie, with whom she had worked at The American Mercury, to try to interest him in the case.",
+    "entities": [
+      {
+        "text": "Hurston",
+        "label": "writer",
+        "start": 71,
+        "end": 78
+      },
+      {
+        "text": "William Bradford Huie",
+        "label": "writer",
+        "start": 100,
+        "end": 121
+      }
+    ]
+  },
+  {
+    "text": "The Door into Summer is a science fiction novel by American writer Robert A. Heinlein, originally serialized in The Magazine of Fantasy & Science Fiction (October, November, December 1956, with covers and interior illustrations by Kelly Freas).",
+    "entities": [
+      {
+        "text": "The Door into Summer",
+        "label": "book",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "science fiction novel",
+        "label": "literarygenre",
+        "start": 26,
+        "end": 47
+      },
+      {
+        "text": "Robert A. Heinlein",
+        "label": "writer",
+        "start": 67,
+        "end": 85
+      },
+      {
+        "text": "Kelly Freas",
+        "label": "writer",
+        "start": 231,
+        "end": 242
+      }
+    ]
+  },
+  {
+    "text": "For his work, he received numerous accolades, including six Primetime Emmy Award s, a Tony Award, a Mark Twain Prize and a star on the Hollywood Walk of Fame in 1991.",
+    "entities": [
+      {
+        "text": "Hollywood Walk of Fame",
+        "label": "location",
+        "start": 135,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "text": "The contest over the authenticity of Macpherson's pseudo-Gaelic productions, Curley asserts, became a seismograph of the fragile unity within restive diversity of British Empire Kingdom of Great Britain in the age of Samuel Johnson.",
+    "entities": [
+      {
+        "text": "Macpherson",
+        "label": "writer",
+        "start": 37,
+        "end": 47
+      },
+      {
+        "text": "Curley",
+        "label": "person",
+        "start": 77,
+        "end": 83
+      },
+      {
+        "text": "Samuel Johnson",
+        "label": "writer",
+        "start": 217,
+        "end": 231
+      }
+    ]
+  },
+  {
+    "text": "In 2005, Arkham House was awarded the World Fantasy Award for Small Press Achievements - the trophy at that time was a bust of H. P. Lovecraft.",
+    "entities": [
+      {
+        "text": "H. P. Lovecraft",
+        "label": "writer",
+        "start": 127,
+        "end": 142
+      }
+    ]
+  },
+  {
+    "text": "Spears has earned numerous awards and accolades, including a Grammy Award; seven Guinness World Records; six MTV Video Music Awards, including the Michael Jackson Video Vanguard Award; seven Billboard Music Awards, including the Millennium Award; the inaugural Radio Disney Icon Award; the GLAAD Media Award ' s Vanguard Award and a star on the Hollywood Walk of Fame.",
+    "entities": [
+      {
+        "text": "Spears",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Guinness World Records",
+        "label": "book",
+        "start": 81,
+        "end": 103
+      },
+      {
+        "text": "Hollywood Walk of Fame",
+        "label": "location",
+        "start": 345,
+        "end": 367
+      }
+    ]
+  },
+  {
+    "text": "The late 1980s and the 1990s saw a boom in popular-fiction versions of alternate history, fueled by the emergence of the prolific alternate history author Harry Turtledove, as well as the development of the steampunk genre and two series of anthologies - the What Might Have Been series edited by Gregory Benford and the Alternate series edited by Mike Resnick.",
+    "entities": [
+      {
+        "text": "popular-fiction",
+        "label": "literarygenre",
+        "start": 43,
+        "end": 58
+      },
+      {
+        "text": "alternate history",
+        "label": "literarygenre",
+        "start": 71,
+        "end": 88
+      },
+      {
+        "text": "Harry Turtledove",
+        "label": "writer",
+        "start": 155,
+        "end": 171
+      },
+      {
+        "text": "steampunk genre",
+        "label": "literarygenre",
+        "start": 207,
+        "end": 222
+      },
+      {
+        "text": "What Might Have Been",
+        "label": "book",
+        "start": 259,
+        "end": 279
+      },
+      {
+        "text": "Gregory Benford",
+        "label": "writer",
+        "start": 297,
+        "end": 312
+      },
+      {
+        "text": "Alternate series",
+        "label": "book",
+        "start": 321,
+        "end": 337
+      },
+      {
+        "text": "Mike Resnick",
+        "label": "writer",
+        "start": 348,
+        "end": 360
+      }
+    ]
+  },
+  {
+    "text": "Formally, the use of sound to create atmosphere, and of symbols (images that take on an expanded function within the poem), betray a move towards considering the poem as a self-referential object, an idea further developed by the Symbolists Paul Verlaine and Stéphane Mallarmé, who acknowledge Baudelaire as a pioneer in this regard.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 117,
+        "end": 121
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 162,
+        "end": 166
+      },
+      {
+        "text": "Paul Verlaine",
+        "label": "writer",
+        "start": 241,
+        "end": 254
+      },
+      {
+        "text": "Stéphane Mallarmé",
+        "label": "writer",
+        "start": 259,
+        "end": 276
+      },
+      {
+        "text": "Baudelaire",
+        "label": "writer",
+        "start": 294,
+        "end": 304
+      }
+    ]
+  },
+  {
+    "text": "197, Oxford University Press, 1969 and gave lectures on Human Potentialities both at the UCSF Medical Center and at the Esalen Institute.",
+    "entities": [
+      {
+        "text": "Human Potentialities",
+        "label": "book",
+        "start": 56,
+        "end": 76
+      },
+      {
+        "text": "UCSF Medical Center",
+        "label": "location",
+        "start": 89,
+        "end": 108
+      },
+      {
+        "text": "Esalen Institute",
+        "label": "location",
+        "start": 120,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "It was followed the next year by The Tale of Squirrel Nutkin and The Tailor of Gloucester, which had also first been written as picture letters to the Moore children.",
+    "entities": [
+      {
+        "text": "The Tale of Squirrel Nutkin",
+        "label": "book",
+        "start": 33,
+        "end": 60
+      },
+      {
+        "text": "The Tailor of Gloucester",
+        "label": "book",
+        "start": 65,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "He is ironic, as in Invective Against Swans and Anatomy of Monotony, about the ' spiritual ' demand to transcend nature.",
+    "entities": []
+  },
+  {
+    "text": "A documentary was also made for BBC Radio 4 entitled The Story of O: The Vice Francaise, presented by Rowan Pelling, former editor of the Erotic Review, which looked at the history of the book and its author Anne Desclos.",
+    "entities": [
+      {
+        "text": "Rowan Pelling",
+        "label": "writer",
+        "start": 102,
+        "end": 115
+      },
+      {
+        "text": "Anne Desclos",
+        "label": "writer",
+        "start": 208,
+        "end": 220
+      }
+    ]
+  },
+  {
+    "text": "In March 2020, a third season of Cosmos named Cosmos: Possible Worlds, for which Druyan was executive producer, writer, and director premiered on National Geographic.",
+    "entities": [
+      {
+        "text": "Druyan",
+        "label": "writer",
+        "start": 81,
+        "end": 87
+      }
+    ]
+  }
+]

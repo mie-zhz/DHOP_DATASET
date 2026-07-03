@@ -1,0 +1,796 @@
+[
+  {
+    "text": "Nicaraguan president to go to U.S. for medical care.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 30,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "Chalmers (Australia), Miguel Angel Martin (Spain),",
+    "entities": [
+      {
+        "text": "Chalmers",
+        "label": "PER",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Australia",
+        "label": "LOC",
+        "start": 10,
+        "end": 19
+      },
+      {
+        "text": "Miguel Angel Martin",
+        "label": "PER",
+        "start": 22,
+        "end": 41
+      },
+      {
+        "text": "Spain",
+        "label": "LOC",
+        "start": 43,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "There is no objection to their travel, \" he added.",
+    "entities": []
+  },
+  {
+    "text": "PHOENIX 3 14 .176 10 1/2",
+    "entities": [
+      {
+        "text": "PHOENIX",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Amount $0.21 $0.19",
+    "entities": []
+  },
+  {
+    "text": "COUNCIL REGULATION (EEC) No 4064/89 (96 / C 251/04)",
+    "entities": [
+      {
+        "text": "EEC",
+        "label": "ORG",
+        "start": 20,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "Seven Iraqis charged with hijack.",
+    "entities": []
+  },
+  {
+    "text": ", waterworks system mortgage revenue bonds, Series 1996, with a true interest cost of 5.2893 percent.",
+    "entities": []
+  },
+  {
+    "text": "United States at Netherlands",
+    "entities": [
+      {
+        "text": "United States",
+        "label": "LOC",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Netherlands",
+        "label": "LOC",
+        "start": 17,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "Hershiser (14-7), who allowed three runs, eight hits and one walk with five strikeouts over seven innings, improved to 4-0 in his last six starts, including a pair of wins over Detroit in the last 11 days.",
+    "entities": [
+      {
+        "text": "Hershiser",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Detroit",
+        "label": "ORG",
+        "start": 177,
+        "end": 184
+      }
+    ]
+  },
+  {
+    "text": "7-0-32-0, Irani 2-0-22-0, Croft 8-0-37-2, Hollioake 6.5-1-23-4.",
+    "entities": [
+      {
+        "text": "Irani",
+        "label": "PER",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "Croft",
+        "label": "PER",
+        "start": 26,
+        "end": 31
+      },
+      {
+        "text": "Hollioake",
+        "label": "PER",
+        "start": 42,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "Administration officials said they want to get the issue resolved as quickly as possible, but said there is no timetable they are working under.",
+    "entities": []
+  },
+  {
+    "text": "Boby Brno 3 3 0 0 5 2 9",
+    "entities": [
+      {
+        "text": "Boby Brno",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Anna Kournikova (Russia) beat Natalia Baudone (Italy) 6-3 6-3",
+    "entities": [
+      {
+        "text": "Anna Kournikova",
+        "label": "PER",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Russia",
+        "label": "LOC",
+        "start": 17,
+        "end": 23
+      },
+      {
+        "text": "Natalia Baudone",
+        "label": "PER",
+        "start": 30,
+        "end": 45
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 47,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "A separate report from Chicago area purchasing managers underlined the strength in manufacturing as the group's barometer of manufacturing in the region jumped to 60 in August from 51.2 in July.",
+    "entities": [
+      {
+        "text": "Chicago",
+        "label": "LOC",
+        "start": 23,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "\" I am prepared to postpone the meeting under one condition -- that you give me a commitment right now to meet Arafat yourself within 10 days, \" the paper quoted Weizman as telling Netanyahu.",
+    "entities": [
+      {
+        "text": "Arafat",
+        "label": "PER",
+        "start": 111,
+        "end": 117
+      },
+      {
+        "text": "Weizman",
+        "label": "PER",
+        "start": 162,
+        "end": 169
+      },
+      {
+        "text": "Netanyahu",
+        "label": "PER",
+        "start": 181,
+        "end": 190
+      }
+    ]
+  },
+  {
+    "text": "(in billions of yen unless specified)",
+    "entities": []
+  },
+  {
+    "text": "DIRECT EQUITY TRADES ON THE CZECH PSE - AUG 27.",
+    "entities": [
+      {
+        "text": "PSE",
+        "label": "ORG",
+        "start": 34,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "text": "But Nutricia shrugged off its ex-div tag to soar a further 4.10 guilders to 214.40 continuing its explosive rally sparked by the 51 percent jump in first half net profits last week, which set the market alight on Friday, sending the shares up 18.40 at 210.00 by the close.",
+    "entities": [
+      {
+        "text": "Nutricia",
+        "label": "ORG",
+        "start": 4,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "They have 104 points, 15 ahead of USA I's Jim Herberich and breakman Garrett Hines who managed only 10th place on Saturday.",
+    "entities": [
+      {
+        "text": "USA I",
+        "label": "ORG",
+        "start": 34,
+        "end": 39
+      },
+      {
+        "text": "Jim Herberich",
+        "label": "PER",
+        "start": 42,
+        "end": 55
+      },
+      {
+        "text": "Garrett Hines",
+        "label": "PER",
+        "start": 69,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "Pittsburgh 5 HOUSTON 2",
+    "entities": [
+      {
+        "text": "Pittsburgh",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "HOUSTON",
+        "label": "ORG",
+        "start": 13,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "G. Thorpe lbw b Ata-ur-Rehman 21",
+    "entities": [
+      {
+        "text": "G. Thorpe",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Ata-ur-Rehman",
+        "label": "PER",
+        "start": 16,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "EASTERN DIVISION",
+    "entities": []
+  },
+  {
+    "text": "But the Jewish sabbath ends at sundown, so a night meeting would not interfere with the religious observance.",
+    "entities": []
+  },
+  {
+    "text": "Tambang Timah at $15.575 in London.",
+    "entities": [
+      {
+        "text": "Tambang Timah",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "London",
+        "label": "LOC",
+        "start": 28,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "Moin Khan b Salisbury 23",
+    "entities": [
+      {
+        "text": "Moin Khan",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Salisbury",
+        "label": "PER",
+        "start": 12,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "Men's singles",
+    "entities": []
+  },
+  {
+    "text": "The Greek government was asked for an official meeting with the prime minister and the foreign minister and it said yes, \" Reppas said.",
+    "entities": [
+      {
+        "text": "Reppas",
+        "label": "PER",
+        "start": 123,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "\" Egypt will contact the British government to find out the truth of the matter and to discuss the possible consequences of such an unfortunate step, \" he added.",
+    "entities": [
+      {
+        "text": "Egypt",
+        "label": "LOC",
+        "start": 2,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "-- Keiron Henderson, Amsterdam Newsroom +31 20 504 5000",
+    "entities": [
+      {
+        "text": "Keiron Henderson",
+        "label": "PER",
+        "start": 3,
+        "end": 19
+      },
+      {
+        "text": "Amsterdam Newsroom",
+        "label": "ORG",
+        "start": 21,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "text": "Martin Stenning started a 12-week jail sentence on Thursday just as he was preparing to contest an injunction obtained by Diana banning him from coming within 300 metres (yards) of her.",
+    "entities": [
+      {
+        "text": "Martin Stenning",
+        "label": "PER",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Diana",
+        "label": "PER",
+        "start": 122,
+        "end": 127
+      }
+    ]
+  },
+  {
+    "text": "\" But I 'll be 38 by Sydney and that's not too old.",
+    "entities": [
+      {
+        "text": "Sydney",
+        "label": "LOC",
+        "start": 21,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "Red Star 4 4 0 0 9 3 12",
+    "entities": [
+      {
+        "text": "Red Star",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "West Indian all-rounder Phil Simmons took four for 38 on Friday as Leicestershire beat Somerset by an innings and 39 runs in two days to take over at the head of the county championship.",
+    "entities": [
+      {
+        "text": "Phil Simmons",
+        "label": "PER",
+        "start": 24,
+        "end": 36
+      },
+      {
+        "text": "Leicestershire",
+        "label": "ORG",
+        "start": 67,
+        "end": 81
+      },
+      {
+        "text": "Somerset",
+        "label": "ORG",
+        "start": 87,
+        "end": 95
+      }
+    ]
+  },
+  {
+    "text": "1. Shayne King (New Zealand) KTM",
+    "entities": [
+      {
+        "text": "Shayne King",
+        "label": "PER",
+        "start": 3,
+        "end": 14
+      },
+      {
+        "text": "New Zealand",
+        "label": "LOC",
+        "start": 16,
+        "end": 27
+      },
+      {
+        "text": "KTM",
+        "label": "ORG",
+        "start": 29,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "Shadab Kabir 1 0 9 0 -",
+    "entities": [
+      {
+        "text": "Shadab Kabir",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "8. Craig Winrow (Britain) 1:46.66",
+    "entities": [
+      {
+        "text": "Craig Winrow",
+        "label": "PER",
+        "start": 3,
+        "end": 15
+      },
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 17,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "Police commissioner George Grech said the cannabis was found on Friday packed in 500 boxes hidden behind chilli sauce in a container that arrived at Malta Freeport a week ago.",
+    "entities": [
+      {
+        "text": "George Grech",
+        "label": "PER",
+        "start": 20,
+        "end": 32
+      },
+      {
+        "text": "Malta Freeport",
+        "label": "LOC",
+        "start": 149,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "Lincoln 3 0 2 1 3 4 2",
+    "entities": [
+      {
+        "text": "Lincoln",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "VAIL, Colorado 1996-12-07",
+    "entities": [
+      {
+        "text": "VAIL",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Colorado",
+        "label": "LOC",
+        "start": 6,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "SOCCER - ENGLISH SOCCER RESULTS.",
+    "entities": []
+  },
+  {
+    "text": "Kadian was approved for sale in the United States last month, Faulding said.",
+    "entities": [
+      {
+        "text": "United States",
+        "label": "LOC",
+        "start": 36,
+        "end": 49
+      },
+      {
+        "text": "Faulding",
+        "label": "ORG",
+        "start": 62,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "text": "The Japanese discount rate is currently at a record low of 0.5 percent.",
+    "entities": []
+  },
+  {
+    "text": "FRONT PAGE",
+    "entities": []
+  },
+  {
+    "text": "One of two roads leading to the University of Yangon from the institute had been closed by authorities.",
+    "entities": [
+      {
+        "text": "University of Yangon",
+        "label": "ORG",
+        "start": 32,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "RUGBY UNION - CUTTITTA BACK FOR ITALY AFTER A YEAR.",
+    "entities": [
+      {
+        "text": "RUGBY UNION",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "CUTTITTA",
+        "label": "PER",
+        "start": 14,
+        "end": 22
+      },
+      {
+        "text": "ITALY",
+        "label": "LOC",
+        "start": 32,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "text": "Clinton wins Democratic re-nomination.",
+    "entities": [
+      {
+        "text": "Clinton",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "The boomtown of Guangzhou, capital of the southern province of Guangdong, would ban disposable plastic containers by the end of 1996, it said.",
+    "entities": [
+      {
+        "text": "Guangzhou",
+        "label": "LOC",
+        "start": 16,
+        "end": 25
+      },
+      {
+        "text": "Guangdong",
+        "label": "LOC",
+        "start": 63,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "text": "Attendance 8,000",
+    "entities": []
+  },
+  {
+    "text": "England first innings 326 (J. Crawley 106, G. Thorpe 54; Waqar",
+    "entities": [
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "J. Crawley",
+        "label": "PER",
+        "start": 27,
+        "end": 37
+      },
+      {
+        "text": "G. Thorpe",
+        "label": "PER",
+        "start": 43,
+        "end": 52
+      },
+      {
+        "text": "Waqar",
+        "label": "PER",
+        "start": 57,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "The vice presidential debate is scheduled for Oct. 2.",
+    "entities": []
+  },
+  {
+    "text": "RALLYING - LEADING POSITIONS IN 1,000 LAKES RALLY.",
+    "entities": []
+  },
+  {
+    "text": "(in tonnes)",
+    "entities": []
+  },
+  {
+    "text": "1. Museeuw 162 points",
+    "entities": [
+      {
+        "text": "Museeuw",
+        "label": "PER",
+        "start": 3,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "Arsenal 3 2 0 1 4 2 6",
+    "entities": [
+      {
+        "text": "Arsenal",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "But Filipovic said he would not quit under pressure. \"",
+    "entities": [
+      {
+        "text": "Filipovic",
+        "label": "PER",
+        "start": 4,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "The United States accuses Rashid of belonging to the May 15 Palestinian guerrilla group and being an accomplished student of master Palestinian bombmaker Abu Ibrahim.",
+    "entities": [
+      {
+        "text": "United States",
+        "label": "LOC",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "Rashid",
+        "label": "PER",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "text": "Abu Ibrahim",
+        "label": "PER",
+        "start": 154,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "text": "Saskatchewan Pork International Marketing Group has an export monopoly but some Saskatchewan farmers earlier this month called for an open market in hogs.",
+    "entities": [
+      {
+        "text": "Saskatchewan Pork International Marketing Group",
+        "label": "ORG",
+        "start": 0,
+        "end": 47
+      },
+      {
+        "text": "Saskatchewan",
+        "label": "LOC",
+        "start": 80,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "Playing Monday: Viktoria Plzen v AC Sparta Praha",
+    "entities": [
+      {
+        "text": "Viktoria Plzen",
+        "label": "ORG",
+        "start": 16,
+        "end": 30
+      },
+      {
+        "text": "AC Sparta Praha",
+        "label": "ORG",
+        "start": 33,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "Elena Wagner (Germany) beat Gigi Fernandez (U.S.) 6-1 6-4",
+    "entities": [
+      {
+        "text": "Elena Wagner",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "text": "Gigi Fernandez",
+        "label": "PER",
+        "start": 28,
+        "end": 42
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 44,
+        "end": 48
+      }
+    ]
+  }
+]

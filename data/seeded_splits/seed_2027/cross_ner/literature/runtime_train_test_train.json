@@ -1,0 +1,2490 @@
+[
+  {
+    "text": "Some critics, among them William Veeder, suggest that Carmilla, notably in its outlandish use of narrative frames, was an important influence on Henry James ' The Turn of the Screw (1898).",
+    "entities": [
+      {
+        "text": "William Veeder",
+        "label": "writer",
+        "start": 25,
+        "end": 39
+      },
+      {
+        "text": "Carmilla",
+        "label": "book",
+        "start": 54,
+        "end": 62
+      },
+      {
+        "text": "Henry James",
+        "label": "writer",
+        "start": 145,
+        "end": 156
+      },
+      {
+        "text": "The Turn of the Screw",
+        "label": "book",
+        "start": 159,
+        "end": 180
+      }
+    ]
+  },
+  {
+    "text": "He even writes a book about mystery fiction in which he deals sternly with Edgar Allan Poe and Wilkie Collins.",
+    "entities": [
+      {
+        "text": "mystery fiction",
+        "label": "literarygenre",
+        "start": 28,
+        "end": 43
+      },
+      {
+        "text": "Edgar Allan Poe",
+        "label": "writer",
+        "start": 75,
+        "end": 90
+      },
+      {
+        "text": "Wilkie Collins",
+        "label": "writer",
+        "start": 95,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "Swift is remembered for works such as A Tale of a Tub (1704), An Argument Against Abolishing Christianity (1712), Gulliver's Travels (1726), and A Modest Proposal (1729).",
+    "entities": [
+      {
+        "text": "Swift",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "A Tale of a Tub",
+        "label": "book",
+        "start": 38,
+        "end": 53
+      },
+      {
+        "text": "An Argument Against Abolishing Christianity",
+        "label": "book",
+        "start": 62,
+        "end": 105
+      },
+      {
+        "text": "Gulliver's Travels",
+        "label": "book",
+        "start": 114,
+        "end": 132
+      },
+      {
+        "text": "A Modest Proposal",
+        "label": "book",
+        "start": 145,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "text": "Under the influence of Adrian Maniu, the adolescent Tzara became interested in Symbolism and co-founded the magazine Simbolul with Ion Vinea (with whom he also wrote experimental poetry) and painter Marcel Janco.",
+    "entities": [
+      {
+        "text": "Adrian Maniu",
+        "label": "writer",
+        "start": 23,
+        "end": 35
+      },
+      {
+        "text": "Tzara",
+        "label": "writer",
+        "start": 52,
+        "end": 57
+      },
+      {
+        "text": "Symbolism",
+        "label": "literarygenre",
+        "start": 79,
+        "end": 88
+      },
+      {
+        "text": "Ion Vinea",
+        "label": "writer",
+        "start": 131,
+        "end": 140
+      },
+      {
+        "text": "experimental poetry",
+        "label": "literarygenre",
+        "start": 166,
+        "end": 185
+      },
+      {
+        "text": "Marcel Janco",
+        "label": "person",
+        "start": 199,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "The Rape of Nanking: The Forgotten Holocaust of World War II is a bestselling 1997 non-fiction book written by Iris Chang about the 1937-1938 Nanking Massacre, the massacre and atrocities committed by the Imperial Japanese Army after it captured Nanjing, then capital of China, during the Second Sino-Japanese War.",
+    "entities": [
+      {
+        "text": "The Rape of Nanking: The Forgotten Holocaust of World War II",
+        "label": "book",
+        "start": 0,
+        "end": 60
+      },
+      {
+        "text": "Iris Chang",
+        "label": "writer",
+        "start": 111,
+        "end": 121
+      },
+      {
+        "text": "Nanjing",
+        "label": "location",
+        "start": 246,
+        "end": 253
+      }
+    ]
+  },
+  {
+    "text": "Moore won the Academy Award for Best Actress for her playing an Alzheimer's patient in Still Alice (2014) and was named Best Actress at the Cannes Film Festival for Maps to the Stars (2014).",
+    "entities": [
+      {
+        "text": "Moore",
+        "label": "person",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "The poem was inspired by The Rodiad (1871), falsely ascribed to George Colman the Younger,",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "George Colman the Younger",
+        "label": "writer",
+        "start": 64,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "Considered by many critics, filmmakers, and fans to be the greatest film ever made, Citizen Kane was voted as such in five consecutive British Film Institute Sight & Sound polls of critics, and it topped the American Film Institute ' s 100 Years ... 100 Movies list in 1998, as well as its 2007 update.",
+    "entities": []
+  },
+  {
+    "text": "Akhundzade's first published work was Eastern poem on the death of Pushkin (1837), written to lament the death of the great Russian poet Alexander Pushkin.",
+    "entities": [
+      {
+        "text": "Akhundzade",
+        "label": "writer",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Alexander Pushkin",
+        "label": "writer",
+        "start": 137,
+        "end": 154
+      }
+    ]
+  },
+  {
+    "text": "Tallulah premiered at the 2016 Sundance Film Festival on January 23, 2016 and was released on Netflix on July 29, 2016.",
+    "entities": []
+  },
+  {
+    "text": "The Great Hunt is a fantasy novel by United States author Robert Jordan, the second book of The Wheel of Time series.",
+    "entities": [
+      {
+        "text": "The Great Hunt",
+        "label": "book",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "fantasy novel",
+        "label": "literarygenre",
+        "start": 20,
+        "end": 33
+      },
+      {
+        "text": "Robert Jordan",
+        "label": "writer",
+        "start": 58,
+        "end": 71
+      },
+      {
+        "text": "The Wheel of Time",
+        "label": "book",
+        "start": 92,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "The Anglo-Irish writer Jonathan Swift (1667-1745), in his Discourse on the Contests and Dissentions in Athens and Rome, criticized Augustus for installing tyranny over Rome, and likened what he believed United Kingdom ' s virtuous constitutional monarchy to Rome's moral Republic of the 2nd century BC.",
+    "entities": [
+      {
+        "text": "Jonathan Swift",
+        "label": "writer",
+        "start": 23,
+        "end": 37
+      },
+      {
+        "text": "Discourse on the Contests and Dissentions in Athens and Rome",
+        "label": "book",
+        "start": 58,
+        "end": 118
+      },
+      {
+        "text": "Augustus",
+        "label": "person",
+        "start": 131,
+        "end": 139
+      },
+      {
+        "text": "Rome",
+        "label": "location",
+        "start": 168,
+        "end": 172
+      },
+      {
+        "text": "Rome",
+        "label": "location",
+        "start": 258,
+        "end": 262
+      }
+    ]
+  },
+  {
+    "text": "In New York, he socialized at the Hydra Club, an organization of New York's science fiction writers, including such luminaries as Isaac Asimov, James Blish, Anthony Boucher, Avram Davidson, Judith Merril, and Theodore Sturgeon.",
+    "entities": [
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 3,
+        "end": 11
+      },
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 65,
+        "end": 73
+      },
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 76,
+        "end": 91
+      },
+      {
+        "text": "Isaac Asimov",
+        "label": "writer",
+        "start": 130,
+        "end": 142
+      },
+      {
+        "text": "James Blish",
+        "label": "writer",
+        "start": 144,
+        "end": 155
+      },
+      {
+        "text": "Anthony Boucher",
+        "label": "writer",
+        "start": 157,
+        "end": 172
+      },
+      {
+        "text": "Avram Davidson",
+        "label": "writer",
+        "start": 174,
+        "end": 188
+      },
+      {
+        "text": "Judith Merril",
+        "label": "writer",
+        "start": 190,
+        "end": 203
+      },
+      {
+        "text": "Theodore Sturgeon",
+        "label": "writer",
+        "start": 209,
+        "end": 226
+      }
+    ]
+  },
+  {
+    "text": "In 1946, she was awarded a Guggenheim Fellowship for Creative Work in the Field of Motion Pictures, and won the Grand Prix Internationale for 16mm experimental film at the Cannes Film Festival for Meshes of the Afternoon (1943).",
+    "entities": []
+  },
+  {
+    "text": "Media coverage of Lewis's death was almost completely overshadowed by news of the assassination of US President John F. Kennedy, which occurred on the same day (approximately 55 minutes following Lewis's collapse), as did the death of English writer Aldous Huxley, author of Brave New World.",
+    "entities": [
+      {
+        "text": "Lewis",
+        "label": "writer",
+        "start": 18,
+        "end": 23
+      },
+      {
+        "text": "John F. Kennedy",
+        "label": "person",
+        "start": 112,
+        "end": 127
+      },
+      {
+        "text": "Lewis",
+        "label": "writer",
+        "start": 196,
+        "end": 201
+      },
+      {
+        "text": "Aldous Huxley",
+        "label": "writer",
+        "start": 250,
+        "end": 263
+      },
+      {
+        "text": "Brave New World",
+        "label": "book",
+        "start": 275,
+        "end": 290
+      }
+    ]
+  },
+  {
+    "text": ") Huxley received screen credit for Pride and Prejudice (1940) and was paid for his work on a number of other films, including Jane Eyre (1944).",
+    "entities": [
+      {
+        "text": "Huxley",
+        "label": "writer",
+        "start": 2,
+        "end": 8
+      },
+      {
+        "text": "Pride and Prejudice",
+        "label": "book",
+        "start": 36,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "text": "The Pulitzer Prize -winning The Grapes of Wrath (1939)",
+    "entities": [
+      {
+        "text": "The Grapes of Wrath",
+        "label": "book",
+        "start": 28,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "text": "Big Brother is a fictional character and symbol in George Orwell ' s dystopian novel Nineteen Eighty-Four, published in 1949.",
+    "entities": [
+      {
+        "text": "Big Brother",
+        "label": "person",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "George Orwell",
+        "label": "writer",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "dystopian novel",
+        "label": "literarygenre",
+        "start": 69,
+        "end": 84
+      },
+      {
+        "text": "Nineteen Eighty-Four",
+        "label": "book",
+        "start": 85,
+        "end": 105
+      }
+    ]
+  },
+  {
+    "text": "In his 1981 book about the horror genre, Danse Macabre, Stephen King reviewed Ellison's collection Strange Wine and considered it one of the best horror books published between 1950 and 1980.",
+    "entities": [
+      {
+        "text": "horror genre",
+        "label": "literarygenre",
+        "start": 27,
+        "end": 39
+      },
+      {
+        "text": "Stephen King",
+        "label": "writer",
+        "start": 56,
+        "end": 68
+      },
+      {
+        "text": "Ellison",
+        "label": "writer",
+        "start": 78,
+        "end": 85
+      },
+      {
+        "text": "Strange Wine",
+        "label": "book",
+        "start": 99,
+        "end": 111
+      },
+      {
+        "text": "horror books",
+        "label": "literarygenre",
+        "start": 146,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "text": "Hunter S. Thompson wrote a scathing piece denouncing Nixon for Rolling Stone, entitled He Was a Crook (which also appeared a month later in The Atlantic) .ref name = atlantic In his article, Thompson described Nixon as a political monster straight out of Grendel and a very dangerous enemy.",
+    "entities": [
+      {
+        "text": "Hunter S. Thompson",
+        "label": "writer",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "Nixon",
+        "label": "person",
+        "start": 53,
+        "end": 58
+      },
+      {
+        "text": "Thompson",
+        "label": "writer",
+        "start": 191,
+        "end": 199
+      },
+      {
+        "text": "Nixon",
+        "label": "person",
+        "start": 210,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "Also in 2007 he provided consulting services to Silver Pictures on the film adaptation of Richard K. Morgan ' s hardboiled cyberpunk science-fiction novel Altered Carbon (2002).",
+    "entities": [
+      {
+        "text": "Richard K. Morgan",
+        "label": "writer",
+        "start": 90,
+        "end": 107
+      },
+      {
+        "text": "science-fiction novel",
+        "label": "literarygenre",
+        "start": 133,
+        "end": 154
+      },
+      {
+        "text": "Altered Carbon",
+        "label": "book",
+        "start": 155,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "When Handke was awarded the International Ibsen Award in 2014, it caused some calls On the other hand, Jon Fosse, former recipient of the prize, welcomed the decision, saying that Handke was a worthy recipient and deserved the Nobel Prize in Literature.",
+    "entities": [
+      {
+        "text": "Handke",
+        "label": "writer",
+        "start": 5,
+        "end": 11
+      },
+      {
+        "text": "Jon Fosse",
+        "label": "writer",
+        "start": 103,
+        "end": 112
+      },
+      {
+        "text": "Handke",
+        "label": "writer",
+        "start": 180,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "text": "In 1967 Algis Budrys listed Aldiss, J. G. Ballard, Roger Zelazny, and Samuel R. Delany as an earthshaking new kind of writers, and leaders of the New Wave.",
+    "entities": [
+      {
+        "text": "Algis Budrys",
+        "label": "writer",
+        "start": 8,
+        "end": 20
+      },
+      {
+        "text": "J. G. Ballard",
+        "label": "writer",
+        "start": 36,
+        "end": 49
+      },
+      {
+        "text": "Roger Zelazny",
+        "label": "writer",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "Samuel R. Delany",
+        "label": "writer",
+        "start": 70,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "text": "Philip K. Dick ' s novel, The Man in the High Castle (1962), is an alternate history in which Nazi Germany and Imperial Japan won World War II.",
+    "entities": [
+      {
+        "text": "Philip K. Dick",
+        "label": "writer",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "The Man in the High Castle",
+        "label": "book",
+        "start": 26,
+        "end": 52
+      },
+      {
+        "text": "alternate history",
+        "label": "literarygenre",
+        "start": 67,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "text": "Jewish historians who lived at Alexandria, such as Eupolemus, attributed to Moses the feat of having taught the Phoenicians their alphabet, Eusebius, Praeparatio evangelica ix.",
+    "entities": [
+      {
+        "text": "Alexandria",
+        "label": "location",
+        "start": 31,
+        "end": 41
+      },
+      {
+        "text": "Eupolemus",
+        "label": "person",
+        "start": 51,
+        "end": 60
+      },
+      {
+        "text": "Moses",
+        "label": "person",
+        "start": 76,
+        "end": 81
+      },
+      {
+        "text": "Eusebius",
+        "label": "writer",
+        "start": 140,
+        "end": 148
+      },
+      {
+        "text": "Praeparatio evangelica ix",
+        "label": "book",
+        "start": 150,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "During most of his career, Orwell was best known for his journalism, in essays, reviews, columns in newspapers and magazines and in his books of reportage: Down and Out in Paris and London (describing a period of poverty in these cities), The Road to Wigan Pier (describing the living conditions of the poor in northern England, and class division generally) and Homage to Catalonia.",
+    "entities": [
+      {
+        "text": "Orwell",
+        "label": "writer",
+        "start": 27,
+        "end": 33
+      },
+      {
+        "text": "Down and Out in Paris and London",
+        "label": "book",
+        "start": 156,
+        "end": 188
+      },
+      {
+        "text": "The Road to Wigan Pier",
+        "label": "book",
+        "start": 239,
+        "end": 261
+      },
+      {
+        "text": "Homage to Catalonia",
+        "label": "book",
+        "start": 363,
+        "end": 382
+      }
+    ]
+  },
+  {
+    "text": "In the sultanate, Burgess sketched the novel that, when it was published in 1961, was to be entitled Devil of a State and, although it dealt with Brunei, for libel reasons the action had to be transposed to an imaginary East African territory similar to Zanzibar, named Dunia.",
+    "entities": [
+      {
+        "text": "Burgess",
+        "label": "writer",
+        "start": 18,
+        "end": 25
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 39,
+        "end": 44
+      },
+      {
+        "text": "Devil of a State",
+        "label": "book",
+        "start": 101,
+        "end": 117
+      },
+      {
+        "text": "East African",
+        "label": "location",
+        "start": 220,
+        "end": 232
+      }
+    ]
+  },
+  {
+    "text": "For his 100th, 200th, and 300th books (based on his personal count), Asimov published Opus 100 (1969), Opus 200 (1979), and Opus 300 (1984), celebrating his writing.",
+    "entities": [
+      {
+        "text": "Asimov",
+        "label": "writer",
+        "start": 69,
+        "end": 75
+      },
+      {
+        "text": "Opus 100",
+        "label": "book",
+        "start": 86,
+        "end": 94
+      },
+      {
+        "text": "Opus 200",
+        "label": "book",
+        "start": 103,
+        "end": 111
+      },
+      {
+        "text": "Opus 300",
+        "label": "book",
+        "start": 124,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "text": "He was also a lifetime member of the Veterans of Foreign Wars, the American Legion, and Sigma Chi fraternity.",
+    "entities": []
+  },
+  {
+    "text": "Following the introduction of the talkies, Dwan directed child-star Shirley Temple in Heidi (1937) and Rebecca of Sunnybrook Farm (1938).",
+    "entities": [
+      {
+        "text": "Dwan",
+        "label": "person",
+        "start": 43,
+        "end": 47
+      },
+      {
+        "text": "Shirley Temple",
+        "label": "person",
+        "start": 68,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "Philip Roth ' s novel, The Plot Against America (2004), looks at an America where Franklin D. Roosevelt is defeated in 1940 in his bid for a third term as President of the United States, and Charles Lindbergh is elected, leading to a US that features increasing fascism and anti-Semitism.",
+    "entities": [
+      {
+        "text": "Philip Roth",
+        "label": "writer",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 16,
+        "end": 21
+      },
+      {
+        "text": "The Plot Against America",
+        "label": "book",
+        "start": 23,
+        "end": 47
+      },
+      {
+        "text": "Franklin D. Roosevelt",
+        "label": "person",
+        "start": 82,
+        "end": 103
+      },
+      {
+        "text": "Charles Lindbergh",
+        "label": "person",
+        "start": 191,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "Gordon continued her stage acting career in the 1950s, and was nominated for a 1956 Tony Award, for Tony Award for Best Performance by a Leading Actress in a Play, for her portrayal of Dolly Levi in Thornton Wilder ' s The Matchmaker, a role she also played in London, Edinburgh and Berlin.",
+    "entities": [
+      {
+        "text": "Gordon",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Dolly Levi",
+        "label": "person",
+        "start": 185,
+        "end": 195
+      },
+      {
+        "text": "Thornton Wilder",
+        "label": "writer",
+        "start": 199,
+        "end": 214
+      },
+      {
+        "text": "The Matchmaker",
+        "label": "book",
+        "start": 219,
+        "end": 233
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 261,
+        "end": 267
+      },
+      {
+        "text": "Edinburgh",
+        "label": "location",
+        "start": 269,
+        "end": 278
+      },
+      {
+        "text": "Berlin",
+        "label": "location",
+        "start": 283,
+        "end": 289
+      }
+    ]
+  },
+  {
+    "text": "Several of Du Maurier's other novels have also been adapted for the screen, including Jamaica Inn, Frenchman's Creek, Hungry Hill, and My Cousin Rachel.",
+    "entities": [
+      {
+        "text": "Du Maurier",
+        "label": "writer",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 30,
+        "end": 36
+      },
+      {
+        "text": "Jamaica Inn",
+        "label": "book",
+        "start": 86,
+        "end": 97
+      },
+      {
+        "text": "Frenchman's Creek",
+        "label": "book",
+        "start": 99,
+        "end": 116
+      },
+      {
+        "text": "Hungry Hill",
+        "label": "book",
+        "start": 118,
+        "end": 129
+      },
+      {
+        "text": "My Cousin Rachel",
+        "label": "book",
+        "start": 135,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "They were Rachel, Rachel (1968), based on Margaret Laurence ' s A Jest of God, the screen version of the Pulitzer Prize -winning play The Effect of Gamma Rays on Man-in-the-Moon Marigolds (1972), the television screen version of the Pulitzer Prize-winning play The Shadow Box (1980), and a screen version of Tennessee Williams ' The Glass Menagerie (1987).",
+    "entities": [
+      {
+        "text": "Margaret Laurence",
+        "label": "writer",
+        "start": 42,
+        "end": 59
+      },
+      {
+        "text": "A Jest of God",
+        "label": "book",
+        "start": 64,
+        "end": 77
+      },
+      {
+        "text": "The Effect of Gamma Rays on Man-in-the-Moon Marigolds",
+        "label": "book",
+        "start": 134,
+        "end": 187
+      },
+      {
+        "text": "The Shadow Box",
+        "label": "book",
+        "start": 261,
+        "end": 275
+      },
+      {
+        "text": "Tennessee Williams",
+        "label": "writer",
+        "start": 308,
+        "end": 326
+      },
+      {
+        "text": "The Glass Menagerie",
+        "label": "book",
+        "start": 329,
+        "end": 348
+      }
+    ]
+  },
+  {
+    "text": "Again, in the English Renaissance fantasy Armor of Light by Melissa Scott and Lisa A. Barnett, the magic used in the book, by Dr. John Dee and others, actually was practiced in the Renaissance; positing a secret history of effective magic makes this an alternate history with a POD, Sir Philip Sidney ' s surviving the Battle of Zutphen in 1586, and shortly thereafter saving the life of Christopher Marlowe.",
+    "entities": [
+      {
+        "text": "Armor of Light",
+        "label": "book",
+        "start": 42,
+        "end": 56
+      },
+      {
+        "text": "Melissa Scott",
+        "label": "writer",
+        "start": 60,
+        "end": 73
+      },
+      {
+        "text": "Lisa A. Barnett",
+        "label": "writer",
+        "start": 78,
+        "end": 93
+      },
+      {
+        "text": "Dr. John Dee",
+        "label": "person",
+        "start": 126,
+        "end": 138
+      },
+      {
+        "text": "alternate history",
+        "label": "literarygenre",
+        "start": 253,
+        "end": 270
+      },
+      {
+        "text": "Sir Philip Sidney",
+        "label": "person",
+        "start": 283,
+        "end": 300
+      },
+      {
+        "text": "Christopher Marlowe",
+        "label": "person",
+        "start": 388,
+        "end": 407
+      }
+    ]
+  },
+  {
+    "text": "Catullus twice used a meter that Sappho developed, called the Sapphic strophe, in poems Catullus 11 and 51, perhaps prompting his successor Horace's interest in the form.",
+    "entities": [
+      {
+        "text": "Catullus",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Sappho",
+        "label": "writer",
+        "start": 33,
+        "end": 39
+      },
+      {
+        "text": "Horace",
+        "label": "writer",
+        "start": 140,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "For his work, he received numerous accolades, including six Primetime Emmy Award s, a Tony Award, a Mark Twain Prize and a star on the Hollywood Walk of Fame in 1991.",
+    "entities": [
+      {
+        "text": "Hollywood Walk of Fame",
+        "label": "location",
+        "start": 135,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "text": "Sebastian (Claude Rains) in Notorious has a clearly conflicting relationship with his mother, who is (rightly) suspicious of his new bride, Alicia Huberman (Ingrid Bergman).",
+    "entities": [
+      {
+        "text": "Sebastian",
+        "label": "person",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Claude Rains",
+        "label": "person",
+        "start": 11,
+        "end": 23
+      },
+      {
+        "text": "Alicia Huberman",
+        "label": "person",
+        "start": 140,
+        "end": 155
+      },
+      {
+        "text": "Ingrid Bergman",
+        "label": "person",
+        "start": 157,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "The film premiered at the Venice Film Festival where it won the festival's Mimmo Rotella Foundation Award.",
+    "entities": []
+  },
+  {
+    "text": "Kelly, who had by now changed his identity to Clark, first met Domingo Ding Chavez in the CIA during a black operation in Colombia (Clear and Present Danger).",
+    "entities": [
+      {
+        "text": "Kelly",
+        "label": "person",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Clark",
+        "label": "person",
+        "start": 46,
+        "end": 51
+      },
+      {
+        "text": "Domingo Ding Chavez",
+        "label": "person",
+        "start": 63,
+        "end": 82
+      },
+      {
+        "text": "Clear and Present Danger",
+        "label": "book",
+        "start": 132,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "They believe that the gathering of all of the nations of the earth refers to the uniting of the world's political powers, as a gradual process which began in 1914 and was later seen in manifestations such as the League of Nations and the United Nations following the First and Second World War s.",
+    "entities": []
+  },
+  {
+    "text": "Also, In the short story La Santa, by Nobel Prize winner Gabriel García Márquez a character is named after Zavattini.",
+    "entities": [
+      {
+        "text": "short story",
+        "label": "literarygenre",
+        "start": 13,
+        "end": 24
+      },
+      {
+        "text": "La Santa",
+        "label": "book",
+        "start": 25,
+        "end": 33
+      },
+      {
+        "text": "Gabriel García Márquez",
+        "label": "writer",
+        "start": 57,
+        "end": 79
+      },
+      {
+        "text": "Zavattini",
+        "label": "person",
+        "start": 107,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "text": "He knew patristic literature, as well as Pliny the Elder, Virgil, Lucretius, Ovid, Horace and other classical writers.",
+    "entities": [
+      {
+        "text": "patristic literature",
+        "label": "literarygenre",
+        "start": 8,
+        "end": 28
+      },
+      {
+        "text": "Pliny the Elder",
+        "label": "writer",
+        "start": 41,
+        "end": 56
+      },
+      {
+        "text": "Virgil",
+        "label": "writer",
+        "start": 58,
+        "end": 64
+      },
+      {
+        "text": "Lucretius",
+        "label": "writer",
+        "start": 66,
+        "end": 75
+      },
+      {
+        "text": "Ovid",
+        "label": "writer",
+        "start": 77,
+        "end": 81
+      },
+      {
+        "text": "Horace",
+        "label": "writer",
+        "start": 83,
+        "end": 89
+      },
+      {
+        "text": "classical",
+        "label": "literarygenre",
+        "start": 100,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "For his performance in the latter, Phoenix garnered enormous praise and won a Volpi Cup for Best Actor at the Venice Film Festival, along with Best Actor from the National Society of Film Critics.",
+    "entities": [
+      {
+        "text": "Phoenix",
+        "label": "person",
+        "start": 35,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "text": "This aversion to war also led Einstein to befriend author Upton Sinclair and film star Charlie Chaplin, both noted for their pacifism.",
+    "entities": [
+      {
+        "text": "Einstein",
+        "label": "person",
+        "start": 30,
+        "end": 38
+      },
+      {
+        "text": "Upton Sinclair",
+        "label": "writer",
+        "start": 58,
+        "end": 72
+      },
+      {
+        "text": "Charlie Chaplin",
+        "label": "person",
+        "start": 87,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Al Capp Admits One Morals Count; Pays $500 Fine; The Capital Times, February 12, 1972 In a December 1992 article for The New Yorker, Seymour Hersh reported that President Richard Nixon and Charles Colson had repeatedly discussed the Capp case in Oval Office recordings that had recently been made available by the National Archives.",
+    "entities": [
+      {
+        "text": "Al Capp",
+        "label": "writer",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Seymour Hersh",
+        "label": "writer",
+        "start": 133,
+        "end": 146
+      },
+      {
+        "text": "Richard Nixon",
+        "label": "person",
+        "start": 171,
+        "end": 184
+      },
+      {
+        "text": "Charles Colson",
+        "label": "person",
+        "start": 189,
+        "end": 203
+      },
+      {
+        "text": "Capp",
+        "label": "writer",
+        "start": 233,
+        "end": 237
+      },
+      {
+        "text": "Oval Office",
+        "label": "location",
+        "start": 246,
+        "end": 257
+      }
+    ]
+  },
+  {
+    "text": "When a little older, she moved on to reading the surreal verse of Edward Lear and Lewis Carroll.",
+    "entities": [
+      {
+        "text": "surreal verse",
+        "label": "literarygenre",
+        "start": 49,
+        "end": 62
+      },
+      {
+        "text": "Edward Lear",
+        "label": "writer",
+        "start": 66,
+        "end": 77
+      },
+      {
+        "text": "Lewis Carroll",
+        "label": "writer",
+        "start": 82,
+        "end": 95
+      }
+    ]
+  },
+  {
+    "text": "Rosa is an avid collector of many things, including comic books, TV Guide, National Geographic, and movie magazines, fanzines, books, White Castle memorabilia, pinball machines and movies and more.2018-02-04",
+    "entities": [
+      {
+        "text": "Rosa",
+        "label": "person",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "comic",
+        "label": "literarygenre",
+        "start": 52,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "text": "Le Guin refused a Nebula Award for Best Novelette for her story The Diary of the Rose in 1977, in protest at the Science Fiction Writers of America ' s revocation of Stanisław Lem ' s membership.",
+    "entities": [
+      {
+        "text": "Le Guin",
+        "label": "writer",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "The Diary of the Rose",
+        "label": "book",
+        "start": 64,
+        "end": 85
+      },
+      {
+        "text": "Stanisław Lem",
+        "label": "writer",
+        "start": 166,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "text": "Wilhelm Meister's Apprenticeship provided the text for many lied er, among others by Beethoven, for example Sehnsucht: Gedicht von Goethe viermal in Musik gesetzt von L. van Beethoven, four settings of Nur wer die Sehnsucht kennt, WoO.",
+    "entities": [
+      {
+        "text": "Wilhelm Meister's Apprenticeship",
+        "label": "book",
+        "start": 0,
+        "end": 32
+      },
+      {
+        "text": "Beethoven",
+        "label": "person",
+        "start": 85,
+        "end": 94
+      },
+      {
+        "text": "L. van Beethoven",
+        "label": "person",
+        "start": 167,
+        "end": 183
+      }
+    ]
+  },
+  {
+    "text": "Dennis MacAlistair Ritchie (September 9, 1941 - October 12, 2011) Ritchie and Thompson were awarded the Turing Award from the Association for Computing Machinery in 1983, the IEEE Richard W. Hamming Medal from the Institute of Electrical and Electronics Engineers in 1990 and the National Medal of Technology from President Bill Clinton in 1999.",
+    "entities": [
+      {
+        "text": "Dennis MacAlistair Ritchie",
+        "label": "person",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "Ritchie",
+        "label": "person",
+        "start": 66,
+        "end": 73
+      },
+      {
+        "text": "Thompson",
+        "label": "person",
+        "start": 78,
+        "end": 86
+      },
+      {
+        "text": "Bill Clinton",
+        "label": "person",
+        "start": 324,
+        "end": 336
+      }
+    ]
+  },
+  {
+    "text": "Have Space Suit - Will Travel is a science fiction novel for young readers by American writer Robert A. Heinlein, originally serialised in The Magazine of Fantasy & Science Fiction (August, September, October 1958) and published by Scribner's in hardcover in 1958.",
+    "entities": [
+      {
+        "text": "Have Space Suit - Will Travel",
+        "label": "book",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "science fiction novel",
+        "label": "literarygenre",
+        "start": 35,
+        "end": 56
+      },
+      {
+        "text": "Robert A. Heinlein",
+        "label": "writer",
+        "start": 94,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "text": "; few writers focus on this idea, although it has been explored in stories such as Larry Niven ' s story All the Myriad Ways, where the reality of all possible universes leads to an epidemic of suicide and crime because people conclude their choices have no moral import.",
+    "entities": [
+      {
+        "text": "Larry Niven",
+        "label": "writer",
+        "start": 83,
+        "end": 94
+      },
+      {
+        "text": "All the Myriad Ways",
+        "label": "book",
+        "start": 105,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "It was a finalist for the National Book Award for Fiction! -- National Book Awards were called American for several years from 1980, but must not be confused with American Book Awards -- in 1979 (which ultimately went to Tim O 'Brien for Going After Cacciato) in the film as an official in one of Garp's high school wrestling matches.",
+    "entities": [
+      {
+        "text": "Tim O 'Brien",
+        "label": "writer",
+        "start": 221,
+        "end": 233
+      },
+      {
+        "text": "Going After Cacciato",
+        "label": "book",
+        "start": 238,
+        "end": 258
+      },
+      {
+        "text": "Garp",
+        "label": "person",
+        "start": 297,
+        "end": 301
+      }
+    ]
+  },
+  {
+    "text": "These styles included the historical fiction of Memories of the Ford Administration (1992), the magical realism of Brazil (1994), the science fiction of Toward the End of Time (1997), the postmodernism of Gertrude and Claudius (2000), and the experimental fiction of Seek My Face (2002).",
+    "entities": [
+      {
+        "text": "historical fiction",
+        "label": "literarygenre",
+        "start": 26,
+        "end": 44
+      },
+      {
+        "text": "Memories of the Ford Administration",
+        "label": "book",
+        "start": 48,
+        "end": 83
+      },
+      {
+        "text": "magical realism",
+        "label": "literarygenre",
+        "start": 96,
+        "end": 111
+      },
+      {
+        "text": "Brazil",
+        "label": "book",
+        "start": 115,
+        "end": 121
+      },
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 134,
+        "end": 149
+      },
+      {
+        "text": "Toward the End of Time",
+        "label": "book",
+        "start": 153,
+        "end": 175
+      },
+      {
+        "text": "postmodernism",
+        "label": "literarygenre",
+        "start": 188,
+        "end": 201
+      },
+      {
+        "text": "Gertrude and Claudius",
+        "label": "book",
+        "start": 205,
+        "end": 226
+      },
+      {
+        "text": "experimental fiction",
+        "label": "literarygenre",
+        "start": 243,
+        "end": 263
+      },
+      {
+        "text": "Seek My Face",
+        "label": "book",
+        "start": 267,
+        "end": 279
+      }
+    ]
+  },
+  {
+    "text": "The friends joined in keeping up the delusion that Erskine and not Scott was the author of the portions of The Bridal of Triermain, and wrote a preface intended to throw out the knowing ones.",
+    "entities": [
+      {
+        "text": "Erskine",
+        "label": "location",
+        "start": 51,
+        "end": 58
+      },
+      {
+        "text": "Scott",
+        "label": "location",
+        "start": 67,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "text": "Science fiction set in what was the future but is now the past, like Arthur C. Clarke ' s 2001: A Space Odyssey or George Orwell ' s Nineteen Eighty-Four, is not alternate history because the author did not make the choice to change the past at the time of writing.",
+    "entities": [
+      {
+        "text": "Science fiction",
+        "label": "literarygenre",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Arthur C. Clarke",
+        "label": "writer",
+        "start": 69,
+        "end": 85
+      },
+      {
+        "text": "2001: A Space Odyssey",
+        "label": "book",
+        "start": 90,
+        "end": 111
+      },
+      {
+        "text": "George Orwell",
+        "label": "writer",
+        "start": 115,
+        "end": 128
+      },
+      {
+        "text": "Nineteen Eighty-Four",
+        "label": "book",
+        "start": 133,
+        "end": 153
+      },
+      {
+        "text": "alternate history",
+        "label": "literarygenre",
+        "start": 162,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "text": "In 2012, when the Nobel Prize Records were opened after 50 years, it was revealed that Durrell had been on a shortlist of authors considered for the 1962 Nobel Prize in Literature, along with American John Steinbeck (winner), British poet Robert Graves, French writer Jean Anouilh, and the Danish Karen Blixen.",
+    "entities": [
+      {
+        "text": "Durrell",
+        "label": "writer",
+        "start": 87,
+        "end": 94
+      },
+      {
+        "text": "John Steinbeck",
+        "label": "writer",
+        "start": 201,
+        "end": 215
+      },
+      {
+        "text": "Robert Graves",
+        "label": "writer",
+        "start": 239,
+        "end": 252
+      },
+      {
+        "text": "Jean Anouilh",
+        "label": "writer",
+        "start": 268,
+        "end": 280
+      },
+      {
+        "text": "Karen Blixen",
+        "label": "writer",
+        "start": 297,
+        "end": 309
+      }
+    ]
+  },
+  {
+    "text": "He wrote many, including such favorites as If I Ran the Zoo (1950), Horton Hears a Who! (1955), If I Ran the Circus (1956), The Cat in the Hat (1957), How the Grinch Stole Christmas! (1957), and Green Eggs and Ham (1960).",
+    "entities": [
+      {
+        "text": "If I Ran the Zoo",
+        "label": "book",
+        "start": 43,
+        "end": 59
+      },
+      {
+        "text": "Horton Hears a Who!",
+        "label": "book",
+        "start": 68,
+        "end": 87
+      },
+      {
+        "text": "If I Ran the Circus",
+        "label": "book",
+        "start": 96,
+        "end": 115
+      },
+      {
+        "text": "The Cat in the Hat",
+        "label": "book",
+        "start": 124,
+        "end": 142
+      },
+      {
+        "text": "How the Grinch Stole Christmas!",
+        "label": "book",
+        "start": 151,
+        "end": 182
+      },
+      {
+        "text": "Green Eggs and Ham",
+        "label": "book",
+        "start": 195,
+        "end": 213
+      }
+    ]
+  },
+  {
+    "text": "The dramatist, author and philosopher Voltaire created, with the support of the Académie française, a twelve-volume annotated set of Corneille's dramatic works, the Commentaires sur Corneille.",
+    "entities": [
+      {
+        "text": "Voltaire",
+        "label": "writer",
+        "start": 38,
+        "end": 46
+      },
+      {
+        "text": "Corneille",
+        "label": "writer",
+        "start": 133,
+        "end": 142
+      },
+      {
+        "text": "Commentaires sur Corneille",
+        "label": "book",
+        "start": 165,
+        "end": 191
+      }
+    ]
+  },
+  {
+    "text": "In 2005, Arkham House was awarded the World Fantasy Award for Small Press Achievements - the trophy at that time was a bust of H. P. Lovecraft.",
+    "entities": [
+      {
+        "text": "H. P. Lovecraft",
+        "label": "writer",
+        "start": 127,
+        "end": 142
+      }
+    ]
+  },
+  {
+    "text": "Writing for The Spectator in the UK, Graham Greene gave the film a mixed good review, characterizing the first half of the film as simple and direct and TRUE, but complaining that the second half displays a little less than life and that the last hour was permeated by banality and ennui.",
+    "entities": [
+      {
+        "text": "Graham Greene",
+        "label": "writer",
+        "start": 37,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "In 1982, she wrote the novel The Color Purple, for which she won the National Book Award for hardcover fiction, and the Pulitzer Prize for Fiction.",
+    "entities": [
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 23,
+        "end": 28
+      },
+      {
+        "text": "The Color Purple",
+        "label": "book",
+        "start": 29,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "Fredric Brown employed this subgenre to satirize the science fiction pulps and their adolescent readers - and fears of foreign invasion - in the classic What Mad Universe (1949).",
+    "entities": [
+      {
+        "text": "Fredric Brown",
+        "label": "writer",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "science fiction pulps",
+        "label": "literarygenre",
+        "start": 53,
+        "end": 74
+      },
+      {
+        "text": "What Mad Universe",
+        "label": "book",
+        "start": 153,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "Gaiman's 2009 Newbery Medal winning book The Graveyard Book will be made into a movie, with Ron Howard as the director.",
+    "entities": [
+      {
+        "text": "Gaiman",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "The Graveyard Book",
+        "label": "book",
+        "start": 41,
+        "end": 59
+      },
+      {
+        "text": "Ron Howard",
+        "label": "person",
+        "start": 92,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Wilfred Owen was killed in battle; but his poems created at the front did achieve popular attention after the war's end, .e.g., Dulce Et Decorum Est, Insensibility, Anthem for Doomed Youth, Futility and Strange Meeting.",
+    "entities": [
+      {
+        "text": "Wilfred Owen",
+        "label": "writer",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Blixen is best known for Out of Africa, an account of her life while living in East Africa Protectorate, and for one of her stories, Babette's Feast, both of which have been adapted into Academy Awards -winning motion pictures.",
+    "entities": [
+      {
+        "text": "Blixen",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Out of Africa",
+        "label": "book",
+        "start": 25,
+        "end": 38
+      },
+      {
+        "text": "East Africa Protectorate",
+        "label": "location",
+        "start": 79,
+        "end": 103
+      },
+      {
+        "text": "Babette's Feast",
+        "label": "book",
+        "start": 133,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "text": "In Nietzsche and Philosophy, for example, Deleuze claims that Nietzsche's On the Genealogy of Morality (1887) is an attempt to rewrite Kant's Critique of Pure Reason (1781), Nietzsche and Philosophy, p.",
+    "entities": [
+      {
+        "text": "Nietzsche and Philosophy",
+        "label": "book",
+        "start": 3,
+        "end": 27
+      },
+      {
+        "text": "Deleuze",
+        "label": "writer",
+        "start": 42,
+        "end": 49
+      },
+      {
+        "text": "Nietzsche",
+        "label": "writer",
+        "start": 62,
+        "end": 71
+      },
+      {
+        "text": "On the Genealogy of Morality",
+        "label": "book",
+        "start": 74,
+        "end": 102
+      },
+      {
+        "text": "Kant",
+        "label": "writer",
+        "start": 135,
+        "end": 139
+      },
+      {
+        "text": "Critique of Pure Reason",
+        "label": "book",
+        "start": 142,
+        "end": 165
+      },
+      {
+        "text": "Nietzsche and Philosophy",
+        "label": "book",
+        "start": 174,
+        "end": 198
+      }
+    ]
+  },
+  {
+    "text": "His most famous poem is The Airs of Palestine.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 16,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Pauline Kael of The New Yorker wrote that Kubrick has taken a quick-witted story and controlled it so meticulously that he's drained the blood out of it, adding, It's a coffee-table movie; we might as well be at a three-hour slide show for art-history majors.",
+    "entities": [
+      {
+        "text": "Pauline Kael",
+        "label": "writer",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Kubrick",
+        "label": "writer",
+        "start": 42,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "It was adapted by Talbot Jennings, Tess Slesinger, and Claudine West from the play by Owen Davis and Donald Davis, which was in itself based on the 1931 The Good Earth by Nobel Prize -winning author Pearl S. Buck.",
+    "entities": [
+      {
+        "text": "Talbot Jennings",
+        "label": "writer",
+        "start": 18,
+        "end": 33
+      },
+      {
+        "text": "Tess Slesinger",
+        "label": "writer",
+        "start": 35,
+        "end": 49
+      },
+      {
+        "text": "Claudine West",
+        "label": "writer",
+        "start": 55,
+        "end": 68
+      },
+      {
+        "text": "Owen Davis",
+        "label": "writer",
+        "start": 86,
+        "end": 96
+      },
+      {
+        "text": "Donald Davis",
+        "label": "writer",
+        "start": 101,
+        "end": 113
+      },
+      {
+        "text": "The Good Earth",
+        "label": "book",
+        "start": 153,
+        "end": 167
+      },
+      {
+        "text": "Pearl S. Buck",
+        "label": "writer",
+        "start": 199,
+        "end": 212
+      }
+    ]
+  },
+  {
+    "text": "It has been credited by American poets like W. S. Merwin, and American scholars like Clare Cavanagh, with having a profound impact.",
+    "entities": [
+      {
+        "text": "W. S. Merwin",
+        "label": "writer",
+        "start": 44,
+        "end": 56
+      },
+      {
+        "text": "Clare Cavanagh",
+        "label": "writer",
+        "start": 85,
+        "end": 99
+      }
+    ]
+  },
+  {
+    "text": "1283), was commemorated in the poem The Bards of Wales by the Kingdom of Hungary poet János Arany in 1857, as a way of encoded resistance to the suppressive politics of his own time.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 31,
+        "end": 35
+      },
+      {
+        "text": "János Arany",
+        "label": "writer",
+        "start": 86,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "In 1952, Capp and his characters graced the covers of both Life and TV Guide.",
+    "entities": [
+      {
+        "text": "Capp",
+        "label": "writer",
+        "start": 9,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "Due to pressure by fans on Asimov to write another book in his Foundation series, he did so with Foundation's Edge (1982) and Foundation and Earth (1986), and then went back to before the original trilogy with Prelude to Foundation (1988) and Forward the Foundation (1992), his last novel.",
+    "entities": [
+      {
+        "text": "Asimov",
+        "label": "writer",
+        "start": 27,
+        "end": 33
+      },
+      {
+        "text": "Foundation's Edge",
+        "label": "book",
+        "start": 97,
+        "end": 114
+      },
+      {
+        "text": "Foundation and Earth",
+        "label": "book",
+        "start": 126,
+        "end": 146
+      },
+      {
+        "text": "Prelude to Foundation",
+        "label": "book",
+        "start": 210,
+        "end": 231
+      },
+      {
+        "text": "Forward the Foundation",
+        "label": "book",
+        "start": 243,
+        "end": 265
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 283,
+        "end": 288
+      }
+    ]
+  },
+  {
+    "text": "Sterling is one of the founders of the cyberpunk movement in science fiction, along with William Gibson, Rudy Rucker, John Shirley, Lewis Shiner, and Pat Cadigan.",
+    "entities": [
+      {
+        "text": "Sterling",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 61,
+        "end": 76
+      },
+      {
+        "text": "William Gibson",
+        "label": "writer",
+        "start": 89,
+        "end": 103
+      },
+      {
+        "text": "Rudy Rucker",
+        "label": "writer",
+        "start": 105,
+        "end": 116
+      },
+      {
+        "text": "John Shirley",
+        "label": "writer",
+        "start": 118,
+        "end": 130
+      },
+      {
+        "text": "Lewis Shiner",
+        "label": "writer",
+        "start": 132,
+        "end": 144
+      },
+      {
+        "text": "Pat Cadigan",
+        "label": "writer",
+        "start": 150,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "Moving to London in 1945, he became intent on propagating this religion, attracting media attention and writing about it in High Magic's Aid (1949), Witchcraft Today (1954) and The Meaning of Witchcraft (1959).",
+    "entities": [
+      {
+        "text": "London",
+        "label": "location",
+        "start": 10,
+        "end": 16
+      },
+      {
+        "text": "High Magic's Aid",
+        "label": "book",
+        "start": 124,
+        "end": 140
+      },
+      {
+        "text": "Witchcraft Today",
+        "label": "book",
+        "start": 149,
+        "end": 165
+      },
+      {
+        "text": "The Meaning of Witchcraft",
+        "label": "book",
+        "start": 177,
+        "end": 202
+      }
+    ]
+  },
+  {
+    "text": "Philip Lamantia introduced him to other Surrealists and Surrealism continued to be an influence (for example, sections of Kaddish were inspired by André Breton ' s Free Union).",
+    "entities": [
+      {
+        "text": "Philip Lamantia",
+        "label": "writer",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "André Breton",
+        "label": "writer",
+        "start": 147,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "Alternate history has long been a staple of Japanese speculative fiction with such authors as Futaro Yamada and Ryō Hanmura writing novels set in recognizable historical settings with supernatural or science fiction elements present.",
+    "entities": [
+      {
+        "text": "Alternate history",
+        "label": "literarygenre",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "fiction",
+        "label": "literarygenre",
+        "start": 65,
+        "end": 72
+      },
+      {
+        "text": "Futaro Yamada",
+        "label": "writer",
+        "start": 94,
+        "end": 107
+      },
+      {
+        "text": "Ryō Hanmura",
+        "label": "writer",
+        "start": 112,
+        "end": 123
+      },
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 132,
+        "end": 138
+      },
+      {
+        "text": "supernatural",
+        "label": "literarygenre",
+        "start": 184,
+        "end": 196
+      },
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 200,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "Barry Lyndon won four Oscars at the 48th Academy Awards: Academy Award for Best Original Score, Academy Award for Best Costume Design, Academy Award for Best Production Design and Academy Award for Best Cinematography.",
+    "entities": []
+  },
+  {
+    "text": "It was released in hardback by Angus and Robertson in 1895, and features the poet's widely anthologised poems The Man from Snowy River, Clancy of the Overflow, Saltbush Bill and The Man from Ironbark.",
+    "entities": [
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 104,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "In a letter to P. Schuyler Miller and John Drury Clark in 1936, only three months before Howard's death, Conan is described as standing 6 ft / 183 cm and weighing when he takes part in an attack on Venarium at only 14 years old, though being far from fully grown.",
+    "entities": [
+      {
+        "text": "P. Schuyler Miller",
+        "label": "writer",
+        "start": 15,
+        "end": 33
+      },
+      {
+        "text": "John Drury Clark",
+        "label": "writer",
+        "start": 38,
+        "end": 54
+      },
+      {
+        "text": "Howard",
+        "label": "writer",
+        "start": 89,
+        "end": 95
+      },
+      {
+        "text": "Conan",
+        "label": "person",
+        "start": 105,
+        "end": 110
+      }
+    ]
+  },
+  {
+    "text": "A sequel to The Cardinal of the Kremlin (1988), main character Jack Ryan becomes acting Deputy Director of Intelligence in the Central Intelligence Agency, and discovers that he is being kept in the dark by his colleagues who are conducting a covert war against a drug cartel based in Colombia.",
+    "entities": [
+      {
+        "text": "The Cardinal of the Kremlin",
+        "label": "book",
+        "start": 12,
+        "end": 39
+      },
+      {
+        "text": "Jack Ryan",
+        "label": "person",
+        "start": 63,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "text": "A late (1890s) reference to the urban legend of the murderous barber can be found in the poem by the Australian bush poet Banjo Paterson - The Man from Ironbark.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 89,
+        "end": 93
+      },
+      {
+        "text": "Banjo Paterson",
+        "label": "person",
+        "start": 122,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "The first known science fiction television program was a thirty-five-minute adapted excerpt of the play RUR, written by the Czech playwright Karel Čapek, broadcast live from the BBC's Alexandra Palace studios on 11 February 1938.",
+    "entities": [
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 16,
+        "end": 31
+      },
+      {
+        "text": "RUR",
+        "label": "book",
+        "start": 104,
+        "end": 107
+      },
+      {
+        "text": "Karel Čapek",
+        "label": "writer",
+        "start": 141,
+        "end": 152
+      },
+      {
+        "text": "Alexandra Palace",
+        "label": "location",
+        "start": 184,
+        "end": 200
+      }
+    ]
+  },
+  {
+    "text": "In 1959, Capp recorded and released an album for Folkways Records (now owned by the Smithsonian) on which he identified and described The Mechanics of the Comic Strip.",
+    "entities": [
+      {
+        "text": "Capp",
+        "label": "writer",
+        "start": 9,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "29v, partway through Desiré) and 3 (fol.",
+    "entities": []
+  },
+  {
+    "text": "See Gubbinal and Nuances of a Theme by Williams for comparisons.",
+    "entities": []
+  },
+  {
+    "text": "His most famous work is The Chronicles of Prydain, a series of five high fantasy novels whose conclusion, The High King, was awarded the 1969 Newbery Medal for excellence in American children's literature.",
+    "entities": [
+      {
+        "text": "The Chronicles of Prydain",
+        "label": "book",
+        "start": 24,
+        "end": 49
+      },
+      {
+        "text": "high fantasy novels",
+        "label": "literarygenre",
+        "start": 68,
+        "end": 87
+      },
+      {
+        "text": "The High King",
+        "label": "book",
+        "start": 106,
+        "end": 119
+      },
+      {
+        "text": "American children's literature",
+        "label": "literarygenre",
+        "start": 174,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "He won three Tony Award s and three Academy Awards, among other honors.",
+    "entities": []
+  },
+  {
+    "text": "Xuanxue was a philosophical school that combined elements of Confucianism and Taoism to reinterpret the I Ching, Tao Te Ching, and Zhuangzi.",
+    "entities": [
+      {
+        "text": "I Ching",
+        "label": "book",
+        "start": 104,
+        "end": 111
+      },
+      {
+        "text": "Tao Te Ching",
+        "label": "book",
+        "start": 113,
+        "end": 125
+      },
+      {
+        "text": "Zhuangzi",
+        "label": "book",
+        "start": 131,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "text": "During this period, Stoker was part of the literary staff of The Daily Telegraph in London, and he wrote other fiction, including the horror novels The Lady of the Shroud (1909) and The Lair of the White Worm (1911).",
+    "entities": [
+      {
+        "text": "Stoker",
+        "label": "writer",
+        "start": 20,
+        "end": 26
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 84,
+        "end": 90
+      },
+      {
+        "text": "horror novels",
+        "label": "literarygenre",
+        "start": 134,
+        "end": 147
+      },
+      {
+        "text": "The Lady of the Shroud",
+        "label": "book",
+        "start": 148,
+        "end": 170
+      },
+      {
+        "text": "The Lair of the White Worm",
+        "label": "book",
+        "start": 182,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "The Fuller Dome is referenced in the Hugo Award -winning novel Stand on Zanzibar by John Brunner, in which a geodesic dome is said to cover the entire island of Manhattan, and it floats on air due to the hot-air balloon effect of the large air-mass under the dome (and perhaps its construction of lightweight materials).",
+    "entities": [
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 57,
+        "end": 62
+      },
+      {
+        "text": "Stand on Zanzibar",
+        "label": "book",
+        "start": 63,
+        "end": 80
+      },
+      {
+        "text": "John Brunner",
+        "label": "writer",
+        "start": 84,
+        "end": 96
+      },
+      {
+        "text": "Manhattan",
+        "label": "location",
+        "start": 161,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "Elwyn Brooks White (July 11, 1899 - October 1, 1985) In addition, he was a contributor to The New Yorker magazine, and also a co-author of the English language style guide The Elements of Style.",
+    "entities": [
+      {
+        "text": "Elwyn Brooks White",
+        "label": "writer",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "The Elements of Style",
+        "label": "book",
+        "start": 172,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Early in his career, he published short stories and poetry and edited the literary magazine Oxford Poetry, before going on to publish travel writing, satire, and screenplays.",
+    "entities": [
+      {
+        "text": "short stories",
+        "label": "literarygenre",
+        "start": 34,
+        "end": 47
+      },
+      {
+        "text": "poetry",
+        "label": "literarygenre",
+        "start": 52,
+        "end": 58
+      },
+      {
+        "text": "satire",
+        "label": "literarygenre",
+        "start": 150,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "A tribute show to Wilson, organized by Coldcut and Mixmaster Morris and performed in London as a part of the Ether 7 Festival held at the Queen Elizabeth Hall on March 18, 2007, also included Ken Campbell, Bill Drummond and Alan Moore.",
+    "entities": [
+      {
+        "text": "Wilson",
+        "label": "writer",
+        "start": 18,
+        "end": 24
+      },
+      {
+        "text": "Coldcut",
+        "label": "person",
+        "start": 39,
+        "end": 46
+      },
+      {
+        "text": "Mixmaster Morris",
+        "label": "person",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 85,
+        "end": 91
+      },
+      {
+        "text": "Queen Elizabeth Hall",
+        "label": "location",
+        "start": 138,
+        "end": 158
+      },
+      {
+        "text": "Ken Campbell",
+        "label": "writer",
+        "start": 192,
+        "end": 204
+      },
+      {
+        "text": "Bill Drummond",
+        "label": "writer",
+        "start": 206,
+        "end": 219
+      },
+      {
+        "text": "Alan Moore",
+        "label": "writer",
+        "start": 224,
+        "end": 234
+      }
+    ]
+  },
+  {
+    "text": "Frost originally attempted to read his poem Dedication, which was written for the occasion, but was unable to read it due to the brightness of the sunlight, so he recited his poem The Gift Outright from memory instead.",
+    "entities": [
+      {
+        "text": "Frost",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 39,
+        "end": 43
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 175,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "text": "It tied with Roger Zelazny ' s This Immortal for the Hugo Award in 1966,",
+    "entities": [
+      {
+        "text": "Roger Zelazny",
+        "label": "writer",
+        "start": 13,
+        "end": 26
+      },
+      {
+        "text": "This Immortal",
+        "label": "book",
+        "start": 31,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "In 1905 H. G. Wells published A Modern Utopia.",
+    "entities": [
+      {
+        "text": "H. G. Wells",
+        "label": "writer",
+        "start": 8,
+        "end": 19
+      },
+      {
+        "text": "A Modern Utopia",
+        "label": "book",
+        "start": 30,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "Alan Moore had this to say about the use of the Guy Fawkes motif adopted from his comic V for Vendetta, in an interview with Entertainment Weekly:",
+    "entities": [
+      {
+        "text": "Alan Moore",
+        "label": "writer",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Guy Fawkes",
+        "label": "person",
+        "start": 48,
+        "end": 58
+      },
+      {
+        "text": "V for Vendetta",
+        "label": "book",
+        "start": 88,
+        "end": 102
+      }
+    ]
+  }
+]

@@ -1,0 +1,1289 @@
+[
+  {
+    "text": "Two pairs of fathers and sons have won Nobel Prizes in other fields: Hans von Euler-Chelpin (chemistry, 1929) and Ulf von Euler (medicine, 1970); and Arthur Kornberg (medicine, 1969) and Roger D. Kornberg (chemistry, 2006).",
+    "entities": [
+      {
+        "text": "Hans von Euler-Chelpin",
+        "label": "scientist",
+        "start": 69,
+        "end": 91
+      },
+      {
+        "text": "Ulf von Euler",
+        "label": "scientist",
+        "start": 114,
+        "end": 127
+      },
+      {
+        "text": "Arthur Kornberg",
+        "label": "scientist",
+        "start": 150,
+        "end": 165
+      },
+      {
+        "text": "Roger D. Kornberg",
+        "label": "scientist",
+        "start": 187,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "His work has appeared in leading scientific journals such as Nature, Science, Nature Genetics, Molecular Biology and Evolution, Journal of Evolutionary Biology, as well as popular magazines such as Scientific American.",
+    "entities": []
+  },
+  {
+    "text": "Portions of Galveston County are served by College of the Mainland and Galveston College.",
+    "entities": []
+  },
+  {
+    "text": "In the second half of the 20th century, plate tectonics theory was developed by several contributors including Alfred Wegener, Maurice Ewing, Robert S. Dietz, Harry Hammond Hess, Hugo Benioff, Walter C. Pitman, III, Frederick Vine, Drummond Matthews, Keith Runcorn, Bryan L. Isacks, Edward Bullard, Xavier Le Pichon, Dan McKenzie, W. Jason Morgan and John Tuzo Wilson.",
+    "entities": [
+      {
+        "text": "Alfred Wegener",
+        "label": "scientist",
+        "start": 111,
+        "end": 125
+      },
+      {
+        "text": "Maurice Ewing",
+        "label": "scientist",
+        "start": 127,
+        "end": 140
+      },
+      {
+        "text": "Robert S. Dietz",
+        "label": "scientist",
+        "start": 142,
+        "end": 157
+      },
+      {
+        "text": "Harry Hammond Hess",
+        "label": "scientist",
+        "start": 159,
+        "end": 177
+      },
+      {
+        "text": "Hugo Benioff",
+        "label": "scientist",
+        "start": 179,
+        "end": 191
+      },
+      {
+        "text": "Walter C. Pitman, III",
+        "label": "scientist",
+        "start": 193,
+        "end": 214
+      },
+      {
+        "text": "Frederick Vine",
+        "label": "scientist",
+        "start": 216,
+        "end": 230
+      },
+      {
+        "text": "Drummond Matthews",
+        "label": "scientist",
+        "start": 232,
+        "end": 249
+      },
+      {
+        "text": "Keith Runcorn",
+        "label": "scientist",
+        "start": 251,
+        "end": 264
+      },
+      {
+        "text": "Bryan L. Isacks",
+        "label": "scientist",
+        "start": 266,
+        "end": 281
+      },
+      {
+        "text": "Edward Bullard",
+        "label": "scientist",
+        "start": 283,
+        "end": 297
+      },
+      {
+        "text": "Xavier Le Pichon",
+        "label": "scientist",
+        "start": 299,
+        "end": 315
+      },
+      {
+        "text": "Dan McKenzie",
+        "label": "scientist",
+        "start": 317,
+        "end": 329
+      },
+      {
+        "text": "W. Jason Morgan",
+        "label": "scientist",
+        "start": 331,
+        "end": 346
+      },
+      {
+        "text": "John Tuzo Wilson",
+        "label": "scientist",
+        "start": 351,
+        "end": 367
+      }
+    ]
+  },
+  {
+    "text": "Arkadelphia is home to two liberal arts institutions: Henderson State University (founded in 1890 as Arkadelphia Methodist College), which is the only member of the Council of Public Liberal Arts Colleges based in Arkansas and announced plans to join the Arkansas State University System in October 2019, and Ouachita Baptist University, a private, Baptist college affiliated with the Arkansas Baptist State Convention (opened in 1886).",
+    "entities": [
+      {
+        "text": "Council of Public Liberal Arts Colleges",
+        "label": "organisation",
+        "start": 165,
+        "end": 204
+      },
+      {
+        "text": "Arkansas Baptist State Convention",
+        "label": "organisation",
+        "start": 385,
+        "end": 418
+      }
+    ]
+  },
+  {
+    "text": "She discovered mutations in the genes encoding the Retinoic acid receptor, the active derivative of vitamin A, in liver cancer and some types of leukemia and dissected the molecular mechanisms underlying their role in oncogenesis and treatment sensitivity.",
+    "entities": [
+      {
+        "text": "vitamin A",
+        "label": "chemicalcompound",
+        "start": 100,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "The alkaline earth metals are named after their oxide s, the alkaline earths, whose old-fashioned names were beryllia, Magnesium oxide, Calcium oxide, strontia, and baryta.",
+    "entities": [
+      {
+        "text": "oxide",
+        "label": "chemicalcompound",
+        "start": 48,
+        "end": 53
+      },
+      {
+        "text": "beryllia",
+        "label": "chemicalcompound",
+        "start": 109,
+        "end": 117
+      },
+      {
+        "text": "Magnesium oxide",
+        "label": "chemicalcompound",
+        "start": 119,
+        "end": 134
+      },
+      {
+        "text": "Calcium oxide",
+        "label": "chemicalcompound",
+        "start": 136,
+        "end": 149
+      },
+      {
+        "text": "strontia",
+        "label": "chemicalcompound",
+        "start": 151,
+        "end": 159
+      },
+      {
+        "text": "baryta",
+        "label": "chemicalcompound",
+        "start": 165,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "In November 2018 a group of Chinese scientists published research in the journal Molecular Therapy detailing their use of CRISPR technology to correct a single mistaken amino acid successfully in 16 out of 18 attempts in a human embryo.",
+    "entities": [
+      {
+        "text": "amino acid",
+        "label": "chemicalcompound",
+        "start": 169,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "text": "The discovery of several other trans-Neptunian object s, such as 50000 Quaoar and 90377 Sedna, continued to erode arguments that Pluto was exceptional from the rest of the trans-Neptunian population.",
+    "entities": [
+      {
+        "text": "trans-Neptunian",
+        "label": "astronomicalobject",
+        "start": 31,
+        "end": 46
+      },
+      {
+        "text": "50000 Quaoar",
+        "label": "astronomicalobject",
+        "start": 65,
+        "end": 77
+      },
+      {
+        "text": "90377 Sedna",
+        "label": "astronomicalobject",
+        "start": 82,
+        "end": 93
+      },
+      {
+        "text": "Pluto",
+        "label": "astronomicalobject",
+        "start": 129,
+        "end": 134
+      },
+      {
+        "text": "trans-Neptunian",
+        "label": "astronomicalobject",
+        "start": 172,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "text": "For his study in irreversible thermodynamics, he received the Rumford Medal in 1976, and in 1977, the Nobel Prize in Nobel Prize in Chemistry.",
+    "entities": []
+  },
+  {
+    "text": "Mary Baker Eddy made the Boston Mother Church of Christian Science the world headquarters.",
+    "entities": [
+      {
+        "text": "Mary Baker Eddy",
+        "label": "person",
+        "start": 0,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "The purification of penicillin was achieved by Ernst Chain, Norman Heatley and Edward Abraham, with Chain and Abraham eventually developing a theoretical model for its chemical structure, which was later confirmed by Dorothy Hodgkin using X-ray crystallography.",
+    "entities": [
+      {
+        "text": "Ernst Chain",
+        "label": "scientist",
+        "start": 47,
+        "end": 58
+      },
+      {
+        "text": "Norman Heatley",
+        "label": "scientist",
+        "start": 60,
+        "end": 74
+      },
+      {
+        "text": "Edward Abraham",
+        "label": "scientist",
+        "start": 79,
+        "end": 93
+      },
+      {
+        "text": "Chain",
+        "label": "scientist",
+        "start": 100,
+        "end": 105
+      },
+      {
+        "text": "Abraham",
+        "label": "scientist",
+        "start": 110,
+        "end": 117
+      },
+      {
+        "text": "Dorothy Hodgkin",
+        "label": "scientist",
+        "start": 217,
+        "end": 232
+      }
+    ]
+  },
+  {
+    "text": "Schirra was a 33rd Degree Mason and part of the American Institute of Aeronautics and Astronautics, as well as a fellow of the American Astronautical Society.",
+    "entities": [
+      {
+        "text": "Schirra",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "American Institute of Aeronautics and Astronautics",
+        "label": "organisation",
+        "start": 48,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "text": "In order to reset the protein to its original, basic state, it needs ATP synthase.",
+    "entities": []
+  },
+  {
+    "text": "He also is one of the two Shaw Prize Founding Members and is a Distinguished Professor-at-Large at the Chinese University of Hong Kong.",
+    "entities": []
+  },
+  {
+    "text": "Xu noted that under the near-null magnetic field, Arabidopsis thaliana delays the flowering time by altering the transcription level of three cryptochrome related florigen genes: Phytochrome, CO, and FT; Arabidopsis thaliana also induced longer hypocotyl length under white light in the Near-Null magnetic field compared to standard geomagnetic field and either dark or white light conditions.",
+    "entities": [
+      {
+        "text": "Xu",
+        "label": "scientist",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "text": "In 2007 the British Biochemical Society was given a grant by the Wellcome Trust to catalogue and preserve the 35 laboratory notebooks in which Sanger recorded his research from 1944 to 1983.",
+    "entities": [
+      {
+        "text": "British Biochemical Society",
+        "label": "organisation",
+        "start": 12,
+        "end": 39
+      },
+      {
+        "text": "Wellcome Trust",
+        "label": "organisation",
+        "start": 65,
+        "end": 79
+      },
+      {
+        "text": "Sanger",
+        "label": "scientist",
+        "start": 143,
+        "end": 149
+      }
+    ]
+  },
+  {
+    "text": "On 11 August 2014, astronomers released studies, using the Atacama Large Millimeter / Submillimeter Array (ALMA) for the first time, that detailed the distribution of HCN, Hydrogen isocyanide, Formaldehyde, and dust inside the comae of comet s.",
+    "entities": [
+      {
+        "text": "Hydrogen isocyanide",
+        "label": "chemicalcompound",
+        "start": 172,
+        "end": 191
+      },
+      {
+        "text": "Formaldehyde",
+        "label": "chemicalcompound",
+        "start": 193,
+        "end": 205
+      }
+    ]
+  },
+  {
+    "text": "Nihonium was first reported to have been created in 2003 by a Russian-American collaboration at the Joint Institute for Nuclear Research (JINR) in Dubna, Russia, and in 2004 by a team of Japanese scientists at Riken in Wakō, Japan.",
+    "entities": [
+      {
+        "text": "Joint Institute for Nuclear Research",
+        "label": "organisation",
+        "start": 100,
+        "end": 136
+      },
+      {
+        "text": "JINR",
+        "label": "organisation",
+        "start": 138,
+        "end": 142
+      },
+      {
+        "text": "Riken",
+        "label": "organisation",
+        "start": 210,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "Several academic bodies exist to support behavior genetic research, including the Behavior Genetics Association, the International Society for Twin Studies, and the International Behavioural and Neural Genetics Society.",
+    "entities": [
+      {
+        "text": "Behavior Genetics Association",
+        "label": "organisation",
+        "start": 82,
+        "end": 111
+      },
+      {
+        "text": "International Society for Twin Studies",
+        "label": "organisation",
+        "start": 117,
+        "end": 155
+      },
+      {
+        "text": "International Behavioural and Neural Genetics Society",
+        "label": "organisation",
+        "start": 165,
+        "end": 218
+      }
+    ]
+  },
+  {
+    "text": "Also dealt with was Miranda Bailey (Chandra Wilson) attempting to have Stevens rejoin the program, Mark Sloan (Dane) arriving from New York City in order to resume his romantic relationship with Montgomery, and Callie Torres (Sara Ramirez) being evacuated from the hospital.",
+    "entities": [
+      {
+        "text": "Miranda Bailey",
+        "label": "person",
+        "start": 20,
+        "end": 34
+      },
+      {
+        "text": "Chandra Wilson",
+        "label": "person",
+        "start": 36,
+        "end": 50
+      },
+      {
+        "text": "Stevens",
+        "label": "person",
+        "start": 71,
+        "end": 78
+      },
+      {
+        "text": "Mark Sloan",
+        "label": "person",
+        "start": 99,
+        "end": 109
+      },
+      {
+        "text": "Dane",
+        "label": "person",
+        "start": 111,
+        "end": 115
+      },
+      {
+        "text": "Montgomery",
+        "label": "person",
+        "start": 195,
+        "end": 205
+      },
+      {
+        "text": "Callie Torres",
+        "label": "person",
+        "start": 211,
+        "end": 224
+      },
+      {
+        "text": "Sara Ramirez",
+        "label": "person",
+        "start": 226,
+        "end": 238
+      }
+    ]
+  },
+  {
+    "text": "In the second season, married couple Rose Nadler (L. Scott Caldwell) and Bernard Nadler (Sam Anderson), separated on opposite sides of the island (she with the main characters, he with the tail section survivors), were featured in a flashback episode after being reunited.",
+    "entities": [
+      {
+        "text": "Rose Nadler",
+        "label": "person",
+        "start": 37,
+        "end": 48
+      },
+      {
+        "text": "L. Scott Caldwell",
+        "label": "person",
+        "start": 50,
+        "end": 67
+      },
+      {
+        "text": "Bernard Nadler",
+        "label": "person",
+        "start": 73,
+        "end": 87
+      },
+      {
+        "text": "Sam Anderson",
+        "label": "person",
+        "start": 89,
+        "end": 101
+      }
+    ]
+  },
+  {
+    "text": "Low used the Learjet to make the discovery that both Jupiter and Saturn were emitting more energy than what they receive as solar radiation, demonstrating that both of these planets must have an internal source of energy.",
+    "entities": [
+      {
+        "text": "Low",
+        "label": "person",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 53,
+        "end": 60
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 65,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "Max Planck, Albert Einstein, and Niels Bohr postulated the occurrence of energy in discrete quantities (quanta) in order to explain phenomena such as the spectrum of black-body radiation, the photoelectric effect, and the stability and spectra of atoms.",
+    "entities": [
+      {
+        "text": "Max Planck",
+        "label": "scientist",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Albert Einstein",
+        "label": "scientist",
+        "start": 12,
+        "end": 27
+      },
+      {
+        "text": "Niels Bohr",
+        "label": "scientist",
+        "start": 33,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "Further articles appeared on neuroethics in Nature Neuroscience, Neuron, and Brain and Cognition.",
+    "entities": []
+  },
+  {
+    "text": "John Hopkinson, FRS, (27 July 1849 - 27 August 1898) was a United Kingdom physicist, electrical engineer, Fellow of the Royal Society and President of the Institution of Electrical Engineers twice in 1890 and 1896.",
+    "entities": [
+      {
+        "text": "John Hopkinson",
+        "label": "scientist",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Institution of Electrical Engineers",
+        "label": "organisation",
+        "start": 155,
+        "end": 190
+      }
+    ]
+  },
+  {
+    "text": "Juno can reach + 7.5 at a favourable opposition, which is brighter than Neptune or Titan, and is the reason for it being discovered before the larger asteroids 10 Hygiea, 52 Europa, 511 Davida, and 704 Interamnia.",
+    "entities": [
+      {
+        "text": "Juno",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 72,
+        "end": 79
+      },
+      {
+        "text": "Titan",
+        "label": "astronomicalobject",
+        "start": 83,
+        "end": 88
+      },
+      {
+        "text": "10 Hygiea",
+        "label": "astronomicalobject",
+        "start": 160,
+        "end": 169
+      },
+      {
+        "text": "52 Europa",
+        "label": "astronomicalobject",
+        "start": 171,
+        "end": 180
+      },
+      {
+        "text": "511 Davida",
+        "label": "astronomicalobject",
+        "start": 182,
+        "end": 192
+      },
+      {
+        "text": "704 Interamnia",
+        "label": "astronomicalobject",
+        "start": 198,
+        "end": 212
+      }
+    ]
+  },
+  {
+    "text": "In 1991, he obtained a Doctor of Science degree in Physics and Mathematics from Moscow State University and moved to Tokyo (Japan) in 1993 to teach astronomy in Hitotsubashi University.",
+    "entities": []
+  },
+  {
+    "text": "During the Industrial Revolution, it became an important industrial chemical for many applications, including the large scale production of organic compounds such as vinyl chloride for PVC plastic and Methylene diphenyl diisocyanate / Toluene diisocyanate for polyurethane and smaller scale applications, such as production of gelatin and other ingredients in food, and leather processing.",
+    "entities": [
+      {
+        "text": "vinyl chloride",
+        "label": "chemicalcompound",
+        "start": 166,
+        "end": 180
+      },
+      {
+        "text": "PVC",
+        "label": "chemicalcompound",
+        "start": 185,
+        "end": 188
+      },
+      {
+        "text": "Methylene diphenyl diisocyanate",
+        "label": "chemicalcompound",
+        "start": 201,
+        "end": 232
+      },
+      {
+        "text": "Toluene diisocyanate",
+        "label": "chemicalcompound",
+        "start": 235,
+        "end": 255
+      },
+      {
+        "text": "polyurethane",
+        "label": "chemicalcompound",
+        "start": 260,
+        "end": 272
+      }
+    ]
+  },
+  {
+    "text": "In 1999, Haraway received the Society for Social Studies of Science ' s (4S) Ludwik Fleck Prize.",
+    "entities": [
+      {
+        "text": "Haraway",
+        "label": "scientist",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "Society for Social Studies of Science",
+        "label": "organisation",
+        "start": 30,
+        "end": 67
+      },
+      {
+        "text": "4S",
+        "label": "organisation",
+        "start": 73,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "The journals Museum Anthropology, Journal of Museum Ethnography, Gradhiva, and Museum Anthropology Review are closely identified with museum anthropology as a field ..",
+    "entities": []
+  },
+  {
+    "text": "Wilson won gold medals in the 800 metres at both the 2011 World Youth Championships in Athletics and the 2012 World Junior Championships in Athletics.",
+    "entities": [
+      {
+        "text": "Wilson",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Saturn is usually depicted with a scythe or sickle, and the planetary symbol has apparently evolved from a picture of this attribute, in Kamateros (12th century) shown in a shape similar to the letter eta η, with the horizontal stroke added along with the Christianization of the other symbols in the early 16th century, Saturn (U + 2644).",
+    "entities": [
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 321,
+        "end": 327
+      }
+    ]
+  },
+  {
+    "text": "The journal has published ground-breaking work in the areas of biomechanics, skin transplantation and neurophysiology, and has published work by Nobel Prize winners Peter Medawar and August Krogh.",
+    "entities": [
+      {
+        "text": "Peter Medawar",
+        "label": "scientist",
+        "start": 165,
+        "end": 178
+      },
+      {
+        "text": "August Krogh",
+        "label": "scientist",
+        "start": 183,
+        "end": 195
+      }
+    ]
+  },
+  {
+    "text": "She won the silver medal at the 2018 European Championships.",
+    "entities": []
+  },
+  {
+    "text": "DNA cytosine methylation is catalyzed by DNA methyltransferase.",
+    "entities": []
+  },
+  {
+    "text": "A proton gradient (unrelated to the natural temperature and energy gradients aforementioned) drives a remarkable, turbine like protein, ATP synthase to rotate, capturing energy in usable chemical form.",
+    "entities": []
+  },
+  {
+    "text": "They are represented at the national level by professional organisations such as the Royal Pharmaceutical Society in the UK, Pharmacy Guild of Australia (PSA), Canadian Pharmacists Association (CPhA), Indian Pharmacist Association (IPA), Pakistan Pharmacists Association (PPA), and the American Pharmacists Association (APhA).",
+    "entities": [
+      {
+        "text": "Royal Pharmaceutical Society",
+        "label": "organisation",
+        "start": 85,
+        "end": 113
+      },
+      {
+        "text": "Pharmacy Guild of Australia",
+        "label": "organisation",
+        "start": 125,
+        "end": 152
+      },
+      {
+        "text": "PSA",
+        "label": "organisation",
+        "start": 154,
+        "end": 157
+      },
+      {
+        "text": "Canadian Pharmacists Association",
+        "label": "organisation",
+        "start": 160,
+        "end": 192
+      },
+      {
+        "text": "CPhA",
+        "label": "organisation",
+        "start": 194,
+        "end": 198
+      },
+      {
+        "text": "Indian Pharmacist Association",
+        "label": "organisation",
+        "start": 201,
+        "end": 230
+      },
+      {
+        "text": "IPA",
+        "label": "organisation",
+        "start": 232,
+        "end": 235
+      },
+      {
+        "text": "Pakistan Pharmacists Association",
+        "label": "organisation",
+        "start": 238,
+        "end": 270
+      },
+      {
+        "text": "PPA",
+        "label": "organisation",
+        "start": 272,
+        "end": 275
+      },
+      {
+        "text": "American Pharmacists Association",
+        "label": "organisation",
+        "start": 286,
+        "end": 318
+      },
+      {
+        "text": "APhA",
+        "label": "organisation",
+        "start": 320,
+        "end": 324
+      }
+    ]
+  },
+  {
+    "text": "In the 1960s, Ehlers collaborated with Felix Pirani and Alfred Schild on a constructive-axiomatic approach to general relativity: a way of deriving the theory from a minimal set of elementary objects and a set of axioms specifying these objects ' properties.",
+    "entities": [
+      {
+        "text": "Ehlers",
+        "label": "scientist",
+        "start": 14,
+        "end": 20
+      },
+      {
+        "text": "Felix Pirani",
+        "label": "scientist",
+        "start": 39,
+        "end": 51
+      },
+      {
+        "text": "Alfred Schild",
+        "label": "scientist",
+        "start": 56,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "Non-governmental agencies such as the International Planned Parenthood Federation and Marie Stopes International provide contraceptive advice for young women worldwide.",
+    "entities": [
+      {
+        "text": "International Planned Parenthood Federation",
+        "label": "organisation",
+        "start": 38,
+        "end": 81
+      },
+      {
+        "text": "Marie Stopes International",
+        "label": "organisation",
+        "start": 86,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "text": "Historian J. G. M. Ramsey reported a conference between militia commander John Sevier and Cherokee Chief Hanging Maw held at the original Citico in 1782 in which the two sides agreed to a truce.",
+    "entities": [
+      {
+        "text": "J. G. M. Ramsey",
+        "label": "person",
+        "start": 10,
+        "end": 25
+      },
+      {
+        "text": "militia",
+        "label": "organisation",
+        "start": 56,
+        "end": 63
+      },
+      {
+        "text": "John Sevier",
+        "label": "person",
+        "start": 74,
+        "end": 85
+      },
+      {
+        "text": "Hanging Maw",
+        "label": "person",
+        "start": 105,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "text": "Poly (ADP-ribosyl) ation is an immediate DNA damage-dependent post-translational modification of Histone and other nuclear proteins that contributes to the survival of injured proliferating cells.",
+    "entities": []
+  },
+  {
+    "text": "H3K27ac is an epigenetic modification to the DNA packaging protein Histone H3.",
+    "entities": [
+      {
+        "text": "H3K27ac",
+        "label": "chemicalcompound",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "In 1974 Beatrice Mintz and Rudolf Jaenisch created the first genetically modified animal by inserting a DNA virus into an early-stage mouse embryo and showing that the inserted genes were present in every cell.",
+    "entities": [
+      {
+        "text": "Beatrice Mintz",
+        "label": "scientist",
+        "start": 8,
+        "end": 22
+      },
+      {
+        "text": "Rudolf Jaenisch",
+        "label": "scientist",
+        "start": 27,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "text": "Flexner had studied European schools such as Heidelberg University, All Souls College, Oxford, and the Collège de France -and he wanted to establish a similar advanced research center in the United States.",
+    "entities": [
+      {
+        "text": "Flexner",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "The book on the 1902-1903 expedition contains chapters on magnetic storms on the Earth and their relationship to the Sun, the origin of the Sun itself, Halley's comet, and the rings of Saturn.",
+    "entities": [
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 81,
+        "end": 86
+      },
+      {
+        "text": "Sun",
+        "label": "astronomicalobject",
+        "start": 117,
+        "end": 120
+      },
+      {
+        "text": "Sun",
+        "label": "astronomicalobject",
+        "start": 140,
+        "end": 143
+      },
+      {
+        "text": "Halley's comet",
+        "label": "astronomicalobject",
+        "start": 152,
+        "end": 166
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 185,
+        "end": 191
+      }
+    ]
+  },
+  {
+    "text": "Polyethylene terephthalate (PET) bottles are made from ethylene and P-Xylene.",
+    "entities": [
+      {
+        "text": "Polyethylene terephthalate",
+        "label": "chemicalcompound",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "PET",
+        "label": "chemicalcompound",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "ethylene",
+        "label": "chemicalcompound",
+        "start": 55,
+        "end": 63
+      },
+      {
+        "text": "P-Xylene",
+        "label": "chemicalcompound",
+        "start": 68,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "text": "It was developed as a treatment for hepatitis C, acting as a NS5B RNA polymerase inhibitor, but while it showed a good safety profile in clinical trials, it was not sufficiently effective to be used as a stand-alone agent.",
+    "entities": [
+      {
+        "text": "NS5B RNA polymerase inhibitor",
+        "label": "chemicalcompound",
+        "start": 61,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "text": "Parsons ' obituary listed him as a member of the National Defense Industrial Association, the American Institute of Aeronautics and Astronautics, the American Chemical Society, the American Association for the Advancement of Science.",
+    "entities": [
+      {
+        "text": "Parsons",
+        "label": "scientist",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "National Defense Industrial Association",
+        "label": "organisation",
+        "start": 49,
+        "end": 88
+      },
+      {
+        "text": "American Institute of Aeronautics and Astronautics",
+        "label": "organisation",
+        "start": 94,
+        "end": 144
+      },
+      {
+        "text": "American Chemical Society",
+        "label": "organisation",
+        "start": 150,
+        "end": 175
+      },
+      {
+        "text": "American Association for the Advancement of Science",
+        "label": "organisation",
+        "start": 181,
+        "end": 232
+      }
+    ]
+  },
+  {
+    "text": "It has one of the six Indian Institute of Management Indore and one of sixteen Indian Institute of Technology Indore.",
+    "entities": []
+  },
+  {
+    "text": "Most widely used to assess potential synthetic lethal interactions is using siRNA and CRISPR to modify target genes.",
+    "entities": []
+  },
+  {
+    "text": "Cyclin and Cyclin-dependent kinase (CDK) are major positive regulators, and appear throughout the cell cycle.",
+    "entities": []
+  },
+  {
+    "text": "He also included perturbations due to the other planets (principally Jupiter and Venus) and also accounted for the more difficult problem of the non-spherical nature of the Earth and Moon.",
+    "entities": [
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 69,
+        "end": 76
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 81,
+        "end": 86
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 173,
+        "end": 178
+      },
+      {
+        "text": "Moon",
+        "label": "astronomicalobject",
+        "start": 183,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "text": "His work won him the Rumford Medal of the Royal Society in 1838, and in 1843 he received its Royal Medal for a paper on the Transparency of the Atmosphere and the Laws of Extinction of the Sun's Rays passing through it.",
+    "entities": [
+      {
+        "text": "Sun",
+        "label": "astronomicalobject",
+        "start": 189,
+        "end": 192
+      }
+    ]
+  },
+  {
+    "text": "In 2005, Tania Singer and Chris Frith of the UCL Institute of Cognitive Neuroscience and the Functional Imaging Laboratory published the results of a study using transcranial magnetic stimulation which showed for the first time the role of sensorimotor components in empathy for pain in other people.",
+    "entities": [
+      {
+        "text": "Tania Singer",
+        "label": "scientist",
+        "start": 9,
+        "end": 21
+      },
+      {
+        "text": "Chris Frith",
+        "label": "scientist",
+        "start": 26,
+        "end": 37
+      },
+      {
+        "text": "UCL Institute of Cognitive Neuroscience",
+        "label": "organisation",
+        "start": 45,
+        "end": 84
+      },
+      {
+        "text": "Functional Imaging Laboratory",
+        "label": "organisation",
+        "start": 93,
+        "end": 122
+      }
+    ]
+  },
+  {
+    "text": "In 2011, the Joint Working Party of international scientific bodies International Union of Pure and Applied Chemistry (IUPAC) and International Union of Pure and Applied Physics (IUPAP) evaluated the 2004 and 2007 Dubna experiments, and concluded that they did not meet the criteria for discovery.",
+    "entities": [
+      {
+        "text": "Joint Working Party",
+        "label": "organisation",
+        "start": 13,
+        "end": 32
+      },
+      {
+        "text": "International Union of Pure and Applied Chemistry",
+        "label": "organisation",
+        "start": 68,
+        "end": 117
+      },
+      {
+        "text": "IUPAC",
+        "label": "organisation",
+        "start": 119,
+        "end": 124
+      },
+      {
+        "text": "International Union of Pure and Applied Physics",
+        "label": "organisation",
+        "start": 130,
+        "end": 177
+      },
+      {
+        "text": "IUPAP",
+        "label": "organisation",
+        "start": 179,
+        "end": 184
+      }
+    ]
+  },
+  {
+    "text": "Directors of the botanical garden from this period included Karl Julius Perleb, Fridolin Karl Leopold Spenner, Alexander Braun, Carl Wilhelm von Nägeli, Heinrich Anton de Bary and Julius von Sachs.",
+    "entities": [
+      {
+        "text": "Karl Julius Perleb",
+        "label": "scientist",
+        "start": 60,
+        "end": 78
+      },
+      {
+        "text": "Fridolin Karl Leopold Spenner",
+        "label": "scientist",
+        "start": 80,
+        "end": 109
+      },
+      {
+        "text": "Alexander Braun",
+        "label": "scientist",
+        "start": 111,
+        "end": 126
+      },
+      {
+        "text": "Carl Wilhelm von Nägeli",
+        "label": "scientist",
+        "start": 128,
+        "end": 151
+      },
+      {
+        "text": "Heinrich Anton de Bary",
+        "label": "scientist",
+        "start": 153,
+        "end": 175
+      },
+      {
+        "text": "Julius von Sachs",
+        "label": "scientist",
+        "start": 180,
+        "end": 196
+      }
+    ]
+  },
+  {
+    "text": "The ten attendees were conference organizer J. Peter Pearman, Frank Drake, Philip Morrison, businessman and radio amateur Dana Atchley, chemist Melvin Calvin, astronomer Su-Shu Huang, neuroscientist John C. Lilly, inventor Barney Oliver, astronomer Carl Sagan and radio-astronomer Otto Struve.",
+    "entities": [
+      {
+        "text": "J. Peter Pearman",
+        "label": "scientist",
+        "start": 44,
+        "end": 60
+      },
+      {
+        "text": "Frank Drake",
+        "label": "scientist",
+        "start": 62,
+        "end": 73
+      },
+      {
+        "text": "Philip Morrison",
+        "label": "scientist",
+        "start": 75,
+        "end": 90
+      },
+      {
+        "text": "Dana Atchley",
+        "label": "person",
+        "start": 122,
+        "end": 134
+      },
+      {
+        "text": "Melvin Calvin",
+        "label": "scientist",
+        "start": 144,
+        "end": 157
+      },
+      {
+        "text": "Su-Shu Huang",
+        "label": "scientist",
+        "start": 170,
+        "end": 182
+      },
+      {
+        "text": "John C. Lilly",
+        "label": "scientist",
+        "start": 199,
+        "end": 212
+      },
+      {
+        "text": "Barney Oliver",
+        "label": "scientist",
+        "start": 223,
+        "end": 236
+      },
+      {
+        "text": "Carl Sagan",
+        "label": "scientist",
+        "start": 249,
+        "end": 259
+      },
+      {
+        "text": "Otto Struve",
+        "label": "scientist",
+        "start": 281,
+        "end": 292
+      }
+    ]
+  },
+  {
+    "text": "In February 2016, he was one of the four scientists of LIGO Scientific Collaboration / Virgo interferometer collaboration presenting at the press conference for the announcement that the first direct gravitational wave observation had been made in September 2015.",
+    "entities": [
+      {
+        "text": "LIGO Scientific Collaboration",
+        "label": "organisation",
+        "start": 55,
+        "end": 84
+      },
+      {
+        "text": "Virgo interferometer",
+        "label": "organisation",
+        "start": 87,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "The Hannes Alfvén Prize, awarded annually by the European Physical Society for outstanding contributions in plasma physics, is named after him.",
+    "entities": [
+      {
+        "text": "European Physical Society",
+        "label": "organisation",
+        "start": 49,
+        "end": 74
+      }
+    ]
+  }
+]

@@ -1,0 +1,889 @@
+[
+  {
+    "text": "Where Bob Wian dressed Big Boy hamburgers with mayonnaise and red relish, Frisch later replaced these with tartar sauce and added dill pickles in his version and applied these in a different order.",
+    "entities": [
+      {
+        "text": "Big Boy",
+        "label": "product",
+        "start": 23,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "Production began on June 13, 2009 in Montreal, Quebec, Canada and ended in August that year.",
+    "entities": [
+      {
+        "text": "Montreal",
+        "label": "location",
+        "start": 37,
+        "end": 45
+      },
+      {
+        "text": "Quebec",
+        "label": "location",
+        "start": 47,
+        "end": 53
+      },
+      {
+        "text": "Canada",
+        "label": "location",
+        "start": 55,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "text": "``, accompanied by Bruno the Trashman on rollerskates.",
+    "entities": [
+      {
+        "text": "Bruno",
+        "label": "person",
+        "start": 19,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "In 1859, he founded the Society of Anthropology of Paris.",
+    "entities": [
+      {
+        "text": "Society of Anthropology of Paris",
+        "label": "organization",
+        "start": 24,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "text": "Murphy, Kevin.",
+    "entities": [
+      {
+        "text": "Murphy",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Kevin",
+        "label": "person",
+        "start": 8,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "In 1997 she won the Forward Prize for Best Single Poem for ``A World Where News Travelled Slowly ``, the title poem from her second main collection.",
+    "entities": []
+  },
+  {
+    "text": "King Ladislaus IV dispatched a punitive force, and Litovoi was killed during the battle against the Hungarian army.",
+    "entities": [
+      {
+        "text": "Ladislaus IV",
+        "label": "person",
+        "start": 5,
+        "end": 17
+      },
+      {
+        "text": "Litovoi",
+        "label": "person",
+        "start": 51,
+        "end": 58
+      },
+      {
+        "text": "Hungarian",
+        "label": "location",
+        "start": 100,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "The ``Kitty Hawk ``airstrike found bad weather over the primary target and struck the secondary targets of Thanh at 08:40 and Phu Qui at 08:45.",
+    "entities": [
+      {
+        "text": "Kitty Hawk",
+        "label": "product",
+        "start": 6,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "The U.S government transported refugees from Vietnam via aircraft and ships to temporarily settle down in Guam before moving them to designated homes in the contiguous United States.",
+    "entities": [
+      {
+        "text": "U.S",
+        "label": "location",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "Vietnam",
+        "label": "location",
+        "start": 45,
+        "end": 52
+      },
+      {
+        "text": "Guam",
+        "label": "location",
+        "start": 106,
+        "end": 110
+      },
+      {
+        "text": "United States",
+        "label": "location",
+        "start": 168,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "On lap 30, David Starr lost a motor and brought out the caution.",
+    "entities": [
+      {
+        "text": "David Starr",
+        "label": "person",
+        "start": 11,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "By contrast, in classical PKU (without dihydrobiopterin involvement), prolactin levels would be relatively normal.",
+    "entities": []
+  },
+  {
+    "text": "It is located at the junction of the South Gippsland Highway and the Longford-Rosedale Road, next to the Latrobe River.",
+    "entities": [
+      {
+        "text": "South Gippsland Highway",
+        "label": "location",
+        "start": 37,
+        "end": 60
+      },
+      {
+        "text": "Longford-Rosedale Road",
+        "label": "location",
+        "start": 69,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "Models Inc. (UK: That Kind of Girl) is a 1952 American film noir crime film directed by Reginald Le Borg and starring Howard Duff and Coleen Gray.",
+    "entities": [
+      {
+        "text": "Models Inc.",
+        "label": "art",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "UK",
+        "label": "location",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "That Kind of Girl",
+        "label": "art",
+        "start": 17,
+        "end": 34
+      },
+      {
+        "text": "American",
+        "label": "location",
+        "start": 46,
+        "end": 54
+      },
+      {
+        "text": "Reginald Le Borg",
+        "label": "person",
+        "start": 88,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "The final game was against the Chicago Majors in a neutral site game at the Cleveland Arena on December 30, 1962.",
+    "entities": [
+      {
+        "text": "Chicago Majors",
+        "label": "organization",
+        "start": 31,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "The Senate responded by sending the consuls Lucius Licinius Lucullus and Marcus Aurelius Cotta to deal with the Pontic threat.",
+    "entities": [
+      {
+        "text": "Lucius Licinius Lucullus",
+        "label": "person",
+        "start": 44,
+        "end": 68
+      },
+      {
+        "text": "Marcus Aurelius Cotta",
+        "label": "person",
+        "start": 73,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "text": "), Magister Artium Liberalium (Mgr.",
+    "entities": []
+  },
+  {
+    "text": "The sole two-car set was converted from former Iyotetsu 700 series EMU cars, which were themselves converted from former Keio 5000 series EMU cars, and was introduced to replace the Choshi Electric Railway's 1000 series EMU car number 1001, which was withdrawn in February 2016.",
+    "entities": [
+      {
+        "text": "Iyotetsu 700 series EMU cars",
+        "label": "product",
+        "start": 47,
+        "end": 75
+      },
+      {
+        "text": "Keio 5000 series EMU cars",
+        "label": "product",
+        "start": 121,
+        "end": 146
+      },
+      {
+        "text": "Choshi Electric Railway's 1000 series EMU car",
+        "label": "product",
+        "start": 182,
+        "end": 227
+      }
+    ]
+  },
+  {
+    "text": "The construction of the Roxburgh Dam in the 1950s also provided much traffic for the line.",
+    "entities": [
+      {
+        "text": "Roxburgh Dam",
+        "label": "location",
+        "start": 24,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "Gravity darkening, also referred to as gravity brightening, is an astronomical phenomenon where a star rotates so rapidly that it has a detectably oblate spheroid shape, such as in Achernar in the constellation Eridanus.",
+    "entities": []
+  },
+  {
+    "text": "c. 970 BC), Osorkon II (fl.",
+    "entities": [
+      {
+        "text": "Osorkon II",
+        "label": "person",
+        "start": 12,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "Tribeca Grill (1990), with partner Robert De Niro and investors including Bill Murray, Sean Penn, and Mikhail Baryshnikov among others, opened in 1990 and continues to operate at the same Tribeca location, in the former Martinson Coffee building.",
+    "entities": [
+      {
+        "text": "Tribeca",
+        "label": "location",
+        "start": 188,
+        "end": 195
+      },
+      {
+        "text": "Martinson Coffee",
+        "label": "organization",
+        "start": 220,
+        "end": 236
+      }
+    ]
+  },
+  {
+    "text": "The older antihistaminic agent terfenadine was found to metabolize into the related carboxylic acid, fexofenadine.",
+    "entities": []
+  },
+  {
+    "text": "It's not sure what toxin in the plant causes such severe reactions but formic acid, serotonin, histamine, oxalic acid and tartaric acid are some of the suspects.",
+    "entities": []
+  },
+  {
+    "text": "The Umayyad rulers faced a major Berber Revolt in the early 740s; the uprising originally broke out in North Africa (Tangier) and later spread across the peninsula.",
+    "entities": [
+      {
+        "text": "North Africa",
+        "label": "location",
+        "start": 103,
+        "end": 115
+      },
+      {
+        "text": "Tangier",
+        "label": "location",
+        "start": 117,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "The Colt M1911 is also being put back into service as the M45A1 Close Quarter Battle Pistol (CQBP) in small numbers.",
+    "entities": [
+      {
+        "text": "Colt M1911",
+        "label": "product",
+        "start": 4,
+        "end": 14
+      },
+      {
+        "text": "M45A1 Close Quarter Battle Pistol",
+        "label": "product",
+        "start": 58,
+        "end": 91
+      },
+      {
+        "text": "CQBP",
+        "label": "product",
+        "start": 93,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "Under Ray's guidance, the Pacific Science Center was converted from a traditional, exhibit-oriented museum to an interactive learning center.",
+    "entities": [
+      {
+        "text": "Pacific Science Center",
+        "label": "organization",
+        "start": 26,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "The City of Calgary has identified the intersection of 12 Street NE, just east of Deerfoot Trail, for a future interchange location; however, no timeline has been set for construction.",
+    "entities": [
+      {
+        "text": "Calgary",
+        "label": "location",
+        "start": 12,
+        "end": 19
+      },
+      {
+        "text": "12 Street",
+        "label": "location",
+        "start": 55,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "During his career he received several awards including: the Grand Prize at the XIII Triennale (1964); a prize at the first International Poster Biennale in Warsaw (1966); and four Compasso d'Oro.",
+    "entities": [
+      {
+        "text": "Warsaw",
+        "label": "location",
+        "start": 156,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "text": "For the self-employed, the FICA tax rate went from 9.35% to 14%.",
+    "entities": []
+  },
+  {
+    "text": "The league was so impressed by the attendance that they awarded the 2010 UFL Championship Game to Rosenblatt, which was the last sporting event ever held there.",
+    "entities": []
+  },
+  {
+    "text": "Although the number of cases worldwide continues to fall, pockets of high prevalence continue in certain areas such as Brazil, South Asia (India, Nepal), some parts of Africa (Tanzania, Madagascar, Mozambique) and the western Pacific.",
+    "entities": [
+      {
+        "text": "Brazil",
+        "label": "location",
+        "start": 119,
+        "end": 125
+      },
+      {
+        "text": "South Asia",
+        "label": "location",
+        "start": 127,
+        "end": 137
+      },
+      {
+        "text": "India",
+        "label": "location",
+        "start": 139,
+        "end": 144
+      },
+      {
+        "text": "Nepal",
+        "label": "location",
+        "start": 146,
+        "end": 151
+      },
+      {
+        "text": "Africa",
+        "label": "location",
+        "start": 168,
+        "end": 174
+      },
+      {
+        "text": "Tanzania",
+        "label": "location",
+        "start": 176,
+        "end": 184
+      },
+      {
+        "text": "Madagascar",
+        "label": "location",
+        "start": 186,
+        "end": 196
+      },
+      {
+        "text": "Mozambique",
+        "label": "location",
+        "start": 198,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "One peso is divided into 100 ``centavos'' (cents).",
+    "entities": []
+  },
+  {
+    "text": "The Transport Act 1968 resulted in several bus companies run by local authorities around Greater Manchester merging to create a central organisation.",
+    "entities": [
+      {
+        "text": "Greater Manchester",
+        "label": "location",
+        "start": 89,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "From 1991 to 2001, Reisz focused on theatre directing in London, Dublin and Paris.",
+    "entities": [
+      {
+        "text": "Reisz",
+        "label": "person",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 57,
+        "end": 63
+      },
+      {
+        "text": "Dublin",
+        "label": "location",
+        "start": 65,
+        "end": 71
+      },
+      {
+        "text": "Paris",
+        "label": "location",
+        "start": 76,
+        "end": 81
+      }
+    ]
+  },
+  {
+    "text": "Alkenes can be prepared indirectly from alkyl amines.",
+    "entities": []
+  },
+  {
+    "text": "McPeek serves on the Boards of the University of Kentucky College of Agricultural Equine Program Advisory Committee, Thoroughbred Owners and Breeders Association (TOBA), and the National Horsemen's Benevolent and Protective Association (HBPA).",
+    "entities": [
+      {
+        "text": "University of Kentucky College of Agricultural Equine Program Advisory Committee",
+        "label": "organization",
+        "start": 35,
+        "end": 115
+      },
+      {
+        "text": "Thoroughbred Owners and Breeders Association",
+        "label": "organization",
+        "start": 117,
+        "end": 161
+      },
+      {
+        "text": "TOBA",
+        "label": "organization",
+        "start": 163,
+        "end": 167
+      },
+      {
+        "text": "National Horsemen's Benevolent and Protective Association",
+        "label": "organization",
+        "start": 178,
+        "end": 235
+      },
+      {
+        "text": "HBPA",
+        "label": "organization",
+        "start": 237,
+        "end": 241
+      }
+    ]
+  },
+  {
+    "text": "In 2018, PCM the football team went undefeated (13-0) and made their first UNI-Dome appearance since the 2006 season.",
+    "entities": [
+      {
+        "text": "PCM",
+        "label": "organization",
+        "start": 9,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Lord Mayor, Petra Roth and the Hessian Minister of Transport, Dieter Posch attended the ceremony.",
+    "entities": [
+      {
+        "text": "Petra Roth",
+        "label": "person",
+        "start": 12,
+        "end": 22
+      },
+      {
+        "text": "Dieter Posch",
+        "label": "person",
+        "start": 62,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "text": "Michael Louis Connell (November 30, 1963 – December 19, 2008) was a high-level Republican consultant who was subpoenaed in a case regarding alleged tampering with the 2004 U.S. Presidential election and a case involving thousands of missing emails pertaining to the political firing of U.S.",
+    "entities": [
+      {
+        "text": "Michael Louis Connell",
+        "label": "person",
+        "start": 0,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "``Apples, Peaches and Cherries ``was translated into French by Sacha Distel and became a number one hit in France under the title ``Scoubidou.''",
+    "entities": [
+      {
+        "text": "France",
+        "label": "location",
+        "start": 107,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "The CN Tower, once the tallest free-standing structure in the world, remains the tallest such structure in the Americas, standing at 553.33 metres (1,815 ft., 5 inches).",
+    "entities": [
+      {
+        "text": "Americas",
+        "label": "location",
+        "start": 111,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "He started his career at North Dorset where he came through their mini and youth sides before leaving to join professional side Bath Rugby.",
+    "entities": [
+      {
+        "text": "North Dorset",
+        "label": "organization",
+        "start": 25,
+        "end": 37
+      },
+      {
+        "text": "Bath Rugby",
+        "label": "organization",
+        "start": 128,
+        "end": 138
+      }
+    ]
+  },
+  {
+    "text": "The library museum suffered catastrophic damage in the 1848 battle for Vienna, with the zoological collection being completely destroyed by cannon fire.",
+    "entities": []
+  },
+  {
+    "text": "The Sligo, Leitrim and Northern Counties Railway was the main rail line operating in part of the region, before shutting down in 1957.",
+    "entities": [
+      {
+        "text": "Sligo, Leitrim and Northern Counties Railway",
+        "label": "organization",
+        "start": 4,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "Wang Zhaojun, of the Han dynasty, and Princess Wencheng, of the Tang dynasty, are among the most famous heqin princesses.",
+    "entities": [
+      {
+        "text": "Wencheng",
+        "label": "person",
+        "start": 47,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "text": "(1991), in which Marcel Duchamp – played by Setterfield – is the central figure around which all the action swirls, received a Bessie and an Obie Award.",
+    "entities": [
+      {
+        "text": "Setterfield",
+        "label": "person",
+        "start": 44,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "text": "Jacquie Durrell is the author of two autobiographical accounts concerning her life with Gerald Durrell, ``Beasts in My Bed ``(footnotes by Gerald Durrell) (Collins, 1967), and ``Intimate Relations ``(Collins, 1976).",
+    "entities": [
+      {
+        "text": "Jacquie Durrell",
+        "label": "person",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Gerald Durrell",
+        "label": "person",
+        "start": 88,
+        "end": 102
+      },
+      {
+        "text": "Gerald Durrell",
+        "label": "person",
+        "start": 139,
+        "end": 153
+      },
+      {
+        "text": "Collins",
+        "label": "organization",
+        "start": 156,
+        "end": 163
+      },
+      {
+        "text": "Collins",
+        "label": "organization",
+        "start": 200,
+        "end": 207
+      }
+    ]
+  },
+  {
+    "text": "Pogány was one of five party leaders signing the unity document on behalf of the Left Socialists.",
+    "entities": [
+      {
+        "text": "Left Socialists",
+        "label": "organization",
+        "start": 81,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "text": "The First Hill Streetcar connects with Amtrak and Sounder Trains (at King Street Station) and Link Light Rail (at both the International District/ Chinatown and Capitol Hill stations).",
+    "entities": [
+      {
+        "text": "The First Hill Streetcar",
+        "label": "location",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "Sounder Trains",
+        "label": "location",
+        "start": 50,
+        "end": 64
+      },
+      {
+        "text": "King Street Station",
+        "label": "location",
+        "start": 69,
+        "end": 88
+      },
+      {
+        "text": "Link Light Rail",
+        "label": "location",
+        "start": 94,
+        "end": 109
+      },
+      {
+        "text": "Capitol Hill stations",
+        "label": "location",
+        "start": 161,
+        "end": 182
+      }
+    ]
+  },
+  {
+    "text": "Grain Power Station is a CCGT power station and former oil-fired power station in Kent, England, with operational capacity of owned by Uniper (formerly E.ON UK).",
+    "entities": [
+      {
+        "text": "Kent",
+        "label": "location",
+        "start": 82,
+        "end": 86
+      },
+      {
+        "text": "England",
+        "label": "location",
+        "start": 88,
+        "end": 95
+      },
+      {
+        "text": "Uniper",
+        "label": "organization",
+        "start": 135,
+        "end": 141
+      },
+      {
+        "text": "E.ON UK",
+        "label": "organization",
+        "start": 152,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "The battle honours awarded to the 1st Hussars are as follows, with those bolded emblazoned on the regiment's guidon.",
+    "entities": [
+      {
+        "text": "1st Hussars",
+        "label": "organization",
+        "start": 34,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "are forced to invade planets for the evil Emperor Bog, but when they are sent to Earth they become addicted to American culture.",
+    "entities": [
+      {
+        "text": "Bog",
+        "label": "person",
+        "start": 50,
+        "end": 53
+      },
+      {
+        "text": "American",
+        "label": "location",
+        "start": 111,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "Antithrombin deficiency is present in 0.2% of the general population and 0.5–7.5% of people with venous thrombosis.",
+    "entities": []
+  },
+  {
+    "text": "Previously, Reina was selected by manager José Villalonga for his 1966 World Cup squad in England, remaining on the bench for the entire tournament.",
+    "entities": [
+      {
+        "text": "England",
+        "label": "location",
+        "start": 90,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "While Russian troops from Moldova proper and from the security zone were evacuated to Russia by January 1993, Russia continued to have a significant military presence in Transnistria.",
+    "entities": [
+      {
+        "text": "Russian",
+        "label": "location",
+        "start": 6,
+        "end": 13
+      },
+      {
+        "text": "Moldova",
+        "label": "location",
+        "start": 26,
+        "end": 33
+      },
+      {
+        "text": "Russia",
+        "label": "location",
+        "start": 86,
+        "end": 92
+      },
+      {
+        "text": "Russia",
+        "label": "location",
+        "start": 110,
+        "end": 116
+      },
+      {
+        "text": "Transnistria",
+        "label": "location",
+        "start": 170,
+        "end": 182
+      }
+    ]
+  },
+  {
+    "text": "A video showing the end of the Pickering IBM 1800 boot sequence is available on YouTube",
+    "entities": [
+      {
+        "text": "Pickering IBM 1800",
+        "label": "product",
+        "start": 31,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "The City worked with citizens on developing a long-range plan called City Center Vision Plan.",
+    "entities": [
+      {
+        "text": "City Center Vision Plan",
+        "label": "product",
+        "start": 69,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "During the reign of Hammurabi, Babylon usurped the position of ``most holy city'' in southern Mesopotamia from its predecessor, Nippur.",
+    "entities": [
+      {
+        "text": "Hammurabi",
+        "label": "person",
+        "start": 20,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "Its price range will be between USD $12,000 and USD $13,000, depending on the specific model and accessories.",
+    "entities": []
+  },
+  {
+    "text": "In his first season with the Bell, Papale caught nine passes for 121 yards, averaging 13.4 yards per catch including catching the first pass in the history of the new league.",
+    "entities": [
+      {
+        "text": "Bell",
+        "label": "organization",
+        "start": 29,
+        "end": 33
+      }
+    ]
+  }
+]

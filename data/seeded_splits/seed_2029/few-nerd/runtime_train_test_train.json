@@ -1,0 +1,1435 @@
+[
+  {
+    "text": "The club is on Youngs Drive, opposite Shawfield Park.",
+    "entities": [
+      {
+        "text": "Youngs Drive",
+        "label": "location",
+        "start": 15,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "As of 2004, AnimeNation was one of the top two online anime specialty retailers in the United States.",
+    "entities": [
+      {
+        "text": "AnimeNation",
+        "label": "organization",
+        "start": 12,
+        "end": 23
+      },
+      {
+        "text": "United States",
+        "label": "location",
+        "start": 87,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "text": "The 1909-1910 season was the third season for Fenerbahçe.",
+    "entities": [
+      {
+        "text": "Fenerbahçe",
+        "label": "organization",
+        "start": 46,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "text": "In 2006, six more Boeing 757-200 passenger aircraft were bought and the Channel Express Portsmouth distribution base was sold to Ferryspeed C.I.",
+    "entities": [
+      {
+        "text": "Boeing 757-200",
+        "label": "product",
+        "start": 18,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "The Fairmont Palliser Hotel and the neighbourhood of Palliser in Calgary, Alberta, are named after him, as are the Palliser Range, Palliser Regional School Division and Palliser Formation of the Canadian Rockies.",
+    "entities": [
+      {
+        "text": "Palliser",
+        "label": "organization",
+        "start": 53,
+        "end": 61
+      },
+      {
+        "text": "Calgary",
+        "label": "location",
+        "start": 65,
+        "end": 72
+      },
+      {
+        "text": "Alberta",
+        "label": "location",
+        "start": 74,
+        "end": 81
+      },
+      {
+        "text": "Palliser Regional School Division",
+        "label": "organization",
+        "start": 131,
+        "end": 164
+      }
+    ]
+  },
+  {
+    "text": "Asked by Wolf Blitzer if he would ever support the efforts of Dennis Kucinich to cut funding for the war, Webb said,",
+    "entities": [
+      {
+        "text": "Wolf Blitzer",
+        "label": "person",
+        "start": 9,
+        "end": 21
+      },
+      {
+        "text": "Dennis Kucinich",
+        "label": "person",
+        "start": 62,
+        "end": 77
+      },
+      {
+        "text": "Webb",
+        "label": "person",
+        "start": 106,
+        "end": 110
+      }
+    ]
+  },
+  {
+    "text": "Endangered mammals include the black-headed spider monkey (``Ateles fusciceps ``), Geoffroy's spider monkey (``Ateles geoffroyi ``) and equatorial dog-faced bat (``Molossops aequatorianus ``).",
+    "entities": [
+      {
+        "text": "Geoffroy",
+        "label": "person",
+        "start": 83,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "Four years later at the Atlanta Olympic Games of 1996, Cuthbert helped the Jamaican 4 x 100 meter sprint relay team along with Michelle Freeman, Nikole Mitchell, and Merlene Ottey finish in third place and win the bronze medal.",
+    "entities": [
+      {
+        "text": "Jamaican",
+        "label": "location",
+        "start": 75,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "text": "Shehri arrived in the United States in April 2001 on a tourist visa.",
+    "entities": [
+      {
+        "text": "United States",
+        "label": "location",
+        "start": 22,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "text": "Previously a voluntary aided school administered by Blackburn with Darwen Borough Council and the Church of England Diocese of Blackburn, St Wilfrid's Church of England High School achieved academy status in July 2011, and was renamed St Wilfrid's Church of England Academy.",
+    "entities": [
+      {
+        "text": "St Wilfrid's Church of England High School",
+        "label": "organization",
+        "start": 138,
+        "end": 180
+      }
+    ]
+  },
+  {
+    "text": "Arginine alpha-ketoglutarate itself is a chemical compound that is supposed to increase the blood flow to muscles and therefore, increasing nutrient delivery to muscle cells.",
+    "entities": []
+  },
+  {
+    "text": "Huergo co-founded the Argentine Scientific Society in 1872 and the Argentine Geographic Institute, in 1879.",
+    "entities": [
+      {
+        "text": "Huergo",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Argentine Scientific Society",
+        "label": "organization",
+        "start": 22,
+        "end": 50
+      },
+      {
+        "text": "Argentine Geographic Institute",
+        "label": "organization",
+        "start": 67,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "The novel was simultaneously published in German and has been translated to Danish, Norwegian, Polish, Lithuanian, Russian, German, Italian, French, Catalan and English.",
+    "entities": [
+      {
+        "text": "German",
+        "label": "location",
+        "start": 42,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "The building of ``El Puente Sobre El Lago de Maracaibo ``General Rafael Urdaneta ``— (General Rafael Urdaneta Bridge over Lake Maracaibo) named after the distinguished General hero of the War of Independence was opened to public traffic in 1962.",
+    "entities": []
+  },
+  {
+    "text": "It is similar to, though somewhat smaller than the Algiers Regional Library, completed around the same time.",
+    "entities": []
+  },
+  {
+    "text": "However, with the completion of the second phase, crude and by-products of oil can also be traded on the exchange in both Iranian Rial and Euro.",
+    "entities": []
+  },
+  {
+    "text": "The first significant Bennigan's location was opened in Tysons Corner, Virginia, the following year.",
+    "entities": [
+      {
+        "text": "Bennigan's",
+        "label": "organization",
+        "start": 22,
+        "end": 32
+      },
+      {
+        "text": "Tysons Corner",
+        "label": "location",
+        "start": 56,
+        "end": 69
+      },
+      {
+        "text": "Virginia",
+        "label": "location",
+        "start": 71,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "text": "A later satellite, the Solar Mesosphere Explorer, mapped the distribution of the clouds between 1981 and 1986 with its ultraviolet spectrometer.",
+    "entities": []
+  },
+  {
+    "text": "Harad's eastern shores looks out on the Eastern Sea, Middle-earth's eastern ocean.",
+    "entities": [
+      {
+        "text": "Harad",
+        "label": "location",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Middle-earth",
+        "label": "location",
+        "start": 53,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "text": "Still, even during its later years, the Balinese Room was able to attract the likes of Tony Bennett and Peggy Lee, among others.",
+    "entities": [
+      {
+        "text": "Tony Bennett",
+        "label": "person",
+        "start": 87,
+        "end": 99
+      },
+      {
+        "text": "Peggy Lee",
+        "label": "person",
+        "start": 104,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "On 4 June 2007, this group, known as the Amato Group, presented its report.",
+    "entities": [
+      {
+        "text": "Amato Group",
+        "label": "organization",
+        "start": 41,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "Baum died on March 3, 1950.",
+    "entities": [
+      {
+        "text": "Baum",
+        "label": "person",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "After her husband's arrest in 1911, Moncaleano fled with him to Cuba to escape political persecution.",
+    "entities": [
+      {
+        "text": "Cuba",
+        "label": "location",
+        "start": 64,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "text": "The route from Mina down to South Africa involved tacking ``against'' the southeasterly trade winds and the contrary Benguela Current, a particularly tiresome task for heavy square rigged carracks.",
+    "entities": [
+      {
+        "text": "Mina",
+        "label": "location",
+        "start": 15,
+        "end": 19
+      },
+      {
+        "text": "South Africa",
+        "label": "location",
+        "start": 28,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "Huston remained in command of the 2nd Division for a short while after the battle of Prairie Grove before reverting to his regular army command in the 1st U.S. Infantry.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "location",
+        "start": 155,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "Flat Lick Ford, Cumberland River, February 14.",
+    "entities": [
+      {
+        "text": "Flat Lick Ford",
+        "label": "location",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Cumberland River",
+        "label": "location",
+        "start": 16,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "Both had been involved in the world's first ever heritage railway at the Talyllyn Railway, and so were seeking a complete and in-place railway.",
+    "entities": [
+      {
+        "text": "Talyllyn Railway",
+        "label": "location",
+        "start": 73,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "The Government General Hospital is located in Katuru Road.",
+    "entities": [
+      {
+        "text": "Katuru Road",
+        "label": "location",
+        "start": 46,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "text": "She then became a member of the House of Chiefs and governor of Sesheke District, positions in which she served until her death in 1972.",
+    "entities": [
+      {
+        "text": "House of Chiefs",
+        "label": "organization",
+        "start": 32,
+        "end": 47
+      },
+      {
+        "text": "Sesheke District",
+        "label": "organization",
+        "start": 64,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "One of the 48 constellations listed by the 2nd-century astronomer Ptolemy, it remains one of the 88 modern constellations defined by the International Astronomical Union.",
+    "entities": [
+      {
+        "text": "International Astronomical Union",
+        "label": "organization",
+        "start": 137,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "Vojislav Stanimirović was also later involved with YACS and the Pink Panthers among Serbian mafia figures.",
+    "entities": [
+      {
+        "text": "YACS",
+        "label": "organization",
+        "start": 51,
+        "end": 55
+      },
+      {
+        "text": "Serbian",
+        "label": "location",
+        "start": 84,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "Despite Belisarius relinquishing the title, the offer had made Justinian suspicious and Belisarius was ordered to return east.",
+    "entities": [
+      {
+        "text": "Belisarius",
+        "label": "person",
+        "start": 8,
+        "end": 18
+      },
+      {
+        "text": "Justinian",
+        "label": "person",
+        "start": 63,
+        "end": 72
+      },
+      {
+        "text": "Belisarius",
+        "label": "person",
+        "start": 88,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "text": "Toyota preceded the Mitsubishi (Lancer Evolution and Galant VR-4) and the Subaru (Legacy and Impreza), but not the Mazda (Mazda 323GT-R & amp; 323GT-X).",
+    "entities": [
+      {
+        "text": "Toyota",
+        "label": "organization",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Mitsubishi",
+        "label": "organization",
+        "start": 20,
+        "end": 30
+      },
+      {
+        "text": "Subaru",
+        "label": "organization",
+        "start": 74,
+        "end": 80
+      },
+      {
+        "text": "Mazda",
+        "label": "organization",
+        "start": 115,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "Chloroform is fluorinated by reaction with hydrogen fluoride to produce chlorodifluoromethane (R-22).",
+    "entities": []
+  },
+  {
+    "text": "Bromley was killed in the Penistone rail crash of 1884.",
+    "entities": [
+      {
+        "text": "Bromley",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Jordan Falls rests between Towns of Shelburn e and Lockeport.",
+    "entities": [
+      {
+        "text": "Towns of Shelburn",
+        "label": "location",
+        "start": 27,
+        "end": 44
+      },
+      {
+        "text": "Lockeport",
+        "label": "location",
+        "start": 51,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "As a racehorse he was a successful sprinter but not a champion, recording his biggest success when he won the Richmond Stakes as a two-year-old in 1950.",
+    "entities": []
+  },
+  {
+    "text": "As a result, CHAN was due to become the Global outlet for all of British Columbia.",
+    "entities": [
+      {
+        "text": "CHAN",
+        "label": "organization",
+        "start": 13,
+        "end": 17
+      },
+      {
+        "text": "Global",
+        "label": "organization",
+        "start": 40,
+        "end": 46
+      },
+      {
+        "text": "British Columbia",
+        "label": "location",
+        "start": 65,
+        "end": 81
+      }
+    ]
+  },
+  {
+    "text": "On his return with the chronicler Ramón Muntaner, he was captured by the Venetians at Negroponte.",
+    "entities": [
+      {
+        "text": "Ramón Muntaner",
+        "label": "person",
+        "start": 34,
+        "end": 48
+      },
+      {
+        "text": "Negroponte",
+        "label": "location",
+        "start": 86,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "text": "Recently, galvanized steel sheets have been used by Maguindanaon instrument manufacturers where different parts of the gong (the knob, body and rim) would be made from separate sheets and welded together, then ground out to produce a finished product.",
+    "entities": [
+      {
+        "text": "Maguindanaon",
+        "label": "location",
+        "start": 52,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "The aviation tradition continues with Mitsubishi Aircraft Corporation headquartered in the Nagoya Airfield's terminal building in Komaki.",
+    "entities": [
+      {
+        "text": "Mitsubishi Aircraft Corporation",
+        "label": "organization",
+        "start": 38,
+        "end": 69
+      },
+      {
+        "text": "Komaki",
+        "label": "location",
+        "start": 130,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "Glutamine is synthesized by the enzyme glutamine synthetase from glutamate and ammonia.",
+    "entities": []
+  },
+  {
+    "text": "Giovanni's works – paintings, frescoes and large canvases – were famously displayed in the galleries and churches of Messina, but due to earthquakes from Mount Etna and wartime bombings, few have survived to the present day.",
+    "entities": [
+      {
+        "text": "Giovanni",
+        "label": "person",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Messina",
+        "label": "location",
+        "start": 117,
+        "end": 124
+      },
+      {
+        "text": "Mount Etna",
+        "label": "location",
+        "start": 154,
+        "end": 164
+      }
+    ]
+  },
+  {
+    "text": "If on the other hand, the first Karmann-Ghia types were added together via Coupé and Cabrio, the Karmann-Ghia was Karmann's most successful vehicle.",
+    "entities": [
+      {
+        "text": "Karmann",
+        "label": "organization",
+        "start": 114,
+        "end": 121
+      }
+    ]
+  },
+  {
+    "text": "There are a number of Gaudiya Vaishnava organizations in Mayapur, such as the Gaudiya Math.",
+    "entities": [
+      {
+        "text": "Mayapur",
+        "label": "location",
+        "start": 57,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "Tacconi was Zenga's deputy during Euro 1988, where Italy managed a semi-final finish, and at the 1990 World Cup on home soil, where Italy finished in third place following a semi-final loss on penalties to defending champions Argentina.",
+    "entities": [
+      {
+        "text": "Italy",
+        "label": "location",
+        "start": 51,
+        "end": 56
+      },
+      {
+        "text": "Italy",
+        "label": "location",
+        "start": 132,
+        "end": 137
+      },
+      {
+        "text": "Argentina",
+        "label": "location",
+        "start": 226,
+        "end": 235
+      }
+    ]
+  },
+  {
+    "text": "It is often referred to by South Australians simply as ``the Freeway'', as it was the first freeway in South Australia, and is still the longest, and the only one with ``Freeway'' in its name rather than ``Expressway'' or ``Highway''.",
+    "entities": [
+      {
+        "text": "Australia",
+        "label": "location",
+        "start": 109,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "The creation of the Royal Logistic Corps in 1993 and the Defence Logistics Organisation in 2000 largely addressed these issues.",
+    "entities": [
+      {
+        "text": "Royal Logistic Corps",
+        "label": "organization",
+        "start": 20,
+        "end": 40
+      },
+      {
+        "text": "Defence Logistics Organisation",
+        "label": "organization",
+        "start": 57,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "text": "Most Sherry vinegars are aged using the same solera system as the Sherry wines and Brandy de Jerez.",
+    "entities": [
+      {
+        "text": "Sherry vinegars",
+        "label": "product",
+        "start": 5,
+        "end": 20
+      },
+      {
+        "text": "Sherry wines",
+        "label": "product",
+        "start": 66,
+        "end": 78
+      },
+      {
+        "text": "Brandy de Jerez",
+        "label": "product",
+        "start": 83,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "text": "Over the next two seasons, his play was limited to appearing in only 17 Ligue 1 matches and scoring just one Ligue 1 goal (his first ever), against Montpellier in a 4–0 victory.",
+    "entities": [
+      {
+        "text": "Montpellier",
+        "label": "organization",
+        "start": 148,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "Since January 2010, the simulator is distributed as ‘ ’ Mikrocodesimulator MikroSim 2010 ’ ’ by 0/1-SimWare.",
+    "entities": [
+      {
+        "text": "Mikrocodesimulator MikroSim 2010",
+        "label": "product",
+        "start": 56,
+        "end": 88
+      },
+      {
+        "text": "0/1-SimWare",
+        "label": "product",
+        "start": 96,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "The battalion deployed with 3rd Brigade again in 2009.",
+    "entities": [
+      {
+        "text": "3rd Brigade",
+        "label": "organization",
+        "start": 28,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "text": "Bolt was educated at The Perse School and Balliol College, Oxford.",
+    "entities": [
+      {
+        "text": "Bolt",
+        "label": "person",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Perse School",
+        "label": "organization",
+        "start": 25,
+        "end": 37
+      },
+      {
+        "text": "Balliol College, Oxford",
+        "label": "organization",
+        "start": 42,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "text": "``Masracetus'' ' type locality is the Birket Qarun Formation in Dimê (, paleocoordinates) north of lake Birket Qarun, but specimens have also been found in the Qattara Depression and Fayum.",
+    "entities": [
+      {
+        "text": "Dimê",
+        "label": "location",
+        "start": 64,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "text": "The QSF is one of thirteen provincial and territorial federations members of the Canadian Soccer Association.",
+    "entities": [
+      {
+        "text": "QSF",
+        "label": "organization",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "Canadian Soccer Association",
+        "label": "organization",
+        "start": 81,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "text": "A 2008 report by the Auditor General Sheila Fraser stated that Canada has lost track of as many as 41,000 illegal immigrants.",
+    "entities": [
+      {
+        "text": "Canada",
+        "label": "location",
+        "start": 63,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "Grant Estes used his Flying V through a 50 Watt Marshall head and an Eventide Harmonizer for the first Suicidal Tendencies album.",
+    "entities": [
+      {
+        "text": "Grant Estes",
+        "label": "person",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Flying V",
+        "label": "product",
+        "start": 21,
+        "end": 29
+      },
+      {
+        "text": "50 Watt Marshall head",
+        "label": "product",
+        "start": 40,
+        "end": 61
+      },
+      {
+        "text": "Eventide Harmonizer",
+        "label": "product",
+        "start": 69,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "text": "Early in the third quarter, Hanks was shown replacing a Ti-cats toque with a Riders hat, drawing a loud roar from the crowd.",
+    "entities": [
+      {
+        "text": "Hanks",
+        "label": "person",
+        "start": 28,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "The exhibition continues in the adjacent building, telling the story of Finnish Defence Forces in the post-war period up to the present day",
+    "entities": [
+      {
+        "text": "Finnish Defence Forces",
+        "label": "organization",
+        "start": 72,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "text": "The years 1972-1976 constituted the peak years for Shintōhō when it produced some 60 films a year.",
+    "entities": [
+      {
+        "text": "Shintōhō",
+        "label": "organization",
+        "start": 51,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "text": "The medium of instruction was Afrikaans, until the Soweto uprising in 1976, when it changed to English.",
+    "entities": []
+  },
+  {
+    "text": "Having converted to Lockheed Ventura GR.V in May 1943, the squadron continued with anti-submarine duty based from RCAF Station Port Hardy and RCAF Station Patricia Bay.",
+    "entities": [
+      {
+        "text": "Lockheed Ventura GR.V",
+        "label": "product",
+        "start": 20,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "text": "In 1996, the ACMAA library partnered with the libraries of the Kimbell Art Museum and the Modern Art Museum of Fort Worth to create the Cultural District Library Consortium (CDLC).",
+    "entities": []
+  },
+  {
+    "text": "Executive editor Ben Bradlee put the newspaper's reputation and resources behind reporters Bob Woodward and Carl Bernstein, who, in a long series of articles, chipped away at the story behind the 1972 burglary of Democratic National Committee offices in the Watergate complex in Washington.",
+    "entities": [
+      {
+        "text": "Ben Bradlee",
+        "label": "person",
+        "start": 17,
+        "end": 28
+      },
+      {
+        "text": "Watergate",
+        "label": "location",
+        "start": 258,
+        "end": 267
+      },
+      {
+        "text": "Washington",
+        "label": "location",
+        "start": 279,
+        "end": 289
+      }
+    ]
+  },
+  {
+    "text": "There are licensed versions of ``Candy Land ``with characters such as Winnie the Pooh, Dora the Explorer and SpongeBob.",
+    "entities": [
+      {
+        "text": "Candy Land",
+        "label": "art",
+        "start": 33,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "Wisconsin did not make a postseason bowl game for the first time since the 1992 season.",
+    "entities": [
+      {
+        "text": "Wisconsin",
+        "label": "organization",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "He later wrote a story entitled ``Staryi syr,'' (``old cheese ``in Russian) a part of which takes place in the Cheshire Cheese Pub.",
+    "entities": []
+  },
+  {
+    "text": "He was a supporter of Robert de Brus.",
+    "entities": [
+      {
+        "text": "Robert de Brus",
+        "label": "person",
+        "start": 22,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "Following the tunnel, it reaches the Mini Stack interchange with Loop 202 and SR 51.",
+    "entities": [
+      {
+        "text": "Loop 202",
+        "label": "location",
+        "start": 65,
+        "end": 73
+      },
+      {
+        "text": "SR 51",
+        "label": "location",
+        "start": 78,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "text": "The flora of the nature reserve is relatively rich and includes among other species alpine yellow-violet, calypso orchid and February daphne.",
+    "entities": []
+  },
+  {
+    "text": "However, the two-year-long 33-34 partisan division also resulted in numerous temporary coalitions which blocked some bills and advanced others, prompting the Denver Post to editorialize in 2012, ``on balance, this year's regular session of the legislature was a success.''",
+    "entities": [
+      {
+        "text": "Denver Post",
+        "label": "organization",
+        "start": 158,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "It was also adapted into a film, in 1962, directed by Tony Richardson and starring Tom Courtenay.",
+    "entities": [
+      {
+        "text": "Tony Richardson",
+        "label": "person",
+        "start": 54,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "For example, Qantas Club membership provides access to the Admirals Club lounges due to a reciprocal arrangement with American Airlines; similarly, a member of the United Club or other Star Alliance members can access lounges of Air Canada and Air New Zealand.",
+    "entities": [
+      {
+        "text": "Qantas Club",
+        "label": "organization",
+        "start": 13,
+        "end": 24
+      },
+      {
+        "text": "Admirals Club",
+        "label": "organization",
+        "start": 59,
+        "end": 72
+      },
+      {
+        "text": "American Airlines",
+        "label": "organization",
+        "start": 118,
+        "end": 135
+      },
+      {
+        "text": "United Club",
+        "label": "organization",
+        "start": 164,
+        "end": 175
+      },
+      {
+        "text": "Star Alliance",
+        "label": "organization",
+        "start": 185,
+        "end": 198
+      },
+      {
+        "text": "Air Canada",
+        "label": "organization",
+        "start": 229,
+        "end": 239
+      },
+      {
+        "text": "Air New Zealand",
+        "label": "organization",
+        "start": 244,
+        "end": 259
+      }
+    ]
+  },
+  {
+    "text": "In 1981, the band played a second UK tour and were featured in a 1981 documentary film, ``Listen to London ``, performing ``Straight Lines ``and ``This World of Water ``.",
+    "entities": [
+      {
+        "text": "UK",
+        "label": "location",
+        "start": 34,
+        "end": 36
+      },
+      {
+        "text": "Listen to London",
+        "label": "art",
+        "start": 90,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "Other bridge with shops on them are Ponte Vecchio and Ponte Rialto in Italy; Osam Bridge in Bulgaria; Pulteney Bridge in Avon, High Bridge in Lincoln, and ``Frome Bridge ``in Frome in the United Kingdom; and Krämerbrücke in Erfurt, Germany.)",
+    "entities": [
+      {
+        "text": "Italy",
+        "label": "location",
+        "start": 70,
+        "end": 75
+      },
+      {
+        "text": "Bulgaria",
+        "label": "location",
+        "start": 92,
+        "end": 100
+      },
+      {
+        "text": "Avon",
+        "label": "location",
+        "start": 121,
+        "end": 125
+      },
+      {
+        "text": "Lincoln",
+        "label": "location",
+        "start": 142,
+        "end": 149
+      },
+      {
+        "text": "Frome",
+        "label": "location",
+        "start": 175,
+        "end": 180
+      },
+      {
+        "text": "United Kingdom",
+        "label": "location",
+        "start": 188,
+        "end": 202
+      },
+      {
+        "text": "Erfurt",
+        "label": "location",
+        "start": 224,
+        "end": 230
+      },
+      {
+        "text": "Germany",
+        "label": "location",
+        "start": 232,
+        "end": 239
+      }
+    ]
+  },
+  {
+    "text": "Probably in 1512, he enlisted to serve in the campaign launched by Henry VIII as part of the War of the League of Cambrai against France.",
+    "entities": [
+      {
+        "text": "Henry VIII",
+        "label": "person",
+        "start": 67,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "It is located near the city of Erode, just 6 km from it.",
+    "entities": [
+      {
+        "text": "Erode",
+        "label": "location",
+        "start": 31,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "D. Rama Naidu gave a pivotal role to Asrani in ``Taqdeerwala ``in 1995 and once again comedy movies were being made from there on.",
+    "entities": [
+      {
+        "text": "Taqdeerwala",
+        "label": "art",
+        "start": 49,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "In January 2008, the band was awarded a Libby Award by PETA for Best Newcomers.",
+    "entities": [
+      {
+        "text": "PETA",
+        "label": "organization",
+        "start": 55,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "text": "He was Chairman of the governors of Rugby School from 1995–2002 and a trustee of the National Gallery from 1995-2002.",
+    "entities": [
+      {
+        "text": "Rugby School",
+        "label": "organization",
+        "start": 36,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "Cassini visualized her as an American Queen and Mrs. Kennedy acknowledged that ``Oleg dressed me for the part''.",
+    "entities": [
+      {
+        "text": "American",
+        "label": "location",
+        "start": 29,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "text": "Youngblood's first solo recording, ``Heartbreak ``became a hit and help him work as bandleader for Faye Adams, Buster Brown, and Baby Washington.",
+    "entities": [
+      {
+        "text": "Youngblood",
+        "label": "organization",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Faye Adams",
+        "label": "organization",
+        "start": 99,
+        "end": 109
+      },
+      {
+        "text": "Buster Brown",
+        "label": "organization",
+        "start": 111,
+        "end": 123
+      },
+      {
+        "text": "Baby Washington",
+        "label": "organization",
+        "start": 129,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "It is rumored that Sharon Stone received a portion of the soundtrack profit, so she agreed to appear in the music video for this song.",
+    "entities": [
+      {
+        "text": "Sharon Stone",
+        "label": "person",
+        "start": 19,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "Pinza became a member of Westchester Country Club in Rye, New York, and lived in a house adjacent to the fifth golf hole of the South Course.",
+    "entities": [
+      {
+        "text": "Westchester Country Club",
+        "label": "organization",
+        "start": 25,
+        "end": 49
+      },
+      {
+        "text": "Rye",
+        "label": "location",
+        "start": 53,
+        "end": 56
+      },
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 58,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "As of December 2011, 32 osteopathic nuclear medicine physicians held active certification with the AOBNM.",
+    "entities": [
+      {
+        "text": "AOBNM",
+        "label": "organization",
+        "start": 99,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "After that he worked at Městská divadla pražská.",
+    "entities": []
+  },
+  {
+    "text": "Lee Marrs supplied a few pictures.",
+    "entities": [
+      {
+        "text": "Lee Marrs",
+        "label": "person",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "This time, the disagreement was over whether the portion of West Florida that was first under British and then Spanish control since 1763 (between the Mississippi and Perdido Rivers) was included in the 1801 treaty and thus the Louisiana Purchase.",
+    "entities": [
+      {
+        "text": "West Florida",
+        "label": "location",
+        "start": 60,
+        "end": 72
+      },
+      {
+        "text": "British",
+        "label": "location",
+        "start": 94,
+        "end": 101
+      },
+      {
+        "text": "Spanish",
+        "label": "location",
+        "start": 111,
+        "end": 118
+      },
+      {
+        "text": "Louisiana Purchase",
+        "label": "location",
+        "start": 228,
+        "end": 246
+      }
+    ]
+  },
+  {
+    "text": "Fenton agreed to sit on the contract until a permanent bass player was found.",
+    "entities": [
+      {
+        "text": "Fenton",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Goalkeeper Iker Casillas won the golden glove for only conceding two goals during the tournament.",
+    "entities": [
+      {
+        "text": "Iker Casillas",
+        "label": "person",
+        "start": 11,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "Ragapravaham, the brain child of these young brothers has over a short period of time become an instant hit all over the world.",
+    "entities": [
+      {
+        "text": "Ragapravaham,",
+        "label": "product",
+        "start": 0,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "The 1981 Avon Championships of Seattle was a women's tennis tournament played on indoor carpet courts at the Seattle Center Coliseum in Seattle, Washington in the United States that was part of the 1981 Avon Championships Circuit.",
+    "entities": [
+      {
+        "text": "Seattle",
+        "label": "location",
+        "start": 136,
+        "end": 143
+      },
+      {
+        "text": "Washington",
+        "label": "location",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "the United States",
+        "label": "location",
+        "start": 159,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "Founded in 1088, the University of Bologne is considered the first, and the oldest continually operating university.",
+    "entities": [
+      {
+        "text": "University of Bologne",
+        "label": "organization",
+        "start": 21,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "text": "Tritium leakage from the rods during reactor operations limits the number that can be used in any reactor without exceeding the maximum allowed tritium levels in the coolant.",
+    "entities": []
+  },
+  {
+    "text": "The 193 million birr Arba Minch Textile Mill was opened on 6 May 1992 in the presence of Ethiopian Prime Minister Tamirat Layne.",
+    "entities": [
+      {
+        "text": "birr Arba Minch Textile Mill",
+        "label": "organization",
+        "start": 16,
+        "end": 44
+      },
+      {
+        "text": "Ethiopian",
+        "label": "location",
+        "start": 89,
+        "end": 98
+      },
+      {
+        "text": "Tamirat Layne",
+        "label": "person",
+        "start": 114,
+        "end": 127
+      }
+    ]
+  },
+  {
+    "text": "The British Rail Class 25 diesel locomotives, also known as Sulzer Type 2 were a class of 327 locomotives built between 1961 and 1967 for British Rail.",
+    "entities": [
+      {
+        "text": "British Rail",
+        "label": "location",
+        "start": 138,
+        "end": 150
+      }
+    ]
+  },
+  {
+    "text": "The band toured through the mid west and east coast including numerous dates on the Warped Tour.",
+    "entities": []
+  },
+  {
+    "text": "After a second division loan at SD Eibar, Hurtado returned as an important midfield element, renewing his contract until 2009 and scoring his first goal for the club in 2006–07, a 2–1 home win over RC Celta de Vigo in the league opener– during that campaign, he also collected 12 yellow cards.",
+    "entities": [
+      {
+        "text": "SD Eibar",
+        "label": "organization",
+        "start": 32,
+        "end": 40
+      },
+      {
+        "text": "RC Celta de Vigo",
+        "label": "organization",
+        "start": 198,
+        "end": 214
+      }
+    ]
+  },
+  {
+    "text": "When he finished, he told Anansi to sleep there, but Anansi replied that he couldn't, because he was Nyame's Soul-washer and only slept in a room with an open veranda.",
+    "entities": [
+      {
+        "text": "Anansi",
+        "label": "person",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "text": "Anansi",
+        "label": "person",
+        "start": 53,
+        "end": 59
+      },
+      {
+        "text": "Nyame",
+        "label": "person",
+        "start": 101,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "His group was involved in an intense battle with the U.S. army near Spin Boldak.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "organization",
+        "start": 53,
+        "end": 57
+      },
+      {
+        "text": "Spin Boldak",
+        "label": "location",
+        "start": 68,
+        "end": 79
+      }
+    ]
+  }
+]

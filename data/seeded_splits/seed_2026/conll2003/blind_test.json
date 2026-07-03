@@ -1,0 +1,6702 @@
+[
+  {
+    "text": "It's fair use.",
+    "entities": []
+  },
+  {
+    "text": "Tianjin boasts a range of infrastructure facilities, attracting several multinational oil companies to invest in recent years.",
+    "entities": [
+      {
+        "text": "Tianjin",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Brian Homewood",
+    "entities": [
+      {
+        "text": "Brian Homewood",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "OB 42 6 62 .409 20 1/2",
+    "entities": [
+      {
+        "text": "OB",
+        "label": "ORG",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "text": "Penalties: Burke (2).",
+    "entities": [
+      {
+        "text": "Burke",
+        "label": "PER",
+        "start": 11,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "1995 - The Fourth World Conference on Women, the biggest U.N. gathering in history, began in China's Great Hall of the People with a U.N. declaration that sexual equality was the last great project of the 20th century.",
+    "entities": [
+      {
+        "text": "U.N.",
+        "label": "ORG",
+        "start": 57,
+        "end": 61
+      },
+      {
+        "text": "China",
+        "label": "LOC",
+        "start": 93,
+        "end": 98
+      },
+      {
+        "text": "Great Hall of the People",
+        "label": "LOC",
+        "start": 101,
+        "end": 125
+      },
+      {
+        "text": "U.N.",
+        "label": "ORG",
+        "start": 133,
+        "end": 137
+      }
+    ]
+  },
+  {
+    "text": "The editor was prosecuted following a May 1995 article alleging top-level corruption.",
+    "entities": []
+  },
+  {
+    "text": "EPS 143.56 yen 127.64 yen",
+    "entities": []
+  },
+  {
+    "text": "Deputy Secretary of State Strobe Talbott flew to Ottawa on Monday to meet his Russian counterpart and discuss a range of bilateral and European security issues, the State Department said.",
+    "entities": [
+      {
+        "text": "Strobe Talbott",
+        "label": "PER",
+        "start": 26,
+        "end": 40
+      },
+      {
+        "text": "Ottawa",
+        "label": "LOC",
+        "start": 49,
+        "end": 55
+      },
+      {
+        "text": "State Department",
+        "label": "ORG",
+        "start": 165,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "134 Robert Coles 68 66, David Williams 67 67, Thomas Bjorn",
+    "entities": [
+      {
+        "text": "Robert Coles",
+        "label": "PER",
+        "start": 4,
+        "end": 16
+      },
+      {
+        "text": "David Williams",
+        "label": "PER",
+        "start": 24,
+        "end": 38
+      },
+      {
+        "text": "Thomas Bjorn",
+        "label": "PER",
+        "start": 46,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "Paris Saint-Germain 21 12 6 3 34 15 42",
+    "entities": [
+      {
+        "text": "Paris Saint-Germain",
+        "label": "ORG",
+        "start": 0,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "Help-wanted ad index fell in July.",
+    "entities": []
+  },
+  {
+    "text": "Second-ranked Austrian Thomas Muster, who was seeded third, did not have the luck of the draw with him.",
+    "entities": [
+      {
+        "text": "Thomas Muster",
+        "label": "PER",
+        "start": 23,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "Glamorgan 13 4 5 4 36 32 144",
+    "entities": [
+      {
+        "text": "Glamorgan",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Anderlecht 2 Lokeren 2",
+    "entities": [
+      {
+        "text": "Anderlecht",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Lokeren",
+        "label": "ORG",
+        "start": 13,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "\" It might be sooner than you think, \" he told reporters after briefing the Security Council on arrangements for monitors needed to carry out the agreement.",
+    "entities": [
+      {
+        "text": "Security Council",
+        "label": "ORG",
+        "start": 76,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "Ohio State left tackle Orlando Pace became the first repeat winner of the Lombardi Award Thursday night when the Rotary Club of Houston again honoured him as college football's lineman of the year.",
+    "entities": [
+      {
+        "text": "Ohio State",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Orlando Pace",
+        "label": "PER",
+        "start": 23,
+        "end": 35
+      },
+      {
+        "text": "Rotary Club",
+        "label": "ORG",
+        "start": 113,
+        "end": 124
+      },
+      {
+        "text": "Houston",
+        "label": "LOC",
+        "start": 128,
+        "end": 135
+      }
+    ]
+  },
+  {
+    "text": "Fox said he had brought up the issue at every meeting he had had with government leaders in Dhaka.",
+    "entities": [
+      {
+        "text": "Fox",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Dhaka",
+        "label": "LOC",
+        "start": 92,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "GERMANY - Bunds extended losses, flirting with session lows after falling victim to sharply higher U.S. economic data which revived fears that interest rates may soon turn higher.",
+    "entities": [
+      {
+        "text": "GERMANY",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 99,
+        "end": 103
+      }
+    ]
+  },
+  {
+    "text": "Police said they fought armed activists from the BNP, headed by former prime minister Begum Khaleda Zia.",
+    "entities": [
+      {
+        "text": "BNP",
+        "label": "ORG",
+        "start": 49,
+        "end": 52
+      },
+      {
+        "text": "Begum Khaleda Zia",
+        "label": "PER",
+        "start": 86,
+        "end": 103
+      }
+    ]
+  },
+  {
+    "text": "Lucy Tyler-Sharman (Australia) 3:35.087 beat Svetlana",
+    "entities": [
+      {
+        "text": "Lucy Tyler-Sharman",
+        "label": "PER",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "Australia",
+        "label": "LOC",
+        "start": 20,
+        "end": 29
+      },
+      {
+        "text": "Svetlana",
+        "label": "PER",
+        "start": 45,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "text": "TENNIS - REVISED MEN 'S DRAW FOR U.S. OPEN.",
+    "entities": []
+  },
+  {
+    "text": "KHARTOUM 1996-08-24",
+    "entities": [
+      {
+        "text": "KHARTOUM",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "10. Katleen Allais (France) 21.58",
+    "entities": [
+      {
+        "text": "Katleen Allais",
+        "label": "PER",
+        "start": 4,
+        "end": 18
+      },
+      {
+        "text": "France",
+        "label": "LOC",
+        "start": 20,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "Strikers - Ronald de Boer (Ajax), Gaston Taument (Feyenoord), Jordi Cruyff (Manchester United), Dennis Bergkamp (Arsenal).",
+    "entities": [
+      {
+        "text": "Ronald de Boer",
+        "label": "PER",
+        "start": 11,
+        "end": 25
+      },
+      {
+        "text": "Ajax",
+        "label": "ORG",
+        "start": 27,
+        "end": 31
+      },
+      {
+        "text": "Gaston Taument",
+        "label": "PER",
+        "start": 34,
+        "end": 48
+      },
+      {
+        "text": "Feyenoord",
+        "label": "ORG",
+        "start": 50,
+        "end": 59
+      },
+      {
+        "text": "Jordi Cruyff",
+        "label": "PER",
+        "start": 62,
+        "end": 74
+      },
+      {
+        "text": "Manchester United",
+        "label": "ORG",
+        "start": 76,
+        "end": 93
+      },
+      {
+        "text": "Dennis Bergkamp",
+        "label": "PER",
+        "start": 96,
+        "end": 111
+      },
+      {
+        "text": "Arsenal",
+        "label": "ORG",
+        "start": 113,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "It quoted military officials as saying the attack took place in Sergiyev Posad 70 km (45 miles) from the capital.",
+    "entities": [
+      {
+        "text": "Sergiyev Posad",
+        "label": "LOC",
+        "start": 64,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "287 Costantino Rocca (Italy) 74 71 75 67, Clarence Rose 72 71",
+    "entities": [
+      {
+        "text": "Costantino Rocca",
+        "label": "PER",
+        "start": 4,
+        "end": 20
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "Clarence Rose",
+        "label": "PER",
+        "start": 42,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "text": "Results of Australian rugby league matches played at the weekend.",
+    "entities": []
+  },
+  {
+    "text": "\" The bad news is, if you 're not skilled and can't contribute to a team, to customer service and the organisation's goals, you 'll be paid less. \"",
+    "entities": []
+  },
+  {
+    "text": "DAKAR 1996-08-29",
+    "entities": [
+      {
+        "text": "DAKAR",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "After a meeting failed to materialise on Monday, Lebed's spokesman said he might meet the president on Tuesday.",
+    "entities": [
+      {
+        "text": "Lebed",
+        "label": "PER",
+        "start": 49,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "Attendance: 800",
+    "entities": []
+  },
+  {
+    "text": "Charleroi (Belgium) 9 0 9 9",
+    "entities": [
+      {
+        "text": "Charleroi",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Belgium",
+        "label": "LOC",
+        "start": 11,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "Jet kero 15 15-20 25",
+    "entities": []
+  },
+  {
+    "text": "DAY--COMPANY----PERIOD--CONSENSUS----RANGE-------PVS",
+    "entities": []
+  },
+  {
+    "text": "SAN FRANCISCO 57 74 .435 15 1/2",
+    "entities": [
+      {
+        "text": "SAN FRANCISCO",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "Women's 400 metres hurdles:",
+    "entities": []
+  },
+  {
+    "text": "Two other girls have been rescued and police are hunting for at least two more who Dutroux has admitted kidnapping a year ago.",
+    "entities": [
+      {
+        "text": "Dutroux",
+        "label": "PER",
+        "start": 83,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "text": "They were held for 71 days before relatives paid a ransom to free them.",
+    "entities": []
+  },
+  {
+    "text": "Groningen 1 (Gorre 7th).",
+    "entities": [
+      {
+        "text": "Groningen",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Gorre",
+        "label": "PER",
+        "start": 13,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "Wimbledon bad boy Jeff Tarango caught a break Monday when he advanced after the retirement of German Alex Radulescu due to heat exhaustion.",
+    "entities": [
+      {
+        "text": "Jeff Tarango",
+        "label": "PER",
+        "start": 18,
+        "end": 30
+      },
+      {
+        "text": "Alex Radulescu",
+        "label": "PER",
+        "start": 101,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "text": "But NationsBank's bid, representing a premium of 40 percent for Boatmen's stock, was large enough to get the deal done.",
+    "entities": [
+      {
+        "text": "NationsBank",
+        "label": "ORG",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "Boatmen's",
+        "label": "ORG",
+        "start": 64,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "Third place:",
+    "entities": []
+  },
+  {
+    "text": "But the coastal towns got off lightly as the flooding that had been expected due to a combination of spring tides and high winds failed to materialise.",
+    "entities": []
+  },
+  {
+    "text": "LANKADEEPA",
+    "entities": [
+      {
+        "text": "LANKADEEPA",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "The U.S. 10-year benchmark fell 21/32 to yield 6.95 percent.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Sydney City 20 14 1 5 487 293 29",
+    "entities": [
+      {
+        "text": "Sydney City",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "Vitesse Arnhem 1 (Vierklau 85th) Sparta Rotterdam 1 (Gerard",
+    "entities": [
+      {
+        "text": "Vitesse Arnhem",
+        "label": "ORG",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Vierklau",
+        "label": "PER",
+        "start": 18,
+        "end": 26
+      },
+      {
+        "text": "Sparta Rotterdam",
+        "label": "ORG",
+        "start": 33,
+        "end": 49
+      },
+      {
+        "text": "Gerard",
+        "label": "PER",
+        "start": 53,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "text": "Suu Kyi said the government had increased its repression tactics on the democracy movement because it feared the growing popularity of the movement.",
+    "entities": [
+      {
+        "text": "Suu Kyi",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Salim Malik c Stewart b Hollioake 23",
+    "entities": [
+      {
+        "text": "Salim Malik",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Stewart",
+        "label": "PER",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "text": "Hollioake",
+        "label": "PER",
+        "start": 24,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "2. Bob Kennedy (U.S.) 13:06.12",
+    "entities": [
+      {
+        "text": "Bob Kennedy",
+        "label": "PER",
+        "start": 3,
+        "end": 14
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 16,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Summaries of French first division",
+    "entities": []
+  },
+  {
+    "text": "It is a very true film. \"",
+    "entities": []
+  },
+  {
+    "text": "Two Belgian teenage girls missing since Thursday have been found unharmed, police said on Saturday.",
+    "entities": []
+  },
+  {
+    "text": "Nationalists want Iliescu ousted for Hungary pact.",
+    "entities": [
+      {
+        "text": "Iliescu",
+        "label": "PER",
+        "start": 18,
+        "end": 25
+      },
+      {
+        "text": "Hungary",
+        "label": "LOC",
+        "start": 37,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "\" As the nation's leader in welfare reform, Wisconsin is far ahead of the curve and ready to go under this new system, \" Thompson said.",
+    "entities": [
+      {
+        "text": "Wisconsin",
+        "label": "LOC",
+        "start": 44,
+        "end": 53
+      },
+      {
+        "text": "Thompson",
+        "label": "PER",
+        "start": 121,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "Carlos Moya (Spain) beat Scott Humphries (U.S.) 6-1 6-7 (3-7) 6-7 (1-7) 6-0 6-4",
+    "entities": [
+      {
+        "text": "Carlos Moya",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Spain",
+        "label": "LOC",
+        "start": 13,
+        "end": 18
+      },
+      {
+        "text": "Scott Humphries",
+        "label": "PER",
+        "start": 25,
+        "end": 40
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 42,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "U.S. base metals and scrap prices - August 26.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "Arafat to meet Peres in Gaza after flight ban.",
+    "entities": [
+      {
+        "text": "Arafat",
+        "label": "PER",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Peres",
+        "label": "PER",
+        "start": 15,
+        "end": 20
+      },
+      {
+        "text": "Gaza",
+        "label": "LOC",
+        "start": 24,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "Many party members are practitioners of TM, which involves meditating to a repeated word or phrase, called a mantra.",
+    "entities": []
+  },
+  {
+    "text": "Lebed said he had a telephone conversation with Yeltsin late on Thursday but gave no details.",
+    "entities": [
+      {
+        "text": "Lebed",
+        "label": "PER",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Yeltsin",
+        "label": "PER",
+        "start": 48,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "text": "The rest of the Indian batting was generally tied down by brilliant fielding and some fairly tight bowling, although ex-captain Mohamed Azharuddin chipped in with 58, adding 129 with Tendulkar off 28 overs, before being stumped.",
+    "entities": [
+      {
+        "text": "Mohamed Azharuddin",
+        "label": "PER",
+        "start": 128,
+        "end": 146
+      },
+      {
+        "text": "Tendulkar",
+        "label": "PER",
+        "start": 183,
+        "end": 192
+      }
+    ]
+  },
+  {
+    "text": "RAMALLAH, West Bank 1996-08-29",
+    "entities": [
+      {
+        "text": "RAMALLAH",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "West Bank",
+        "label": "LOC",
+        "start": 10,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "RKC Waalwijk 1 Willem II Tilburg 2",
+    "entities": [
+      {
+        "text": "RKC Waalwijk",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Willem II Tilburg",
+        "label": "ORG",
+        "start": 15,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "Ten people gunned down in northwest Colombia.",
+    "entities": [
+      {
+        "text": "Colombia",
+        "label": "LOC",
+        "start": 36,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "Attendance 8,000",
+    "entities": []
+  },
+  {
+    "text": "-- Amsterdam newsdesk +31 20 504 5000 (Fax 020-504-5040)",
+    "entities": [
+      {
+        "text": "Amsterdam",
+        "label": "LOC",
+        "start": 3,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "F.C. Arges Dacia Pitesti 4 1 2 1 4 2 5",
+    "entities": [
+      {
+        "text": "F.C. Arges Dacia Pitesti",
+        "label": "ORG",
+        "start": 0,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "CALLS PUTS PCT OF TOTAL",
+    "entities": []
+  },
+  {
+    "text": "WESTERN HEMISPHERE -",
+    "entities": []
+  },
+  {
+    "text": "Chile and Mexico will start negotiations next year to broaden their free trade agreement to include services and investments, Finance Minister Eduardo Aninat said.",
+    "entities": [
+      {
+        "text": "Chile",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Mexico",
+        "label": "LOC",
+        "start": 10,
+        "end": 16
+      },
+      {
+        "text": "Finance",
+        "label": "ORG",
+        "start": 126,
+        "end": 133
+      },
+      {
+        "text": "Eduardo Aninat",
+        "label": "PER",
+        "start": 143,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "text": "Scorers:",
+    "entities": []
+  },
+  {
+    "text": "AMERICAN LEAGUE",
+    "entities": []
+  },
+  {
+    "text": "At Trent Bridge: Nottinghamshire 446-9 declared (G. Archer",
+    "entities": [
+      {
+        "text": "Trent Bridge",
+        "label": "LOC",
+        "start": 3,
+        "end": 15
+      },
+      {
+        "text": "Nottinghamshire",
+        "label": "ORG",
+        "start": 17,
+        "end": 32
+      },
+      {
+        "text": "G. Archer",
+        "label": "PER",
+        "start": 49,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "SOCCER - SCOTTISH LEAGUE AND CUP RESULTS.",
+    "entities": []
+  },
+  {
+    "text": "ANKARA 1996-08-27",
+    "entities": [
+      {
+        "text": "ANKARA",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "\" I am convinced, that the congress will tackle these proposals, \" he said.",
+    "entities": []
+  },
+  {
+    "text": "He estimated the company's regional debts at least one trillion roubles and said 30 percent of the giant Krasnoyarsk regional budget was fuelled by Norilsk money.",
+    "entities": [
+      {
+        "text": "Krasnoyarsk",
+        "label": "LOC",
+        "start": 105,
+        "end": 116
+      },
+      {
+        "text": "Norilsk",
+        "label": "ORG",
+        "start": 148,
+        "end": 155
+      }
+    ]
+  },
+  {
+    "text": "Jeff Tarango (U.S.) beat Alex Radulescu (Romania) 6-7 (5-7) 6-4 6-1 retired, heat exhaustion",
+    "entities": [
+      {
+        "text": "Jeff Tarango",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "Alex Radulescu",
+        "label": "PER",
+        "start": 25,
+        "end": 39
+      },
+      {
+        "text": "Romania",
+        "label": "LOC",
+        "start": 41,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "Dealers said liquidity could tighten further early next week as the social security contribution payments date approaches.",
+    "entities": []
+  },
+  {
+    "text": "PUT E 95.0 PCT 1.33 DEM 1.80 PCT 71.70 X",
+    "entities": []
+  },
+  {
+    "text": "Brendan Intindola",
+    "entities": [
+      {
+        "text": "Brendan Intindola",
+        "label": "PER",
+        "start": 0,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "5. Wim Omloop (Belgium) Collstrop same time",
+    "entities": [
+      {
+        "text": "Wim Omloop",
+        "label": "PER",
+        "start": 3,
+        "end": 13
+      },
+      {
+        "text": "Belgium",
+        "label": "LOC",
+        "start": 15,
+        "end": 22
+      },
+      {
+        "text": "Collstrop",
+        "label": "ORG",
+        "start": 24,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "are absolutely fundamental, \" Zieleniec, who is also vice-premier in the government, told Reuters.",
+    "entities": [
+      {
+        "text": "Zieleniec",
+        "label": "PER",
+        "start": 30,
+        "end": 39
+      },
+      {
+        "text": "Reuters",
+        "label": "ORG",
+        "start": 90,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "Campaign officials then hope the day's \" news \" event will be showcased on evening television news shows as a lead-in for that night's convention programme.",
+    "entities": []
+  },
+  {
+    "text": "Net profit 20.318 vs 22.828",
+    "entities": []
+  },
+  {
+    "text": "The 26-year-old Brazilian had risen into the top 30 in 1992.",
+    "entities": []
+  },
+  {
+    "text": "there's really no reason to change our forecast and our largely positive view on the stock. \"",
+    "entities": []
+  },
+  {
+    "text": "CHICAGO 65 66 .496 5",
+    "entities": [
+      {
+        "text": "CHICAGO",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "4. Lance Armstrong (U.S.)",
+    "entities": [
+      {
+        "text": "Lance Armstrong",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 20,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "- 3 Steve Stricker through 3",
+    "entities": [
+      {
+        "text": "Steve Stricker",
+        "label": "PER",
+        "start": 4,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "Akram, Moin Khan, Mushtaq Ahmed, Waqar Younis, Mohammad Akam",
+    "entities": [
+      {
+        "text": "Akram",
+        "label": "PER",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Moin Khan",
+        "label": "PER",
+        "start": 7,
+        "end": 16
+      },
+      {
+        "text": "Mushtaq Ahmed",
+        "label": "PER",
+        "start": 18,
+        "end": 31
+      },
+      {
+        "text": "Waqar Younis",
+        "label": "PER",
+        "start": 33,
+        "end": 45
+      },
+      {
+        "text": "Mohammad Akam",
+        "label": "PER",
+        "start": 47,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "STOCK MARKETS AT 1500 GMT",
+    "entities": []
+  },
+  {
+    "text": "The newspaper said Weizman scheduled the meeting at his private residence in the central Israeli village of Caesarea after Arafat sent him an emotional appeal \" to save the peace process \".",
+    "entities": [
+      {
+        "text": "Weizman",
+        "label": "PER",
+        "start": 19,
+        "end": 26
+      },
+      {
+        "text": "Caesarea",
+        "label": "LOC",
+        "start": 108,
+        "end": 116
+      },
+      {
+        "text": "Arafat",
+        "label": "PER",
+        "start": 123,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "SAN JOSE 10 13 4 69 87 24",
+    "entities": [
+      {
+        "text": "SAN JOSE",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "0 Davis Love through 5",
+    "entities": [
+      {
+        "text": "Davis Love",
+        "label": "PER",
+        "start": 2,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Britain's Naseem Hamed retained his WBO featherweight title on Saturday when Mexico's Manuel Medina was retired by his corner at the end of the 11th round.",
+    "entities": [
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Naseem Hamed",
+        "label": "PER",
+        "start": 10,
+        "end": 22
+      },
+      {
+        "text": "WBO",
+        "label": "ORG",
+        "start": 36,
+        "end": 39
+      },
+      {
+        "text": "Mexico",
+        "label": "LOC",
+        "start": 77,
+        "end": 83
+      },
+      {
+        "text": "Manuel Medina",
+        "label": "PER",
+        "start": 86,
+        "end": 99
+      }
+    ]
+  },
+  {
+    "text": "Mehrtens played in the last TriNations test in Cape Town but missed the first two tests in the current series after tearing a cartilage in his knee while training, an injury which needed a small operation.",
+    "entities": [
+      {
+        "text": "Mehrtens",
+        "label": "PER",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Cape Town",
+        "label": "LOC",
+        "start": 47,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "text": "MOSCOW 1996-08-27",
+    "entities": [
+      {
+        "text": "MOSCOW",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Turkey hindered by own landmines on Syrian border.",
+    "entities": [
+      {
+        "text": "Turkey",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "OAKLAND 62 68 .477 13",
+    "entities": [
+      {
+        "text": "OAKLAND",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Jaora n.a Yellow - -",
+    "entities": [
+      {
+        "text": "Jaora",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "Attendence: 20,000",
+    "entities": []
+  },
+  {
+    "text": "South Queensland 21 4 0 17 210 460 8",
+    "entities": [
+      {
+        "text": "South Queensland",
+        "label": "ORG",
+        "start": 0,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "PHILADELPHIA 53 79 .402 29 1/2",
+    "entities": [
+      {
+        "text": "PHILADELPHIA",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Simon Frenz (Germany) beat Martin Heath (Scotland) 12-15 15-6",
+    "entities": [
+      {
+        "text": "Simon Frenz",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 13,
+        "end": 20
+      },
+      {
+        "text": "Martin Heath",
+        "label": "PER",
+        "start": 27,
+        "end": 39
+      },
+      {
+        "text": "Scotland",
+        "label": "LOC",
+        "start": 41,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "Ijaya Indra (Indonesia) beat P. Kantharoopan (Malaysia) 15-6 5-4",
+    "entities": [
+      {
+        "text": "Ijaya Indra",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Indonesia",
+        "label": "LOC",
+        "start": 13,
+        "end": 22
+      },
+      {
+        "text": "P. Kantharoopan",
+        "label": "PER",
+        "start": 29,
+        "end": 44
+      },
+      {
+        "text": "Malaysia",
+        "label": "LOC",
+        "start": 46,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "To bat: R. Croft, D. Cork, A. Mullally",
+    "entities": [
+      {
+        "text": "R. Croft",
+        "label": "PER",
+        "start": 8,
+        "end": 16
+      },
+      {
+        "text": "D. Cork",
+        "label": "PER",
+        "start": 18,
+        "end": 25
+      },
+      {
+        "text": "A. Mullally",
+        "label": "PER",
+        "start": 27,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "The TWA jet exploded in a deadly fireball last month, killing 230 people, crashing in the Atlantic Ocean at least 80 miles from where the debris was found Wednesday.",
+    "entities": [
+      {
+        "text": "TWA",
+        "label": "ORG",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "Atlantic Ocean",
+        "label": "LOC",
+        "start": 90,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "2 - Monica Seles (U.S.) beat Anne Miller (U.S.) 6-0 6-1",
+    "entities": [
+      {
+        "text": "Monica Seles",
+        "label": "PER",
+        "start": 4,
+        "end": 16
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 18,
+        "end": 22
+      },
+      {
+        "text": "Anne Miller",
+        "label": "PER",
+        "start": 29,
+        "end": 40
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 42,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "Italian Police said on Thursday they had arrested five people in connection with the slaying of the daughter and 14-year-old nephew of a Mafia boss earlier this week.",
+    "entities": []
+  },
+  {
+    "text": "6-3 4-6 6-1",
+    "entities": []
+  },
+  {
+    "text": "4. Mika Hakkinen (Finland) McLaren 1:54.754",
+    "entities": [
+      {
+        "text": "Mika Hakkinen",
+        "label": "PER",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "Finland",
+        "label": "LOC",
+        "start": 18,
+        "end": 25
+      },
+      {
+        "text": "McLaren",
+        "label": "ORG",
+        "start": 27,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "\" Coming just a million guilders under the forecast range isn't overwhelmingly surprising, \" said ING analyst Steven Vrolijk, who is continuing to look for a nine to 10 percent rise in 1996 earnings.",
+    "entities": [
+      {
+        "text": "ING",
+        "label": "ORG",
+        "start": 98,
+        "end": 101
+      },
+      {
+        "text": "Steven Vrolijk",
+        "label": "PER",
+        "start": 110,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "Before the assassination attempt, she had worked for Republican congressmen and for the Republican Party.",
+    "entities": [
+      {
+        "text": "Republican Party",
+        "label": "ORG",
+        "start": 88,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "\" He is in no danger and will be treated and observed this evening, \" said Orioles team physician Dr. William Goldiner, adding that Johnson is expected to be released on Friday.",
+    "entities": [
+      {
+        "text": "Orioles",
+        "label": "ORG",
+        "start": 75,
+        "end": 82
+      },
+      {
+        "text": "William Goldiner",
+        "label": "PER",
+        "start": 102,
+        "end": 118
+      },
+      {
+        "text": "Johnson",
+        "label": "PER",
+        "start": 132,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "text": "4. Heiko Szonn (Germany) 4:21.009",
+    "entities": [
+      {
+        "text": "Heiko Szonn",
+        "label": "PER",
+        "start": 3,
+        "end": 14
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 16,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "RKC Waalwijk 2 0 1 1 4 5 1",
+    "entities": [
+      {
+        "text": "RKC Waalwijk",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "But now that Windows NT 4.0 has been launched, Winkler and others believe only a relatively small proportion of corporate users will elect to pay the added software and hardware costs needed to use it instead of Windows 95.",
+    "entities": [
+      {
+        "text": "Winkler",
+        "label": "PER",
+        "start": 47,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "Note: Manitoba Government Price Index (C$ per cwt) -",
+    "entities": [
+      {
+        "text": "Manitoba",
+        "label": "ORG",
+        "start": 6,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "Former Israeli Prime Minister Shimon Peres, calling Lahd \" a great Lebanese patriot \", said earlier this year Lebanon had insulted the SLA commander by ordering his arrest on the treason charges.",
+    "entities": [
+      {
+        "text": "Shimon Peres",
+        "label": "PER",
+        "start": 30,
+        "end": 42
+      },
+      {
+        "text": "Lahd",
+        "label": "PER",
+        "start": 52,
+        "end": 56
+      },
+      {
+        "text": "Lebanon",
+        "label": "LOC",
+        "start": 110,
+        "end": 117
+      },
+      {
+        "text": "SLA",
+        "label": "ORG",
+        "start": 135,
+        "end": 138
+      }
+    ]
+  },
+  {
+    "text": "First Union said it has discontinued CPI as an element of its motor vehicle or boat installment loan contracts.",
+    "entities": [
+      {
+        "text": "First Union",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "Jonathon Power (Canada) beat Ahmed Barada (Egypt) 11-15 8-15",
+    "entities": [
+      {
+        "text": "Jonathon Power",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Canada",
+        "label": "LOC",
+        "start": 16,
+        "end": 22
+      },
+      {
+        "text": "Ahmed Barada",
+        "label": "PER",
+        "start": 29,
+        "end": 41
+      },
+      {
+        "text": "Egypt",
+        "label": "LOC",
+        "start": 43,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "Tavildara is now apparently inhabited only by a few old men, women and their grubby, barefoot children.",
+    "entities": [
+      {
+        "text": "Tavildara",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Blanc collected his seventh career World Cup win with a two jump combined score of 238.36 points, easily beating Foucras, the overall World Cup aerials champion, who was a distant second with 223.60.",
+    "entities": [
+      {
+        "text": "Blanc",
+        "label": "PER",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Foucras",
+        "label": "PER",
+        "start": 113,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "Standings (tabulate under played, won, drawn, lost, goals",
+    "entities": []
+  },
+  {
+    "text": "lealgue matches on Saturday:",
+    "entities": []
+  },
+  {
+    "text": "A Polish schoolgirl blackmailed two women with anonymous letters threatening death and later explained that she needed money for textbooks, police said on Thursday.",
+    "entities": []
+  },
+  {
+    "text": "Tamil Tiger rebels overran an isolated police post in Sri Lanka's northeast early on Thursday killing 24 policemen, defence officials said.",
+    "entities": [
+      {
+        "text": "Tamil Tiger",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Sri Lanka",
+        "label": "LOC",
+        "start": 54,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "\" I think I 'm much more focused on what I have to do, and that's playing tennis, \" Medvedev said after routing Frenchman Jean-Philippe Fleurian 6-2 6-0 6-1 in the opening round of the U.S. Open.",
+    "entities": [
+      {
+        "text": "Medvedev",
+        "label": "PER",
+        "start": 84,
+        "end": 92
+      },
+      {
+        "text": "Jean-Philippe Fleurian",
+        "label": "PER",
+        "start": 122,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "6. Germany III (Dirk Wiese, Jakobs Marco) 1:46.02",
+    "entities": [
+      {
+        "text": "Germany III",
+        "label": "ORG",
+        "start": 3,
+        "end": 14
+      },
+      {
+        "text": "Dirk Wiese",
+        "label": "PER",
+        "start": 16,
+        "end": 26
+      },
+      {
+        "text": "Jakobs Marco",
+        "label": "PER",
+        "start": 28,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "BASEBALL - CUBS EDGE BRAVES WITH RUN IN TOP OF NINTH.",
+    "entities": [
+      {
+        "text": "CUBS",
+        "label": "ORG",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "BRAVES",
+        "label": "ORG",
+        "start": 21,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "\" The discussion in the experts group had to be postponed because the documents needed to be translated into the official languages and the item will be on next week's agenda, \" the offcial said.",
+    "entities": []
+  },
+  {
+    "text": "Chicago Cardinal Joseph Bernardin, head of the second-largest U.S. Roman Catholic archdiocese, said on Friday his doctors had diagnosed him as having liver cancer and he had a year or less to live.",
+    "entities": [
+      {
+        "text": "Chicago",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Joseph Bernardin",
+        "label": "PER",
+        "start": 17,
+        "end": 33
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 62,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "Women's sprint semifinals (best of three):",
+    "entities": []
+  },
+  {
+    "text": "But they left gaps at the back and on 73 minutes Danish striker Jon Dahl Tomasson rushed out of his own half, beat the Ajax defence and lobbed van der Sar.",
+    "entities": [
+      {
+        "text": "Jon Dahl Tomasson",
+        "label": "PER",
+        "start": 64,
+        "end": 81
+      },
+      {
+        "text": "Ajax",
+        "label": "ORG",
+        "start": 119,
+        "end": 123
+      },
+      {
+        "text": "van der Sar",
+        "label": "PER",
+        "start": 143,
+        "end": 154
+      }
+    ]
+  },
+  {
+    "text": "Scores: Pakistan 225-5 innings closed (Saeed Anwar 57), England 226-5 in 46.4 overs (M. Atherton 65).",
+    "entities": [
+      {
+        "text": "Pakistan",
+        "label": "LOC",
+        "start": 8,
+        "end": 16
+      },
+      {
+        "text": "Saeed Anwar",
+        "label": "PER",
+        "start": 39,
+        "end": 50
+      },
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 56,
+        "end": 63
+      },
+      {
+        "text": "M. Atherton",
+        "label": "PER",
+        "start": 85,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "text": "Results from the U.S. Open Tennis Championships at the National Tennis Centre on Saturday (prefix number denotes seeding):",
+    "entities": [
+      {
+        "text": "National Tennis Centre",
+        "label": "LOC",
+        "start": 55,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "Scarborough 3 1 2 0 4 2 5",
+    "entities": [
+      {
+        "text": "Scarborough",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "The 116, representing political parties in the capital Kinshasa, will help organise a voter census, a constitutional referendum planned for January and efforts to brief potential voters on what balloting involves.",
+    "entities": [
+      {
+        "text": "Kinshasa",
+        "label": "LOC",
+        "start": 55,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "\" This is not desireable ...",
+    "entities": []
+  },
+  {
+    "text": "In Paris, the CAC-40 share index dropped 15.09 to 2,002.9.",
+    "entities": [
+      {
+        "text": "Paris",
+        "label": "LOC",
+        "start": 3,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "CARLSBAD, California 1996-08-22",
+    "entities": [
+      {
+        "text": "CARLSBAD",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "California",
+        "label": "LOC",
+        "start": 10,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "SEATTLE 9 Baltimore 6",
+    "entities": [
+      {
+        "text": "SEATTLE",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Baltimore",
+        "label": "ORG",
+        "start": 10,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "MILWAUKEE 60 68 .469 16 1/2",
+    "entities": [
+      {
+        "text": "MILWAUKEE",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Anti-abortion speaker praises Democrat tolerance.",
+    "entities": []
+  },
+  {
+    "text": "Sri Lanka beat India by nine wickets in the second match of the Singer World Series one-day (50 overs) cricket tournament on Monday.",
+    "entities": [
+      {
+        "text": "Sri Lanka",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "India",
+        "label": "LOC",
+        "start": 15,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Pakistan state bank sells 1.38 bln rupees of bonds.",
+    "entities": [
+      {
+        "text": "Pakistan",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "SOCCER - DUTCH FIRST DIVISION RESULTS / STANDINGS.",
+    "entities": []
+  },
+  {
+    "text": "Elect Res July 40.0 33.0 6.0 12.0 4.0",
+    "entities": [
+      {
+        "text": "Elect Res",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Audi would have been able to report a profit 300 million marks higher in 1995 if exchange rates had stayed the same as in 1994, Demel had told a shareholder meeting last April.",
+    "entities": [
+      {
+        "text": "Audi",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Demel",
+        "label": "PER",
+        "start": 128,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "CLEVELAND AT DETROIT",
+    "entities": [
+      {
+        "text": "CLEVELAND",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "DETROIT",
+        "label": "LOC",
+        "start": 13,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Crude petroleum 2,557 2,832 15,838 17,648",
+    "entities": []
+  },
+  {
+    "text": "11-1",
+    "entities": []
+  },
+  {
+    "text": "PHOENIX 2 14 .125 11",
+    "entities": [
+      {
+        "text": "PHOENIX",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Under the election rules citizens vote for a three-man presidency and House of Representatives for all Bosnia-Hercegovina and for assemblies and cantonal seats in either the Moslem-Croat Federation or the Republika Srbska.",
+    "entities": [
+      {
+        "text": "House of Representatives",
+        "label": "ORG",
+        "start": 70,
+        "end": 94
+      },
+      {
+        "text": "Bosnia-Hercegovina",
+        "label": "LOC",
+        "start": 103,
+        "end": 121
+      },
+      {
+        "text": "Moslem-Croat Federation",
+        "label": "LOC",
+        "start": 174,
+        "end": 197
+      },
+      {
+        "text": "Republika Srbska",
+        "label": "LOC",
+        "start": 205,
+        "end": 221
+      }
+    ]
+  },
+  {
+    "text": "Younis 4-95)",
+    "entities": [
+      {
+        "text": "Younis",
+        "label": "PER",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Feb 97 79.94 79.67 75.55 77.01-81.80",
+    "entities": []
+  },
+  {
+    "text": "Volkova said last year goods had been exported under many Russian barter deals, with nothing imported in return.",
+    "entities": [
+      {
+        "text": "Volkova",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Wrexham 4 Plymouth 4",
+    "entities": [
+      {
+        "text": "Wrexham",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Plymouth",
+        "label": "ORG",
+        "start": 10,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "OB 1 Lotte 1",
+    "entities": [
+      {
+        "text": "OB",
+        "label": "ORG",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "Lotte",
+        "label": "PER",
+        "start": 5,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "Bradford 22 5 6 11 21 37 21",
+    "entities": [
+      {
+        "text": "Bradford",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "PSV Eindhoven 1 1 0 0 4 1 3",
+    "entities": [
+      {
+        "text": "PSV Eindhoven",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "ST LOUIS AT HOUSTON",
+    "entities": [
+      {
+        "text": "ST LOUIS",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "HOUSTON",
+        "label": "LOC",
+        "start": 12,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "Current account Jan-May - $738 million (Jan-April - $748 million)",
+    "entities": []
+  },
+  {
+    "text": "Scores: World XI 102-0 (M. Waugh 39 not out, S. Tendulkar 56 not out) off 21.4 overs v Sri Lanka.",
+    "entities": [
+      {
+        "text": "World XI",
+        "label": "ORG",
+        "start": 8,
+        "end": 16
+      },
+      {
+        "text": "M. Waugh",
+        "label": "PER",
+        "start": 24,
+        "end": 32
+      },
+      {
+        "text": "S. Tendulkar",
+        "label": "PER",
+        "start": 45,
+        "end": 57
+      },
+      {
+        "text": "Sri Lanka",
+        "label": "LOC",
+        "start": 87,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "text": "BAGHDAD 1996-08-31",
+    "entities": [
+      {
+        "text": "BAGHDAD",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "\" There is little we can do when at mid-sea.",
+    "entities": []
+  },
+  {
+    "text": "Lucky Emdldm 20/11/96 5,000 Japan",
+    "entities": [
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 28,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "The so-called order handling rules, which were proposed last September, were approved in a 4-0 vote.",
+    "entities": []
+  },
+  {
+    "text": "Norway headed the UEFA Fair Play rankings for 1995-96 with 8.62 points, ahead of England with 8.61 and Sweden 8.57.",
+    "entities": [
+      {
+        "text": "Norway",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 81,
+        "end": 88
+      },
+      {
+        "text": "Sweden",
+        "label": "LOC",
+        "start": 103,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "That strategy, backed up by timely instances of joint central bank intervention, helped the dollar battle back from post-Second World War lows of 1.3438 German marks on March 8, 1995, and 79.75 Japanese yen on April 19, 1995.",
+    "entities": []
+  },
+  {
+    "text": "Total: 11,880M",
+    "entities": []
+  },
+  {
+    "text": "Diana's office said on Saturday the princess had sent a message to the Nobel Peace Prize-winning missionary as news broke this week of her battle against heart problems and malaria.",
+    "entities": [
+      {
+        "text": "Diana",
+        "label": "PER",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "The Japanese discount rate is currently at a record low of 0.5 percent.",
+    "entities": []
+  },
+  {
+    "text": "The Vnukovo Airlines Tupolev 154 flight from Moscow, carrying 129 passengers and a crew of 12, crashed in bad weather 10 km (six miles) east of Longyearbyen, the island's only airstrip, officials said.",
+    "entities": [
+      {
+        "text": "Vnukovo Airlines",
+        "label": "ORG",
+        "start": 4,
+        "end": 20
+      },
+      {
+        "text": "Moscow",
+        "label": "LOC",
+        "start": 45,
+        "end": 51
+      },
+      {
+        "text": "Longyearbyen",
+        "label": "LOC",
+        "start": 144,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "Baseball games played on Wednesday (home team in CAPS):",
+    "entities": []
+  },
+  {
+    "text": "5. Lietti 8",
+    "entities": [
+      {
+        "text": "Lietti",
+        "label": "PER",
+        "start": 3,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Grand Total: 290M",
+    "entities": []
+  },
+  {
+    "text": "The 400-strong Selection Committee will select Hong Kong's future chief executive to replace the British governor and a provisional legislature to take over from the elected chamber which Beijing plans to dissolve.",
+    "entities": [
+      {
+        "text": "Selection Committee",
+        "label": "ORG",
+        "start": 15,
+        "end": 34
+      },
+      {
+        "text": "Hong Kong",
+        "label": "LOC",
+        "start": 47,
+        "end": 56
+      },
+      {
+        "text": "Beijing",
+        "label": "LOC",
+        "start": 188,
+        "end": 195
+      }
+    ]
+  },
+  {
+    "text": "Australia beat Zimbabwe by 125 runs in the first match of the Singer World Series one-day (50 overs) cricket tournament on Monday.",
+    "entities": [
+      {
+        "text": "Australia",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Zimbabwe",
+        "label": "LOC",
+        "start": 15,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "Linzer ASK 1 FC Tirol Innsbruck 3",
+    "entities": [
+      {
+        "text": "Linzer ASK",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "FC Tirol Innsbruck",
+        "label": "ORG",
+        "start": 13,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "\" This finding is important because one of the jars still contains substances and materials used in the conservation of mummies and the conservation of the intestines and all the things which were in the cavity of a person we have not identified yet, \" Saleh said.",
+    "entities": [
+      {
+        "text": "Saleh",
+        "label": "PER",
+        "start": 253,
+        "end": 258
+      }
+    ]
+  },
+  {
+    "text": "W L T PF PA",
+    "entities": [
+      {
+        "text": "PA",
+        "label": "ORG",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "Cooper",
+    "entities": [
+      {
+        "text": "Cooper",
+        "label": "PER",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "W L PCT GB",
+    "entities": []
+  },
+  {
+    "text": "PRAGUE 1996-12-06",
+    "entities": [
+      {
+        "text": "PRAGUE",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Senator Dianne Feinstein, a California Democrat, called it a \" big bump \" in the way of the Clinton campaign.",
+    "entities": [
+      {
+        "text": "Dianne Feinstein",
+        "label": "PER",
+        "start": 8,
+        "end": 24
+      },
+      {
+        "text": "California",
+        "label": "LOC",
+        "start": 28,
+        "end": 38
+      },
+      {
+        "text": "Clinton",
+        "label": "PER",
+        "start": 92,
+        "end": 99
+      }
+    ]
+  },
+  {
+    "text": "Wasim Akram 128 29 350 11 31.81",
+    "entities": [
+      {
+        "text": "Wasim Akram",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "8. Anthony Gobert (Australia) Kawasaki 117",
+    "entities": [
+      {
+        "text": "Anthony Gobert",
+        "label": "PER",
+        "start": 3,
+        "end": 17
+      },
+      {
+        "text": "Australia",
+        "label": "LOC",
+        "start": 19,
+        "end": 28
+      },
+      {
+        "text": "Kawasaki",
+        "label": "ORG",
+        "start": 30,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "\" It had the potential to be quite a nasty accident. \"",
+    "entities": []
+  },
+  {
+    "text": "W L PCT GB",
+    "entities": []
+  },
+  {
+    "text": "Sion win 4-2 on agrregate.",
+    "entities": [
+      {
+        "text": "Sion",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "Tass said the talks were taking place in the settlement of Novye Atagi, some 20 km (12 miles) south of the Chechen capital Grozny.",
+    "entities": [
+      {
+        "text": "Tass",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Novye Atagi",
+        "label": "LOC",
+        "start": 59,
+        "end": 70
+      },
+      {
+        "text": "Grozny",
+        "label": "LOC",
+        "start": 123,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "ORLANDO 8 6 .571 4",
+    "entities": [
+      {
+        "text": "ORLANDO",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "A late goal by newly-signed defender Roberto Carlos saved the blushes of Real Madrid coach Fabio Capello and his multi-billion peseta line-up in the opening game of the Spanish championship on Saturday.",
+    "entities": [
+      {
+        "text": "Roberto Carlos",
+        "label": "PER",
+        "start": 37,
+        "end": 51
+      },
+      {
+        "text": "Real Madrid",
+        "label": "ORG",
+        "start": 73,
+        "end": 84
+      },
+      {
+        "text": "Fabio Capello",
+        "label": "PER",
+        "start": 91,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "Second quarter growth estimates will be released when the Hong Kong government issues its half-yearly economic report on Friday.",
+    "entities": [
+      {
+        "text": "Hong Kong",
+        "label": "LOC",
+        "start": 58,
+        "end": 67
+      }
+    ]
+  },
+  {
+    "text": "\" Two months ago I started talking about quitting, \" said Oncins, who decided to give it one last try and made it through the Open qualifying tournament last weekend.",
+    "entities": [
+      {
+        "text": "Oncins",
+        "label": "PER",
+        "start": 58,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "2 - Rodney Eyles (Australia) beat Zarak Jahan Khan (Pakistan)",
+    "entities": [
+      {
+        "text": "Rodney Eyles",
+        "label": "PER",
+        "start": 4,
+        "end": 16
+      },
+      {
+        "text": "Australia",
+        "label": "LOC",
+        "start": 18,
+        "end": 27
+      },
+      {
+        "text": "Zarak Jahan Khan",
+        "label": "PER",
+        "start": 34,
+        "end": 50
+      },
+      {
+        "text": "Pakistan",
+        "label": "LOC",
+        "start": 52,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "Finals:",
+    "entities": []
+  },
+  {
+    "text": "UAE 2 1 1 0 4 3 4",
+    "entities": [
+      {
+        "text": "UAE",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "text": "Colombia shipped 198,226 bags in August after 164,185 in July, El Salvador 160,553 (129,184), Indonesia 72,218 (78,959), Ethiopia 69,252 (60,456) and Kenya 63,969 (60,043).",
+    "entities": [
+      {
+        "text": "Colombia",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "El Salvador",
+        "label": "LOC",
+        "start": 63,
+        "end": 74
+      },
+      {
+        "text": "Indonesia",
+        "label": "LOC",
+        "start": 94,
+        "end": 103
+      },
+      {
+        "text": "Ethiopia",
+        "label": "LOC",
+        "start": 121,
+        "end": 129
+      },
+      {
+        "text": "Kenya",
+        "label": "LOC",
+        "start": 150,
+        "end": 155
+      }
+    ]
+  },
+  {
+    "text": "The Himalayan kingdom, sandwiched between China and India, has traditionally sought to maintain close cooperation with its giant neighbours, and an equal distance from the two.",
+    "entities": [
+      {
+        "text": "China",
+        "label": "LOC",
+        "start": 42,
+        "end": 47
+      },
+      {
+        "text": "India",
+        "label": "LOC",
+        "start": 52,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "text": "Adelaide 21 8 0 13 2158 2183 98.9 32",
+    "entities": [
+      {
+        "text": "Adelaide",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Lazio (12) v AS Roma (7) 1930",
+    "entities": [
+      {
+        "text": "Lazio",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "AS Roma",
+        "label": "ORG",
+        "start": 13,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Ssangbangwool 2 Hyundai 1",
+    "entities": [
+      {
+        "text": "Ssangbangwool",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Hyundai",
+        "label": "ORG",
+        "start": 16,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "BONN 1996-08-27",
+    "entities": [
+      {
+        "text": "BONN",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "The man, who said he had once been engaged to her, first knifed Kotlarska's husband in the leg, then stabbed her three times in the chest when she tried to intervene during the incident on Tuesday.",
+    "entities": [
+      {
+        "text": "Kotlarska",
+        "label": "PER",
+        "start": 64,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "He guided Ireland to two successive World Cup finals tournaments and to the 1988 European championship finals in Germany, after the Irish beat a well-fancied England team 1-0 in their group qualifier.",
+    "entities": [
+      {
+        "text": "Ireland",
+        "label": "LOC",
+        "start": 10,
+        "end": 17
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 113,
+        "end": 120
+      },
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 158,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "text": "BEIJING 1996-08-31",
+    "entities": [
+      {
+        "text": "BEIJING",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Women's singles, second round",
+    "entities": []
+  },
+  {
+    "text": "A few days ago Russian President Boris Yeltsin issued a decree on state regulation of foreign barter deals, and Volkova said this \" could substantially improve the situation \".",
+    "entities": [
+      {
+        "text": "Boris Yeltsin",
+        "label": "PER",
+        "start": 33,
+        "end": 46
+      },
+      {
+        "text": "Volkova",
+        "label": "PER",
+        "start": 112,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "Distances: a short head, 1-1/4 lengths.",
+    "entities": []
+  },
+  {
+    "text": "DENVER 5 14 .263 11 1/2",
+    "entities": [
+      {
+        "text": "DENVER",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "(Parent) FORECAST FORECAST YEAR-AGO",
+    "entities": []
+  },
+  {
+    "text": "F.A.: First of Michigan Corp., Detroit",
+    "entities": [
+      {
+        "text": "First of Michigan Corp.",
+        "label": "ORG",
+        "start": 6,
+        "end": 29
+      },
+      {
+        "text": "Detroit",
+        "label": "LOC",
+        "start": 31,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "division soccer match on Friday:",
+    "entities": []
+  },
+  {
+    "text": "More than 100 people were safely evacuated on Monday from a ferry that caught fire soon after leaving Guernsey in Britain's Channel Islands, police said.",
+    "entities": [
+      {
+        "text": "Guernsey",
+        "label": "LOC",
+        "start": 102,
+        "end": 110
+      },
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 114,
+        "end": 121
+      },
+      {
+        "text": "Channel Islands",
+        "label": "LOC",
+        "start": 124,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "text": "Halftime 1-0.",
+    "entities": []
+  },
+  {
+    "text": "Everton 3 1 2 0 4 2 5",
+    "entities": [
+      {
+        "text": "Everton",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "DES MOINES 1996-08-29",
+    "entities": [
+      {
+        "text": "DES MOINES",
+        "label": "LOC",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "RSR pure lead price (effective date: March 20, 1996)",
+    "entities": [
+      {
+        "text": "RSR",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "text": "Prince Rupert 1 3",
+    "entities": [
+      {
+        "text": "Prince Rupert",
+        "label": "LOC",
+        "start": 0,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "But Meri's support was not enough for the 68 needed for election and a third secret ballot will take place later in the day (1300 GMT), parliamentary officials said.",
+    "entities": [
+      {
+        "text": "Meri",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Romania's government is expected to revise the 1996 budget on Wednesday to bring it into line with higher inflation, new wage and pension indexations and costs of energy imports that have pushed up the state deficit.",
+    "entities": [
+      {
+        "text": "Romania",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Uganda's elimination follows their humiliating 5-1 aggregate defeat by Angola in June's World Cup qualifying preliminaries.",
+    "entities": [
+      {
+        "text": "Uganda",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Angola",
+        "label": "LOC",
+        "start": 71,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "Women's world sprint championship quarter-finals (best of",
+    "entities": []
+  },
+  {
+    "text": "Sale Amount: 4,300,000",
+    "entities": []
+  },
+  {
+    "text": "Easier silver prices mid-week helped keep spot gold locked in a $386 - $389 an ounce range, dealers said, but they remained optimistic that the usual seasonal pick-up in jewellery fabrication demand would see gold at $395 by end-October.",
+    "entities": []
+  },
+  {
+    "text": "Cofinec, the first foreign company to list on the Budapest bourse, released its consolidated first half figures (IAS) this morning.",
+    "entities": [
+      {
+        "text": "Cofinec",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Budapest",
+        "label": "LOC",
+        "start": 50,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "Portugal called up Porto central defender Joao Manuel Pinto on Friday to face Germany in a World Cup qualifier in place of injured club colleague Jorge Costa, who is still nursing a broken nose after being head-butted by Liberian striker Georg Weah.",
+    "entities": [
+      {
+        "text": "Portugal",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Porto",
+        "label": "ORG",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "Joao Manuel Pinto",
+        "label": "PER",
+        "start": 42,
+        "end": 59
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 78,
+        "end": 85
+      },
+      {
+        "text": "Jorge Costa",
+        "label": "PER",
+        "start": 146,
+        "end": 157
+      },
+      {
+        "text": "Georg Weah",
+        "label": "PER",
+        "start": 238,
+        "end": 248
+      }
+    ]
+  },
+  {
+    "text": "But one must not forget that the OSCE only has limited powers there, \" said Cotti, who is also the Swiss foreign minister. \"",
+    "entities": [
+      {
+        "text": "OSCE",
+        "label": "ORG",
+        "start": 33,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "text": "Exports 29,200 17,200 7,700 100 59,400",
+    "entities": []
+  },
+  {
+    "text": "I 'm only 34.",
+    "entities": []
+  },
+  {
+    "text": "Hekmatyar rejoined the government as prime minister last June under a peace pact with Rabbani and has since been trying to persuade other opposition factions to follow suit.",
+    "entities": [
+      {
+        "text": "Hekmatyar",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Rabbani",
+        "label": "PER",
+        "start": 86,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "text": "CSKA Moscow 4 Kamaz Naberezhnye Chelny 2",
+    "entities": [
+      {
+        "text": "CSKA Moscow",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Kamaz Naberezhnye Chelny",
+        "label": "ORG",
+        "start": 14,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "SEATTLE 15 5 .750 -",
+    "entities": [
+      {
+        "text": "SEATTLE",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "NEW YORK 1996-08-29",
+    "entities": [
+      {
+        "text": "NEW YORK",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Pakistan were 473-6 at tea on the fourth day of the third and final test at The Oval on Sunday in reply to England's 326.",
+    "entities": [
+      {
+        "text": "Pakistan",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "The Oval",
+        "label": "LOC",
+        "start": 76,
+        "end": 84
+      },
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 107,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "text": "Ex-Yankee Randy Velarde hit his 11th homer, his most at any professional level.",
+    "entities": [
+      {
+        "text": "Randy Velarde",
+        "label": "PER",
+        "start": 10,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "The three Islamic Taleban guards were overpowered by seven Russian aircrew who escaped to UAE state Sharjah last Friday on board their own aircraft after a year in the captivity of Taleban militia in Kandahar in southern Afghanistan.",
+    "entities": [
+      {
+        "text": "UAE",
+        "label": "LOC",
+        "start": 90,
+        "end": 93
+      },
+      {
+        "text": "Sharjah",
+        "label": "LOC",
+        "start": 100,
+        "end": 107
+      },
+      {
+        "text": "Kandahar",
+        "label": "LOC",
+        "start": 200,
+        "end": 208
+      },
+      {
+        "text": "Afghanistan",
+        "label": "LOC",
+        "start": 221,
+        "end": 232
+      }
+    ]
+  },
+  {
+    "text": "Only some take money, \" Sri Lankan boatman Chinnathambi said.",
+    "entities": [
+      {
+        "text": "Chinnathambi",
+        "label": "PER",
+        "start": 43,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "text": "Since 1993, 24 children have been killed by the explosive force of automotive air bags, which inflate at speeds up to 200 miles per hour.",
+    "entities": []
+  },
+  {
+    "text": "The April arrests were announced shortly after a row in which Tehran asked Ankara to withdraw four Turkish diplomats accused of spying, and Turkey expelled four Iranian diplomats for their alleged links to killings of Iranian exiles.",
+    "entities": [
+      {
+        "text": "Tehran",
+        "label": "LOC",
+        "start": 62,
+        "end": 68
+      },
+      {
+        "text": "Ankara",
+        "label": "LOC",
+        "start": 75,
+        "end": 81
+      },
+      {
+        "text": "Turkey",
+        "label": "LOC",
+        "start": 140,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "T-bill yields% (1mo) 22.95 (3mo) 23.02 (6mo) 23.53 (1yr) 24.40",
+    "entities": []
+  },
+  {
+    "text": "(Germany) 70 67 65, Ronan Rafferty 64 72 66, Barry Lane",
+    "entities": [
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 1,
+        "end": 8
+      },
+      {
+        "text": "Ronan Rafferty",
+        "label": "PER",
+        "start": 20,
+        "end": 34
+      },
+      {
+        "text": "Barry Lane",
+        "label": "PER",
+        "start": 45,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "text": "International reserves and",
+    "entities": []
+  },
+  {
+    "text": "\" They moult in the summer, so five or six months down the track, I would have looked like the guilty party, \" Drew said.",
+    "entities": [
+      {
+        "text": "Drew",
+        "label": "PER",
+        "start": 111,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "text": "142 Daniel Chopra (Sweden) 74 68",
+    "entities": [
+      {
+        "text": "Daniel Chopra",
+        "label": "PER",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "Sweden",
+        "label": "LOC",
+        "start": 19,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "Halftime 0-2.",
+    "entities": []
+  },
+  {
+    "text": "1-0.",
+    "entities": []
+  },
+  {
+    "text": "Germany) 72 72 72 76",
+    "entities": [
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "HONG KONG 1996-08-23",
+    "entities": [
+      {
+        "text": "HONG KONG",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Scorers:",
+    "entities": []
+  },
+  {
+    "text": "Sevilla (Spain) 9 4 5 13",
+    "entities": [
+      {
+        "text": "Sevilla",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Spain",
+        "label": "LOC",
+        "start": 9,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "MONDAY, AUGUST 26TH SCHEDULE",
+    "entities": []
+  },
+  {
+    "text": "WASHINGTON 1996-12-06",
+    "entities": [
+      {
+        "text": "WASHINGTON",
+        "label": "LOC",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "10. Kaspars Ozers (Latvia) Motorola all same time",
+    "entities": [
+      {
+        "text": "Kaspars Ozers",
+        "label": "PER",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "Latvia",
+        "label": "LOC",
+        "start": 19,
+        "end": 25
+      },
+      {
+        "text": "Motorola",
+        "label": "ORG",
+        "start": 27,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "text": "Indonesia's Belo leaves for Nobel award ceremony.",
+    "entities": [
+      {
+        "text": "Indonesia",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Belo",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "Eager to put Lauck behind bars quickly and avoid a long and complex trial, prosecutor Bernd Mauruschat limited his charges to offences since 1994.",
+    "entities": [
+      {
+        "text": "Lauck",
+        "label": "PER",
+        "start": 13,
+        "end": 18
+      },
+      {
+        "text": "Bernd Mauruschat",
+        "label": "PER",
+        "start": 86,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Venezuelan Finance Minister Luis Raul Matos Azocar will make an \" important announcement \" on Thursday at 1230 local / 1630 GMT at a Central Bank press conference, the Finance Ministry said.",
+    "entities": [
+      {
+        "text": "Luis Raul Matos Azocar",
+        "label": "PER",
+        "start": 28,
+        "end": 50
+      },
+      {
+        "text": "Central Bank",
+        "label": "ORG",
+        "start": 133,
+        "end": 145
+      },
+      {
+        "text": "Finance Ministry",
+        "label": "ORG",
+        "start": 168,
+        "end": 184
+      }
+    ]
+  },
+  {
+    "text": "Sandra Dopfer (Austria) beat Nanne Dahlman (Finland) 2-6 6-2",
+    "entities": [
+      {
+        "text": "Sandra Dopfer",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Austria",
+        "label": "LOC",
+        "start": 15,
+        "end": 22
+      },
+      {
+        "text": "Nanne Dahlman",
+        "label": "PER",
+        "start": 29,
+        "end": 42
+      },
+      {
+        "text": "Finland",
+        "label": "LOC",
+        "start": 44,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "PHILADELPHIA 14 12 2 75 75 30",
+    "entities": [
+      {
+        "text": "PHILADELPHIA",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "It aims to invest $200 million in Ruch over five years -- more than the sum Ruch says it needs to upgrade its outlets.",
+    "entities": [
+      {
+        "text": "Ruch",
+        "label": "ORG",
+        "start": 34,
+        "end": 38
+      },
+      {
+        "text": "Ruch",
+        "label": "ORG",
+        "start": 76,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "MOSCOW 1996-08-25",
+    "entities": [
+      {
+        "text": "MOSCOW",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Spanish first division on Saturday:",
+    "entities": []
+  },
+  {
+    "text": "1 - Arantxa Sanchez Vicario (Spain) beat Katarina Studenikova",
+    "entities": [
+      {
+        "text": "Arantxa Sanchez Vicario",
+        "label": "PER",
+        "start": 4,
+        "end": 27
+      },
+      {
+        "text": "Spain",
+        "label": "LOC",
+        "start": 29,
+        "end": 34
+      },
+      {
+        "text": "Katarina Studenikova",
+        "label": "PER",
+        "start": 41,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "text": "The Andean nation's population of 11.4 million is 47 percent indigenous.",
+    "entities": []
+  },
+  {
+    "text": "10. Cor Euser (Netherlands) / H. Wada (Japan) / N. Furuya (Japan) GT2",
+    "entities": [
+      {
+        "text": "Cor Euser",
+        "label": "PER",
+        "start": 4,
+        "end": 13
+      },
+      {
+        "text": "Netherlands",
+        "label": "LOC",
+        "start": 15,
+        "end": 26
+      },
+      {
+        "text": "H. Wada",
+        "label": "PER",
+        "start": 30,
+        "end": 37
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 39,
+        "end": 44
+      },
+      {
+        "text": "N. Furuya",
+        "label": "PER",
+        "start": 48,
+        "end": 57
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 59,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "Delegates to the commission from the other 10 provinces will be installed progressively from next week with the provinces of North and South Kivu, Maniema, Shaba and Bandundu having priority, he said.",
+    "entities": [
+      {
+        "text": "North",
+        "label": "LOC",
+        "start": 125,
+        "end": 130
+      },
+      {
+        "text": "South Kivu",
+        "label": "LOC",
+        "start": 135,
+        "end": 145
+      },
+      {
+        "text": "Maniema",
+        "label": "LOC",
+        "start": 147,
+        "end": 154
+      },
+      {
+        "text": "Shaba",
+        "label": "LOC",
+        "start": 156,
+        "end": 161
+      },
+      {
+        "text": "Bandundu",
+        "label": "LOC",
+        "start": 166,
+        "end": 174
+      }
+    ]
+  },
+  {
+    "text": "Chiron makes Betaseron; Berlex markets it, he said.",
+    "entities": [
+      {
+        "text": "Chiron",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Berlex",
+        "label": "ORG",
+        "start": 24,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "Auxerre 20 8 8 4 26 12 32",
+    "entities": [
+      {
+        "text": "Auxerre",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "CINCINNATI AT COLORADO",
+    "entities": [
+      {
+        "text": "CINCINNATI",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "COLORADO",
+        "label": "LOC",
+        "start": 14,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "Wolverhampton 1 Queens Park Rangers 1",
+    "entities": [
+      {
+        "text": "Wolverhampton",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Queens Park Rangers",
+        "label": "ORG",
+        "start": 16,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "text": "Twenty people were injured on Wednesday when the EgyptAir Boeing 707 overshot the runway, caught fire, hit a taxi and skipped across a road onto a railway line.",
+    "entities": [
+      {
+        "text": "EgyptAir",
+        "label": "ORG",
+        "start": 49,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "text": "He was jeered and whistled at by a small group of League supporters when he arrived for a visit marked by heavy security.",
+    "entities": [
+      {
+        "text": "League",
+        "label": "LOC",
+        "start": 50,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "text": "\" Collectivisation brought us a lot of pain.",
+    "entities": []
+  },
+  {
+    "text": "Standings after games played on Saturday (won, drawn, lost,",
+    "entities": []
+  },
+  {
+    "text": "More drilling results are expected soon.",
+    "entities": []
+  },
+  {
+    "text": "\" Because our leaders have started to behave with extreme hostility towards the interests of their peoples to court the goodwill of the Americans and the Zionists, \" he added.",
+    "entities": []
+  },
+  {
+    "text": ", Inc., said it won $1 million of Eau Claire, Wisc.",
+    "entities": [
+      {
+        "text": ", Inc.",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Eau Claire",
+        "label": "ORG",
+        "start": 34,
+        "end": 44
+      },
+      {
+        "text": "Wisc.",
+        "label": "LOC",
+        "start": 46,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "Officials in Netanyahu's office were not immediately available for comment on Arafat's remarks.",
+    "entities": [
+      {
+        "text": "Netanyahu",
+        "label": "PER",
+        "start": 13,
+        "end": 22
+      },
+      {
+        "text": "Arafat",
+        "label": "PER",
+        "start": 78,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "text": "Stevanin was first sentenced for assault but investigators began digging in the garden of his villa after the first body was found by a passer-by.",
+    "entities": [
+      {
+        "text": "Stevanin",
+        "label": "PER",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "LONDON 1996-08-29",
+    "entities": [
+      {
+        "text": "LONDON",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "They said 14 out of 45 passengers on the bus died instantly when the vehicle fell from the narrow road while on its way from the state capital Muzaffarabad to the nearby Pakistani town of Garhi Habibullah in the northwest.",
+    "entities": [
+      {
+        "text": "Muzaffarabad",
+        "label": "LOC",
+        "start": 143,
+        "end": 155
+      },
+      {
+        "text": "Garhi Habibullah",
+        "label": "LOC",
+        "start": 188,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "CHICAGO 12 13 3 72 70 27",
+    "entities": [
+      {
+        "text": "CHICAGO",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Bonn has led efforts to ensure consumer protection tops the list of priorities in dealing with the mad cow crisis, which erupted in March when Britain acknowledged humans could contract a similar illness by eating contaminated beef.",
+    "entities": [
+      {
+        "text": "Bonn",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 143,
+        "end": 150
+      }
+    ]
+  },
+  {
+    "text": "NORDIC SKIING-WORLD CUP BIATHLON RESULTS.",
+    "entities": []
+  },
+  {
+    "text": "291 Phillip Price 72 76 74 69, Adam Hunter 70 79 73 69, Peter O'Malley (Australia) 71 73 75 72, Mark Roe 69 71 78 73, Mike Clayton (Australia) 69 76 73 73",
+    "entities": [
+      {
+        "text": "Phillip Price",
+        "label": "PER",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "Adam Hunter",
+        "label": "PER",
+        "start": 31,
+        "end": 42
+      },
+      {
+        "text": "Peter O'Malley",
+        "label": "PER",
+        "start": 56,
+        "end": 70
+      },
+      {
+        "text": "Australia",
+        "label": "LOC",
+        "start": 72,
+        "end": 81
+      },
+      {
+        "text": "Mark Roe",
+        "label": "PER",
+        "start": 96,
+        "end": 104
+      },
+      {
+        "text": "Mike Clayton",
+        "label": "PER",
+        "start": 118,
+        "end": 130
+      },
+      {
+        "text": "Australia",
+        "label": "LOC",
+        "start": 132,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "GOVT.BUDGET (bln pts) Govt.Fcast 96",
+    "entities": []
+  },
+  {
+    "text": "Forecasts were for deficits of 900 million sterling and 1.4 billion sterling.",
+    "entities": []
+  },
+  {
+    "text": "Teams:",
+    "entities": []
+  },
+  {
+    "text": "15. Retief Goosen (South Africa) 188,143",
+    "entities": [
+      {
+        "text": "Retief Goosen",
+        "label": "PER",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "South Africa",
+        "label": "LOC",
+        "start": 19,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "The fighter, sitting next to a man dressed in green and carrying a grenade-launcher, said that the strict Islamic law adopted by the rebels during the conflict was now needed to impose peace.",
+    "entities": []
+  },
+  {
+    "text": "21. Switzerland 8.15",
+    "entities": [
+      {
+        "text": "Switzerland",
+        "label": "LOC",
+        "start": 4,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "Sydney Bulldogs 17 South Queensland 16 Brisbane 38 Gold Coast 10",
+    "entities": [
+      {
+        "text": "Sydney Bulldogs",
+        "label": "ORG",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "South Queensland",
+        "label": "ORG",
+        "start": 19,
+        "end": 35
+      },
+      {
+        "text": "Brisbane",
+        "label": "ORG",
+        "start": 39,
+        "end": 47
+      },
+      {
+        "text": "Gold Coast",
+        "label": "ORG",
+        "start": 51,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "text": "First round results in the Hong",
+    "entities": []
+  },
+  {
+    "text": "NY ISLANDERS 7 11 8 65 72 22",
+    "entities": [
+      {
+        "text": "NY ISLANDERS",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "14. Rubens Barrichello (Brazil) Jordan 29",
+    "entities": [
+      {
+        "text": "Rubens Barrichello",
+        "label": "PER",
+        "start": 4,
+        "end": 22
+      },
+      {
+        "text": "Brazil",
+        "label": "LOC",
+        "start": 24,
+        "end": 30
+      },
+      {
+        "text": "Jordan",
+        "label": "ORG",
+        "start": 32,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "EASTERN DIVISION",
+    "entities": []
+  },
+  {
+    "text": "NEW YORK 1996-08-24",
+    "entities": [
+      {
+        "text": "NEW YORK",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "He said the repatriation would be carried out swiftly and would be enormous, starting with the closure of refugee camps.",
+    "entities": []
+  },
+  {
+    "text": "TYPE STRAIGHT ISS PRICE 100.92 PAY DATE 24.SEP.96",
+    "entities": []
+  },
+  {
+    "text": "2. Germany (Jens Fiedler, Michael Hubner, Soren Lausberg)",
+    "entities": [
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 3,
+        "end": 10
+      },
+      {
+        "text": "Jens Fiedler",
+        "label": "PER",
+        "start": 12,
+        "end": 24
+      },
+      {
+        "text": "Michael Hubner",
+        "label": "PER",
+        "start": 26,
+        "end": 40
+      },
+      {
+        "text": "Soren Lausberg",
+        "label": "PER",
+        "start": 42,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "text": "DETROIT 45 82 .354 27 1/2",
+    "entities": [
+      {
+        "text": "DETROIT",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "SHANGHAI 1996-08-28",
+    "entities": [
+      {
+        "text": "SHANGHAI",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "The agency also proposed rule changes that would require continuous \" bid \" and \" ask \" quotations from exchange specialists and market makers who trade more than 1 percent of a stock during any quarter on Nasdaq.",
+    "entities": []
+  },
+  {
+    "text": "Mike Piazza",
+    "entities": [
+      {
+        "text": "Mike Piazza",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "Blinker missed his club's last two games after FIFA slapped a worldwide ban on him for appearing to sign contracts for both Wednesday and Udinese while he was playing for Feyenoord.",
+    "entities": [
+      {
+        "text": "Blinker",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "FIFA",
+        "label": "ORG",
+        "start": 47,
+        "end": 51
+      },
+      {
+        "text": "Wednesday",
+        "label": "ORG",
+        "start": 124,
+        "end": 133
+      },
+      {
+        "text": "Udinese",
+        "label": "ORG",
+        "start": 138,
+        "end": 145
+      },
+      {
+        "text": "Feyenoord",
+        "label": "ORG",
+        "start": 171,
+        "end": 180
+      }
+    ]
+  },
+  {
+    "text": "The England cricket squad was announced on Sunday for the one-day international series against Pakistan starting on Thursday.",
+    "entities": [
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 4,
+        "end": 11
+      },
+      {
+        "text": "Pakistan",
+        "label": "LOC",
+        "start": 95,
+        "end": 103
+      }
+    ]
+  },
+  {
+    "text": "Derek da Cunha, senior fellow at the Institute of Policy Studies (ISEAS), said Singapore's hosting of the conference \" carries a great deal of symbolism for the city-state, underscoring its commitment to free trade and its trading links across the globe. \"",
+    "entities": [
+      {
+        "text": "Derek da Cunha",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Institute of Policy Studies",
+        "label": "ORG",
+        "start": 37,
+        "end": 64
+      },
+      {
+        "text": "ISEAS",
+        "label": "ORG",
+        "start": 66,
+        "end": 71
+      },
+      {
+        "text": "Singapore",
+        "label": "LOC",
+        "start": 79,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "text": "4. Okabe 146",
+    "entities": [
+      {
+        "text": "Okabe",
+        "label": "PER",
+        "start": 3,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "The paper said five people had been arrested and police were looking for two more suspects.",
+    "entities": []
+  },
+  {
+    "text": "CRICKET - PAKISTAN 339-4 V ENGLAND - close.",
+    "entities": [
+      {
+        "text": "PAKISTAN",
+        "label": "LOC",
+        "start": 10,
+        "end": 18
+      },
+      {
+        "text": "ENGLAND",
+        "label": "LOC",
+        "start": 27,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "0 Nick Faldo (Britain) through 5",
+    "entities": [
+      {
+        "text": "Nick Faldo",
+        "label": "PER",
+        "start": 2,
+        "end": 12
+      },
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 14,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "Attendance 6,000.",
+    "entities": []
+  },
+  {
+    "text": "Jeff Russell pitched two perfect innings for his third save.",
+    "entities": [
+      {
+        "text": "Jeff Russell",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Standings (tabulated under played, won, drawn, lost, points",
+    "entities": []
+  },
+  {
+    "text": "4. Gideon Chirchir (Kenya) 8:15.69",
+    "entities": [
+      {
+        "text": "Gideon Chirchir",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "Kenya",
+        "label": "LOC",
+        "start": 20,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "Arnaud Boetsch (France) beat Magnus Gustafsson (Sweden) 7-6 (8- 6) 6-3 6-1",
+    "entities": [
+      {
+        "text": "Arnaud Boetsch",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "France",
+        "label": "LOC",
+        "start": 16,
+        "end": 22
+      },
+      {
+        "text": "Magnus Gustafsson",
+        "label": "PER",
+        "start": 29,
+        "end": 46
+      },
+      {
+        "text": "Sweden",
+        "label": "LOC",
+        "start": 48,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "BALTIMORE 12 Oakland 11 (10 innings)",
+    "entities": [
+      {
+        "text": "BALTIMORE",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Oakland",
+        "label": "ORG",
+        "start": 13,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Queen of South 16 6 4 6 24 27 22",
+    "entities": [
+      {
+        "text": "Queen of South",
+        "label": "ORG",
+        "start": 0,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "The moves made Cooperative the first major bank to cut rates in response to a call on Friday from central bank governor Sheu Yuan-dong.",
+    "entities": [
+      {
+        "text": "Cooperative",
+        "label": "ORG",
+        "start": 15,
+        "end": 26
+      },
+      {
+        "text": "Sheu Yuan-dong",
+        "label": "PER",
+        "start": 120,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "OAKLAND AT NEW YORK",
+    "entities": [
+      {
+        "text": "OAKLAND",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "NEW YORK",
+        "label": "LOC",
+        "start": 11,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "I said you shouldn't smoke either.",
+    "entities": []
+  },
+  {
+    "text": "THE HAGUE 1996-08-30",
+    "entities": [
+      {
+        "text": "THE HAGUE",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Attendance: 6,000",
+    "entities": []
+  },
+  {
+    "text": "Montpellier 0 Cannes 1 (Charvet 8th).",
+    "entities": [
+      {
+        "text": "Montpellier",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Cannes",
+        "label": "ORG",
+        "start": 14,
+        "end": 20
+      },
+      {
+        "text": "Charvet",
+        "label": "PER",
+        "start": 24,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "-- Bucharest Newsroom 40-1 3120264",
+    "entities": [
+      {
+        "text": "Bucharest Newsroom",
+        "label": "ORG",
+        "start": 3,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "Suu Kyi, who spearheads a campaign for sanctions on Burma's government, was under house arrest for six years without being tried before being released in July 1995.",
+    "entities": [
+      {
+        "text": "Suu Kyi",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Burma",
+        "label": "LOC",
+        "start": 52,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "text": "There's no doubt it's a big issue now. \"",
+    "entities": []
+  },
+  {
+    "text": "Colo.",
+    "entities": [
+      {
+        "text": "Colo.",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "The town straddles a strategically important road linking government and rebel-held territory and has fallen succesively to both sides in a bloody tug-of-war which began last February.",
+    "entities": []
+  },
+  {
+    "text": "When it reconvened, BJP deputies resumed the slogan-shouting, and deputy speaker Suraj Bhan suspended work until Monday.",
+    "entities": [
+      {
+        "text": "BJP",
+        "label": "ORG",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "Suraj Bhan",
+        "label": "PER",
+        "start": 81,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "(million A$ unless stated)",
+    "entities": []
+  },
+  {
+    "text": "Two weeks ago Taibe, coached by Pole Wojtek Lazarek, met Betar, a club closely associated with the right-wing Likud party, for the first time in a Cup match in Jerusalem.",
+    "entities": [
+      {
+        "text": "Taibe",
+        "label": "ORG",
+        "start": 14,
+        "end": 19
+      },
+      {
+        "text": "Wojtek Lazarek",
+        "label": "PER",
+        "start": 37,
+        "end": 51
+      },
+      {
+        "text": "Betar",
+        "label": "ORG",
+        "start": 57,
+        "end": 62
+      },
+      {
+        "text": "Likud",
+        "label": "ORG",
+        "start": 110,
+        "end": 115
+      },
+      {
+        "text": "Jerusalem",
+        "label": "LOC",
+        "start": 160,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "The time was officially adjusted to 2:28.98.",
+    "entities": []
+  },
+  {
+    "text": "John Kerry, even though she isn't old enough to vote.",
+    "entities": [
+      {
+        "text": "John Kerry",
+        "label": "PER",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "Fullback Andre Joubert scored the other, scorching in from 40 metres at the start of the second half to add to his three long-range penalties.",
+    "entities": [
+      {
+        "text": "Andre Joubert",
+        "label": "PER",
+        "start": 9,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "LONDON 1996-08-28",
+    "entities": [
+      {
+        "text": "LONDON",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Borussia Dortmund 3 Freiburg 1",
+    "entities": [
+      {
+        "text": "Borussia Dortmund",
+        "label": "ORG",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "Freiburg",
+        "label": "ORG",
+        "start": 20,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "A Swiss tourist guide and a German tourist were kidnapped in the same area on New Year's Day by a group of former Nicaraguan guerrillas.",
+    "entities": []
+  },
+  {
+    "text": "Viking 20 7 7 6 33 24 28",
+    "entities": [
+      {
+        "text": "Viking",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "The win was the fourth in as many matches this season for Lens, who lead the table on 12 points.",
+    "entities": [
+      {
+        "text": "Lens",
+        "label": "ORG",
+        "start": 58,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "Standings after games played on Thursday (tabulate under -",
+    "entities": []
+  },
+  {
+    "text": "Edberg lost his own serve twice, but he rallied for three breaks of his own, the last to wrap up the set.",
+    "entities": [
+      {
+        "text": "Edberg",
+        "label": "PER",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Vancouver 5 7",
+    "entities": [
+      {
+        "text": "Vancouver",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "COLOMBO 1996-08-28",
+    "entities": [
+      {
+        "text": "COLOMBO",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Midfielder Marco Giampaolo made it 3-0 in the 38th minute and Parma's Alessandro Melli pulled back a late goal six minutes from time.",
+    "entities": [
+      {
+        "text": "Marco Giampaolo",
+        "label": "PER",
+        "start": 11,
+        "end": 26
+      },
+      {
+        "text": "Parma",
+        "label": "ORG",
+        "start": 62,
+        "end": 67
+      },
+      {
+        "text": "Alessandro Melli",
+        "label": "PER",
+        "start": 70,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "text": "Mansfield 0 Rochdale 0",
+    "entities": [
+      {
+        "text": "Mansfield",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Rochdale",
+        "label": "ORG",
+        "start": 12,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "FINANCIAL POST",
+    "entities": [
+      {
+        "text": "FINANCIAL POST",
+        "label": "ORG",
+        "start": 0,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "Team:",
+    "entities": []
+  },
+  {
+    "text": "He will not be considered for a test match against Australia starting on October 10 in New Delhi, the United News of India said.",
+    "entities": [
+      {
+        "text": "Australia",
+        "label": "LOC",
+        "start": 51,
+        "end": 60
+      },
+      {
+        "text": "New Delhi",
+        "label": "LOC",
+        "start": 87,
+        "end": 96
+      },
+      {
+        "text": "United News of India",
+        "label": "ORG",
+        "start": 102,
+        "end": 122
+      }
+    ]
+  },
+  {
+    "text": "(A. Brown 56 not out).",
+    "entities": [
+      {
+        "text": "A. Brown",
+        "label": "PER",
+        "start": 1,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Surgeons removed a cancerous kidney, parts of his pancreas and stomach, small intestine, bile duct and surrounding tissues.",
+    "entities": []
+  },
+  {
+    "text": "Bowling: Streak 10-1-50-1 (2w, 2nb), Brandes 10-1-47-2 (1w),",
+    "entities": [
+      {
+        "text": "Streak",
+        "label": "PER",
+        "start": 9,
+        "end": 15
+      },
+      {
+        "text": "Brandes",
+        "label": "PER",
+        "start": 37,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "MOODY 'S: Aa S&P: AA+",
+    "entities": [
+      {
+        "text": "MOODY 'S",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "S&P",
+        "label": "ORG",
+        "start": 13,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "First Union National Bank of Fla. settles suit.",
+    "entities": [
+      {
+        "text": "First Union National Bank of Fla.",
+        "label": "ORG",
+        "start": 0,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "Palestinians end four-hour strike.",
+    "entities": []
+  },
+  {
+    "text": "-- U.S. Municipal Desk, 212-859-1650",
+    "entities": [
+      {
+        "text": "U.S. Municipal Desk",
+        "label": "ORG",
+        "start": 3,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "David Wheaton (U.S.) beat Frederic Vitoux (France) 6-4 6-4",
+    "entities": [
+      {
+        "text": "David Wheaton",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 15,
+        "end": 19
+      },
+      {
+        "text": "Frederic Vitoux",
+        "label": "PER",
+        "start": 26,
+        "end": 41
+      },
+      {
+        "text": "France",
+        "label": "LOC",
+        "start": 43,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "Richard Finn",
+    "entities": [
+      {
+        "text": "Richard Finn",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "tennis tournament on Sunday (prefix number denotes seeding):",
+    "entities": []
+  },
+  {
+    "text": "1. Astrid Kumbernuss (Germany) 19.89 metres",
+    "entities": [
+      {
+        "text": "Astrid Kumbernuss",
+        "label": "PER",
+        "start": 3,
+        "end": 20
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 22,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "No weather-related closures of CIS airports are expected on December 7 and 8, the Russian Weather Service said on Friday.",
+    "entities": [
+      {
+        "text": "CIS",
+        "label": "LOC",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "Russian Weather Service",
+        "label": "ORG",
+        "start": 82,
+        "end": 105
+      }
+    ]
+  },
+  {
+    "text": "Epidemics are common in rural areas of Nigeria where piped water is not usually available.",
+    "entities": [
+      {
+        "text": "Nigeria",
+        "label": "LOC",
+        "start": 39,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "basketball tournament on Friday:",
+    "entities": []
+  },
+  {
+    "text": "Leading results and overall standings after the 161 kilometre first stage of the Tour of the Netherlands between Gouda and Haarlem on Tuesday.",
+    "entities": [
+      {
+        "text": "Gouda",
+        "label": "LOC",
+        "start": 113,
+        "end": 118
+      },
+      {
+        "text": "Haarlem",
+        "label": "LOC",
+        "start": 123,
+        "end": 130
+      }
+    ]
+  },
+  {
+    "text": "Rennes 4 1 1 2 5 7 4",
+    "entities": [
+      {
+        "text": "Rennes",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "PHILADELPHIA 53 76 .411 28",
+    "entities": [
+      {
+        "text": "PHILADELPHIA",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Baseball games played on Tuesday (home team in CAPS):",
+    "entities": []
+  },
+  {
+    "text": "6= Nele Zilinskiene (Lithuania) 1.91",
+    "entities": [
+      {
+        "text": "Nele Zilinskiene",
+        "label": "PER",
+        "start": 3,
+        "end": 19
+      },
+      {
+        "text": "Lithuania",
+        "label": "LOC",
+        "start": 21,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "First Chang approached the umpire, then Oncins, then Chang again before play finally resumed.",
+    "entities": [
+      {
+        "text": "Chang",
+        "label": "PER",
+        "start": 6,
+        "end": 11
+      },
+      {
+        "text": "Oncins",
+        "label": "PER",
+        "start": 40,
+        "end": 46
+      },
+      {
+        "text": "Chang",
+        "label": "PER",
+        "start": 53,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "2. Jacques Villeneuve (Canada) 68",
+    "entities": [
+      {
+        "text": "Jacques Villeneuve",
+        "label": "PER",
+        "start": 3,
+        "end": 21
+      },
+      {
+        "text": "Canada",
+        "label": "LOC",
+        "start": 23,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "for, goals against, points):",
+    "entities": []
+  },
+  {
+    "text": "NBA BASKETBALL - STANDINGS AFTER FRIDAY 'S GAMES.",
+    "entities": [
+      {
+        "text": "NBA",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "text": "7. Tristan Hoffman (Neths) TVM same time",
+    "entities": [
+      {
+        "text": "Tristan Hoffman",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "Neths",
+        "label": "LOC",
+        "start": 20,
+        "end": 25
+      },
+      {
+        "text": "TVM",
+        "label": "ORG",
+        "start": 27,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "Noting the next presidential term will probably see two or three Supreme Court justice nominations, he warned, \" Their extremist agenda would come out of the Gingrich Congress, into and through the Dole White House, down through the Supreme Court. \"",
+    "entities": [
+      {
+        "text": "Supreme Court",
+        "label": "ORG",
+        "start": 65,
+        "end": 78
+      },
+      {
+        "text": "Gingrich Congress",
+        "label": "ORG",
+        "start": 158,
+        "end": 175
+      },
+      {
+        "text": "Dole White House",
+        "label": "ORG",
+        "start": 198,
+        "end": 214
+      },
+      {
+        "text": "Supreme Court",
+        "label": "ORG",
+        "start": 233,
+        "end": 246
+      }
+    ]
+  },
+  {
+    "text": "Teams:",
+    "entities": []
+  },
+  {
+    "text": "2. Doug Turner (Britain) 20.48",
+    "entities": [
+      {
+        "text": "Doug Turner",
+        "label": "PER",
+        "start": 3,
+        "end": 14
+      },
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 16,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "Source: Manitoba Pork.",
+    "entities": [
+      {
+        "text": "Manitoba Pork",
+        "label": "ORG",
+        "start": 8,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "Summaries of German first division",
+    "entities": []
+  },
+  {
+    "text": "9. Jeroen Blijlevens (Neths) TVM",
+    "entities": [
+      {
+        "text": "Jeroen Blijlevens",
+        "label": "PER",
+        "start": 3,
+        "end": 20
+      },
+      {
+        "text": "Neths",
+        "label": "LOC",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "TVM",
+        "label": "ORG",
+        "start": 29,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "Newspapers 363 49 295 46",
+    "entities": []
+  },
+  {
+    "text": "The institute was shut for nearly two years after the 1988 uprising.",
+    "entities": []
+  },
+  {
+    "text": "Other banks traded one-week rates near 48 percent.",
+    "entities": []
+  },
+  {
+    "text": "The foot later washed up on the beach.",
+    "entities": []
+  },
+  {
+    "text": "The greatest declines in the volume of help-wanted advertising were in the New England, Mountain and West South Central regions.",
+    "entities": [
+      {
+        "text": "New England",
+        "label": "LOC",
+        "start": 75,
+        "end": 86
+      },
+      {
+        "text": "Mountain",
+        "label": "LOC",
+        "start": 88,
+        "end": 96
+      },
+      {
+        "text": "West South Central",
+        "label": "LOC",
+        "start": 101,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "Stefan Edberg (Sweden) vs. 5 - Richard Krajicek (Netherlands)",
+    "entities": [
+      {
+        "text": "Stefan Edberg",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Sweden",
+        "label": "LOC",
+        "start": 15,
+        "end": 21
+      },
+      {
+        "text": "Richard Krajicek",
+        "label": "PER",
+        "start": 31,
+        "end": 47
+      },
+      {
+        "text": "Netherlands",
+        "label": "LOC",
+        "start": 49,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "Double result:",
+    "entities": []
+  },
+  {
+    "text": "Nancy 4 0 1 3 2 7 1",
+    "entities": [
+      {
+        "text": "Nancy",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "The official state news agency Petra said Kabariti would hold discussions \" on the latest developments in the peace process and bilateral cooperation \".",
+    "entities": [
+      {
+        "text": "Petra",
+        "label": "ORG",
+        "start": 31,
+        "end": 36
+      },
+      {
+        "text": "Kabariti",
+        "label": "PER",
+        "start": 42,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "Tennis - Philippoussis beats Woodforde in U.S. Open.",
+    "entities": [
+      {
+        "text": "Philippoussis",
+        "label": "PER",
+        "start": 9,
+        "end": 22
+      },
+      {
+        "text": "Woodforde",
+        "label": "PER",
+        "start": 29,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "\" He had climbed up in this boxcar to get out of the weather and to get some sleep, \" Jewell said. \"",
+    "entities": [
+      {
+        "text": "Jewell",
+        "label": "PER",
+        "start": 86,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "JOHANNESBURG 1996-08-31",
+    "entities": [
+      {
+        "text": "JOHANNESBURG",
+        "label": "LOC",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Charlton managed Ireland for 93 matches, during which time they lost only 17 times in almost 10 years until he resigned in December 1995.",
+    "entities": [
+      {
+        "text": "Charlton",
+        "label": "PER",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Ireland",
+        "label": "LOC",
+        "start": 17,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "Hamburger SV 16 4 5 7 20 25 17",
+    "entities": [
+      {
+        "text": "Hamburger SV",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "But after the change of tender conditions Swiss investors pulled out and SPC decided to bid jointly with UWP-Hachette.",
+    "entities": [
+      {
+        "text": "SPC",
+        "label": "ORG",
+        "start": 73,
+        "end": 76
+      },
+      {
+        "text": "UWP-Hachette",
+        "label": "ORG",
+        "start": 105,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "text": "Chonan 2 0 1 9 9 6",
+    "entities": [
+      {
+        "text": "Chonan",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "*",
+    "entities": []
+  },
+  {
+    "text": "ZURICH 1996-08-28",
+    "entities": [
+      {
+        "text": "ZURICH",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "The next match in the four-nation tournament is on Friday when Sri Lanka play Australia in a repeat of the World Cup final in Lahore where Sri Lanka won by seven wickets.",
+    "entities": [
+      {
+        "text": "Sri Lanka",
+        "label": "LOC",
+        "start": 63,
+        "end": 72
+      },
+      {
+        "text": "Australia",
+        "label": "LOC",
+        "start": 78,
+        "end": 87
+      },
+      {
+        "text": "Lahore",
+        "label": "LOC",
+        "start": 126,
+        "end": 132
+      },
+      {
+        "text": "Sri Lanka",
+        "label": "LOC",
+        "start": 139,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "text": "Fall of wickets: 1-64 2-85 3-116 4-205 5-248 6-273 7-283",
+    "entities": []
+  },
+  {
+    "text": "While he was gone, two women in their mid-twenties and an older man entered the jewelry store and tried to distract store owner Charles McGilley.",
+    "entities": [
+      {
+        "text": "Charles McGilley",
+        "label": "PER",
+        "start": 128,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "Groningen took the lead in the seventh minute when Dean Gorre intercepted a back pass from Ernest Faber to goalkeeper Ronald Waterreus and shot home.",
+    "entities": [
+      {
+        "text": "Groningen",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Dean Gorre",
+        "label": "PER",
+        "start": 51,
+        "end": 61
+      },
+      {
+        "text": "Ernest Faber",
+        "label": "PER",
+        "start": 91,
+        "end": 103
+      },
+      {
+        "text": "Ronald Waterreus",
+        "label": "PER",
+        "start": 118,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "81 Seiki Okuda (Japan)",
+    "entities": [
+      {
+        "text": "Seiki Okuda",
+        "label": "PER",
+        "start": 3,
+        "end": 14
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 16,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "When officials and coaching staff tried to intervene, Cyprien launched a flying kick at Moura, but only succeeded in kneeing St Gallen coach Roger Hegi in the stomach.",
+    "entities": [
+      {
+        "text": "Cyprien",
+        "label": "PER",
+        "start": 54,
+        "end": 61
+      },
+      {
+        "text": "Moura",
+        "label": "PER",
+        "start": 88,
+        "end": 93
+      },
+      {
+        "text": "St Gallen",
+        "label": "ORG",
+        "start": 125,
+        "end": 134
+      },
+      {
+        "text": "Roger Hegi",
+        "label": "PER",
+        "start": 141,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "The Office of Fair Trade called for British Airways / American to allow third-party access to their joint frequent flyer programme where the applicant does not have access to an equivalent programme.",
+    "entities": [
+      {
+        "text": "Office of Fair Trade",
+        "label": "ORG",
+        "start": 4,
+        "end": 24
+      },
+      {
+        "text": "British Airways",
+        "label": "ORG",
+        "start": 36,
+        "end": 51
+      },
+      {
+        "text": "American",
+        "label": "ORG",
+        "start": 54,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "Results of English league soccer",
+    "entities": []
+  },
+  {
+    "text": "MDS this year lost its president and vice-president, both of whom were tried and given jail sentences.",
+    "entities": [
+      {
+        "text": "MDS",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "text": "Aug 27 Aug 26",
+    "entities": []
+  },
+  {
+    "text": "Iowa-S Minn fed cattle market quiet, no sales-USDA.",
+    "entities": [
+      {
+        "text": "Iowa-S",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Minn",
+        "label": "LOC",
+        "start": 7,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "1. Franziska Schenk (Germany) 1:23.17",
+    "entities": [
+      {
+        "text": "Franziska Schenk",
+        "label": "PER",
+        "start": 3,
+        "end": 19
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 21,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "They wanted to get a weight off their consciences, \" a police spokesman said.",
+    "entities": []
+  },
+  {
+    "text": "The terrain is mountainous, the only roads are dirt tracks.",
+    "entities": []
+  },
+  {
+    "text": "France (Cyril Bos, Philippe Ermenault, Jean-Michel Monin, Francis Moreau) 4:05.104 beat Germany (Guido Fulst, Danilo Hondo, Thorsten Rund, Heiko Szonn) 4:05.463",
+    "entities": [
+      {
+        "text": "France",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Cyril Bos",
+        "label": "PER",
+        "start": 8,
+        "end": 17
+      },
+      {
+        "text": "Philippe Ermenault",
+        "label": "PER",
+        "start": 19,
+        "end": 37
+      },
+      {
+        "text": "Jean-Michel Monin",
+        "label": "PER",
+        "start": 39,
+        "end": 56
+      },
+      {
+        "text": "Francis Moreau",
+        "label": "PER",
+        "start": 58,
+        "end": 72
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 88,
+        "end": 95
+      },
+      {
+        "text": "Guido Fulst",
+        "label": "PER",
+        "start": 97,
+        "end": 108
+      },
+      {
+        "text": "Danilo Hondo",
+        "label": "PER",
+        "start": 110,
+        "end": 122
+      },
+      {
+        "text": "Thorsten Rund",
+        "label": "PER",
+        "start": 124,
+        "end": 137
+      },
+      {
+        "text": "Heiko Szonn",
+        "label": "PER",
+        "start": 139,
+        "end": 150
+      }
+    ]
+  },
+  {
+    "text": "Rebels of the Revolutionary United Front agreed a ceasefire in April.",
+    "entities": [
+      {
+        "text": "Revolutionary United Front",
+        "label": "ORG",
+        "start": 14,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "4 - Kimiko Date (Japan) beat Yone Kamio (Japan) 6-2 7-5",
+    "entities": [
+      {
+        "text": "Kimiko Date",
+        "label": "PER",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "Yone Kamio",
+        "label": "PER",
+        "start": 29,
+        "end": 39
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 41,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "Budget deficit (HUF) Jan-July 102 bln (Jan-June 122 bln)",
+    "entities": []
+  },
+  {
+    "text": "R. Ponting c and b Whittall 53",
+    "entities": [
+      {
+        "text": "R. Ponting",
+        "label": "PER",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Whittall",
+        "label": "PER",
+        "start": 19,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "Guingamp 2 (Wreh 15th, 42nd) Monaco 1 (Scifo 35th).",
+    "entities": [
+      {
+        "text": "Guingamp",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Wreh",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      },
+      {
+        "text": "Monaco",
+        "label": "ORG",
+        "start": 29,
+        "end": 35
+      },
+      {
+        "text": "Scifo",
+        "label": "PER",
+        "start": 39,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "Both will have their impact on Cofinec's figures, the analysts said.",
+    "entities": [
+      {
+        "text": "Cofinec",
+        "label": "ORG",
+        "start": 31,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "text": "BONN 1996-08-28",
+    "entities": [
+      {
+        "text": "BONN",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "In Edinburgh: Hearts (Scotland) 1 Red Star Belgrade",
+    "entities": [
+      {
+        "text": "Edinburgh",
+        "label": "LOC",
+        "start": 3,
+        "end": 12
+      },
+      {
+        "text": "Hearts",
+        "label": "ORG",
+        "start": 14,
+        "end": 20
+      },
+      {
+        "text": "Scotland",
+        "label": "LOC",
+        "start": 22,
+        "end": 30
+      },
+      {
+        "text": "Red Star Belgrade",
+        "label": "ORG",
+        "start": 34,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "Bahia 5 1 1 3 5 8 4",
+    "entities": [
+      {
+        "text": "Bahia",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "A Moscow street vendor stabbed to death a woman judge in a city court on Friday after she fined him the equivalent of seven dollars for trading illegally, Interfax news agency said.",
+    "entities": [
+      {
+        "text": "Moscow",
+        "label": "LOC",
+        "start": 2,
+        "end": 8
+      },
+      {
+        "text": "Interfax",
+        "label": "ORG",
+        "start": 155,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "Only about 100 refugees a week are returning voluntarily to Rwanda in contrast to the 600 babies born in the camps weekly.",
+    "entities": [
+      {
+        "text": "Rwanda",
+        "label": "LOC",
+        "start": 60,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "The Chechens said on Monday they had returned all the weapons, which they said were seized by a renegade group.",
+    "entities": []
+  },
+  {
+    "text": "Sudbury Town 1 Brentford 3",
+    "entities": [
+      {
+        "text": "Sudbury Town",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Brentford",
+        "label": "ORG",
+        "start": 15,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "SATURDAY, DECEMBER 7 SCHEDULE",
+    "entities": []
+  },
+  {
+    "text": "EL PAIS",
+    "entities": [
+      {
+        "text": "EL PAIS",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "WED Imphold YR EPS 172.7 170.4-175.0 115.1",
+    "entities": [
+      {
+        "text": "Imphold",
+        "label": "ORG",
+        "start": 4,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "He said after June general elections in which the ruling three-party coalition lost its parliamentary majority, the ODS executive, led by Prime Minister Vaclav Klaus, had developed proposals on these subjects to present at the congress on Saturday in the Czech second city Brno.",
+    "entities": [
+      {
+        "text": "ODS",
+        "label": "ORG",
+        "start": 116,
+        "end": 119
+      },
+      {
+        "text": "Vaclav Klaus",
+        "label": "PER",
+        "start": 153,
+        "end": 165
+      },
+      {
+        "text": "Czech",
+        "label": "LOC",
+        "start": 255,
+        "end": 260
+      },
+      {
+        "text": "Brno",
+        "label": "LOC",
+        "start": 273,
+        "end": 277
+      }
+    ]
+  },
+  {
+    "text": "Five people died later in hospital.",
+    "entities": []
+  },
+  {
+    "text": "FLORIDA 17 4 6 83 53 40",
+    "entities": [
+      {
+        "text": "FLORIDA",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "RESEARCH ALERT - Royal Oak initiated.",
+    "entities": [
+      {
+        "text": "Royal Oak",
+        "label": "ORG",
+        "start": 17,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "Adam Fedoruk, Dariusz Jackiewicz (both Amica Wronki),",
+    "entities": [
+      {
+        "text": "Adam Fedoruk",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Dariusz Jackiewicz",
+        "label": "PER",
+        "start": 14,
+        "end": 32
+      },
+      {
+        "text": "Amica Wronki",
+        "label": "ORG",
+        "start": 39,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "It would be great to have him here.",
+    "entities": []
+  },
+  {
+    "text": "Linzer ASK 5 0 3 2 4 8 3",
+    "entities": [
+      {
+        "text": "Linzer ASK",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "Whoever wants a big market position in the Midwest has to come in and grab Mercantile or Commerce. \"",
+    "entities": [
+      {
+        "text": "Midwest",
+        "label": "LOC",
+        "start": 43,
+        "end": 50
+      },
+      {
+        "text": "Mercantile",
+        "label": "ORG",
+        "start": 75,
+        "end": 85
+      },
+      {
+        "text": "Commerce",
+        "label": "ORG",
+        "start": 89,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "Atlante 3 2 1 0 6 2 7",
+    "entities": [
+      {
+        "text": "Atlante",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "1. Vadim Sashurin (Belarus) 26 minutes 17.2 seconds (no penalty",
+    "entities": [
+      {
+        "text": "Vadim Sashurin",
+        "label": "PER",
+        "start": 3,
+        "end": 17
+      },
+      {
+        "text": "Belarus",
+        "label": "LOC",
+        "start": 19,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "12. Paul McGinley (Ireland) 208,978",
+    "entities": [
+      {
+        "text": "Paul McGinley",
+        "label": "PER",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "Ireland",
+        "label": "LOC",
+        "start": 19,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "Martin Ayres",
+    "entities": [
+      {
+        "text": "Martin Ayres",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Net foreign debt 14,278.9 14,390.7",
+    "entities": []
+  },
+  {
+    "text": "Livshits's words are an attempt to put pressure on the company. \"",
+    "entities": [
+      {
+        "text": "Livshits",
+        "label": "PER",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "In an interview following its first-half results, which included a less optimistic forecast for the second half of this year than it had made in the past, Sir Colin Hope said T&N had taken defensive action to protect it from patchy markets.",
+    "entities": [
+      {
+        "text": "Colin Hope",
+        "label": "PER",
+        "start": 159,
+        "end": 169
+      },
+      {
+        "text": "T&N",
+        "label": "ORG",
+        "start": 175,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "\" The committee will meet following a complaint by Israel over an incident in which two Lebanese residents were injured by Hizbollah fire in the Sikhin village ...",
+    "entities": [
+      {
+        "text": "Israel",
+        "label": "LOC",
+        "start": 51,
+        "end": 57
+      },
+      {
+        "text": "Hizbollah",
+        "label": "ORG",
+        "start": 123,
+        "end": 132
+      },
+      {
+        "text": "Sikhin",
+        "label": "LOC",
+        "start": 145,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "Sales reported on 200 head steers; 69,100 head confirmed for week to date which includes 14,000 formulated and 3,400 contracted cattle to be shipped this week.",
+    "entities": []
+  },
+  {
+    "text": "Trades were discussed in 0.2, 0.5 and one percent heating oil into Syria and Lebanon and there were fresh inquiries from France and Spain for low sulphur diesel.",
+    "entities": [
+      {
+        "text": "Syria",
+        "label": "LOC",
+        "start": 67,
+        "end": 72
+      },
+      {
+        "text": "Lebanon",
+        "label": "LOC",
+        "start": 77,
+        "end": 84
+      },
+      {
+        "text": "France",
+        "label": "LOC",
+        "start": 121,
+        "end": 127
+      },
+      {
+        "text": "Spain",
+        "label": "LOC",
+        "start": 132,
+        "end": 137
+      }
+    ]
+  },
+  {
+    "text": "A completely new and different mandate will be agreed for next year, \" Ruehe said.",
+    "entities": [
+      {
+        "text": "Ruehe",
+        "label": "PER",
+        "start": 71,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "text": "Captain Paul Prichard plundered 88 from 73 deliveries, hitting 15 fours and one six.",
+    "entities": [
+      {
+        "text": "Paul Prichard",
+        "label": "PER",
+        "start": 8,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "(Sweden), Miles Tunnicliff, Christian Cevaer (France),",
+    "entities": [
+      {
+        "text": "Sweden",
+        "label": "LOC",
+        "start": 1,
+        "end": 7
+      },
+      {
+        "text": "Miles Tunnicliff",
+        "label": "PER",
+        "start": 10,
+        "end": 26
+      },
+      {
+        "text": "Christian Cevaer",
+        "label": "PER",
+        "start": 28,
+        "end": 44
+      },
+      {
+        "text": "France",
+        "label": "LOC",
+        "start": 46,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "He hasn't played any first-team games for Villa this season and he's not the type of player I would have brought on as a substitute, \" McCarthy said. \"",
+    "entities": [
+      {
+        "text": "Villa",
+        "label": "PER",
+        "start": 42,
+        "end": 47
+      },
+      {
+        "text": "McCarthy",
+        "label": "PER",
+        "start": 135,
+        "end": 143
+      }
+    ]
+  },
+  {
+    "text": "FIRST INT PAY 5.",
+    "entities": []
+  },
+  {
+    "text": "The German government hailed the conviction as a major victory in the fight against neo-Nazism.",
+    "entities": []
+  },
+  {
+    "text": "Voting begins in second round of Lebanese election.",
+    "entities": []
+  },
+  {
+    "text": "14-1 Victor Sanchez 12-1 Guillermo",
+    "entities": [
+      {
+        "text": "Victor Sanchez",
+        "label": "PER",
+        "start": 5,
+        "end": 19
+      },
+      {
+        "text": "Guillermo",
+        "label": "PER",
+        "start": 25,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "Their court appearance means they will face trial and possible imprisonment in Britain before their applications for asylum are considered.",
+    "entities": [
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 79,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "text": "U.S. premiums added to LME official cash settlement price, except for copper, which is added to the COMEX spot month.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "LME",
+        "label": "ORG",
+        "start": 23,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "2001 65,000",
+    "entities": []
+  },
+  {
+    "text": "Mokhoff said uncertainty about when Gazprom would issue ADRs and about whether shares from the Russian market could be converted into ADRs had hurt prices.",
+    "entities": [
+      {
+        "text": "Mokhoff",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Gazprom",
+        "label": "ORG",
+        "start": 36,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "BUCHAREST 1996-08-28",
+    "entities": [
+      {
+        "text": "BUCHAREST",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Meanwhile, in Los Angeles, Dole's running mate, Jack Kemp, campaigned aggressively for the black vote in an area that was the flashpoint of the 1992 Los Angeles riots.",
+    "entities": [
+      {
+        "text": "Los Angeles",
+        "label": "LOC",
+        "start": 14,
+        "end": 25
+      },
+      {
+        "text": "Dole",
+        "label": "PER",
+        "start": 27,
+        "end": 31
+      },
+      {
+        "text": "Jack Kemp",
+        "label": "PER",
+        "start": 48,
+        "end": 57
+      },
+      {
+        "text": "Los Angeles",
+        "label": "LOC",
+        "start": 149,
+        "end": 160
+      }
+    ]
+  },
+  {
+    "text": "(5-7) 7-6 (8-6) 1-6 6-2 6-2",
+    "entities": []
+  },
+  {
+    "text": "1. Behle 89",
+    "entities": [
+      {
+        "text": "Behle",
+        "label": "PER",
+        "start": 3,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Attendance: 3,900",
+    "entities": []
+  },
+  {
+    "text": "No-one will argue with that.",
+    "entities": []
+  },
+  {
+    "text": "Division two",
+    "entities": []
+  },
+  {
+    "text": "Karlsruhe 3 2 1 0 9 3 7",
+    "entities": [
+      {
+        "text": "Karlsruhe",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Birmingham 2 1 1 0 5 4 4",
+    "entities": [
+      {
+        "text": "Birmingham",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "South African answers U.S. message in a bottle.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 22,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "Bury 4 3 1 0 8 2 10",
+    "entities": [
+      {
+        "text": "Bury",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "\" After the (Bosnian) elections (on September 14) the troops will start being reduced from the beginning of October from 60,000 to about 20,000.",
+    "entities": []
+  },
+  {
+    "text": "6 - Andre Agassi (U.S.) vs. Mauricio Hadad (Colombia)",
+    "entities": [
+      {
+        "text": "Andre Agassi",
+        "label": "PER",
+        "start": 4,
+        "end": 16
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 18,
+        "end": 22
+      },
+      {
+        "text": "Mauricio Hadad",
+        "label": "PER",
+        "start": 28,
+        "end": 42
+      },
+      {
+        "text": "Colombia",
+        "label": "LOC",
+        "start": 44,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "4. Erik Breukink (Netherlands) Rabobank 8 seconds",
+    "entities": [
+      {
+        "text": "Erik Breukink",
+        "label": "PER",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "Netherlands",
+        "label": "LOC",
+        "start": 18,
+        "end": 29
+      },
+      {
+        "text": "Rabobank",
+        "label": "ORG",
+        "start": 31,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "text": "MOF's Kubo says believes BOJ rate policy unchanged.",
+    "entities": [
+      {
+        "text": "MOF",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Kubo",
+        "label": "PER",
+        "start": 6,
+        "end": 10
+      },
+      {
+        "text": "BOJ",
+        "label": "ORG",
+        "start": 25,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "Alan Mullally 3 5 1 39 24 9.75",
+    "entities": [
+      {
+        "text": "Alan Mullally",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "BERLIN 1996-08-30",
+    "entities": [
+      {
+        "text": "BERLIN",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Final standings (tabulated under played, won, drawn, lost,",
+    "entities": []
+  },
+  {
+    "text": "Net 249.53 vs 242.94",
+    "entities": []
+  },
+  {
+    "text": "\" We expect our cooperation will help both countries towards entering the European Union and NATO, \" Kwasniewski said.",
+    "entities": [
+      {
+        "text": "European Union",
+        "label": "ORG",
+        "start": 74,
+        "end": 88
+      },
+      {
+        "text": "NATO",
+        "label": "ORG",
+        "start": 93,
+        "end": 97
+      },
+      {
+        "text": "Kwasniewski",
+        "label": "PER",
+        "start": 101,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "text": "1993 - Six former Soviet republics, Russia, Belarus, Kazakhstan, Uzbekistan, Armenia and Tajikistan, signed framework agreement to keep the Russian rouble as their common currency.",
+    "entities": [
+      {
+        "text": "Russia",
+        "label": "LOC",
+        "start": 36,
+        "end": 42
+      },
+      {
+        "text": "Belarus",
+        "label": "LOC",
+        "start": 44,
+        "end": 51
+      },
+      {
+        "text": "Kazakhstan",
+        "label": "LOC",
+        "start": 53,
+        "end": 63
+      },
+      {
+        "text": "Uzbekistan",
+        "label": "LOC",
+        "start": 65,
+        "end": 75
+      },
+      {
+        "text": "Armenia",
+        "label": "LOC",
+        "start": 77,
+        "end": 84
+      },
+      {
+        "text": "Tajikistan",
+        "label": "LOC",
+        "start": 89,
+        "end": 99
+      }
+    ]
+  },
+  {
+    "text": "Jackie Frank",
+    "entities": [
+      {
+        "text": "Jackie Frank",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Men's 100 metres:",
+    "entities": []
+  },
+  {
+    "text": "Chicago Cubs outfielder Sammy Sosa had the third-longest streak at 304 games, but that ended earlier this week when he suffered a broken bone in his right hand.",
+    "entities": [
+      {
+        "text": "Chicago Cubs",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Sammy Sosa",
+        "label": "PER",
+        "start": 24,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "CBOT grain / oilseed receipts and shipments.",
+    "entities": [
+      {
+        "text": "CBOT",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "(Jun 26) (Mar 13)",
+    "entities": []
+  },
+  {
+    "text": "* Red Lion Hotels Inc says it's holding merger talks with Doubletree Corp.",
+    "entities": [
+      {
+        "text": "Red Lion Hotels Inc",
+        "label": "ORG",
+        "start": 2,
+        "end": 21
+      },
+      {
+        "text": "Doubletree Corp",
+        "label": "ORG",
+        "start": 58,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "CHICAGO 63 62 .504 3 1/2",
+    "entities": [
+      {
+        "text": "CHICAGO",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Saturday:",
+    "entities": []
+  },
+  {
+    "text": "LONDON 1996-12-06",
+    "entities": [
+      {
+        "text": "LONDON",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "The identity and number of the hijackers was not known.",
+    "entities": []
+  },
+  {
+    "text": "1. Antonella Bellutti (Italy) 3:31.526 (world record)",
+    "entities": [
+      {
+        "text": "Antonella Bellutti",
+        "label": "PER",
+        "start": 3,
+        "end": 21
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 23,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "Raith 15 3 3 9 14 27 12",
+    "entities": [
+      {
+        "text": "Raith",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "Legal challenge to Diana delayed by jail term.",
+    "entities": [
+      {
+        "text": "Diana",
+        "label": "PER",
+        "start": 19,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "Brazil - Giovanni (14th), Marcello Goncalves (55th)",
+    "entities": [
+      {
+        "text": "Brazil",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Giovanni",
+        "label": "PER",
+        "start": 9,
+        "end": 17
+      },
+      {
+        "text": "Marcello Goncalves",
+        "label": "PER",
+        "start": 26,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "from (Patriotic Union of Kurdistan chief) Jalal Talabani, \" Aziz said in a statement carried by the official Iraqi News Agency (INA).",
+    "entities": [
+      {
+        "text": "Patriotic Union of Kurdistan",
+        "label": "ORG",
+        "start": 6,
+        "end": 34
+      },
+      {
+        "text": "Jalal Talabani",
+        "label": "PER",
+        "start": 42,
+        "end": 56
+      },
+      {
+        "text": "Aziz",
+        "label": "PER",
+        "start": 60,
+        "end": 64
+      },
+      {
+        "text": "Iraqi News Agency",
+        "label": "ORG",
+        "start": 109,
+        "end": 126
+      },
+      {
+        "text": "INA",
+        "label": "ORG",
+        "start": 128,
+        "end": 131
+      }
+    ]
+  },
+  {
+    "text": "New Zealand Prime Minister Jim Bolger, emerging from coalition talks with the nationalist New Zealand First party on Friday afternoon, said National and NZ First would meet again on Sunday.",
+    "entities": [
+      {
+        "text": "New Zealand",
+        "label": "LOC",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Jim Bolger",
+        "label": "PER",
+        "start": 27,
+        "end": 37
+      },
+      {
+        "text": "New Zealand First",
+        "label": "ORG",
+        "start": 90,
+        "end": 107
+      },
+      {
+        "text": "National",
+        "label": "ORG",
+        "start": 140,
+        "end": 148
+      },
+      {
+        "text": "NZ First",
+        "label": "ORG",
+        "start": 153,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "Pires, one of the most promising strikers in the country, was called up for the first time this week by French manager Aime Jacquet for a friendly against Mexico on Saturday at the Parc des Princes.",
+    "entities": [
+      {
+        "text": "Pires",
+        "label": "PER",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Aime Jacquet",
+        "label": "PER",
+        "start": 119,
+        "end": 131
+      },
+      {
+        "text": "Mexico",
+        "label": "LOC",
+        "start": 155,
+        "end": 161
+      },
+      {
+        "text": "Parc des Princes",
+        "label": "LOC",
+        "start": 181,
+        "end": 197
+      }
+    ]
+  }
+]

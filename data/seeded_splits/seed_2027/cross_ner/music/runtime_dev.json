@@ -1,0 +1,1997 @@
+[
+  {
+    "text": "At the 2014 Brit Awards on 19 February, Bowie became the oldest recipient of a Brit Awards in the ceremony's history when he won the award for Brit Award for British Male Solo Artist, which was collected on his behalf by Kate Moss.",
+    "entities": [
+      {
+        "text": "2014 Brit Awards",
+        "label": "award",
+        "start": 7,
+        "end": 23
+      },
+      {
+        "text": "Bowie",
+        "label": "musicalartist",
+        "start": 40,
+        "end": 45
+      },
+      {
+        "text": "Brit Awards",
+        "label": "award",
+        "start": 79,
+        "end": 90
+      },
+      {
+        "text": "Brit Award for British Male Solo Artist",
+        "label": "award",
+        "start": 143,
+        "end": 182
+      }
+    ]
+  },
+  {
+    "text": "Steel-string guitars are also important in the world of flatpicking, as utilized by such artists as Clarence White, Tony Rice, Bryan Sutton, Doc Watson and David Grier.",
+    "entities": [
+      {
+        "text": "Clarence White",
+        "label": "musicalartist",
+        "start": 100,
+        "end": 114
+      },
+      {
+        "text": "Tony Rice",
+        "label": "musicalartist",
+        "start": 116,
+        "end": 125
+      },
+      {
+        "text": "Bryan Sutton",
+        "label": "musicalartist",
+        "start": 127,
+        "end": 139
+      },
+      {
+        "text": "Doc Watson",
+        "label": "musicalartist",
+        "start": 141,
+        "end": 151
+      },
+      {
+        "text": "David Grier",
+        "label": "musicalartist",
+        "start": 156,
+        "end": 167
+      }
+    ]
+  },
+  {
+    "text": "Thumrī is also used as a generic name for some other, even lighter, forms such as Dadra, Hori, Kajari, Sawani, Jhoola, and Chaiti, even though each of them has its own structure and content - either lyrical or musical or both - and so the exposition of these forms vary.",
+    "entities": [
+      {
+        "text": "Thumrī",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Dadra",
+        "label": "musicgenre",
+        "start": 82,
+        "end": 87
+      },
+      {
+        "text": "Hori",
+        "label": "musicgenre",
+        "start": 89,
+        "end": 93
+      },
+      {
+        "text": "Kajari",
+        "label": "musicgenre",
+        "start": 95,
+        "end": 101
+      },
+      {
+        "text": "Sawani",
+        "label": "musicgenre",
+        "start": 103,
+        "end": 109
+      },
+      {
+        "text": "Jhoola",
+        "label": "musicgenre",
+        "start": 111,
+        "end": 117
+      },
+      {
+        "text": "Chaiti",
+        "label": "musicgenre",
+        "start": 123,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "Parsons acted as Assistant Engineer on the Beatles ' albums Abbey Road (1969) and Let It Be (1970), engineered Pink Floyd ' s The Dark Side of the Moon (1973), and produced several acts for EMI Records.",
+    "entities": [
+      {
+        "text": "the Beatles",
+        "label": "band",
+        "start": 39,
+        "end": 50
+      },
+      {
+        "text": "Abbey Road",
+        "label": "album",
+        "start": 60,
+        "end": 70
+      },
+      {
+        "text": "Let It Be",
+        "label": "album",
+        "start": 82,
+        "end": 91
+      },
+      {
+        "text": "Pink Floyd",
+        "label": "band",
+        "start": 111,
+        "end": 121
+      },
+      {
+        "text": "The Dark Side of the Moon",
+        "label": "album",
+        "start": 126,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "Focusing on live performance in Scandinavia, Rednex appeared at the 2005 World Championships in Athletics IAAF World Championships in Athletics, in Helsinki.",
+    "entities": [
+      {
+        "text": "Rednex",
+        "label": "band",
+        "start": 45,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "Folsom Field is also used as the finish line for the Bolder Boulder, a popular 10K run.",
+    "entities": []
+  },
+  {
+    "text": "Other artists featured on the show include Michael Jackson, Barry White, Al Green, Tina Turner, Macy Gray, Gloria Gaynor, Chayanne, Barry Manilow, Anastacia, Elton John, Sting and Mariah Carey.",
+    "entities": [
+      {
+        "text": "Michael Jackson",
+        "label": "musicalartist",
+        "start": 43,
+        "end": 58
+      },
+      {
+        "text": "Barry White",
+        "label": "musicalartist",
+        "start": 60,
+        "end": 71
+      },
+      {
+        "text": "Al Green",
+        "label": "musicalartist",
+        "start": 73,
+        "end": 81
+      },
+      {
+        "text": "Tina Turner",
+        "label": "musicalartist",
+        "start": 83,
+        "end": 94
+      },
+      {
+        "text": "Macy Gray",
+        "label": "musicalartist",
+        "start": 96,
+        "end": 105
+      },
+      {
+        "text": "Gloria Gaynor",
+        "label": "musicalartist",
+        "start": 107,
+        "end": 120
+      },
+      {
+        "text": "Chayanne",
+        "label": "musicalartist",
+        "start": 122,
+        "end": 130
+      },
+      {
+        "text": "Barry Manilow",
+        "label": "musicalartist",
+        "start": 132,
+        "end": 145
+      },
+      {
+        "text": "Anastacia",
+        "label": "musicalartist",
+        "start": 147,
+        "end": 156
+      },
+      {
+        "text": "Elton John",
+        "label": "musicalartist",
+        "start": 158,
+        "end": 168
+      },
+      {
+        "text": "Sting",
+        "label": "musicalartist",
+        "start": 170,
+        "end": 175
+      },
+      {
+        "text": "Mariah Carey",
+        "label": "musicalartist",
+        "start": 180,
+        "end": 192
+      }
+    ]
+  },
+  {
+    "text": "The album downplayed the disco style and was inspired by 1980s artists such as Scritti Politti, The Human League, Adam and the Ants and Prince, blending their styles with elements of hip hop.",
+    "entities": [
+      {
+        "text": "disco",
+        "label": "musicgenre",
+        "start": 25,
+        "end": 30
+      },
+      {
+        "text": "Scritti Politti",
+        "label": "band",
+        "start": 79,
+        "end": 94
+      },
+      {
+        "text": "The Human League",
+        "label": "band",
+        "start": 96,
+        "end": 112
+      },
+      {
+        "text": "Adam and the Ants",
+        "label": "band",
+        "start": 114,
+        "end": 131
+      },
+      {
+        "text": "Prince",
+        "label": "band",
+        "start": 136,
+        "end": 142
+      },
+      {
+        "text": "hip hop",
+        "label": "musicgenre",
+        "start": 183,
+        "end": 190
+      }
+    ]
+  },
+  {
+    "text": "Since then the band have released five albums: In It for the Money (1997), Supergrass (1999), Life on Other Planets (2002), Road to Rouen (2005) and Diamond Hoo Ha (2008), as well as a decade-ending compilation called Supergrass Is 10 (2004).",
+    "entities": [
+      {
+        "text": "In It for the Money",
+        "label": "album",
+        "start": 47,
+        "end": 66
+      },
+      {
+        "text": "Supergrass",
+        "label": "album",
+        "start": 75,
+        "end": 85
+      },
+      {
+        "text": "Life on Other Planets",
+        "label": "album",
+        "start": 94,
+        "end": 115
+      },
+      {
+        "text": "Road to Rouen",
+        "label": "album",
+        "start": 124,
+        "end": 137
+      },
+      {
+        "text": "Diamond Hoo Ha",
+        "label": "album",
+        "start": 149,
+        "end": 163
+      },
+      {
+        "text": "Supergrass Is 10",
+        "label": "album",
+        "start": 218,
+        "end": 234
+      }
+    ]
+  },
+  {
+    "text": "The conductors with whom she has worked include Pierre Boulez, Sir Simon Rattle, Sir Colin Davis, Michael Tilson Thomas, and Valery Gergiev, and she has appeared in many of the world's greatest venues, including the Wigmore Hall, Southbank Centre and the Barbican Centre in London, Sydney Opera House, New York's Lincoln Center, Leipzig Gewandhaus, the Concertgebouw in Amsterdam and the Mozarteum in Salzburg.",
+    "entities": [
+      {
+        "text": "Pierre Boulez",
+        "label": "musicalartist",
+        "start": 48,
+        "end": 61
+      },
+      {
+        "text": "Simon Rattle",
+        "label": "musicalartist",
+        "start": 67,
+        "end": 79
+      },
+      {
+        "text": "Colin Davis",
+        "label": "musicalartist",
+        "start": 85,
+        "end": 96
+      },
+      {
+        "text": "Michael Tilson Thomas",
+        "label": "musicalartist",
+        "start": 98,
+        "end": 119
+      },
+      {
+        "text": "Valery Gergiev",
+        "label": "musicalartist",
+        "start": 125,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "text": "Well-known disco artists include Donna Summer, Gloria Gaynor, the Bee Gees, Chic, KC and the Sunshine Band, Thelma Houston, Sister Sledge, The Trammps, the Village People and Michael Jackson.",
+    "entities": [
+      {
+        "text": "disco",
+        "label": "musicgenre",
+        "start": 11,
+        "end": 16
+      },
+      {
+        "text": "Donna Summer",
+        "label": "musicalartist",
+        "start": 33,
+        "end": 45
+      },
+      {
+        "text": "Gloria Gaynor",
+        "label": "musicalartist",
+        "start": 47,
+        "end": 60
+      },
+      {
+        "text": "Bee Gees",
+        "label": "band",
+        "start": 66,
+        "end": 74
+      },
+      {
+        "text": "Chic",
+        "label": "band",
+        "start": 76,
+        "end": 80
+      },
+      {
+        "text": "KC and the Sunshine Band",
+        "label": "band",
+        "start": 82,
+        "end": 106
+      },
+      {
+        "text": "Thelma Houston",
+        "label": "musicalartist",
+        "start": 108,
+        "end": 122
+      },
+      {
+        "text": "Sister Sledge",
+        "label": "band",
+        "start": 124,
+        "end": 137
+      },
+      {
+        "text": "The Trammps",
+        "label": "band",
+        "start": 139,
+        "end": 150
+      },
+      {
+        "text": "Village People",
+        "label": "band",
+        "start": 156,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "Kraftwerk's musical style and image can be heard and seen in 1980s synthpop groups such as Gary Numan, Ultravox, John Foxx, Orchestral Manoeuvres in the Dark, Human League, Depeche Mode, Visage, and Soft Cell.",
+    "entities": [
+      {
+        "text": "Kraftwerk",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "synthpop",
+        "label": "musicgenre",
+        "start": 67,
+        "end": 75
+      },
+      {
+        "text": "Gary Numan",
+        "label": "musicalartist",
+        "start": 91,
+        "end": 101
+      },
+      {
+        "text": "Ultravox",
+        "label": "band",
+        "start": 103,
+        "end": 111
+      },
+      {
+        "text": "John Foxx",
+        "label": "musicalartist",
+        "start": 113,
+        "end": 122
+      },
+      {
+        "text": "Orchestral Manoeuvres in the Dark",
+        "label": "band",
+        "start": 124,
+        "end": 157
+      },
+      {
+        "text": "Human League",
+        "label": "band",
+        "start": 159,
+        "end": 171
+      },
+      {
+        "text": "Depeche Mode",
+        "label": "band",
+        "start": 173,
+        "end": 185
+      },
+      {
+        "text": "Visage",
+        "label": "band",
+        "start": 187,
+        "end": 193
+      },
+      {
+        "text": "Soft Cell",
+        "label": "band",
+        "start": 199,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "The Stone Roses ' influences included garage rock, electronic dance music, Krautrock, Northern soul, punk rock, reggae, Soul music and artists such as the Beatles,",
+    "entities": [
+      {
+        "text": "The Stone Roses",
+        "label": "band",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "garage rock",
+        "label": "musicgenre",
+        "start": 38,
+        "end": 49
+      },
+      {
+        "text": "electronic dance music",
+        "label": "musicgenre",
+        "start": 51,
+        "end": 73
+      },
+      {
+        "text": "Krautrock",
+        "label": "musicgenre",
+        "start": 75,
+        "end": 84
+      },
+      {
+        "text": "Northern soul",
+        "label": "musicgenre",
+        "start": 86,
+        "end": 99
+      },
+      {
+        "text": "punk rock",
+        "label": "musicgenre",
+        "start": 101,
+        "end": 110
+      },
+      {
+        "text": "reggae",
+        "label": "musicgenre",
+        "start": 112,
+        "end": 118
+      },
+      {
+        "text": "Soul music",
+        "label": "musicgenre",
+        "start": 120,
+        "end": 130
+      },
+      {
+        "text": "the Beatles",
+        "label": "band",
+        "start": 151,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "text": "Andrews has won an Academy Award, a BAFTA, five Golden Globes, three Grammy Award, two Emmy Award, the AFI Life Achievement Award, the Screen Actors Guild Life Achievement Award, the Kennedy Center Honors Award, and the Disney Legends Award.",
+    "entities": [
+      {
+        "text": "Academy Award",
+        "label": "award",
+        "start": 19,
+        "end": 32
+      },
+      {
+        "text": "BAFTA",
+        "label": "award",
+        "start": 36,
+        "end": 41
+      },
+      {
+        "text": "Golden Globes",
+        "label": "award",
+        "start": 48,
+        "end": 61
+      },
+      {
+        "text": "Grammy Award",
+        "label": "award",
+        "start": 69,
+        "end": 81
+      },
+      {
+        "text": "Emmy Award",
+        "label": "award",
+        "start": 87,
+        "end": 97
+      },
+      {
+        "text": "AFI Life Achievement Award",
+        "label": "award",
+        "start": 103,
+        "end": 129
+      },
+      {
+        "text": "Screen Actors Guild Life Achievement Award",
+        "label": "award",
+        "start": 135,
+        "end": 177
+      },
+      {
+        "text": "Kennedy Center Honors Award",
+        "label": "award",
+        "start": 183,
+        "end": 210
+      },
+      {
+        "text": "Disney Legends Award",
+        "label": "award",
+        "start": 220,
+        "end": 240
+      }
+    ]
+  },
+  {
+    "text": "69-70. with hundreds of performances each year throughout the world in venues including Carnegie Hall, Lincoln Center, Kennedy Center, Walt Disney Concert Hall, Vatican City, Sydney Opera House and Westminster Abbey.",
+    "entities": []
+  },
+  {
+    "text": "For the 2000 World Junior Championships in Athletics, the installation of individual seats was required, which reduced capacity to 66,000 spectators.",
+    "entities": []
+  },
+  {
+    "text": "This was the instrument of the early jazz great Johnny St. Cyr, jazzmen Django Reinhardt, Danny Barker, Papa Charlie Jackson and Clancy Hayes, as well as the blues and gospel singer The Reverend Gary Davis.",
+    "entities": [
+      {
+        "text": "jazz",
+        "label": "musicgenre",
+        "start": 37,
+        "end": 41
+      },
+      {
+        "text": "Johnny St. Cyr",
+        "label": "musicalartist",
+        "start": 48,
+        "end": 62
+      },
+      {
+        "text": "Django Reinhardt",
+        "label": "musicalartist",
+        "start": 72,
+        "end": 88
+      },
+      {
+        "text": "Danny Barker",
+        "label": "musicalartist",
+        "start": 90,
+        "end": 102
+      },
+      {
+        "text": "Papa Charlie Jackson",
+        "label": "musicalartist",
+        "start": 104,
+        "end": 124
+      },
+      {
+        "text": "Clancy Hayes",
+        "label": "musicalartist",
+        "start": 129,
+        "end": 141
+      },
+      {
+        "text": "blues",
+        "label": "musicgenre",
+        "start": 158,
+        "end": 163
+      },
+      {
+        "text": "gospel",
+        "label": "musicgenre",
+        "start": 168,
+        "end": 174
+      },
+      {
+        "text": "Reverend Gary Davis",
+        "label": "musicalartist",
+        "start": 186,
+        "end": 205
+      }
+    ]
+  },
+  {
+    "text": "The subsequent albums The Clones of Dr. Funkenstein (1976), Funkentelechy vs. the Placebo Syndrome (1977), and Motor Booty Affair (1978) all reached high on both the R & amp; B and Pop charts, while Funkadelic was also experiencing significant mainstream success.",
+    "entities": [
+      {
+        "text": "The Clones of Dr. Funkenstein",
+        "label": "album",
+        "start": 22,
+        "end": 51
+      },
+      {
+        "text": "Funkentelechy vs. the Placebo Syndrome",
+        "label": "album",
+        "start": 60,
+        "end": 98
+      },
+      {
+        "text": "Motor Booty Affair",
+        "label": "album",
+        "start": 111,
+        "end": 129
+      },
+      {
+        "text": "R & amp; B",
+        "label": "musicgenre",
+        "start": 166,
+        "end": 176
+      },
+      {
+        "text": "Pop",
+        "label": "musicgenre",
+        "start": 181,
+        "end": 184
+      },
+      {
+        "text": "Funkadelic",
+        "label": "band",
+        "start": 199,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "It contained what would become Brooks ' signature song, the blue collar anthem Friends in Low Places, as well as other popular singles, The Thunder Rolls and Unanswered Prayers.",
+    "entities": [
+      {
+        "text": "Brooks",
+        "label": "musicalartist",
+        "start": 31,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "text": "Her music has been heard at the Brooklyn Academy of Music, the Sydney Olympic Arts Festival, Settembre Musica (Italy), Théâtre de la Ville (Paris), Lincoln Center for the Performing Arts, and Carnegie Hall, and has been recorded on Cantaloupe Music, Teldec, Point / Universal, Sony Classical Records, and Argo / Decca.",
+    "entities": []
+  },
+  {
+    "text": "Today, musicians as diverse as Keith Urban, Rod Stewart, Taj Mahal, Joe Satriani, David Hidalgo, Larry Lalonde and Doc Watson play the six-string guitar banjo.",
+    "entities": [
+      {
+        "text": "Keith Urban",
+        "label": "musicalartist",
+        "start": 31,
+        "end": 42
+      },
+      {
+        "text": "Rod Stewart",
+        "label": "musicalartist",
+        "start": 44,
+        "end": 55
+      },
+      {
+        "text": "Taj Mahal",
+        "label": "musicalartist",
+        "start": 57,
+        "end": 66
+      },
+      {
+        "text": "Joe Satriani",
+        "label": "musicalartist",
+        "start": 68,
+        "end": 80
+      },
+      {
+        "text": "David Hidalgo",
+        "label": "musicalartist",
+        "start": 82,
+        "end": 95
+      },
+      {
+        "text": "Larry Lalonde",
+        "label": "musicalartist",
+        "start": 97,
+        "end": 110
+      },
+      {
+        "text": "Doc Watson",
+        "label": "musicalartist",
+        "start": 115,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "The stadium will be the opening and closing ceremonies, athletics, and football venue for the 2014 South American Games and the 2023 Pan American Games.",
+    "entities": []
+  },
+  {
+    "text": "Today there are Celtic-influenced subgenres of virtually every type of popular music including electronica, Celtic rock, Celtic metal, Celtic punk, Hip hop music, reggae, New-age music, Latin, Andean and Pop music.",
+    "entities": [
+      {
+        "text": "electronica",
+        "label": "musicgenre",
+        "start": 95,
+        "end": 106
+      },
+      {
+        "text": "Celtic rock",
+        "label": "musicgenre",
+        "start": 108,
+        "end": 119
+      },
+      {
+        "text": "Celtic metal",
+        "label": "musicgenre",
+        "start": 121,
+        "end": 133
+      },
+      {
+        "text": "Celtic punk",
+        "label": "musicgenre",
+        "start": 135,
+        "end": 146
+      },
+      {
+        "text": "Hip hop music",
+        "label": "musicgenre",
+        "start": 148,
+        "end": 161
+      },
+      {
+        "text": "reggae",
+        "label": "musicgenre",
+        "start": 163,
+        "end": 169
+      },
+      {
+        "text": "New-age music",
+        "label": "musicgenre",
+        "start": 171,
+        "end": 184
+      },
+      {
+        "text": "Latin",
+        "label": "musicgenre",
+        "start": 186,
+        "end": 191
+      },
+      {
+        "text": "Andean",
+        "label": "musicgenre",
+        "start": 193,
+        "end": 199
+      },
+      {
+        "text": "Pop music",
+        "label": "musicgenre",
+        "start": 204,
+        "end": 213
+      }
+    ]
+  },
+  {
+    "text": "Dion's music has been influenced by genres ranging from rock and Rhythm and blues to Gospel music and classical.",
+    "entities": [
+      {
+        "text": "Dion",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Rhythm and blues",
+        "label": "musicgenre",
+        "start": 65,
+        "end": 81
+      },
+      {
+        "text": "Gospel music",
+        "label": "musicgenre",
+        "start": 85,
+        "end": 97
+      },
+      {
+        "text": "classical",
+        "label": "musicgenre",
+        "start": 102,
+        "end": 111
+      }
+    ]
+  },
+  {
+    "text": "Dave Bush joined on keyboards for 1992's Code: Selfish, followed by the band's return to an independent record label for The Infotainment Scan (1993), Middle Class Revolt (1994), and Cerebral Caustic (1995).",
+    "entities": [
+      {
+        "text": "Dave Bush",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Code: Selfish",
+        "label": "album",
+        "start": 41,
+        "end": 54
+      },
+      {
+        "text": "The Infotainment Scan",
+        "label": "album",
+        "start": 121,
+        "end": 142
+      },
+      {
+        "text": "Middle Class Revolt",
+        "label": "album",
+        "start": 151,
+        "end": 170
+      },
+      {
+        "text": "Cerebral Caustic",
+        "label": "album",
+        "start": 183,
+        "end": 199
+      }
+    ]
+  },
+  {
+    "text": "She rose to stardom in the romantic comedy Roman Holiday (1953), alongside Gregory Peck, for which she was the first actress to win an Academy Awards, a Golden Globe Awards, and a British Academy Film Awards for a single performance.",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 135,
+        "end": 149
+      },
+      {
+        "text": "Golden Globe Awards",
+        "label": "award",
+        "start": 153,
+        "end": 172
+      },
+      {
+        "text": "British Academy Film Awards",
+        "label": "award",
+        "start": 180,
+        "end": 207
+      }
+    ]
+  },
+  {
+    "text": "Hathaway currently serves on the board of the Lollipop Theatre Network and is involved with charities Creative Coalition, St. Jude Children's Research Hospital and the Human Rights Campaign.",
+    "entities": []
+  },
+  {
+    "text": "Four singles - Until It Sleeps, Hero of the Day, Mama Said, and King Nothing - were released as part of the marketing campaign for the album.",
+    "entities": []
+  },
+  {
+    "text": "For his work in the Western film Unforgiven (1992) and the sports drama Million Dollar Baby (2004), Eastwood won Academy Awards for Academy Award for Best Director and Academy Award for Best Picture, as well as receiving nominations for Academy Award for Best Actor.",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 113,
+        "end": 127
+      },
+      {
+        "text": "Academy Award for Best Director",
+        "label": "award",
+        "start": 132,
+        "end": 163
+      },
+      {
+        "text": "Academy Award for Best Picture",
+        "label": "award",
+        "start": 168,
+        "end": 198
+      },
+      {
+        "text": "Academy Award for Best Actor",
+        "label": "award",
+        "start": 237,
+        "end": 265
+      }
+    ]
+  },
+  {
+    "text": "She rose to fame portraying Jamie Buchman in the sitcom Mad About You (1992-1999, 2019-present), for which she won three Golden Globe Awards for Best Actress in a Television Series - Musical or Comedy and four Emmy Award s Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series.",
+    "entities": [
+      {
+        "text": "Golden Globe Awards for Best Actress in a Television Series - Musical or Comedy",
+        "label": "award",
+        "start": 121,
+        "end": 200
+      },
+      {
+        "text": "Emmy Award s",
+        "label": "award",
+        "start": 210,
+        "end": 222
+      },
+      {
+        "text": "Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series",
+        "label": "award",
+        "start": 223,
+        "end": 291
+      }
+    ]
+  },
+  {
+    "text": "Chuck Burgi (1991-1992, 1992-1995, 1996-1997), John Miceli (1992, 1995), John O 'Reilly (1995-1996) and Bobby Rondinelli (1997-2004).",
+    "entities": [
+      {
+        "text": "Chuck Burgi",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "John Miceli",
+        "label": "musicalartist",
+        "start": 47,
+        "end": 58
+      },
+      {
+        "text": "John O 'Reilly",
+        "label": "musicalartist",
+        "start": 73,
+        "end": 87
+      },
+      {
+        "text": "Bobby Rondinelli",
+        "label": "musicalartist",
+        "start": 104,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "Other songs from 2015 like I Don 't Like It, I Love It by Flo Rida, Adventure of a Lifetime by Coldplay, Back Together by Robin Thicke and Levels by Nick Jonas feature disco elements as well.",
+    "entities": [
+      {
+        "text": "Flo Rida",
+        "label": "musicalartist",
+        "start": 58,
+        "end": 66
+      },
+      {
+        "text": "Coldplay",
+        "label": "band",
+        "start": 95,
+        "end": 103
+      },
+      {
+        "text": "Robin Thicke",
+        "label": "musicalartist",
+        "start": 122,
+        "end": 134
+      },
+      {
+        "text": "Nick Jonas",
+        "label": "musicalartist",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "disco",
+        "label": "musicgenre",
+        "start": 168,
+        "end": 173
+      }
+    ]
+  },
+  {
+    "text": "The Righteous Brothers, Bobby Hatfield and Bill Medley, also guest-starred in different episodes.",
+    "entities": [
+      {
+        "text": "The Righteous Brothers",
+        "label": "band",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "Bobby Hatfield",
+        "label": "musicalartist",
+        "start": 24,
+        "end": 38
+      },
+      {
+        "text": "Bill Medley",
+        "label": "musicalartist",
+        "start": 43,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "Notable Sun Ra albums from the 1950s include Sun Ra Visits Planet Earth, Interstellar Low Ways, Super-Sonic Jazz, We Travel the Space Ways, The Nubians of Plutonia and Jazz In Silhouette.",
+    "entities": [
+      {
+        "text": "Sun Ra",
+        "label": "musicalartist",
+        "start": 8,
+        "end": 14
+      },
+      {
+        "text": "Sun Ra Visits Planet Earth",
+        "label": "album",
+        "start": 45,
+        "end": 71
+      },
+      {
+        "text": "Interstellar Low Ways",
+        "label": "album",
+        "start": 73,
+        "end": 94
+      },
+      {
+        "text": "Super-Sonic Jazz",
+        "label": "album",
+        "start": 96,
+        "end": 112
+      },
+      {
+        "text": "We Travel the Space Ways",
+        "label": "album",
+        "start": 114,
+        "end": 138
+      },
+      {
+        "text": "The Nubians of Plutonia",
+        "label": "album",
+        "start": 140,
+        "end": 163
+      },
+      {
+        "text": "Jazz In Silhouette",
+        "label": "album",
+        "start": 168,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "text": "Baron Cohen was named Best Newcomer at the 1999 British Comedy Awards for The 11 O 'Clock Show, and since then, he has received two British Academy of Film and Television Arts Awards for Da Ali G Show, several Emmy nominations, a nomination for an Academy Award for Best Adapted Screenplay, and a Golden Globe for Best Actor for his work in the feature film Borat.",
+    "entities": [
+      {
+        "text": "Best Newcomer at the 1999 British Comedy Awards",
+        "label": "award",
+        "start": 22,
+        "end": 69
+      },
+      {
+        "text": "British Academy of Film and Television Arts Awards",
+        "label": "award",
+        "start": 132,
+        "end": 182
+      },
+      {
+        "text": "Emmy",
+        "label": "award",
+        "start": 210,
+        "end": 214
+      },
+      {
+        "text": "Academy Award for Best Adapted Screenplay",
+        "label": "award",
+        "start": 248,
+        "end": 289
+      },
+      {
+        "text": "Golden Globe for Best Actor",
+        "label": "award",
+        "start": 297,
+        "end": 324
+      }
+    ]
+  },
+  {
+    "text": "Gilmour has supported charities including Oxfam, the European Union Mental Health and Illness Association, Greenpeace, Amnesty International,",
+    "entities": [
+      {
+        "text": "Gilmour",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Rohani was commissioned in 1998 by the government of Thailand and the committee of the 1998 Asian Games to compose and conduct the music for opening ceremonies.",
+    "entities": []
+  },
+  {
+    "text": "Larner had previously played koto with John Fahey, Jim O 'Rourke, and members of indie rock groups including Camper Van Beethoven, Deerhoof, Jackie O Motherfucker, and Mr. Bungle.",
+    "entities": [
+      {
+        "text": "Larner",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "John Fahey",
+        "label": "musicalartist",
+        "start": 39,
+        "end": 49
+      },
+      {
+        "text": "Jim O 'Rourke",
+        "label": "musicalartist",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "rock",
+        "label": "musicgenre",
+        "start": 87,
+        "end": 91
+      },
+      {
+        "text": "Camper Van Beethoven",
+        "label": "band",
+        "start": 109,
+        "end": 129
+      },
+      {
+        "text": "Deerhoof",
+        "label": "band",
+        "start": 131,
+        "end": 139
+      },
+      {
+        "text": "Jackie O Motherfucker",
+        "label": "band",
+        "start": 141,
+        "end": 162
+      },
+      {
+        "text": "Mr. Bungle",
+        "label": "band",
+        "start": 168,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "The film was a success, securing three Oscar nominations, including Academy Award for Best Picture, Academy Award for Best Sound Mixing and Academy Award for Best Supporting Actor for Lemmon, who won.",
+    "entities": [
+      {
+        "text": "Oscar",
+        "label": "award",
+        "start": 39,
+        "end": 44
+      },
+      {
+        "text": "Academy Award for Best Picture",
+        "label": "award",
+        "start": 68,
+        "end": 98
+      },
+      {
+        "text": "Academy Award for Best Sound Mixing",
+        "label": "award",
+        "start": 100,
+        "end": 135
+      },
+      {
+        "text": "Academy Award for Best Supporting Actor",
+        "label": "award",
+        "start": 140,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "text": "Grunge began as a mixture of Heavy metal music, punk rock and indie rock in the 1980s and gained mainstream prominence in the early 1990s.",
+    "entities": [
+      {
+        "text": "Grunge",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Heavy metal music",
+        "label": "musicgenre",
+        "start": 29,
+        "end": 46
+      },
+      {
+        "text": "punk rock",
+        "label": "musicgenre",
+        "start": 48,
+        "end": 57
+      },
+      {
+        "text": "indie rock",
+        "label": "musicgenre",
+        "start": 62,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "text": "She later released a CD on Righteous Babe of the concert Til We Outnumber Em featuring artists such as DiFranco, Billy Bragg, Ramblin ' Jack Elliott, Arlo Guthrie, Indigo Girls, Dave Pirner, Tim Robbins, and Bruce Springsteen with 100 percent of proceeds going to the Woody Guthrie Foundation and Archives and the Rock and Roll Hall of Fame Museum educational department.",
+    "entities": [
+      {
+        "text": "Til We Outnumber Em",
+        "label": "album",
+        "start": 57,
+        "end": 76
+      },
+      {
+        "text": "DiFranco",
+        "label": "musicalartist",
+        "start": 103,
+        "end": 111
+      },
+      {
+        "text": "Billy Bragg",
+        "label": "musicalartist",
+        "start": 113,
+        "end": 124
+      },
+      {
+        "text": "Ramblin ' Jack Elliott",
+        "label": "musicalartist",
+        "start": 126,
+        "end": 148
+      },
+      {
+        "text": "Arlo Guthrie",
+        "label": "musicalartist",
+        "start": 150,
+        "end": 162
+      },
+      {
+        "text": "Indigo Girls",
+        "label": "band",
+        "start": 164,
+        "end": 176
+      },
+      {
+        "text": "Dave Pirner",
+        "label": "musicalartist",
+        "start": 178,
+        "end": 189
+      },
+      {
+        "text": "Tim Robbins",
+        "label": "musicalartist",
+        "start": 191,
+        "end": 202
+      },
+      {
+        "text": "Bruce Springsteen",
+        "label": "musicalartist",
+        "start": 208,
+        "end": 225
+      }
+    ]
+  },
+  {
+    "text": "He has performed at venues including Lincoln Center, Carnegie Hall, CBGB ' s and Madison Square Garden.",
+    "entities": []
+  },
+  {
+    "text": "Also in 1993, the band contributed the track It's the New Style (with DJ Hurricane) to the AIDS benefit album No Alternative, produced by the Red Hot Organization.",
+    "entities": [
+      {
+        "text": "DJ Hurricane",
+        "label": "musicalartist",
+        "start": 70,
+        "end": 82
+      },
+      {
+        "text": "No Alternative",
+        "label": "album",
+        "start": 110,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "It won three Academy Awards, including Academy Award for Best Picture for producer Hunt Stromberg, Academy Award for Best Actress for Luise Rainer, and Best Dance Direction for Seymour Felix, and was nominated for four others.",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 13,
+        "end": 27
+      },
+      {
+        "text": "Academy Award for Best Picture",
+        "label": "award",
+        "start": 39,
+        "end": 69
+      },
+      {
+        "text": "Academy Award for Best Actress",
+        "label": "award",
+        "start": 99,
+        "end": 129
+      },
+      {
+        "text": "Best Dance Direction",
+        "label": "award",
+        "start": 152,
+        "end": 172
+      }
+    ]
+  },
+  {
+    "text": "Further nominations at the 46th Academy Awards included Academy Award for Best Director (George Lucas), Best Original Screenplay (Lucas, Willard Huyck and Gloria Katz), Academy Award for Best Supporting Actress (Candy Clark) and Academy Award for Best Film Editing (Verna Fields and Marcia Lucas).",
+    "entities": [
+      {
+        "text": "46th Academy Awards",
+        "label": "award",
+        "start": 27,
+        "end": 46
+      },
+      {
+        "text": "Academy Award for Best Director",
+        "label": "award",
+        "start": 56,
+        "end": 87
+      },
+      {
+        "text": "Best Original Screenplay",
+        "label": "award",
+        "start": 104,
+        "end": 128
+      },
+      {
+        "text": "Academy Award for Best Supporting Actress",
+        "label": "award",
+        "start": 169,
+        "end": 210
+      },
+      {
+        "text": "Academy Award for Best Film Editing",
+        "label": "award",
+        "start": 229,
+        "end": 264
+      }
+    ]
+  },
+  {
+    "text": "The success of this performance lead to them embarking on a string of other live performances in 2009 and 2010, selling out prestigious venues, such as the Queen Elizabeth Hall in London, Volksbühne in Berlin and La Cigale in Paris before they returned to their homeland for their performance at The Norwegian Opera House.",
+    "entities": [
+      {
+        "text": "Berlin",
+        "label": "band",
+        "start": 202,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "In the late 1950s, a new blues style emerged on Chicago's West Side pioneered by Magic Sam, Buddy Guy and Otis Rush on Cobra Records.",
+    "entities": [
+      {
+        "text": "blues style",
+        "label": "musicgenre",
+        "start": 25,
+        "end": 36
+      },
+      {
+        "text": "Magic Sam",
+        "label": "musicalartist",
+        "start": 81,
+        "end": 90
+      },
+      {
+        "text": "Buddy Guy",
+        "label": "musicalartist",
+        "start": 92,
+        "end": 101
+      },
+      {
+        "text": "Otis Rush",
+        "label": "musicalartist",
+        "start": 106,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "text": "Electropop pioneers Haruomi Hosono and Ryuichi Sakamoto of the Yellow Magic Orchestra produced a 1978 Electronic music album, Cochin Moon, based on an experimental fusion of electronic music and Bollywood-inspired Indian music.",
+    "entities": [
+      {
+        "text": "Electropop",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Haruomi Hosono",
+        "label": "musicalartist",
+        "start": 20,
+        "end": 34
+      },
+      {
+        "text": "Ryuichi Sakamoto",
+        "label": "musicalartist",
+        "start": 39,
+        "end": 55
+      },
+      {
+        "text": "Yellow Magic Orchestra",
+        "label": "band",
+        "start": 63,
+        "end": 85
+      },
+      {
+        "text": "Electronic music",
+        "label": "musicgenre",
+        "start": 102,
+        "end": 118
+      },
+      {
+        "text": "Cochin Moon",
+        "label": "album",
+        "start": 126,
+        "end": 137
+      },
+      {
+        "text": "electronic music",
+        "label": "musicgenre",
+        "start": 174,
+        "end": 190
+      },
+      {
+        "text": "Bollywood-inspired Indian music",
+        "label": "musicgenre",
+        "start": 195,
+        "end": 226
+      }
+    ]
+  },
+  {
+    "text": "The Belgium group Technotronic scored an international hit with the song Pump Up the Jam.",
+    "entities": [
+      {
+        "text": "Technotronic",
+        "label": "band",
+        "start": 18,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "Dimmu Borgir's following full-length albums Spiritual Black Dimensions in 1999 and 2001's Puritanical Euphoric Misanthropia, both met critical acclaim. only to be replaced with Nicholas Barker of Cradle of Filth.",
+    "entities": [
+      {
+        "text": "Dimmu Borgir",
+        "label": "band",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Spiritual Black Dimensions",
+        "label": "album",
+        "start": 44,
+        "end": 70
+      },
+      {
+        "text": "Puritanical Euphoric Misanthropia",
+        "label": "album",
+        "start": 90,
+        "end": 123
+      },
+      {
+        "text": "Nicholas Barker",
+        "label": "musicalartist",
+        "start": 177,
+        "end": 192
+      },
+      {
+        "text": "Cradle of Filth",
+        "label": "band",
+        "start": 196,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "Major artists who have been influenced by Costello include Green Day, Prince, Billy Bragg, Goldfinger, the Pogues, Radiohead, Dexys Midnight Runners, Pulp, Crowded House, James, Suzanne Vega, Less than Jake, and Foo Fighters.",
+    "entities": [
+      {
+        "text": "Costello",
+        "label": "musicalartist",
+        "start": 42,
+        "end": 50
+      },
+      {
+        "text": "Green Day",
+        "label": "band",
+        "start": 59,
+        "end": 68
+      },
+      {
+        "text": "Prince",
+        "label": "band",
+        "start": 70,
+        "end": 76
+      },
+      {
+        "text": "Billy Bragg",
+        "label": "musicalartist",
+        "start": 78,
+        "end": 89
+      },
+      {
+        "text": "Goldfinger",
+        "label": "band",
+        "start": 91,
+        "end": 101
+      },
+      {
+        "text": "the Pogues",
+        "label": "band",
+        "start": 103,
+        "end": 113
+      },
+      {
+        "text": "Radiohead",
+        "label": "band",
+        "start": 115,
+        "end": 124
+      },
+      {
+        "text": "Dexys Midnight Runners",
+        "label": "band",
+        "start": 126,
+        "end": 148
+      },
+      {
+        "text": "Pulp",
+        "label": "band",
+        "start": 150,
+        "end": 154
+      },
+      {
+        "text": "Crowded House",
+        "label": "band",
+        "start": 156,
+        "end": 169
+      },
+      {
+        "text": "James",
+        "label": "band",
+        "start": 171,
+        "end": 176
+      },
+      {
+        "text": "Suzanne Vega",
+        "label": "musicalartist",
+        "start": 178,
+        "end": 190
+      },
+      {
+        "text": "Less than Jake",
+        "label": "band",
+        "start": 192,
+        "end": 206
+      },
+      {
+        "text": "Foo Fighters",
+        "label": "band",
+        "start": 212,
+        "end": 224
+      }
+    ]
+  },
+  {
+    "text": "In 1998 Warp signed Boards Of Canada, a duo that would go on to release some of the most highly revered electronic music albums of their time: Music Has the Right to Children (1998), Geogaddi (2002), The Campfire Headphase (2005) and Tomorrow's Harvest (2013).",
+    "entities": [
+      {
+        "text": "Warp",
+        "label": "musicalartist",
+        "start": 8,
+        "end": 12
+      },
+      {
+        "text": "Boards Of Canada",
+        "label": "band",
+        "start": 20,
+        "end": 36
+      },
+      {
+        "text": "electronic music",
+        "label": "musicgenre",
+        "start": 104,
+        "end": 120
+      },
+      {
+        "text": "Music Has the Right to Children",
+        "label": "album",
+        "start": 143,
+        "end": 174
+      },
+      {
+        "text": "Geogaddi",
+        "label": "album",
+        "start": 183,
+        "end": 191
+      },
+      {
+        "text": "The Campfire Headphase",
+        "label": "album",
+        "start": 200,
+        "end": 222
+      },
+      {
+        "text": "Tomorrow's Harvest",
+        "label": "album",
+        "start": 234,
+        "end": 252
+      }
+    ]
+  },
+  {
+    "text": "By the end of World War II, mountaineer string band music known as Bluegrass music had emerged when Bill Monroe joined with Lester Flatt and Earl Scruggs, introduced by Roy Acuff at the Grand Ole Opry.",
+    "entities": [
+      {
+        "text": "Bluegrass music",
+        "label": "musicgenre",
+        "start": 67,
+        "end": 82
+      },
+      {
+        "text": "Bill Monroe",
+        "label": "musicalartist",
+        "start": 100,
+        "end": 111
+      },
+      {
+        "text": "Lester Flatt",
+        "label": "musicalartist",
+        "start": 124,
+        "end": 136
+      },
+      {
+        "text": "Earl Scruggs",
+        "label": "musicalartist",
+        "start": 141,
+        "end": 153
+      },
+      {
+        "text": "Roy Acuff",
+        "label": "musicalartist",
+        "start": 169,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "Annie Hall (1977) won four Academy Awards, including Academy Award for Best Picture, Academy Award for Best Actress for Diane Keaton, Academy Award for Best Original Screenplay and Academy Award for Best Director for Woody Allen.",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 27,
+        "end": 41
+      },
+      {
+        "text": "Academy Award for Best Picture",
+        "label": "award",
+        "start": 53,
+        "end": 83
+      },
+      {
+        "text": "Academy Award for Best Actress",
+        "label": "award",
+        "start": 85,
+        "end": 115
+      },
+      {
+        "text": "Academy Award for Best Original Screenplay",
+        "label": "award",
+        "start": 134,
+        "end": 176
+      },
+      {
+        "text": "Academy Award for Best Director",
+        "label": "award",
+        "start": 181,
+        "end": 212
+      }
+    ]
+  },
+  {
+    "text": "After several line-up changes, the band went on to release a series of UK and US platinum and gold albums, including 1982's The Number of the Beast, 1983's Piece of Mind, 1984's Powerslave, 1985's live release Live After Death, 1986's Somewhere in Time, and 1988's Seventh Son of a Seventh Son.",
+    "entities": [
+      {
+        "text": "The Number of the Beast",
+        "label": "album",
+        "start": 124,
+        "end": 147
+      },
+      {
+        "text": "Piece of Mind",
+        "label": "album",
+        "start": 156,
+        "end": 169
+      },
+      {
+        "text": "Powerslave",
+        "label": "album",
+        "start": 178,
+        "end": 188
+      },
+      {
+        "text": "Live After Death",
+        "label": "album",
+        "start": 210,
+        "end": 226
+      },
+      {
+        "text": "Somewhere in Time",
+        "label": "album",
+        "start": 235,
+        "end": 252
+      },
+      {
+        "text": "Seventh Son of a Seventh Son",
+        "label": "album",
+        "start": 265,
+        "end": 293
+      }
+    ]
+  },
+  {
+    "text": "The awards were established in 1969, and represent a variety of musical styles, including Christian rock, Contemporary Christian music, Christian hip hop, Christian country music, and Urban contemporary gospel.",
+    "entities": [
+      {
+        "text": "Christian rock",
+        "label": "musicgenre",
+        "start": 90,
+        "end": 104
+      },
+      {
+        "text": "Contemporary Christian music",
+        "label": "musicgenre",
+        "start": 106,
+        "end": 134
+      },
+      {
+        "text": "Christian hip hop",
+        "label": "musicgenre",
+        "start": 136,
+        "end": 153
+      },
+      {
+        "text": "Christian country music",
+        "label": "musicgenre",
+        "start": 155,
+        "end": 178
+      },
+      {
+        "text": "Urban contemporary gospel",
+        "label": "musicgenre",
+        "start": 184,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "A critical and commercial success upon release and nominated for four Academy Awards, including for Academy Award for Best Picture, Academy Award for Best Actor (for De Niro) and Academy Award for Best Supporting Actress (for Foster), Taxi Driver won the Palme d 'Or at the 1976 Cannes Film Festival.",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 70,
+        "end": 84
+      },
+      {
+        "text": "Academy Award for Best Picture",
+        "label": "award",
+        "start": 100,
+        "end": 130
+      },
+      {
+        "text": "Academy Award for Best Actor",
+        "label": "award",
+        "start": 132,
+        "end": 160
+      },
+      {
+        "text": "Academy Award for Best Supporting Actress",
+        "label": "award",
+        "start": 179,
+        "end": 220
+      },
+      {
+        "text": "Palme d 'Or",
+        "label": "award",
+        "start": 255,
+        "end": 266
+      }
+    ]
+  },
+  {
+    "text": "Boogie-woogie was pioneered by the Chicago-based Jimmy Yancey and the Boogie-Woogie Trio (Albert Ammons, Pete Johnson and Meade Lux Lewis).",
+    "entities": [
+      {
+        "text": "Boogie-woogie",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Jimmy Yancey",
+        "label": "musicalartist",
+        "start": 49,
+        "end": 61
+      },
+      {
+        "text": "Albert Ammons",
+        "label": "musicalartist",
+        "start": 90,
+        "end": 103
+      },
+      {
+        "text": "Pete Johnson",
+        "label": "musicalartist",
+        "start": 105,
+        "end": 117
+      },
+      {
+        "text": "Meade Lux Lewis",
+        "label": "musicalartist",
+        "start": 122,
+        "end": 137
+      }
+    ]
+  },
+  {
+    "text": "The singles One Night in Bangkok (with vocals by Murray Head and Anders Glenmark) and I Know Him So Well (a duet by Barbara Dickson and Elaine Paige, and later also recorded by Barbra Streisand and Whitney Houston) were both hugely successful.",
+    "entities": [
+      {
+        "text": "Murray Head",
+        "label": "musicalartist",
+        "start": 49,
+        "end": 60
+      },
+      {
+        "text": "Anders Glenmark",
+        "label": "musicalartist",
+        "start": 65,
+        "end": 80
+      },
+      {
+        "text": "Barbara Dickson",
+        "label": "musicalartist",
+        "start": 116,
+        "end": 131
+      },
+      {
+        "text": "Elaine Paige",
+        "label": "musicalartist",
+        "start": 136,
+        "end": 148
+      },
+      {
+        "text": "Barbra Streisand",
+        "label": "musicalartist",
+        "start": 177,
+        "end": 193
+      },
+      {
+        "text": "Whitney Houston",
+        "label": "musicalartist",
+        "start": 198,
+        "end": 213
+      }
+    ]
+  },
+  {
+    "text": "He also recorded jazz, such as The Great Ray Charles (1957) and worked with vibraphonist Milt Jackson, releasing Soul Brothers in 1958 and Soul Meeting in 1961.",
+    "entities": [
+      {
+        "text": "jazz",
+        "label": "musicgenre",
+        "start": 17,
+        "end": 21
+      },
+      {
+        "text": "The Great Ray Charles",
+        "label": "album",
+        "start": 31,
+        "end": 52
+      },
+      {
+        "text": "Milt Jackson",
+        "label": "musicalartist",
+        "start": 89,
+        "end": 101
+      },
+      {
+        "text": "Soul Brothers",
+        "label": "album",
+        "start": 113,
+        "end": 126
+      },
+      {
+        "text": "Soul Meeting",
+        "label": "album",
+        "start": 139,
+        "end": 151
+      }
+    ]
+  }
+]

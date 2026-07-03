@@ -1,0 +1,2008 @@
+[
+  {
+    "text": "The Hall is flanked by The Royal Lyceum Theatre on the right and The Traverse Theatre on the left.",
+    "entities": []
+  },
+  {
+    "text": "For the 2008 / 2009 season, he played Captain Hook at the Milton Keynes Theatre and donned the hook once again for the 2009 / 2010 panto season at the Liverpool Empire Theatre.",
+    "entities": []
+  },
+  {
+    "text": "Building on the distorted electric guitar sound of early records, his 1958 instrumental hit Rumble by Link Wray & His Ray Men popularized the power chord, the major modus operandi of modern Rock music guitarists, facilitating the emergence of Punk rock and Hard rock.",
+    "entities": [
+      {
+        "text": "Rumble",
+        "label": "album",
+        "start": 92,
+        "end": 98
+      },
+      {
+        "text": "Link Wray & His Ray Men",
+        "label": "band",
+        "start": 102,
+        "end": 125
+      },
+      {
+        "text": "Rock music",
+        "label": "musicgenre",
+        "start": 190,
+        "end": 200
+      },
+      {
+        "text": "Punk rock",
+        "label": "musicgenre",
+        "start": 243,
+        "end": 252
+      },
+      {
+        "text": "Hard rock",
+        "label": "musicgenre",
+        "start": 257,
+        "end": 266
+      }
+    ]
+  },
+  {
+    "text": "Notable post-punk groups that presaged that genre and helped develop and shape the subculture, include Siouxsie and the Banshees, Joy Division, Bauhaus and The Cure.",
+    "entities": [
+      {
+        "text": "post-punk",
+        "label": "musicgenre",
+        "start": 8,
+        "end": 17
+      },
+      {
+        "text": "Siouxsie and the Banshees",
+        "label": "band",
+        "start": 103,
+        "end": 128
+      },
+      {
+        "text": "Joy Division",
+        "label": "band",
+        "start": 130,
+        "end": 142
+      },
+      {
+        "text": "Bauhaus",
+        "label": "band",
+        "start": 144,
+        "end": 151
+      },
+      {
+        "text": "The Cure",
+        "label": "band",
+        "start": 156,
+        "end": 164
+      }
+    ]
+  },
+  {
+    "text": "The picture received Academy Awards nominations for Academy Award for Best Sound Mixing (Loren L. Ryder) and Academy Award for Best Original Screenplay.",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 21,
+        "end": 35
+      },
+      {
+        "text": "Academy Award for Best Sound Mixing",
+        "label": "award",
+        "start": 52,
+        "end": 87
+      },
+      {
+        "text": "Loren L. Ryder",
+        "label": "musicalartist",
+        "start": 89,
+        "end": 103
+      },
+      {
+        "text": "Academy Award for Best Original Screenplay",
+        "label": "award",
+        "start": 109,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "In 2006, along with Sonu Nigam, Sunidhi Chauhan and Shiamak Davar, Ghoshal performed the theme song of 2010 Commonwealth Games at its closing ceremony, as an invitation to everyone to the following Commonwealth Games in Delhi.",
+    "entities": [
+      {
+        "text": "Sonu Nigam",
+        "label": "musicalartist",
+        "start": 20,
+        "end": 30
+      },
+      {
+        "text": "Sunidhi Chauhan",
+        "label": "musicalartist",
+        "start": 32,
+        "end": 47
+      },
+      {
+        "text": "Shiamak Davar",
+        "label": "musicalartist",
+        "start": 52,
+        "end": 65
+      },
+      {
+        "text": "Ghoshal",
+        "label": "musicalartist",
+        "start": 67,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "text": "Examples can be found in the music of the Chambers Brothers, George Clinton with his Parliament-Funkadelic collective, Sly and the Family Stone and the productions of Norman Whitfield with The Temptations.",
+    "entities": [
+      {
+        "text": "the Chambers Brothers",
+        "label": "band",
+        "start": 38,
+        "end": 59
+      },
+      {
+        "text": "George Clinton",
+        "label": "musicalartist",
+        "start": 61,
+        "end": 75
+      },
+      {
+        "text": "Parliament-Funkadelic",
+        "label": "band",
+        "start": 85,
+        "end": 106
+      },
+      {
+        "text": "Sly and the Family Stone",
+        "label": "band",
+        "start": 119,
+        "end": 143
+      },
+      {
+        "text": "Norman Whitfield",
+        "label": "musicalartist",
+        "start": 167,
+        "end": 183
+      },
+      {
+        "text": "The Temptations",
+        "label": "band",
+        "start": 189,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "Dream On, I Feel Loved, Freelove and Goodnight Lovers were released as singles in 2001 and 2002.",
+    "entities": []
+  },
+  {
+    "text": "In 2005, American Idiot won a Grammy Award for Grammy Award for Best Rock Album and was nominated in six other categories including Grammy Award for Album of the Year.",
+    "entities": [
+      {
+        "text": "American Idiot",
+        "label": "album",
+        "start": 9,
+        "end": 23
+      },
+      {
+        "text": "Grammy Award",
+        "label": "award",
+        "start": 30,
+        "end": 42
+      },
+      {
+        "text": "Grammy Award for Best Rock Album",
+        "label": "award",
+        "start": 47,
+        "end": 79
+      },
+      {
+        "text": "Grammy Award for Album of the Year",
+        "label": "award",
+        "start": 132,
+        "end": 166
+      }
+    ]
+  },
+  {
+    "text": "In December 2011 the band announced they would be performing Tellin ' Stories in its entirety at London's HMV Hammersmith Apollo, O2 Apollo Manchester and Glasgow's Barrowland Ballroom in June 2012.",
+    "entities": [
+      {
+        "text": "Tellin ' Stories",
+        "label": "album",
+        "start": 61,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "His style incorporates elements of Rock music, blues, Soul music, R & B, funk, jazz, reggae, hard rock, Psychedelic rock, Pop music, Folk music, and ballads.",
+    "entities": [
+      {
+        "text": "Rock music",
+        "label": "musicgenre",
+        "start": 35,
+        "end": 45
+      },
+      {
+        "text": "blues",
+        "label": "musicgenre",
+        "start": 47,
+        "end": 52
+      },
+      {
+        "text": "Soul music",
+        "label": "musicgenre",
+        "start": 54,
+        "end": 64
+      },
+      {
+        "text": "R & B",
+        "label": "musicgenre",
+        "start": 66,
+        "end": 71
+      },
+      {
+        "text": "funk",
+        "label": "musicgenre",
+        "start": 73,
+        "end": 77
+      },
+      {
+        "text": "jazz",
+        "label": "musicgenre",
+        "start": 79,
+        "end": 83
+      },
+      {
+        "text": "reggae",
+        "label": "musicgenre",
+        "start": 85,
+        "end": 91
+      },
+      {
+        "text": "hard rock",
+        "label": "musicgenre",
+        "start": 93,
+        "end": 102
+      },
+      {
+        "text": "Psychedelic rock",
+        "label": "musicgenre",
+        "start": 104,
+        "end": 120
+      },
+      {
+        "text": "Pop music",
+        "label": "musicgenre",
+        "start": 122,
+        "end": 131
+      },
+      {
+        "text": "Folk music",
+        "label": "musicgenre",
+        "start": 133,
+        "end": 143
+      },
+      {
+        "text": "ballads",
+        "label": "musicgenre",
+        "start": 149,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "The best-selling album in the band's catalog, I Against I is an album that mixes American hardcore punk with funk, Soul music, reggae and Heavy metal music.",
+    "entities": [
+      {
+        "text": "Against",
+        "label": "album",
+        "start": 48,
+        "end": 55
+      },
+      {
+        "text": "hardcore punk",
+        "label": "musicgenre",
+        "start": 90,
+        "end": 103
+      },
+      {
+        "text": "funk",
+        "label": "musicgenre",
+        "start": 109,
+        "end": 113
+      },
+      {
+        "text": "Soul music",
+        "label": "musicgenre",
+        "start": 115,
+        "end": 125
+      },
+      {
+        "text": "reggae",
+        "label": "musicgenre",
+        "start": 127,
+        "end": 133
+      },
+      {
+        "text": "Heavy metal music",
+        "label": "musicgenre",
+        "start": 138,
+        "end": 155
+      }
+    ]
+  },
+  {
+    "text": "Bands like Flogging Molly, Black 47, Dropkick Murphys, The Young Dubliners, The Tossers introduced a hybrid of Celtic rock, Punk rock, reggae, Hardcore punk and other elements in the 1990s that has become popular with Irish-American youth.",
+    "entities": [
+      {
+        "text": "Flogging Molly",
+        "label": "band",
+        "start": 11,
+        "end": 25
+      },
+      {
+        "text": "Black 47",
+        "label": "band",
+        "start": 27,
+        "end": 35
+      },
+      {
+        "text": "Dropkick Murphys",
+        "label": "band",
+        "start": 37,
+        "end": 53
+      },
+      {
+        "text": "The Young Dubliners",
+        "label": "band",
+        "start": 55,
+        "end": 74
+      },
+      {
+        "text": "The Tossers",
+        "label": "band",
+        "start": 76,
+        "end": 87
+      },
+      {
+        "text": "Celtic rock",
+        "label": "musicgenre",
+        "start": 111,
+        "end": 122
+      },
+      {
+        "text": "Punk rock",
+        "label": "musicgenre",
+        "start": 124,
+        "end": 133
+      },
+      {
+        "text": "reggae",
+        "label": "musicgenre",
+        "start": 135,
+        "end": 141
+      },
+      {
+        "text": "Hardcore punk",
+        "label": "musicgenre",
+        "start": 143,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "The self-titled record was an instant success both critically and commercially, led by the official theme song for UAAP Season 71 of the UAAP - Puso (trans: Heart).",
+    "entities": []
+  },
+  {
+    "text": "The stadium will be the opening and closing ceremonies, athletics, and football venue for the 2014 South American Games and the 2023 Pan American Games.",
+    "entities": []
+  },
+  {
+    "text": "Crust punk groups, such as Antisect, Sacrilege and Anti System took some influence from early black metal bands like Venom, Hellhammer, and Celtic Frost, In addition, Norwegian band Darkthrone have incorporated crust punk traits in their more recent material.",
+    "entities": [
+      {
+        "text": "Crust punk",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Antisect",
+        "label": "band",
+        "start": 27,
+        "end": 35
+      },
+      {
+        "text": "Sacrilege",
+        "label": "band",
+        "start": 37,
+        "end": 46
+      },
+      {
+        "text": "Anti System",
+        "label": "band",
+        "start": 51,
+        "end": 62
+      },
+      {
+        "text": "black metal",
+        "label": "musicgenre",
+        "start": 94,
+        "end": 105
+      },
+      {
+        "text": "Venom",
+        "label": "band",
+        "start": 117,
+        "end": 122
+      },
+      {
+        "text": "Hellhammer",
+        "label": "band",
+        "start": 124,
+        "end": 134
+      },
+      {
+        "text": "Celtic Frost",
+        "label": "band",
+        "start": 140,
+        "end": 152
+      },
+      {
+        "text": "Darkthrone",
+        "label": "band",
+        "start": 182,
+        "end": 192
+      },
+      {
+        "text": "crust punk",
+        "label": "musicgenre",
+        "start": 211,
+        "end": 221
+      }
+    ]
+  },
+  {
+    "text": "The Belgium group Technotronic scored an international hit with the song Pump Up the Jam.",
+    "entities": [
+      {
+        "text": "Technotronic",
+        "label": "band",
+        "start": 18,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "As the recording industry grew, country blues performers like Bo Carter, Jimmie Rodgers (country singer), Blind Lemon Jefferson, Lonnie Johnson, Tampa Red and Blind Blake became more popular in the African American community.",
+    "entities": [
+      {
+        "text": "country blues",
+        "label": "musicgenre",
+        "start": 32,
+        "end": 45
+      },
+      {
+        "text": "Bo Carter",
+        "label": "musicalartist",
+        "start": 62,
+        "end": 71
+      },
+      {
+        "text": "Jimmie Rodgers",
+        "label": "musicalartist",
+        "start": 73,
+        "end": 87
+      },
+      {
+        "text": "Blind Lemon Jefferson",
+        "label": "musicalartist",
+        "start": 106,
+        "end": 127
+      },
+      {
+        "text": "Lonnie Johnson",
+        "label": "musicalartist",
+        "start": 129,
+        "end": 143
+      },
+      {
+        "text": "Tampa Red",
+        "label": "musicalartist",
+        "start": 145,
+        "end": 154
+      },
+      {
+        "text": "Blind Blake",
+        "label": "musicalartist",
+        "start": 159,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "He created a prodigious output by working for such bands, musicians and performers as Vivian Stanshall, Generation X, Big Star, Johnny Moped, Whirlwind, Billy Bragg, Clover, the Sinceros, Roger Chapman, Phillip Goodhand-Tait, Dr. Feelgood, Inner City Unit and the Psychedelic Furs.",
+    "entities": [
+      {
+        "text": "Vivian Stanshall",
+        "label": "musicalartist",
+        "start": 86,
+        "end": 102
+      },
+      {
+        "text": "Generation X",
+        "label": "band",
+        "start": 104,
+        "end": 116
+      },
+      {
+        "text": "Big Star",
+        "label": "band",
+        "start": 118,
+        "end": 126
+      },
+      {
+        "text": "Johnny Moped",
+        "label": "band",
+        "start": 128,
+        "end": 140
+      },
+      {
+        "text": "Whirlwind",
+        "label": "band",
+        "start": 142,
+        "end": 151
+      },
+      {
+        "text": "Billy Bragg",
+        "label": "musicalartist",
+        "start": 153,
+        "end": 164
+      },
+      {
+        "text": "Clover",
+        "label": "band",
+        "start": 166,
+        "end": 172
+      },
+      {
+        "text": "the Sinceros",
+        "label": "band",
+        "start": 174,
+        "end": 186
+      },
+      {
+        "text": "Roger Chapman",
+        "label": "musicalartist",
+        "start": 188,
+        "end": 201
+      },
+      {
+        "text": "Phillip Goodhand-Tait",
+        "label": "musicalartist",
+        "start": 203,
+        "end": 224
+      },
+      {
+        "text": "Dr. Feelgood",
+        "label": "band",
+        "start": 226,
+        "end": 238
+      },
+      {
+        "text": "Inner City Unit",
+        "label": "band",
+        "start": 240,
+        "end": 255
+      },
+      {
+        "text": "the Psychedelic Furs",
+        "label": "band",
+        "start": 260,
+        "end": 280
+      }
+    ]
+  },
+  {
+    "text": "The latter earned Kidman the Primetime Emmy Award for Primetime Emmy Award for Outstanding Lead Actress in a Limited Series or Movie and Primetime Emmy Award for Outstanding Limited Series.",
+    "entities": [
+      {
+        "text": "Primetime Emmy Award",
+        "label": "award",
+        "start": 29,
+        "end": 49
+      },
+      {
+        "text": "Primetime Emmy Award for Outstanding Lead Actress in a Limited Series or Movie",
+        "label": "award",
+        "start": 54,
+        "end": 132
+      },
+      {
+        "text": "Primetime Emmy Award for Outstanding Limited Series",
+        "label": "award",
+        "start": 137,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "text": "Singer Marcia Barrett (from Jamaica) joined the group, who brought in Liz Mitchell, a former member of the Les Humphries Singers and Boney M. was finalised.",
+    "entities": [
+      {
+        "text": "Marcia Barrett",
+        "label": "musicalartist",
+        "start": 7,
+        "end": 21
+      },
+      {
+        "text": "Liz Mitchell",
+        "label": "musicalartist",
+        "start": 70,
+        "end": 82
+      },
+      {
+        "text": "Les Humphries Singers",
+        "label": "band",
+        "start": 107,
+        "end": 128
+      },
+      {
+        "text": "Boney M.",
+        "label": "band",
+        "start": 133,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "James Brown is said to be the most sampled artist in the history of hip hop, while P-Funk is the second most sampled artist; samples of old Parliament and Funkadelic songs formed the basis of West Coast G-funk.",
+    "entities": [
+      {
+        "text": "James Brown",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "hip hop",
+        "label": "musicgenre",
+        "start": 68,
+        "end": 75
+      },
+      {
+        "text": "P-Funk",
+        "label": "band",
+        "start": 83,
+        "end": 89
+      },
+      {
+        "text": "Parliament and Funkadelic",
+        "label": "band",
+        "start": 140,
+        "end": 165
+      },
+      {
+        "text": "West Coast G-funk",
+        "label": "musicgenre",
+        "start": 192,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "The album experimented with a diverse number of genres, including contemporary R & B, deep house, Swing music, Hip hop music, Rock music, and Pop music, with Billboard describing each as being delivered with consummate skill and passion.",
+    "entities": [
+      {
+        "text": "contemporary R & B",
+        "label": "musicgenre",
+        "start": 66,
+        "end": 84
+      },
+      {
+        "text": "deep house",
+        "label": "musicgenre",
+        "start": 86,
+        "end": 96
+      },
+      {
+        "text": "Swing music",
+        "label": "musicgenre",
+        "start": 98,
+        "end": 109
+      },
+      {
+        "text": "Hip hop music",
+        "label": "musicgenre",
+        "start": 111,
+        "end": 124
+      },
+      {
+        "text": "Rock music",
+        "label": "musicgenre",
+        "start": 126,
+        "end": 136
+      },
+      {
+        "text": "Pop music",
+        "label": "musicgenre",
+        "start": 142,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "The 2017 production was nominated for 10 Laurence Olivier Award s and won 2 for Laurence Olivier Award for Best Musical Revival and Laurence Olivier Award for Best Costume Design (by Vicki Mortimer).",
+    "entities": [
+      {
+        "text": "Laurence Olivier Award",
+        "label": "award",
+        "start": 41,
+        "end": 63
+      },
+      {
+        "text": "Laurence Olivier Award for Best Musical Revival",
+        "label": "award",
+        "start": 80,
+        "end": 127
+      },
+      {
+        "text": "Laurence Olivier Award for Best Costume Design",
+        "label": "award",
+        "start": 132,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "Blue Öyster Cult's longest-lasting and most commercially successful lineup included Buck Dharma (lead guitar, vocals), Eric Bloom (lead vocals, stun guitar, keyboards, synthesizers), Allen Lanier (keyboards, rhythm guitar, backing vocals), Joe Bouchard (bass, vocals), and Albert Bouchard (drums, percussion, vocals).",
+    "entities": [
+      {
+        "text": "Blue Öyster Cult",
+        "label": "band",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "Buck Dharma",
+        "label": "musicalartist",
+        "start": 84,
+        "end": 95
+      },
+      {
+        "text": "Eric Bloom",
+        "label": "musicalartist",
+        "start": 119,
+        "end": 129
+      },
+      {
+        "text": "Allen Lanier",
+        "label": "musicalartist",
+        "start": 183,
+        "end": 195
+      },
+      {
+        "text": "rhythm guitar",
+        "label": "musicalartist",
+        "start": 208,
+        "end": 221
+      },
+      {
+        "text": "Joe Bouchard",
+        "label": "musicalartist",
+        "start": 240,
+        "end": 252
+      },
+      {
+        "text": "Albert Bouchard",
+        "label": "musicalartist",
+        "start": 273,
+        "end": 288
+      }
+    ]
+  },
+  {
+    "text": "This was followed by the multi-million selling albums Shepherd Moons (1991), The Memory of Trees (1995) and A Day Without Rain (2000).",
+    "entities": [
+      {
+        "text": "Shepherd Moons",
+        "label": "album",
+        "start": 54,
+        "end": 68
+      },
+      {
+        "text": "The Memory of Trees",
+        "label": "album",
+        "start": 77,
+        "end": 96
+      },
+      {
+        "text": "A Day Without Rain",
+        "label": "album",
+        "start": 108,
+        "end": 126
+      }
+    ]
+  },
+  {
+    "text": "Fredriksson returned in 2006 with an album of Swedish cover songs, titled Min bäste vän (My Best Friend), while Gessle recorded two more solo albums, En händig man (A Handy Man) (2007) and Party Crasher (2008).",
+    "entities": [
+      {
+        "text": "Fredriksson",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Min bäste vän",
+        "label": "album",
+        "start": 74,
+        "end": 87
+      },
+      {
+        "text": "My Best Friend",
+        "label": "album",
+        "start": 89,
+        "end": 103
+      },
+      {
+        "text": "Gessle",
+        "label": "musicalartist",
+        "start": 112,
+        "end": 118
+      },
+      {
+        "text": "En händig man",
+        "label": "album",
+        "start": 150,
+        "end": 163
+      },
+      {
+        "text": "A Handy Man",
+        "label": "album",
+        "start": 165,
+        "end": 176
+      },
+      {
+        "text": "Party Crasher",
+        "label": "album",
+        "start": 189,
+        "end": 202
+      }
+    ]
+  },
+  {
+    "text": "The film was nominated for Academy Awards for Academy Award for Best Costume Design, Academy Award for Best Original Score and Academy Award for Best Original Screenplay.",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 27,
+        "end": 41
+      },
+      {
+        "text": "Academy Award for Best Costume Design",
+        "label": "award",
+        "start": 46,
+        "end": 83
+      },
+      {
+        "text": "Academy Award for Best Original Score",
+        "label": "award",
+        "start": 85,
+        "end": 122
+      },
+      {
+        "text": "Academy Award for Best Original Screenplay",
+        "label": "award",
+        "start": 127,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "Reed's 1984 album New Sensations marked the first time that Reed had charted within the US Top 100 since 1978's Street Hassle, and the first time that Reed had charted in the UK altogether since 1976's Coney Island Baby.",
+    "entities": [
+      {
+        "text": "Reed",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "New Sensations",
+        "label": "album",
+        "start": 18,
+        "end": 32
+      },
+      {
+        "text": "Reed",
+        "label": "musicalartist",
+        "start": 60,
+        "end": 64
+      },
+      {
+        "text": "Street Hassle",
+        "label": "album",
+        "start": 112,
+        "end": 125
+      },
+      {
+        "text": "Reed",
+        "label": "musicalartist",
+        "start": 151,
+        "end": 155
+      },
+      {
+        "text": "Coney Island Baby",
+        "label": "album",
+        "start": 202,
+        "end": 219
+      }
+    ]
+  },
+  {
+    "text": "Simon Fuller has championed many good causes through his working life including The Prince's Trust, Amnesty International, Save the Children, United Nations Foundation, UNICEF, Greenpeace, World Wide Fund for Nature and Comic Relief.",
+    "entities": []
+  },
+  {
+    "text": "With the continued success of Backstreet Boys and NSYNC, American and British groups like 98 Degrees, Westlife, O-Town, A1, Blue, and Busted gained quick popularity both domestically and internationally.",
+    "entities": [
+      {
+        "text": "Backstreet Boys",
+        "label": "band",
+        "start": 30,
+        "end": 45
+      },
+      {
+        "text": "NSYNC",
+        "label": "band",
+        "start": 50,
+        "end": 55
+      },
+      {
+        "text": "98 Degrees",
+        "label": "band",
+        "start": 90,
+        "end": 100
+      },
+      {
+        "text": "Westlife",
+        "label": "band",
+        "start": 102,
+        "end": 110
+      },
+      {
+        "text": "O-Town",
+        "label": "band",
+        "start": 112,
+        "end": 118
+      },
+      {
+        "text": "A1",
+        "label": "band",
+        "start": 120,
+        "end": 122
+      },
+      {
+        "text": "Blue",
+        "label": "band",
+        "start": 124,
+        "end": 128
+      },
+      {
+        "text": "Busted",
+        "label": "band",
+        "start": 134,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "On numerous songs from band's fourth album, A Thousand Suns, such as the album's singles (The Catalyst, Burning in the Skies, Iridescent), both Shinoda and Bennington sing.",
+    "entities": [
+      {
+        "text": "A Thousand Suns",
+        "label": "album",
+        "start": 44,
+        "end": 59
+      },
+      {
+        "text": "Shinoda",
+        "label": "musicalartist",
+        "start": 144,
+        "end": 151
+      },
+      {
+        "text": "Bennington",
+        "label": "musicalartist",
+        "start": 156,
+        "end": 166
+      }
+    ]
+  },
+  {
+    "text": "During the ' 90s, Southern California Chicano artists, such as Kid Frost, A.L.T., A Lighter Shade of Brown, B-Real, Psycho Realm, Gunter, Delinquent Habits and Jonny Z received mainstream success.",
+    "entities": [
+      {
+        "text": "Kid Frost",
+        "label": "musicalartist",
+        "start": 63,
+        "end": 72
+      },
+      {
+        "text": "A.L.T.",
+        "label": "musicalartist",
+        "start": 74,
+        "end": 80
+      },
+      {
+        "text": "A Lighter Shade of Brown",
+        "label": "band",
+        "start": 82,
+        "end": 106
+      },
+      {
+        "text": "B-Real",
+        "label": "musicalartist",
+        "start": 108,
+        "end": 114
+      },
+      {
+        "text": "Psycho Realm",
+        "label": "band",
+        "start": 116,
+        "end": 128
+      },
+      {
+        "text": "Gunter",
+        "label": "musicalartist",
+        "start": 130,
+        "end": 136
+      },
+      {
+        "text": "Delinquent Habits",
+        "label": "band",
+        "start": 138,
+        "end": 155
+      },
+      {
+        "text": "Jonny Z",
+        "label": "musicalartist",
+        "start": 160,
+        "end": 167
+      }
+    ]
+  },
+  {
+    "text": "The subgenre was popularized by the Big Four of Thrash: Metallica, Anthrax, Megadeth, and Slayer. Walser (1993), p.14 Three German bands, Kreator, Sodom, and Destruction, played a central role in bringing the style to Europe.",
+    "entities": [
+      {
+        "text": "Metallica",
+        "label": "band",
+        "start": 56,
+        "end": 65
+      },
+      {
+        "text": "Anthrax",
+        "label": "band",
+        "start": 67,
+        "end": 74
+      },
+      {
+        "text": "Megadeth",
+        "label": "band",
+        "start": 76,
+        "end": 84
+      },
+      {
+        "text": "Slayer",
+        "label": "band",
+        "start": 90,
+        "end": 96
+      },
+      {
+        "text": "Kreator",
+        "label": "band",
+        "start": 138,
+        "end": 145
+      },
+      {
+        "text": "Sodom",
+        "label": "band",
+        "start": 147,
+        "end": 152
+      },
+      {
+        "text": "Destruction",
+        "label": "band",
+        "start": 158,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "A sleeper hit in United Kingdom, the record eventually hit the top three in the Official Charts Company and received platinum certifications from British Phonographic Industry, Recording Industry Association of America and ARIA.",
+    "entities": []
+  },
+  {
+    "text": "This list includes artists that perform in traditional gospel music genres such as Southern gospel, traditional black gospel, progressive Southern gospel, urban contemporary gospel, gospel blues, Christian country music, Celtic gospel and British black gospel as well as artists in the general market who have recorded music in these genres.",
+    "entities": [
+      {
+        "text": "gospel music",
+        "label": "musicgenre",
+        "start": 55,
+        "end": 67
+      },
+      {
+        "text": "Southern gospel",
+        "label": "musicgenre",
+        "start": 83,
+        "end": 98
+      },
+      {
+        "text": "traditional black gospel",
+        "label": "musicgenre",
+        "start": 100,
+        "end": 124
+      },
+      {
+        "text": "progressive Southern gospel",
+        "label": "musicgenre",
+        "start": 126,
+        "end": 153
+      },
+      {
+        "text": "urban contemporary gospel",
+        "label": "musicgenre",
+        "start": 155,
+        "end": 180
+      },
+      {
+        "text": "gospel blues",
+        "label": "musicgenre",
+        "start": 182,
+        "end": 194
+      },
+      {
+        "text": "Christian country music",
+        "label": "musicgenre",
+        "start": 196,
+        "end": 219
+      },
+      {
+        "text": "Celtic gospel",
+        "label": "musicgenre",
+        "start": 221,
+        "end": 234
+      },
+      {
+        "text": "British black gospel",
+        "label": "musicgenre",
+        "start": 239,
+        "end": 259
+      }
+    ]
+  },
+  {
+    "text": "He popularized what he called Cosmic American Music, a hybrid of country, rhythm and blues, Soul music, Folk music, and Rock music.",
+    "entities": [
+      {
+        "text": "Cosmic American Music",
+        "label": "musicgenre",
+        "start": 30,
+        "end": 51
+      },
+      {
+        "text": "country",
+        "label": "musicgenre",
+        "start": 65,
+        "end": 72
+      },
+      {
+        "text": "rhythm and blues",
+        "label": "musicgenre",
+        "start": 74,
+        "end": 90
+      },
+      {
+        "text": "Soul music",
+        "label": "musicgenre",
+        "start": 92,
+        "end": 102
+      },
+      {
+        "text": "Folk music",
+        "label": "musicgenre",
+        "start": 104,
+        "end": 114
+      },
+      {
+        "text": "Rock music",
+        "label": "musicgenre",
+        "start": 120,
+        "end": 130
+      }
+    ]
+  },
+  {
+    "text": "It features songs from both The Better Life and Away from the Sun, and even some early sketches of It's Not Me and Father's Son, which were both eventually released on Seventeen Days.",
+    "entities": [
+      {
+        "text": "The Better Life",
+        "label": "album",
+        "start": 28,
+        "end": 43
+      },
+      {
+        "text": "Away from the Sun",
+        "label": "album",
+        "start": 48,
+        "end": 65
+      },
+      {
+        "text": "Seventeen Days",
+        "label": "album",
+        "start": 168,
+        "end": 182
+      }
+    ]
+  },
+  {
+    "text": "She has won several awards throughout her career, including one Grammy Award from seven nominations, one Latin Grammy Award, ten Juno Awards, one BRIT Award, one Billboard Music Award, one MTV Europe Music Award, one World Music Award, and three Much Music Video Awards.",
+    "entities": [
+      {
+        "text": "Grammy Award",
+        "label": "award",
+        "start": 64,
+        "end": 76
+      },
+      {
+        "text": "Latin Grammy Award",
+        "label": "award",
+        "start": 105,
+        "end": 123
+      },
+      {
+        "text": "Juno Awards",
+        "label": "award",
+        "start": 129,
+        "end": 140
+      },
+      {
+        "text": "BRIT Award",
+        "label": "award",
+        "start": 146,
+        "end": 156
+      },
+      {
+        "text": "Billboard Music Award",
+        "label": "award",
+        "start": 162,
+        "end": 183
+      },
+      {
+        "text": "MTV Europe Music Award",
+        "label": "award",
+        "start": 189,
+        "end": 211
+      },
+      {
+        "text": "World Music Award",
+        "label": "award",
+        "start": 217,
+        "end": 234
+      },
+      {
+        "text": "Much Music Video Awards",
+        "label": "award",
+        "start": 246,
+        "end": 269
+      }
+    ]
+  },
+  {
+    "text": "Styles like Rock music, Heavy metal music, Pop rock, Folk rock, Neo-Romantic, Pop and some experimental styles (e.g. Cantorock) were introduced.",
+    "entities": [
+      {
+        "text": "Rock music",
+        "label": "musicgenre",
+        "start": 12,
+        "end": 22
+      },
+      {
+        "text": "Heavy metal music",
+        "label": "musicgenre",
+        "start": 24,
+        "end": 41
+      },
+      {
+        "text": "Pop rock",
+        "label": "musicgenre",
+        "start": 43,
+        "end": 51
+      },
+      {
+        "text": "Folk rock",
+        "label": "musicgenre",
+        "start": 53,
+        "end": 62
+      },
+      {
+        "text": "Neo-Romantic",
+        "label": "musicgenre",
+        "start": 64,
+        "end": 76
+      },
+      {
+        "text": "Pop",
+        "label": "musicgenre",
+        "start": 78,
+        "end": 81
+      },
+      {
+        "text": "Cantorock",
+        "label": "musicgenre",
+        "start": 117,
+        "end": 126
+      }
+    ]
+  },
+  {
+    "text": "That year, she also recorded a duet with singer Randy Stonehill for his Love Beyond Reason album, titled I Could Never Say Goodbye, and recorded The Animals ' Christmas with Art Garfunkel.",
+    "entities": [
+      {
+        "text": "Randy Stonehill",
+        "label": "musicalartist",
+        "start": 48,
+        "end": 63
+      },
+      {
+        "text": "Love Beyond Reason",
+        "label": "album",
+        "start": 72,
+        "end": 90
+      },
+      {
+        "text": "The Animals ' Christmas",
+        "label": "album",
+        "start": 145,
+        "end": 168
+      },
+      {
+        "text": "Art Garfunkel",
+        "label": "musicalartist",
+        "start": 174,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "text": "Her music has been heard at the Brooklyn Academy of Music, the Sydney Olympic Arts Festival, Settembre Musica (Italy), Théâtre de la Ville (Paris), Lincoln Center for the Performing Arts, and Carnegie Hall, and has been recorded on Cantaloupe Music, Teldec, Point / Universal, Sony Classical Records, and Argo / Decca.",
+    "entities": []
+  },
+  {
+    "text": "Since 2001, the dominance of traditional boy bands on pop charts began to fade in the western hemisphere, although Gil Kaufman of MTV has described new boy bands that are more likely to resemble My Chemical Romance, Sum 41, and Simple Plan.",
+    "entities": [
+      {
+        "text": "pop",
+        "label": "musicgenre",
+        "start": 54,
+        "end": 57
+      },
+      {
+        "text": "Gil Kaufman",
+        "label": "musicalartist",
+        "start": 115,
+        "end": 126
+      },
+      {
+        "text": "My Chemical Romance",
+        "label": "band",
+        "start": 195,
+        "end": 214
+      },
+      {
+        "text": "Sum 41",
+        "label": "band",
+        "start": 216,
+        "end": 222
+      },
+      {
+        "text": "Simple Plan",
+        "label": "band",
+        "start": 228,
+        "end": 239
+      }
+    ]
+  },
+  {
+    "text": "Madlib samples Gong's music frequently, including Eat That Phone Book Coda on his song The Further Adventures of Lord Quas, You Never Blow Yr Trip Forever on The Further Adventures of Lord Quas, and Shamal on The Further Adventures of Lord Quas.",
+    "entities": [
+      {
+        "text": "Madlib",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Gong",
+        "label": "band",
+        "start": 15,
+        "end": 19
+      },
+      {
+        "text": "The Further Adventures of Lord Quas",
+        "label": "album",
+        "start": 87,
+        "end": 122
+      },
+      {
+        "text": "The Further Adventures of Lord Quas",
+        "label": "album",
+        "start": 158,
+        "end": 193
+      },
+      {
+        "text": "The Further Adventures of Lord Quas",
+        "label": "album",
+        "start": 209,
+        "end": 244
+      }
+    ]
+  },
+  {
+    "text": "It has influenced, in some capacity, Garage house, Jungle music, Eurodance, Electropop, Dubstep, and even certain elements of Alternative rock and Hip hop.",
+    "entities": [
+      {
+        "text": "Garage house",
+        "label": "musicgenre",
+        "start": 37,
+        "end": 49
+      },
+      {
+        "text": "Jungle music",
+        "label": "musicgenre",
+        "start": 51,
+        "end": 63
+      },
+      {
+        "text": "Eurodance",
+        "label": "musicgenre",
+        "start": 65,
+        "end": 74
+      },
+      {
+        "text": "Electropop",
+        "label": "musicgenre",
+        "start": 76,
+        "end": 86
+      },
+      {
+        "text": "Dubstep",
+        "label": "musicgenre",
+        "start": 88,
+        "end": 95
+      },
+      {
+        "text": "Alternative rock",
+        "label": "musicgenre",
+        "start": 126,
+        "end": 142
+      },
+      {
+        "text": "Hip hop",
+        "label": "musicgenre",
+        "start": 147,
+        "end": 154
+      }
+    ]
+  },
+  {
+    "text": "Flush with artistic freedom, ' N Sync heads straight for the past: specifically the 1980s Rhythm and blues that sought to balance pretty melody atop Hip hop music ' s street-level beat.",
+    "entities": [
+      {
+        "text": "N Sync",
+        "label": "band",
+        "start": 31,
+        "end": 37
+      },
+      {
+        "text": "Rhythm and blues",
+        "label": "musicgenre",
+        "start": 90,
+        "end": 106
+      },
+      {
+        "text": "Hip hop music",
+        "label": "musicgenre",
+        "start": 149,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "text": "Hathaway currently serves on the board of the Lollipop Theatre Network and is involved with charities Creative Coalition, St. Jude Children's Research Hospital and the Human Rights Campaign.",
+    "entities": []
+  },
+  {
+    "text": "The band's biggest hit singles are Sentimental ballad such as Easy, Three Times a Lady, and Nightshift; and funky dance hits which include Brick House, Fancy Dancer, Lady (You Bring Me Up), and Too Hot ta Trot.",
+    "entities": [
+      {
+        "text": "Sentimental ballad",
+        "label": "musicgenre",
+        "start": 35,
+        "end": 53
+      },
+      {
+        "text": "funky",
+        "label": "musicgenre",
+        "start": 108,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "In February 1984, Queen released their eleventh studio album, The Works, which included the successful singles Radio Ga Ga, Hammer to Fall and I Want to Break Free.",
+    "entities": [
+      {
+        "text": "Queen",
+        "label": "band",
+        "start": 18,
+        "end": 23
+      },
+      {
+        "text": "The Works",
+        "label": "album",
+        "start": 62,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "During this period, Freddie King and Albert King often played with rock and Soul music musicians (Eric Clapton and Booker T & the MGs) and had a major influence on those styles of music.",
+    "entities": [
+      {
+        "text": "Freddie King",
+        "label": "musicalartist",
+        "start": 20,
+        "end": 32
+      },
+      {
+        "text": "Albert King",
+        "label": "musicalartist",
+        "start": 37,
+        "end": 48
+      },
+      {
+        "text": "rock",
+        "label": "musicgenre",
+        "start": 67,
+        "end": 71
+      },
+      {
+        "text": "Soul music",
+        "label": "musicgenre",
+        "start": 76,
+        "end": 86
+      },
+      {
+        "text": "Eric Clapton",
+        "label": "musicalartist",
+        "start": 98,
+        "end": 110
+      },
+      {
+        "text": "Booker T & the MGs",
+        "label": "band",
+        "start": 115,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "Other groups in the British grindcore scene, such as Heresy and Unseen Terror, have emphasized the influence of American hardcore punk, including Septic Death, as well as Swedish D-beat.",
+    "entities": [
+      {
+        "text": "grindcore",
+        "label": "musicgenre",
+        "start": 28,
+        "end": 37
+      },
+      {
+        "text": "Heresy",
+        "label": "band",
+        "start": 53,
+        "end": 59
+      },
+      {
+        "text": "Unseen Terror",
+        "label": "band",
+        "start": 64,
+        "end": 77
+      },
+      {
+        "text": "hardcore punk",
+        "label": "musicgenre",
+        "start": 121,
+        "end": 134
+      },
+      {
+        "text": "Septic Death",
+        "label": "band",
+        "start": 146,
+        "end": 158
+      },
+      {
+        "text": "D-beat",
+        "label": "musicgenre",
+        "start": 179,
+        "end": 185
+      }
+    ]
+  },
+  {
+    "text": "In Finland, there emerged a scene that mixed the first wave black metal style with elements of death metal and grindcore; this included Beherit, Archgoat and Impaled Nazarene, whose debut album Tol Cormpt Norz Norz Norz Rock Hard journalist Wolf-Rüdiger Mühlmann considers a part of war metal's roots.",
+    "entities": [
+      {
+        "text": "black metal",
+        "label": "musicgenre",
+        "start": 60,
+        "end": 71
+      },
+      {
+        "text": "death metal",
+        "label": "musicgenre",
+        "start": 95,
+        "end": 106
+      },
+      {
+        "text": "grindcore",
+        "label": "musicgenre",
+        "start": 111,
+        "end": 120
+      },
+      {
+        "text": "Beherit",
+        "label": "band",
+        "start": 136,
+        "end": 143
+      },
+      {
+        "text": "Archgoat",
+        "label": "band",
+        "start": 145,
+        "end": 153
+      },
+      {
+        "text": "Impaled Nazarene",
+        "label": "band",
+        "start": 158,
+        "end": 174
+      },
+      {
+        "text": "Tol Cormpt Norz Norz Norz",
+        "label": "album",
+        "start": 194,
+        "end": 219
+      },
+      {
+        "text": "Rock Hard",
+        "label": "album",
+        "start": 220,
+        "end": 229
+      },
+      {
+        "text": "war metal",
+        "label": "musicgenre",
+        "start": 283,
+        "end": 292
+      }
+    ]
+  },
+  {
+    "text": "It received 14 nominations at the 89th Academy Awards, tying the record for most nominations with All About Eve (1950) and Titanic (1997), and won the awards for Academy Award for Best Director, Academy Award for Best Actress, Academy Award for Best Cinematography, Academy Award for Best Original Score, Academy Award for Best Original Song, and Academy Award for Best Production Design.",
+    "entities": [
+      {
+        "text": "89th Academy Awards",
+        "label": "award",
+        "start": 34,
+        "end": 53
+      },
+      {
+        "text": "Academy Award for Best Director",
+        "label": "award",
+        "start": 162,
+        "end": 193
+      },
+      {
+        "text": "Academy Award for Best Actress",
+        "label": "award",
+        "start": 195,
+        "end": 225
+      },
+      {
+        "text": "Academy Award for Best Cinematography",
+        "label": "award",
+        "start": 227,
+        "end": 264
+      },
+      {
+        "text": "Academy Award for Best Original Score",
+        "label": "award",
+        "start": 266,
+        "end": 303
+      },
+      {
+        "text": "Academy Award for Best Original Song",
+        "label": "award",
+        "start": 305,
+        "end": 341
+      },
+      {
+        "text": "Academy Award for Best Production Design",
+        "label": "award",
+        "start": 347,
+        "end": 387
+      }
+    ]
+  },
+  {
+    "text": "In 2003, Afshin-Jam became Miss World Canada and joined in the Miss World contest in Sanya, China, where she placed second.",
+    "entities": []
+  },
+  {
+    "text": "The Elephant 6 Recording Company (or simply Elephant 6) is a collective of American musicians that spawned many notable independent bands of the 1990s, including the Apples in Stereo, the Olivia Tremor Control, Neutral Milk Hotel, Beulah, Elf Power, of Montreal, The Minders and Circulatory System.",
+    "entities": [
+      {
+        "text": "The Elephant 6 Recording Company",
+        "label": "band",
+        "start": 0,
+        "end": 32
+      },
+      {
+        "text": "Elephant 6",
+        "label": "band",
+        "start": 44,
+        "end": 54
+      },
+      {
+        "text": "the Apples in Stereo",
+        "label": "band",
+        "start": 162,
+        "end": 182
+      },
+      {
+        "text": "the Olivia Tremor Control",
+        "label": "band",
+        "start": 184,
+        "end": 209
+      },
+      {
+        "text": "Neutral Milk Hotel",
+        "label": "band",
+        "start": 211,
+        "end": 229
+      },
+      {
+        "text": "Beulah",
+        "label": "band",
+        "start": 231,
+        "end": 237
+      },
+      {
+        "text": "Elf Power",
+        "label": "band",
+        "start": 239,
+        "end": 248
+      },
+      {
+        "text": "of Montreal",
+        "label": "band",
+        "start": 250,
+        "end": 261
+      },
+      {
+        "text": "The Minders",
+        "label": "band",
+        "start": 263,
+        "end": 274
+      },
+      {
+        "text": "Circulatory System",
+        "label": "band",
+        "start": 279,
+        "end": 297
+      }
+    ]
+  },
+  {
+    "text": "Soca is an offshoot of kaiso / Calypso music, with influences from Music of Latin America, Cadence rampa, funk and Soul music.",
+    "entities": [
+      {
+        "text": "Soca",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "kaiso",
+        "label": "musicgenre",
+        "start": 23,
+        "end": 28
+      },
+      {
+        "text": "Calypso music",
+        "label": "musicgenre",
+        "start": 31,
+        "end": 44
+      },
+      {
+        "text": "Music of Latin America",
+        "label": "musicgenre",
+        "start": 67,
+        "end": 89
+      },
+      {
+        "text": "Cadence rampa",
+        "label": "musicgenre",
+        "start": 91,
+        "end": 104
+      },
+      {
+        "text": "funk",
+        "label": "musicgenre",
+        "start": 106,
+        "end": 110
+      },
+      {
+        "text": "Soul music",
+        "label": "musicgenre",
+        "start": 115,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "Through extensive promoting, including appearances on 1999 MTV VMA (including a performance alongside Aerosmith and Run-DMC) and performing at Woodstock 1999, Devil Without a Cause sold 14 million copies, the album's success spurred by Kid Rock's breakthrough hit single Bawitdaba.",
+    "entities": [
+      {
+        "text": "MTV VMA",
+        "label": "award",
+        "start": 59,
+        "end": 66
+      },
+      {
+        "text": "Aerosmith",
+        "label": "band",
+        "start": 102,
+        "end": 111
+      },
+      {
+        "text": "Run-DMC",
+        "label": "band",
+        "start": 116,
+        "end": 123
+      },
+      {
+        "text": "Devil Without a Cause",
+        "label": "album",
+        "start": 159,
+        "end": 180
+      },
+      {
+        "text": "Kid Rock",
+        "label": "musicalartist",
+        "start": 236,
+        "end": 244
+      }
+    ]
+  },
+  {
+    "text": "Martin Fry and band were once more accompanied by the Southbank Sinfonia Orchestra for dates at Liverpool's Philharmonic Hall, Glasgow Royal Concert Hall, Sheffield City Hall, the Theatre Royal, Drury Lane in London and Symphony Hall, Birmingham, between November 4th and 9th, 2015.",
+    "entities": [
+      {
+        "text": "Martin Fry",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Southbank Sinfonia Orchestra",
+        "label": "band",
+        "start": 54,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "Starting in the early 1950s, and during the mid-1960s, Western singer-songwriters such as Michael Martin Murphey and Marty Robbins rose in prominence as did others, throughout Western music traditions, like New Mexico music ' s Al Hurricane.",
+    "entities": [
+      {
+        "text": "Michael Martin Murphey",
+        "label": "musicalartist",
+        "start": 90,
+        "end": 112
+      },
+      {
+        "text": "Marty Robbins",
+        "label": "musicalartist",
+        "start": 117,
+        "end": 130
+      },
+      {
+        "text": "Western music",
+        "label": "musicgenre",
+        "start": 176,
+        "end": 189
+      },
+      {
+        "text": "New Mexico music",
+        "label": "musicgenre",
+        "start": 207,
+        "end": 223
+      },
+      {
+        "text": "Al Hurricane",
+        "label": "musicalartist",
+        "start": 228,
+        "end": 240
+      }
+    ]
+  },
+  {
+    "text": "The band released seven studio albums between 1994 and 2005: Sleater-Kinney (1995), Call the Doctor (1996), Dig Me Out (1997), The Hot Rock (1999), All Hands on the Bad One (2000), One Beat (2002) and The Woods (2005).",
+    "entities": [
+      {
+        "text": "Sleater-Kinney",
+        "label": "album",
+        "start": 61,
+        "end": 75
+      },
+      {
+        "text": "Call the Doctor",
+        "label": "album",
+        "start": 84,
+        "end": 99
+      },
+      {
+        "text": "Dig Me Out",
+        "label": "album",
+        "start": 108,
+        "end": 118
+      },
+      {
+        "text": "The Hot Rock",
+        "label": "album",
+        "start": 127,
+        "end": 139
+      },
+      {
+        "text": "All Hands on the Bad One",
+        "label": "album",
+        "start": 148,
+        "end": 172
+      },
+      {
+        "text": "One Beat",
+        "label": "album",
+        "start": 181,
+        "end": 189
+      },
+      {
+        "text": "The Woods",
+        "label": "album",
+        "start": 201,
+        "end": 210
+      }
+    ]
+  }
+]

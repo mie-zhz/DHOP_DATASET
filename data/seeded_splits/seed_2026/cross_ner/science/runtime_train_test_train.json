@@ -1,0 +1,2201 @@
+[
+  {
+    "text": "Heartstone has also been a part of a number of esport demonstration event s at international competitions, such as the 2017 Asian Indoor and Martial Arts Games and 2018 Asian Games.",
+    "entities": []
+  },
+  {
+    "text": "He also won the Copley Medal in 1907, the Henry Draper Medal in 1916 and the Gold Medal of the Royal Astronomical Society in 1923.",
+    "entities": []
+  },
+  {
+    "text": "He received a Doctorate, honoris causa, from the University of Paris and honorary memberships in the Royal Society, Royal Society of Edinburgh, the Indian Academy of Sciences, the International Academy of Philosophy and Sciences, and the Pontifical Academy of Sciences.",
+    "entities": [
+      {
+        "text": "Royal Society",
+        "label": "organisation",
+        "start": 101,
+        "end": 114
+      },
+      {
+        "text": "Royal Society of Edinburgh",
+        "label": "organisation",
+        "start": 116,
+        "end": 142
+      },
+      {
+        "text": "International Academy of Philosophy and Sciences",
+        "label": "organisation",
+        "start": 180,
+        "end": 228
+      },
+      {
+        "text": "Pontifical Academy of Sciences",
+        "label": "organisation",
+        "start": 238,
+        "end": 268
+      }
+    ]
+  },
+  {
+    "text": "The boy was sent to school at the Lycée Louis-le-Grand, part of the University of Paris, and it was decided that he would carry on the family martial tradition. The comte, the boy's great-grandfather, enrolled the boy in a program to train future Musketeers.",
+    "entities": [
+      {
+        "text": "Lycée Louis-le-Grand",
+        "label": "organisation",
+        "start": 34,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "He is currently Director of the Yale Center for the Study of Globalization at Yale University, is the Latin American co-chair of the Inter-American Dialogue, and is on the board of directors of Citigroup.",
+    "entities": [
+      {
+        "text": "Yale Center for the Study of Globalization",
+        "label": "organisation",
+        "start": 32,
+        "end": 74
+      },
+      {
+        "text": "Inter-American Dialogue",
+        "label": "organisation",
+        "start": 133,
+        "end": 156
+      },
+      {
+        "text": "Citigroup",
+        "label": "organisation",
+        "start": 194,
+        "end": 203
+      }
+    ]
+  },
+  {
+    "text": "In the first years of his career Schrödinger became acquainted with the ideas of quantum theory, developed in the works of Max Planck, Albert Einstein, Niels Bohr, Arnold Sommerfeld, and others.",
+    "entities": [
+      {
+        "text": "Schrödinger",
+        "label": "scientist",
+        "start": 33,
+        "end": 44
+      },
+      {
+        "text": "Max Planck",
+        "label": "scientist",
+        "start": 123,
+        "end": 133
+      },
+      {
+        "text": "Albert Einstein",
+        "label": "scientist",
+        "start": 135,
+        "end": 150
+      },
+      {
+        "text": "Niels Bohr",
+        "label": "scientist",
+        "start": 152,
+        "end": 162
+      },
+      {
+        "text": "Arnold Sommerfeld",
+        "label": "scientist",
+        "start": 164,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "The results of his preliminary investigations were published in the journal Physikalische Zeitschrift in 1916 (a full paper was later published in Zeitschrift für Physik in 1922).",
+    "entities": []
+  },
+  {
+    "text": "Employing a starting feedstock mixture of 1-Butene and 2-Butene, which is known as Raffinate-2, produces phenol and a mixture of acetone and butanone instead of only phenol and acetone in the original.",
+    "entities": [
+      {
+        "text": "1-Butene",
+        "label": "chemicalcompound",
+        "start": 42,
+        "end": 50
+      },
+      {
+        "text": "2-Butene",
+        "label": "chemicalcompound",
+        "start": 55,
+        "end": 63
+      },
+      {
+        "text": "phenol",
+        "label": "chemicalcompound",
+        "start": 105,
+        "end": 111
+      },
+      {
+        "text": "acetone",
+        "label": "chemicalcompound",
+        "start": 129,
+        "end": 136
+      },
+      {
+        "text": "butanone",
+        "label": "chemicalcompound",
+        "start": 141,
+        "end": 149
+      },
+      {
+        "text": "phenol",
+        "label": "chemicalcompound",
+        "start": 166,
+        "end": 172
+      },
+      {
+        "text": "acetone",
+        "label": "chemicalcompound",
+        "start": 177,
+        "end": 184
+      }
+    ]
+  },
+  {
+    "text": "The AAA publishes more than 20 section publications including American Anthropologist, American Ethnologist, Cultural Anthropology, Anthropology & amp; Education Quarterly and Medical Anthropology Quarterly.",
+    "entities": [
+      {
+        "text": "AAA",
+        "label": "organisation",
+        "start": 4,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Oxidants are usually chemical substances with elements in high oxidation states, or else highly electronegative elements (Osub2 / sub, Fluorine, Chlorine, Bromine) that can gain extra electrons by oxidizing another substance.",
+    "entities": [
+      {
+        "text": "Oxidants",
+        "label": "chemicalcompound",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Osub2 / sub",
+        "label": "chemicalcompound",
+        "start": 122,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "Aluminium hydroxide, ferrous hydroxide, Hydroxide,",
+    "entities": [
+      {
+        "text": "Aluminium hydroxide",
+        "label": "chemicalcompound",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "ferrous hydroxide",
+        "label": "chemicalcompound",
+        "start": 21,
+        "end": 38
+      },
+      {
+        "text": "Hydroxide",
+        "label": "chemicalcompound",
+        "start": 40,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "While Caruso sang at such venues as La Scala in Milan, the Royal Opera House, in London, the Mariinsky Theatre in Saint Petersburg, and the Teatro Colón in Buenos Aires, he appeared most often at the Metropolitan Opera in New York City where he was the leading tenor for 18 consecutive seasons.",
+    "entities": [
+      {
+        "text": "Caruso",
+        "label": "person",
+        "start": 6,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Each halogen (Fluorine, Chlorine, Bromine, Iodine, At) forms a corresponding halomethane, but their stability decreases in order CFsub4 / sub & amp; gt; CHsub4 / sub & amp; gt; CClsub4 / sub & amp; gt; CBrsub4 / sub & amp; gt; CIsub4 / sub from exceptionally stable gaseous tetrafluoromethane with bond energy 515 kJ.molsup − 1 / sup to solid tetraiodomethane, depending on bond energy.",
+    "entities": [
+      {
+        "text": "halomethane",
+        "label": "chemicalcompound",
+        "start": 77,
+        "end": 88
+      },
+      {
+        "text": "CFsub4 / sub",
+        "label": "chemicalcompound",
+        "start": 129,
+        "end": 141
+      },
+      {
+        "text": "CHsub4 / sub",
+        "label": "chemicalcompound",
+        "start": 153,
+        "end": 165
+      },
+      {
+        "text": "CClsub4 / sub",
+        "label": "chemicalcompound",
+        "start": 177,
+        "end": 190
+      },
+      {
+        "text": "CBrsub4 / sub",
+        "label": "chemicalcompound",
+        "start": 202,
+        "end": 215
+      },
+      {
+        "text": "CIsub4 / sub",
+        "label": "chemicalcompound",
+        "start": 227,
+        "end": 239
+      },
+      {
+        "text": "tetrafluoromethane",
+        "label": "chemicalcompound",
+        "start": 274,
+        "end": 292
+      },
+      {
+        "text": "tetraiodomethane",
+        "label": "chemicalcompound",
+        "start": 343,
+        "end": 359
+      }
+    ]
+  },
+  {
+    "text": "Also, Mercury's fairly eccentric orbit makes it much easier to detect the perihelion shift than is the case for the nearly circular orbits of Venus and Earth.",
+    "entities": [
+      {
+        "text": "Mercury",
+        "label": "astronomicalobject",
+        "start": 6,
+        "end": 13
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 142,
+        "end": 147
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 152,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "text": "Hewish has Honorary degrees from six universities including Manchester, Exeter and Cambridge, is a Foreign Member of the Belgian Royal Academy and the American Academy of Arts and Sciences and the Indian National Science Academy.",
+    "entities": [
+      {
+        "text": "Hewish",
+        "label": "scientist",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Belgian Royal Academy",
+        "label": "organisation",
+        "start": 121,
+        "end": 142
+      },
+      {
+        "text": "American Academy of Arts and Sciences",
+        "label": "organisation",
+        "start": 151,
+        "end": 188
+      },
+      {
+        "text": "Indian National Science Academy",
+        "label": "organisation",
+        "start": 197,
+        "end": 228
+      }
+    ]
+  },
+  {
+    "text": "Jingūji has been voiced by Yukimasa Kishino, Akio Ōtsuka, Jūrōta Kosugi, and Kaoru Katō; Yōko by Tsumugi Ōsawa, Yōko Saitō, Fumiko Orikasa, Kazue Nakamoto, Seiko Yoshida, and Mamiko Noto; and Sanzō by Fumihiko Tachiki, Kōji Ishii, Masaaki Tsukada, and Naomi Otome.",
+    "entities": [
+      {
+        "text": "Yukimasa Kishino",
+        "label": "person",
+        "start": 27,
+        "end": 43
+      },
+      {
+        "text": "Akio Ōtsuka",
+        "label": "person",
+        "start": 45,
+        "end": 56
+      },
+      {
+        "text": "Jūrōta Kosugi",
+        "label": "person",
+        "start": 58,
+        "end": 71
+      },
+      {
+        "text": "Kaoru Katō",
+        "label": "person",
+        "start": 77,
+        "end": 87
+      },
+      {
+        "text": "Yōko",
+        "label": "person",
+        "start": 89,
+        "end": 93
+      },
+      {
+        "text": "Tsumugi Ōsawa",
+        "label": "person",
+        "start": 97,
+        "end": 110
+      },
+      {
+        "text": "Yōko Saitō",
+        "label": "person",
+        "start": 112,
+        "end": 122
+      },
+      {
+        "text": "Fumiko Orikasa",
+        "label": "person",
+        "start": 124,
+        "end": 138
+      },
+      {
+        "text": "Kazue Nakamoto",
+        "label": "person",
+        "start": 140,
+        "end": 154
+      },
+      {
+        "text": "Seiko Yoshida",
+        "label": "person",
+        "start": 156,
+        "end": 169
+      },
+      {
+        "text": "Mamiko Noto",
+        "label": "person",
+        "start": 175,
+        "end": 186
+      },
+      {
+        "text": "Sanzō",
+        "label": "person",
+        "start": 192,
+        "end": 197
+      },
+      {
+        "text": "Fumihiko Tachiki",
+        "label": "person",
+        "start": 201,
+        "end": 217
+      },
+      {
+        "text": "Kōji Ishii",
+        "label": "person",
+        "start": 219,
+        "end": 229
+      },
+      {
+        "text": "Masaaki Tsukada",
+        "label": "person",
+        "start": 231,
+        "end": 246
+      },
+      {
+        "text": "Naomi Otome",
+        "label": "person",
+        "start": 252,
+        "end": 263
+      }
+    ]
+  },
+  {
+    "text": "He was educated at the Odessa University (1922-23) and at the Saint Petersburg State University (1923-1929).",
+    "entities": []
+  },
+  {
+    "text": "Between 2006 and 2019, ICRANet has released over 1800 scientific publications in refereed journals such as Physical Review, the The Astrophysical Journal, Astronomy and Astrophysics etc.",
+    "entities": [
+      {
+        "text": "ICRANet",
+        "label": "organisation",
+        "start": 23,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "Walter Kohn, for his development of the density-functional theory, and John Pople, for his development of computational methods in quantum chemistry, received the 1998 Nobel Prize in Chemistry.",
+    "entities": [
+      {
+        "text": "Walter Kohn",
+        "label": "scientist",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "John Pople",
+        "label": "scientist",
+        "start": 71,
+        "end": 81
+      }
+    ]
+  },
+  {
+    "text": "Eigen received his Ph.D. at the University of Göttingen in 1951 under supervision of Arnold Eucken.",
+    "entities": [
+      {
+        "text": "Eigen",
+        "label": "scientist",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Arnold Eucken",
+        "label": "scientist",
+        "start": 85,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "text": "Fraser has been an editor for journals mBio, Journal of Bacteriology, Microbial Genomics (journal), Molecular Case Studies, and DNA and Cell Biology.",
+    "entities": [
+      {
+        "text": "Fraser",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "It includes the Rame Peninsula and the town of Torpoint, as well as villages like Antony, Downderry, Polbathic, Portwrinkle and Widegates.",
+    "entities": []
+  },
+  {
+    "text": "Due to the immense size of the Jupiter system and the relative closeness of the Jovian system to Earth in comparison to the closeness of Pluto to Earth, New Horizons sent back more data to Earth from the Jupiter encounter than the Pluto encounter.",
+    "entities": [
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 31,
+        "end": 38
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 97,
+        "end": 102
+      },
+      {
+        "text": "Pluto",
+        "label": "astronomicalobject",
+        "start": 137,
+        "end": 142
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 146,
+        "end": 151
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 189,
+        "end": 194
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 204,
+        "end": 211
+      },
+      {
+        "text": "Pluto",
+        "label": "astronomicalobject",
+        "start": 231,
+        "end": 236
+      }
+    ]
+  },
+  {
+    "text": "On the other three gas giant s (Saturn, Uranus and Neptune) eclipses only occur at certain periods during the planet's orbit, due to their higher inclination between the orbits of the moon and the orbital plane of the planet.",
+    "entities": [
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 32,
+        "end": 38
+      },
+      {
+        "text": "Uranus",
+        "label": "astronomicalobject",
+        "start": 40,
+        "end": 46
+      },
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 51,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "Various organizations gave evidence to the Scottish Executive during the consultation process, including the Royal College of Surgeons of Edinburgh, the Wellcome Trust, and the Museums Association.",
+    "entities": [
+      {
+        "text": "Scottish Executive",
+        "label": "person",
+        "start": 43,
+        "end": 61
+      },
+      {
+        "text": "Royal College of Surgeons of Edinburgh",
+        "label": "organisation",
+        "start": 109,
+        "end": 147
+      },
+      {
+        "text": "Wellcome Trust",
+        "label": "organisation",
+        "start": 153,
+        "end": 167
+      },
+      {
+        "text": "Museums Association",
+        "label": "organisation",
+        "start": 177,
+        "end": 196
+      }
+    ]
+  },
+  {
+    "text": "On August 11, 2014, astronomers released studies, using the Atacama Large Millimeter / Submillimeter Array (ALMA) for the first time, that detailed the distribution of Hydrogen cyanide, Hydrogen isocyanide, Formaldehyde, and dust inside the comae of comet s C / 2012 F6 (Lemmon) and C / 2012 S1 (ISON).",
+    "entities": [
+      {
+        "text": "Hydrogen cyanide",
+        "label": "chemicalcompound",
+        "start": 168,
+        "end": 184
+      },
+      {
+        "text": "Hydrogen isocyanide",
+        "label": "chemicalcompound",
+        "start": 186,
+        "end": 205
+      },
+      {
+        "text": "Formaldehyde",
+        "label": "chemicalcompound",
+        "start": 207,
+        "end": 219
+      },
+      {
+        "text": "comet s C / 2012 F6",
+        "label": "astronomicalobject",
+        "start": 250,
+        "end": 269
+      },
+      {
+        "text": "Lemmon",
+        "label": "astronomicalobject",
+        "start": 271,
+        "end": 277
+      },
+      {
+        "text": "C / 2012 S1",
+        "label": "astronomicalobject",
+        "start": 283,
+        "end": 294
+      },
+      {
+        "text": "ISON",
+        "label": "astronomicalobject",
+        "start": 296,
+        "end": 300
+      }
+    ]
+  },
+  {
+    "text": "The album earned Usher numerous awards, including two Grammy Award s, three Billboard Music Awards and a BET Awards.",
+    "entities": [
+      {
+        "text": "Usher",
+        "label": "person",
+        "start": 17,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "It is probably the fifth- most-massive asteroid after Ceres, 4 Vesta, 2 Pallas, and 10 Hygiea, with a mass estimated to be 1.2% of the mass of the entire asteroid belt.",
+    "entities": [
+      {
+        "text": "Ceres",
+        "label": "astronomicalobject",
+        "start": 54,
+        "end": 59
+      },
+      {
+        "text": "4 Vesta",
+        "label": "astronomicalobject",
+        "start": 61,
+        "end": 68
+      },
+      {
+        "text": "2 Pallas",
+        "label": "astronomicalobject",
+        "start": 70,
+        "end": 78
+      },
+      {
+        "text": "10 Hygiea",
+        "label": "astronomicalobject",
+        "start": 84,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "text": "The transform provides an alternative approach to analytic wave front set s of distributions, developed independently by the Japanese mathematicians Mikio Sato, Masaki Kashiwara and Takahiro Kawai in their approach to microlocal analysis.",
+    "entities": [
+      {
+        "text": "Mikio Sato",
+        "label": "scientist",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "Masaki Kashiwara",
+        "label": "scientist",
+        "start": 161,
+        "end": 177
+      },
+      {
+        "text": "Takahiro Kawai",
+        "label": "scientist",
+        "start": 182,
+        "end": 196
+      }
+    ]
+  },
+  {
+    "text": "During that year, he moved to University of Würzburg and two years later, in 1869 to University of Bonn.",
+    "entities": []
+  },
+  {
+    "text": "The group included the physicists Walther Bothe, Robert Döpel, Hans Geiger, Wolfgang Gentner (probably sent by Walther Bothe), Wilhelm Hanle, Gerhard Hoffmann, and Georg Joos; Peter Debye was invited, but he did not attend.",
+    "entities": [
+      {
+        "text": "Walther Bothe",
+        "label": "scientist",
+        "start": 34,
+        "end": 47
+      },
+      {
+        "text": "Robert Döpel",
+        "label": "scientist",
+        "start": 49,
+        "end": 61
+      },
+      {
+        "text": "Hans Geiger",
+        "label": "scientist",
+        "start": 63,
+        "end": 74
+      },
+      {
+        "text": "Wolfgang Gentner",
+        "label": "scientist",
+        "start": 76,
+        "end": 92
+      },
+      {
+        "text": "Walther Bothe",
+        "label": "scientist",
+        "start": 111,
+        "end": 124
+      },
+      {
+        "text": "Wilhelm Hanle",
+        "label": "scientist",
+        "start": 127,
+        "end": 140
+      },
+      {
+        "text": "Gerhard Hoffmann",
+        "label": "scientist",
+        "start": 142,
+        "end": 158
+      },
+      {
+        "text": "Georg Joos",
+        "label": "scientist",
+        "start": 164,
+        "end": 174
+      },
+      {
+        "text": "Peter Debye",
+        "label": "scientist",
+        "start": 176,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "text": "Her laboratory has determined the structures of numerous large protein complexes that play critically important roles in immune signaling, including structures of TRAFs, Myddosome and IKK-beta in Toll-like receptor, the Inflammasome, and the synaptic Recombination-activating gene.",
+    "entities": []
+  },
+  {
+    "text": "He was awarded the William Bowie Medal by the American Geophysical Union, the Alexander Agassiz Medal of the National Academy of Sciences, the Medal of the Royal Geographical Society, the Vega Medal by the Swedish Society for Anthropology and Geography and the Sweden Order of the Polar Star.",
+    "entities": []
+  },
+  {
+    "text": "On February 12, 2005, he was given a Grammy Lifetime Achievement Award by The Recording Academy.",
+    "entities": [
+      {
+        "text": "The Recording Academy",
+        "label": "organisation",
+        "start": 74,
+        "end": 95
+      }
+    ]
+  },
+  {
+    "text": "CoRoT discovered its first two planets in 2007: the hot Jupiter s CoRoT-1b and CoRoT-2b.",
+    "entities": [
+      {
+        "text": "hot Jupiter",
+        "label": "astronomicalobject",
+        "start": 52,
+        "end": 63
+      },
+      {
+        "text": "CoRoT-1b",
+        "label": "astronomicalobject",
+        "start": 66,
+        "end": 74
+      },
+      {
+        "text": "CoRoT-2b",
+        "label": "astronomicalobject",
+        "start": 79,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "text": "The International Astronomical Union named 6216 San Jose to honor the city's efforts toward reducing light pollution.",
+    "entities": [
+      {
+        "text": "International Astronomical Union",
+        "label": "organisation",
+        "start": 4,
+        "end": 36
+      },
+      {
+        "text": "6216 San Jose",
+        "label": "astronomicalobject",
+        "start": 43,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "text": "Palsson serves on the editorial board of several scientific journals including Annals of Biomedical Engineering, Biotechnology and Bioengineering, Metabolic Engineering and Molecular Systems Biology.",
+    "entities": [
+      {
+        "text": "Palsson",
+        "label": "scientist",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "The name was suggested by John Herschel (son of William Herschel, discoverer of Mimas and Enceladus) in his 1847 publication Results of Astronomical Observations made at the Cape of Good Hope, in which he advocated naming the moons of Saturn after the Titans, brothers and sisters of the Titan Cronus (whom the Romans equated with their god Saturn).",
+    "entities": [
+      {
+        "text": "John Herschel",
+        "label": "scientist",
+        "start": 26,
+        "end": 39
+      },
+      {
+        "text": "William Herschel",
+        "label": "scientist",
+        "start": 48,
+        "end": 64
+      },
+      {
+        "text": "Mimas",
+        "label": "astronomicalobject",
+        "start": 80,
+        "end": 85
+      },
+      {
+        "text": "Enceladus",
+        "label": "astronomicalobject",
+        "start": 90,
+        "end": 99
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 235,
+        "end": 241
+      },
+      {
+        "text": "Titans",
+        "label": "astronomicalobject",
+        "start": 252,
+        "end": 258
+      },
+      {
+        "text": "Titan Cronus",
+        "label": "person",
+        "start": 288,
+        "end": 300
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 341,
+        "end": 347
+      }
+    ]
+  },
+  {
+    "text": "He was awarded the 1999 Nobel Prize in Chemistry for his work on femtochemistry and became the first Egyptian to win a Nobel Prize in a scientific field.",
+    "entities": []
+  },
+  {
+    "text": "In August 1955, Grissom was reassigned to the U.S. Air Force Institute of Technology at Wright-Patterson Air Force Base near Dayton, Ohio.",
+    "entities": [
+      {
+        "text": "Grissom",
+        "label": "person",
+        "start": 16,
+        "end": 23
+      },
+      {
+        "text": "Wright-Patterson Air Force Base",
+        "label": "organisation",
+        "start": 88,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "They were proposed independently by Alfred J. Lotka in 1925 and Vito Volterra in 1926.",
+    "entities": [
+      {
+        "text": "Alfred J. Lotka",
+        "label": "scientist",
+        "start": 36,
+        "end": 51
+      },
+      {
+        "text": "Vito Volterra",
+        "label": "scientist",
+        "start": 64,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "STAT6, IRF4, GATA3 are absolutely required for TsubH / sub9 cell development and other such as PU.1, BATF, NF-κB, NFAT1, STAT5, AP-1 transcription factor contribute to TsubH / sub9 sub-population commitment and to IL-9 production.",
+    "entities": []
+  },
+  {
+    "text": "Galaxies and protostar s usually show differential rotation; examples in the Solar System include the Sun, Jupiter and Saturn.",
+    "entities": [
+      {
+        "text": "Galaxies",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "protostar",
+        "label": "astronomicalobject",
+        "start": 13,
+        "end": 22
+      },
+      {
+        "text": "Sun",
+        "label": "astronomicalobject",
+        "start": 102,
+        "end": 105
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 107,
+        "end": 114
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 119,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "The Right Stuff won four Academy Awards: for Academy Award for Best Sound Editing (Jay Boekelheide), for Academy Award for Best Film Editing, for Academy Award for Best Original Score and for Academy Award for Best Sound Mixing (Mark Berger, Tom Scott, Randy Thom and David MacMillan).",
+    "entities": [
+      {
+        "text": "Jay Boekelheide",
+        "label": "person",
+        "start": 83,
+        "end": 98
+      },
+      {
+        "text": "Mark Berger",
+        "label": "person",
+        "start": 229,
+        "end": 240
+      },
+      {
+        "text": "Tom Scott",
+        "label": "person",
+        "start": 242,
+        "end": 251
+      },
+      {
+        "text": "Randy Thom",
+        "label": "person",
+        "start": 253,
+        "end": 263
+      },
+      {
+        "text": "David MacMillan",
+        "label": "person",
+        "start": 268,
+        "end": 283
+      }
+    ]
+  },
+  {
+    "text": "During his life, in addition to the Nobel Prize, Hopkins was awarded the Royal Medal of the Royal Society in 1918, the Cameron Prize for Therapeutics of the University of Edinburgh in 1922, and the Copley Medal of the Royal Society in 1926.",
+    "entities": [
+      {
+        "text": "Hopkins",
+        "label": "person",
+        "start": 49,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "text": "As demonstrated by Temin and Baltimore, who shared the Nobel Prize in Physiology or Medicine with Dulbecco, the transfer of viral genes to the cell is mediated by an enzyme called reverse transcriptase (or, more precisely, RNA-dependent DNA polymerase), which replicates the viral genome (in this case made of RNA) into DNA, which is later incorporated in the host genome.",
+    "entities": [
+      {
+        "text": "Temin",
+        "label": "scientist",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "Baltimore",
+        "label": "scientist",
+        "start": 29,
+        "end": 38
+      },
+      {
+        "text": "Dulbecco",
+        "label": "scientist",
+        "start": 98,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "Starling's successor, Archibald Hill, fostered the career of Bernard Katz, whose long association with UCL began in 1935.",
+    "entities": [
+      {
+        "text": "Starling",
+        "label": "scientist",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Archibald Hill",
+        "label": "scientist",
+        "start": 22,
+        "end": 36
+      },
+      {
+        "text": "Bernard Katz",
+        "label": "scientist",
+        "start": 61,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "She also played at 1986, 1989, 1993, 1995 AFC Championship, 1990, Football at the 1994 Asian Games.",
+    "entities": []
+  },
+  {
+    "text": "One aspect, the idea of modelling atomic behaviour under incident electromagnetic radiation using virtual oscillators at the absorption and emission frequencies, rather than the (different) apparent frequencies of the Bohr orbits, significantly led Max Born, Werner Heisenberg and Kramers to explore mathematics that strongly inspired the subsequent development of matrix mechanics, the first form of modern quantum mechanics.",
+    "entities": [
+      {
+        "text": "Max Born",
+        "label": "scientist",
+        "start": 249,
+        "end": 257
+      },
+      {
+        "text": "Werner Heisenberg",
+        "label": "scientist",
+        "start": 259,
+        "end": 276
+      },
+      {
+        "text": "Kramers",
+        "label": "scientist",
+        "start": 281,
+        "end": 288
+      }
+    ]
+  },
+  {
+    "text": "A research into the mutual perturbations of Jupiter and Saturn secured for him the prize of the Berlin Academy in 1830, and a memoir on cometary disturbances was crowned by the Paris Academy in 1850.",
+    "entities": [
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 44,
+        "end": 51
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 56,
+        "end": 62
+      },
+      {
+        "text": "Berlin Academy",
+        "label": "organisation",
+        "start": 96,
+        "end": 110
+      },
+      {
+        "text": "Paris Academy",
+        "label": "organisation",
+        "start": 177,
+        "end": 190
+      }
+    ]
+  },
+  {
+    "text": "Another absolute instrumental approach was also possible with the development of light scattering theory by Einstein, Raman, Peter Debye, Bruno H. Zimm, and others.",
+    "entities": [
+      {
+        "text": "Einstein",
+        "label": "scientist",
+        "start": 108,
+        "end": 116
+      },
+      {
+        "text": "Raman",
+        "label": "scientist",
+        "start": 118,
+        "end": 123
+      },
+      {
+        "text": "Peter Debye",
+        "label": "scientist",
+        "start": 125,
+        "end": 136
+      },
+      {
+        "text": "Bruno H. Zimm",
+        "label": "scientist",
+        "start": 138,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "More recently, some of the top awards for geophysicists are the Vetlesen Prize (intended to be the equivalent of a Nobel Prize for geology or geophysics); the William Bowie Medal (the top award of the American Geophysical Union); and the Crafoord Prize for geosciences.",
+    "entities": [
+      {
+        "text": "American Geophysical Union",
+        "label": "organisation",
+        "start": 201,
+        "end": 227
+      }
+    ]
+  },
+  {
+    "text": "Occultations have also been used to estimate the diameter of trans-Neptunian object s such as, 28978 Ixion, and 20000 Varuna.",
+    "entities": [
+      {
+        "text": "trans-Neptunian object",
+        "label": "astronomicalobject",
+        "start": 61,
+        "end": 83
+      },
+      {
+        "text": "28978 Ixion",
+        "label": "astronomicalobject",
+        "start": 95,
+        "end": 106
+      },
+      {
+        "text": "20000 Varuna",
+        "label": "astronomicalobject",
+        "start": 112,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "Taurasi also received many personal accolades at UConn including the 2003 and 2004 Naismith College Player of the Year awards, the 2003 Wade Trophy, the 2003 and 2004 Honda Sports Award and the 2003 Associated Press Player of the Year award.",
+    "entities": [
+      {
+        "text": "Taurasi",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "In 2015, Hill was a Professor at the Ontario Cancer Institute and a Senior Scientist at the Princess Margaret Cancer Centre within the University Health Network, which is affiliated with the University of Toronto Faculty of Medicine.",
+    "entities": [
+      {
+        "text": "Hill",
+        "label": "scientist",
+        "start": 9,
+        "end": 13
+      },
+      {
+        "text": "Ontario Cancer Institute",
+        "label": "organisation",
+        "start": 37,
+        "end": 61
+      },
+      {
+        "text": "Princess Margaret Cancer Centre",
+        "label": "organisation",
+        "start": 92,
+        "end": 123
+      },
+      {
+        "text": "University of Toronto Faculty of Medicine",
+        "label": "organisation",
+        "start": 191,
+        "end": 232
+      }
+    ]
+  },
+  {
+    "text": "The Msub2 / sub muscarinic receptors decrease the heart rate by inhibiting depolarization of the sinoatrial node via Gi alpha subunit - G protein-coupled receptor and through modulation of muscarinic potassium channels.",
+    "entities": [
+      {
+        "text": "Msub2 / sub muscarinic receptors",
+        "label": "chemicalcompound",
+        "start": 4,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "In season three, two actors were promoted from recurring to starring roles: Henry Ian Cusick as former Scottish soldier Desmond Hume; and Michael Emerson as the manipulative leader of the Others, Ben Linus.",
+    "entities": [
+      {
+        "text": "Henry Ian Cusick",
+        "label": "person",
+        "start": 76,
+        "end": 92
+      },
+      {
+        "text": "Desmond Hume",
+        "label": "person",
+        "start": 120,
+        "end": 132
+      },
+      {
+        "text": "Michael Emerson",
+        "label": "person",
+        "start": 138,
+        "end": 153
+      },
+      {
+        "text": "Ben Linus",
+        "label": "person",
+        "start": 196,
+        "end": 205
+      }
+    ]
+  },
+  {
+    "text": "A key step in nitrification is the oxidation of ammonia to hydroxylamine (NH2OH) catalyzed by the enzyme Ammonia monooxygenase (AMO) .Arciero, D.; Vannelli, T.; Logan, M.; Hopper, A. B.Degradation of trichloroethylene by the ammonia-oxidizing bacterium Nitrosomonas europaea Biochem.",
+    "entities": [
+      {
+        "text": "ammonia",
+        "label": "chemicalcompound",
+        "start": 48,
+        "end": 55
+      },
+      {
+        "text": "hydroxylamine",
+        "label": "chemicalcompound",
+        "start": 59,
+        "end": 72
+      },
+      {
+        "text": "NH2OH",
+        "label": "chemicalcompound",
+        "start": 74,
+        "end": 79
+      },
+      {
+        "text": ".Arciero, D.",
+        "label": "person",
+        "start": 133,
+        "end": 145
+      },
+      {
+        "text": "Vannelli, T.",
+        "label": "person",
+        "start": 147,
+        "end": 159
+      },
+      {
+        "text": "Logan, M.",
+        "label": "person",
+        "start": 161,
+        "end": 170
+      },
+      {
+        "text": "Hopper, A.",
+        "label": "person",
+        "start": 172,
+        "end": 182
+      },
+      {
+        "text": "trichloroethylene",
+        "label": "chemicalcompound",
+        "start": 200,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "They also noticed the similarity between this test theory and Lorentz ether theory of Hendrik Lorentz, Joseph Larmor and Henri Poincaré.",
+    "entities": [
+      {
+        "text": "Hendrik Lorentz",
+        "label": "scientist",
+        "start": 86,
+        "end": 101
+      },
+      {
+        "text": "Joseph Larmor",
+        "label": "scientist",
+        "start": 103,
+        "end": 116
+      },
+      {
+        "text": "Henri Poincaré",
+        "label": "scientist",
+        "start": 121,
+        "end": 135
+      }
+    ]
+  },
+  {
+    "text": "Joly was elected a Fellow of the Royal Society of London in 1892, was awarded the Boyle Medal of the Royal Dublin Society in 1911,, a student geological association established in 1960.",
+    "entities": [
+      {
+        "text": "Joly",
+        "label": "scientist",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Royal Dublin Society",
+        "label": "organisation",
+        "start": 101,
+        "end": 121
+      }
+    ]
+  },
+  {
+    "text": "The single Jeremy received Grammy Award nominations for Best Rock Song and Grammy Award for Best Hard Rock Performance in 1993 and Jeremy was ranked number 11 on VH1 ' s list of the 100 greatest songs of the ' 90s.",
+    "entities": [
+      {
+        "text": "Jeremy",
+        "label": "person",
+        "start": 11,
+        "end": 17
+      },
+      {
+        "text": "Jeremy",
+        "label": "person",
+        "start": 131,
+        "end": 137
+      }
+    ]
+  },
+  {
+    "text": "Gavrilo Princip, Nedeljko Čabrinović and Trifko Grabež were smuggled across the border back into Bosnia via a chain of underground-railroad style contacts.",
+    "entities": [
+      {
+        "text": "Gavrilo Princip",
+        "label": "person",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Nedeljko Čabrinović",
+        "label": "person",
+        "start": 17,
+        "end": 36
+      },
+      {
+        "text": "Trifko Grabež",
+        "label": "person",
+        "start": 41,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "The Fall of Singapore in February 1942 led him to offer his services to John Madsen, the Professor of Electrical Engineering at the University of Sydney, and the head of the Radiophysics Laboratory at the Council for Scientific and Industrial Research, which was responsible for developing radar.",
+    "entities": [
+      {
+        "text": "John Madsen",
+        "label": "scientist",
+        "start": 72,
+        "end": 83
+      },
+      {
+        "text": "Radiophysics Laboratory",
+        "label": "organisation",
+        "start": 174,
+        "end": 197
+      },
+      {
+        "text": "Council for Scientific and Industrial Research",
+        "label": "organisation",
+        "start": 205,
+        "end": 251
+      }
+    ]
+  },
+  {
+    "text": "Interaction of PAMPs with PRPs (pattern-recognition proteins) activates a series of Serine protease and those proteolytically cleave the prophenoloxidase (proPO) zymogen and activate phenoxidase (PO).",
+    "entities": []
+  },
+  {
+    "text": "The staff also produce articles on human and animal genetics topics such as gene splicing, CRISPR, government regulation, bioethics, use of stem cells, transhumanism, nanotechnology and synthetic biology.",
+    "entities": []
+  },
+  {
+    "text": "Other alumni include scientists who were distinguished with the highest honours in their respective fields, amongst them Fields Medal, Pritzker Prize and Turing Award winners.",
+    "entities": []
+  },
+  {
+    "text": "Aryl hydrocarbon receptor repressor and F2RL3 are similarly hypomethylated in smokers.",
+    "entities": []
+  },
+  {
+    "text": "Various acids were used in the past such as Phosphoric acid as used in Calcium Lime Rust Remover (CLR) and Hydrofluoric acid as used in the Australian product made in Queensland called Rustiban.",
+    "entities": [
+      {
+        "text": "Phosphoric acid",
+        "label": "chemicalcompound",
+        "start": 44,
+        "end": 59
+      },
+      {
+        "text": "Hydrofluoric acid",
+        "label": "chemicalcompound",
+        "start": 107,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "In the second step react Phosphoribosylamine, glycine and ATP to create Glycineamide ribonucleotide, ADP, and pyrophosphate - catalyzed by phosphoribosylamine - glycine ligase (GAR synthetase).",
+    "entities": [
+      {
+        "text": "Phosphoribosylamine",
+        "label": "chemicalcompound",
+        "start": 25,
+        "end": 44
+      },
+      {
+        "text": "glycine",
+        "label": "chemicalcompound",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "ATP",
+        "label": "chemicalcompound",
+        "start": 58,
+        "end": 61
+      },
+      {
+        "text": "Glycineamide ribonucleotide",
+        "label": "chemicalcompound",
+        "start": 72,
+        "end": 99
+      },
+      {
+        "text": "ADP",
+        "label": "chemicalcompound",
+        "start": 101,
+        "end": 104
+      },
+      {
+        "text": "pyrophosphate",
+        "label": "chemicalcompound",
+        "start": 110,
+        "end": 123
+      }
+    ]
+  },
+  {
+    "text": "Additionally, in 1999, it received nominations for Saturn Award for Best Actress on Television (Claudia Black as former soldier Aeryn Sun) and Saturn Award for Best Supporting Actress on Television (Virginia Hey as the Delvian Priestess Pa 'u Zotoh Zhaan).",
+    "entities": [
+      {
+        "text": "Claudia Black",
+        "label": "person",
+        "start": 96,
+        "end": 109
+      },
+      {
+        "text": "Aeryn Sun",
+        "label": "person",
+        "start": 128,
+        "end": 137
+      },
+      {
+        "text": "Virginia Hey",
+        "label": "person",
+        "start": 199,
+        "end": 211
+      },
+      {
+        "text": "Pa 'u Zotoh Zhaan",
+        "label": "person",
+        "start": 237,
+        "end": 254
+      }
+    ]
+  },
+  {
+    "text": "He also received the Rumford Medal of the British Royal Society in 1896, jointly with Philipp Lenard, who had already shown that a portion of the cathode rays could pass through a thin film of a metal such as aluminum.",
+    "entities": [
+      {
+        "text": "Philipp Lenard",
+        "label": "scientist",
+        "start": 86,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "text": "Simpson's other great passions were astronomy (he was a member of the British Astronomical Association and - unusually for an amateur - was made a Fellow of the Royal Astronomical Society) and pacifism, specifically addressed in the title of his Tenth String Quartet, For Peace.",
+    "entities": [
+      {
+        "text": "Simpson",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "British Astronomical Association",
+        "label": "organisation",
+        "start": 70,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "1 The eight planets are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+    "entities": [
+      {
+        "text": "Mercury",
+        "label": "astronomicalobject",
+        "start": 25,
+        "end": 32
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 34,
+        "end": 39
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 41,
+        "end": 46
+      },
+      {
+        "text": "Mars",
+        "label": "astronomicalobject",
+        "start": 48,
+        "end": 52
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 54,
+        "end": 61
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 63,
+        "end": 69
+      },
+      {
+        "text": "Uranus",
+        "label": "astronomicalobject",
+        "start": 71,
+        "end": 77
+      },
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 83,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "text": "Friedmann Peak, in the Darwin Mountains of Antarctica, where she co-discovered endolith ic microorganisms in the Beacon sandstone, is named after her.",
+    "entities": []
+  },
+  {
+    "text": "Ting was awarded Ernest Orlando Lawrence Award (in 1976), Nobel Prize in Physics (in 1976), Eringen Medal (in 1977), DeGaspari Award in Science from the Government of Italy (in 1988), Gold Medal for Science from Brescia, Italy (in 1988), and NASA Public Service Medal (in 2001).",
+    "entities": [
+      {
+        "text": "Ting",
+        "label": "scientist",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "NASA",
+        "label": "organisation",
+        "start": 242,
+        "end": 246
+      }
+    ]
+  },
+  {
+    "text": "The study showed that CRISPR is could effectively be used as a gene-editing tool in human 2PN zygotes, which could lead potentially pregnancy viable if implanted.",
+    "entities": []
+  },
+  {
+    "text": "The invitees included Walther Bothe, Siegfried Flügge, Hans Geiger, Otto Hahn, Paul Harteck, Gerhard Hoffmann, Josef Mattauch, and Georg Stetter.",
+    "entities": [
+      {
+        "text": "Walther Bothe",
+        "label": "scientist",
+        "start": 22,
+        "end": 35
+      },
+      {
+        "text": "Siegfried Flügge",
+        "label": "scientist",
+        "start": 37,
+        "end": 53
+      },
+      {
+        "text": "Hans Geiger",
+        "label": "scientist",
+        "start": 55,
+        "end": 66
+      },
+      {
+        "text": "Otto Hahn",
+        "label": "scientist",
+        "start": 68,
+        "end": 77
+      },
+      {
+        "text": "Paul Harteck",
+        "label": "scientist",
+        "start": 79,
+        "end": 91
+      },
+      {
+        "text": "Gerhard Hoffmann",
+        "label": "scientist",
+        "start": 93,
+        "end": 109
+      },
+      {
+        "text": "Josef Mattauch",
+        "label": "scientist",
+        "start": 111,
+        "end": 125
+      },
+      {
+        "text": "Georg Stetter",
+        "label": "scientist",
+        "start": 131,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "In 1966 Maiman received the American Physical Society ' s Oliver E. Buckley Condensed Matter Prize and the Hertz Foundation Award for distinguished contribution in the field of science,",
+    "entities": [
+      {
+        "text": "Maiman",
+        "label": "scientist",
+        "start": 8,
+        "end": 14
+      },
+      {
+        "text": "American Physical Society",
+        "label": "organisation",
+        "start": 28,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "text": "The NLR proteins are not linear: the NB-ARC domain is sandwiched in between the Leucine-rich repeat and Toll-Interleukin receptor / CC domains.",
+    "entities": []
+  },
+  {
+    "text": "In the middle of the century, the Boone and Crockett Club and the Safari Club International developed complex scoring systems based on various dimensions and the number of tines or points, and they keep extensive records of high-scoring antlers.",
+    "entities": [
+      {
+        "text": "Boone and Crockett Club",
+        "label": "organisation",
+        "start": 34,
+        "end": 57
+      },
+      {
+        "text": "Safari Club International",
+        "label": "organisation",
+        "start": 66,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "Michalak's estimate depends on the masses of 19 Fortuna, 29 Amphitrite, and 16 Psyche; thus this mass was obtained assuming an incomplete dynamical model.",
+    "entities": [
+      {
+        "text": "Michalak",
+        "label": "person",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "19 Fortuna",
+        "label": "astronomicalobject",
+        "start": 45,
+        "end": 55
+      },
+      {
+        "text": "29 Amphitrite",
+        "label": "astronomicalobject",
+        "start": 57,
+        "end": 70
+      },
+      {
+        "text": "16 Psyche",
+        "label": "astronomicalobject",
+        "start": 76,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "The celestial choir Kepler formed was made up of a tenor (Mars), two bass (Saturn and Jupiter), a soprano (Mercury), and two altos (Venus and Earth).",
+    "entities": [
+      {
+        "text": "Kepler",
+        "label": "scientist",
+        "start": 20,
+        "end": 26
+      },
+      {
+        "text": "Mars",
+        "label": "astronomicalobject",
+        "start": 58,
+        "end": 62
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 75,
+        "end": 81
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 86,
+        "end": 93
+      },
+      {
+        "text": "Mercury",
+        "label": "astronomicalobject",
+        "start": 107,
+        "end": 114
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 132,
+        "end": 137
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 142,
+        "end": 147
+      }
+    ]
+  },
+  {
+    "text": "He was sent to Sheppard Air Force Base in Wichita Falls, Texas, for five weeks of basic flight training, and was later stationed at Brooks Air Force Base in San Antonio, Texas.",
+    "entities": [
+      {
+        "text": "Sheppard Air Force Base",
+        "label": "organisation",
+        "start": 15,
+        "end": 38
+      },
+      {
+        "text": "Brooks Air Force Base",
+        "label": "organisation",
+        "start": 132,
+        "end": 153
+      }
+    ]
+  },
+  {
+    "text": "A second meeting was held soon thereafter and included Klaus Clusius, Robert Döpel, Werner Heisenberg, and Carl Friedrich von Weizsäcker.",
+    "entities": [
+      {
+        "text": "Klaus Clusius",
+        "label": "scientist",
+        "start": 55,
+        "end": 68
+      },
+      {
+        "text": "Robert Döpel",
+        "label": "scientist",
+        "start": 70,
+        "end": 82
+      },
+      {
+        "text": "Werner Heisenberg",
+        "label": "scientist",
+        "start": 84,
+        "end": 101
+      },
+      {
+        "text": "Carl Friedrich von Weizsäcker",
+        "label": "scientist",
+        "start": 107,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "Organizations such as Community Forestry International, Cool Earth, The Nature Conservancy, World Wide Fund for Nature, Conservation International, African Conservation Foundation and Greenpeace also focus on preserving forest habitats.",
+    "entities": [
+      {
+        "text": "Community Forestry International",
+        "label": "organisation",
+        "start": 22,
+        "end": 54
+      },
+      {
+        "text": "Cool Earth",
+        "label": "organisation",
+        "start": 56,
+        "end": 66
+      },
+      {
+        "text": "The Nature Conservancy",
+        "label": "organisation",
+        "start": 68,
+        "end": 90
+      },
+      {
+        "text": "World Wide Fund for Nature",
+        "label": "organisation",
+        "start": 92,
+        "end": 118
+      },
+      {
+        "text": "Conservation International",
+        "label": "organisation",
+        "start": 120,
+        "end": 146
+      },
+      {
+        "text": "African Conservation Foundation",
+        "label": "organisation",
+        "start": 148,
+        "end": 179
+      },
+      {
+        "text": "Greenpeace",
+        "label": "organisation",
+        "start": 184,
+        "end": 194
+      }
+    ]
+  },
+  {
+    "text": "In 1969, Shenton persuaded Ellis Hillman, a University of East London lecturer, to become president of the Flat Earth Society; but there is little evidence of any activity on his part until after Shenton's death, when he added most of Shenton's library to the archives of the Science Fiction Foundation he helped to establish.",
+    "entities": [
+      {
+        "text": "Shenton",
+        "label": "person",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "Ellis Hillman",
+        "label": "person",
+        "start": 27,
+        "end": 40
+      },
+      {
+        "text": "Flat Earth Society",
+        "label": "organisation",
+        "start": 107,
+        "end": 125
+      },
+      {
+        "text": "Shenton",
+        "label": "person",
+        "start": 196,
+        "end": 203
+      },
+      {
+        "text": "Shenton",
+        "label": "person",
+        "start": 235,
+        "end": 242
+      },
+      {
+        "text": "Science Fiction Foundation",
+        "label": "organisation",
+        "start": 276,
+        "end": 302
+      }
+    ]
+  },
+  {
+    "text": "Cotton served on various editorial boards of scientific journals, including those of the Journal of the American Chemical Society, Inorganic Chemistry, and Organometallics.",
+    "entities": [
+      {
+        "text": "Cotton",
+        "label": "scientist",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "As examples, for Greeks, Constantine XI Palaiologos and Kolokotronis; and for Serbs, Miloš Obilić and Tzar Lazar; for Montenegrins, Đurađ I Balšić and Ivan Crnojević; for Albanians, George Kastrioti Skanderbeg; for ethnic Macedonians, Nikola Karev for Bulgarians, Vasil Levski, Georgi Sava Rakovski and Hristo Botev and for Croats, Nikola Šubić Zrinjski.",
+    "entities": [
+      {
+        "text": "Constantine XI Palaiologos",
+        "label": "person",
+        "start": 25,
+        "end": 51
+      },
+      {
+        "text": "Kolokotronis",
+        "label": "person",
+        "start": 56,
+        "end": 68
+      },
+      {
+        "text": "Miloš Obilić",
+        "label": "person",
+        "start": 85,
+        "end": 97
+      },
+      {
+        "text": "Tzar Lazar",
+        "label": "person",
+        "start": 102,
+        "end": 112
+      },
+      {
+        "text": "Đurađ I Balšić",
+        "label": "person",
+        "start": 132,
+        "end": 146
+      },
+      {
+        "text": "Ivan Crnojević",
+        "label": "person",
+        "start": 151,
+        "end": 165
+      },
+      {
+        "text": "George Kastrioti Skanderbeg",
+        "label": "person",
+        "start": 182,
+        "end": 209
+      },
+      {
+        "text": "Nikola Karev",
+        "label": "person",
+        "start": 235,
+        "end": 247
+      },
+      {
+        "text": "Vasil Levski",
+        "label": "person",
+        "start": 264,
+        "end": 276
+      },
+      {
+        "text": "Georgi Sava Rakovski",
+        "label": "person",
+        "start": 278,
+        "end": 298
+      },
+      {
+        "text": "Hristo Botev",
+        "label": "person",
+        "start": 303,
+        "end": 315
+      },
+      {
+        "text": "Nikola Šubić Zrinjski",
+        "label": "person",
+        "start": 332,
+        "end": 353
+      }
+    ]
+  },
+  {
+    "text": "He became an expert on the electrical conductivity of gases, the properties of ion s, and the behavior of atmospheric electricity, publishing in journals including the Physical Review, Journal of Applied Physics, Journal of Chemical Physics, and the Journal of Atmospheric Electricity and Terrestrial Magnetism.",
+    "entities": []
+  },
+  {
+    "text": "Supercritical fluids occur in the atmospheres of the gas giant s Jupiter and Saturn, and probably in those of the ice giant s Uranus and Neptune.",
+    "entities": [
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 65,
+        "end": 72
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 77,
+        "end": 83
+      },
+      {
+        "text": "Uranus",
+        "label": "astronomicalobject",
+        "start": 126,
+        "end": 132
+      },
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 137,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "In recognition of his contribution to the creation of modern electrical science, an international convention, signed at the 1881 International Exposition of Electricity, established the ampere as a standard unit of electrical measurement, along with the coulomb, volt, ohm, and watt, which are named, respectively, after Ampère's contemporaries Charles-Augustin de Coulomb of France, Alessandro Volta of Italy, Georg Ohm of Germany, and James Watt of Scotland.",
+    "entities": [
+      {
+        "text": "Ampère",
+        "label": "scientist",
+        "start": 321,
+        "end": 327
+      },
+      {
+        "text": "Charles-Augustin de Coulomb",
+        "label": "scientist",
+        "start": 345,
+        "end": 372
+      },
+      {
+        "text": "Alessandro Volta",
+        "label": "scientist",
+        "start": 384,
+        "end": 400
+      },
+      {
+        "text": "Georg Ohm",
+        "label": "scientist",
+        "start": 411,
+        "end": 420
+      },
+      {
+        "text": "James Watt",
+        "label": "scientist",
+        "start": 437,
+        "end": 447
+      }
+    ]
+  },
+  {
+    "text": "Venus and Earth (r6,000 km) have sufficiently low surface area-to-volume ratios (roughly half that of Mars and much lower than all other known rocky bodies) so that their heat loss is minimal.",
+    "entities": [
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "Mars",
+        "label": "astronomicalobject",
+        "start": 102,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "In 1999, Haraway received the Society for Social Studies of Science ' s (4S) Ludwik Fleck Prize.",
+    "entities": [
+      {
+        "text": "Haraway",
+        "label": "scientist",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "Society for Social Studies of Science",
+        "label": "organisation",
+        "start": 30,
+        "end": 67
+      },
+      {
+        "text": "4S",
+        "label": "organisation",
+        "start": 73,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "Dyson presented his observations of the solar eclipse of May 29, 1919 to a joint meeting of the Royal Society and Royal Astronomical Society on 6 November 1919.",
+    "entities": [
+      {
+        "text": "Dyson",
+        "label": "scientist",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Royal Society",
+        "label": "organisation",
+        "start": 96,
+        "end": 109
+      },
+      {
+        "text": "Royal Astronomical Society",
+        "label": "organisation",
+        "start": 114,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "The transcription factors STAT protein, NF-κB, p73, and p53 are among the many proteins that PIAS interacts with.",
+    "entities": []
+  },
+  {
+    "text": "Magnetogenetic techniques involve first fusing TRPV class receptors, which are selective calcium transporters, with a paramagnetic protein (typically Ferritin).",
+    "entities": []
+  },
+  {
+    "text": "However, various histone modifications are placed by epigenetic modifiers such as DNA methyltransferase in neurons and these marks regulate gene expression throughout the life span of the neuron.",
+    "entities": []
+  },
+  {
+    "text": "The most influential people were Erich Schumann, Abraham Esau, Walther Gerlach, and Kurt Diebner.",
+    "entities": [
+      {
+        "text": "Erich Schumann",
+        "label": "person",
+        "start": 33,
+        "end": 47
+      },
+      {
+        "text": "Abraham Esau",
+        "label": "person",
+        "start": 49,
+        "end": 61
+      },
+      {
+        "text": "Walther Gerlach",
+        "label": "person",
+        "start": 63,
+        "end": 78
+      },
+      {
+        "text": "Kurt Diebner",
+        "label": "person",
+        "start": 84,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "text": "Mechnikov was appointed docent at the newly established Odessa University (now Odessa University).",
+    "entities": [
+      {
+        "text": "Mechnikov",
+        "label": "scientist",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "He is the editor-in-chief of Conservation and Society, an interdisciplinary journal in conservation; associate editor of Ecology and Society; and academic editor of PLoS ONE.",
+    "entities": []
+  }
+]

@@ -1,0 +1,1272 @@
+[
+  {
+    "text": "It was released in hardback by Angus and Robertson in 1895, and features the poet's widely anthologised poems The Man from Snowy River, Clancy of the Overflow, Saltbush Bill and The Man from Ironbark.",
+    "entities": [
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 104,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "In a letter to P. Schuyler Miller and John Drury Clark in 1936, only three months before Howard's death, Conan is described as standing 6 ft / 183 cm and weighing when he takes part in an attack on Venarium at only 14 years old, though being far from fully grown.",
+    "entities": [
+      {
+        "text": "P. Schuyler Miller",
+        "label": "writer",
+        "start": 15,
+        "end": 33
+      },
+      {
+        "text": "John Drury Clark",
+        "label": "writer",
+        "start": 38,
+        "end": 54
+      },
+      {
+        "text": "Howard",
+        "label": "writer",
+        "start": 89,
+        "end": 95
+      },
+      {
+        "text": "Conan",
+        "label": "person",
+        "start": 105,
+        "end": 110
+      }
+    ]
+  },
+  {
+    "text": "A sequel to The Cardinal of the Kremlin (1988), main character Jack Ryan becomes acting Deputy Director of Intelligence in the Central Intelligence Agency, and discovers that he is being kept in the dark by his colleagues who are conducting a covert war against a drug cartel based in Colombia.",
+    "entities": [
+      {
+        "text": "The Cardinal of the Kremlin",
+        "label": "book",
+        "start": 12,
+        "end": 39
+      },
+      {
+        "text": "Jack Ryan",
+        "label": "person",
+        "start": 63,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "text": "A late (1890s) reference to the urban legend of the murderous barber can be found in the poem by the Australian bush poet Banjo Paterson - The Man from Ironbark.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 89,
+        "end": 93
+      },
+      {
+        "text": "Banjo Paterson",
+        "label": "person",
+        "start": 122,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "The first known science fiction television program was a thirty-five-minute adapted excerpt of the play RUR, written by the Czech playwright Karel Čapek, broadcast live from the BBC's Alexandra Palace studios on 11 February 1938.",
+    "entities": [
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 16,
+        "end": 31
+      },
+      {
+        "text": "RUR",
+        "label": "book",
+        "start": 104,
+        "end": 107
+      },
+      {
+        "text": "Karel Čapek",
+        "label": "writer",
+        "start": 141,
+        "end": 152
+      },
+      {
+        "text": "Alexandra Palace",
+        "label": "location",
+        "start": 184,
+        "end": 200
+      }
+    ]
+  },
+  {
+    "text": "In 1959, Capp recorded and released an album for Folkways Records (now owned by the Smithsonian) on which he identified and described The Mechanics of the Comic Strip.",
+    "entities": [
+      {
+        "text": "Capp",
+        "label": "writer",
+        "start": 9,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "29v, partway through Desiré) and 3 (fol.",
+    "entities": []
+  },
+  {
+    "text": "See Gubbinal and Nuances of a Theme by Williams for comparisons.",
+    "entities": []
+  },
+  {
+    "text": "His most famous work is The Chronicles of Prydain, a series of five high fantasy novels whose conclusion, The High King, was awarded the 1969 Newbery Medal for excellence in American children's literature.",
+    "entities": [
+      {
+        "text": "The Chronicles of Prydain",
+        "label": "book",
+        "start": 24,
+        "end": 49
+      },
+      {
+        "text": "high fantasy novels",
+        "label": "literarygenre",
+        "start": 68,
+        "end": 87
+      },
+      {
+        "text": "The High King",
+        "label": "book",
+        "start": 106,
+        "end": 119
+      },
+      {
+        "text": "American children's literature",
+        "label": "literarygenre",
+        "start": 174,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "He won three Tony Award s and three Academy Awards, among other honors.",
+    "entities": []
+  },
+  {
+    "text": "Xuanxue was a philosophical school that combined elements of Confucianism and Taoism to reinterpret the I Ching, Tao Te Ching, and Zhuangzi.",
+    "entities": [
+      {
+        "text": "I Ching",
+        "label": "book",
+        "start": 104,
+        "end": 111
+      },
+      {
+        "text": "Tao Te Ching",
+        "label": "book",
+        "start": 113,
+        "end": 125
+      },
+      {
+        "text": "Zhuangzi",
+        "label": "book",
+        "start": 131,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "text": "During this period, Stoker was part of the literary staff of The Daily Telegraph in London, and he wrote other fiction, including the horror novels The Lady of the Shroud (1909) and The Lair of the White Worm (1911).",
+    "entities": [
+      {
+        "text": "Stoker",
+        "label": "writer",
+        "start": 20,
+        "end": 26
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 84,
+        "end": 90
+      },
+      {
+        "text": "horror novels",
+        "label": "literarygenre",
+        "start": 134,
+        "end": 147
+      },
+      {
+        "text": "The Lady of the Shroud",
+        "label": "book",
+        "start": 148,
+        "end": 170
+      },
+      {
+        "text": "The Lair of the White Worm",
+        "label": "book",
+        "start": 182,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "The Fuller Dome is referenced in the Hugo Award -winning novel Stand on Zanzibar by John Brunner, in which a geodesic dome is said to cover the entire island of Manhattan, and it floats on air due to the hot-air balloon effect of the large air-mass under the dome (and perhaps its construction of lightweight materials).",
+    "entities": [
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 57,
+        "end": 62
+      },
+      {
+        "text": "Stand on Zanzibar",
+        "label": "book",
+        "start": 63,
+        "end": 80
+      },
+      {
+        "text": "John Brunner",
+        "label": "writer",
+        "start": 84,
+        "end": 96
+      },
+      {
+        "text": "Manhattan",
+        "label": "location",
+        "start": 161,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "Elwyn Brooks White (July 11, 1899 - October 1, 1985) In addition, he was a contributor to The New Yorker magazine, and also a co-author of the English language style guide The Elements of Style.",
+    "entities": [
+      {
+        "text": "Elwyn Brooks White",
+        "label": "writer",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "The Elements of Style",
+        "label": "book",
+        "start": 172,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Early in his career, he published short stories and poetry and edited the literary magazine Oxford Poetry, before going on to publish travel writing, satire, and screenplays.",
+    "entities": [
+      {
+        "text": "short stories",
+        "label": "literarygenre",
+        "start": 34,
+        "end": 47
+      },
+      {
+        "text": "poetry",
+        "label": "literarygenre",
+        "start": 52,
+        "end": 58
+      },
+      {
+        "text": "satire",
+        "label": "literarygenre",
+        "start": 150,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "A tribute show to Wilson, organized by Coldcut and Mixmaster Morris and performed in London as a part of the Ether 7 Festival held at the Queen Elizabeth Hall on March 18, 2007, also included Ken Campbell, Bill Drummond and Alan Moore.",
+    "entities": [
+      {
+        "text": "Wilson",
+        "label": "writer",
+        "start": 18,
+        "end": 24
+      },
+      {
+        "text": "Coldcut",
+        "label": "person",
+        "start": 39,
+        "end": 46
+      },
+      {
+        "text": "Mixmaster Morris",
+        "label": "person",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 85,
+        "end": 91
+      },
+      {
+        "text": "Queen Elizabeth Hall",
+        "label": "location",
+        "start": 138,
+        "end": 158
+      },
+      {
+        "text": "Ken Campbell",
+        "label": "writer",
+        "start": 192,
+        "end": 204
+      },
+      {
+        "text": "Bill Drummond",
+        "label": "writer",
+        "start": 206,
+        "end": 219
+      },
+      {
+        "text": "Alan Moore",
+        "label": "writer",
+        "start": 224,
+        "end": 234
+      }
+    ]
+  },
+  {
+    "text": "Frost originally attempted to read his poem Dedication, which was written for the occasion, but was unable to read it due to the brightness of the sunlight, so he recited his poem The Gift Outright from memory instead.",
+    "entities": [
+      {
+        "text": "Frost",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 39,
+        "end": 43
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 175,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "text": "It tied with Roger Zelazny ' s This Immortal for the Hugo Award in 1966,",
+    "entities": [
+      {
+        "text": "Roger Zelazny",
+        "label": "writer",
+        "start": 13,
+        "end": 26
+      },
+      {
+        "text": "This Immortal",
+        "label": "book",
+        "start": 31,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "In 1905 H. G. Wells published A Modern Utopia.",
+    "entities": [
+      {
+        "text": "H. G. Wells",
+        "label": "writer",
+        "start": 8,
+        "end": 19
+      },
+      {
+        "text": "A Modern Utopia",
+        "label": "book",
+        "start": 30,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "Alan Moore had this to say about the use of the Guy Fawkes motif adopted from his comic V for Vendetta, in an interview with Entertainment Weekly:",
+    "entities": [
+      {
+        "text": "Alan Moore",
+        "label": "writer",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Guy Fawkes",
+        "label": "person",
+        "start": 48,
+        "end": 58
+      },
+      {
+        "text": "V for Vendetta",
+        "label": "book",
+        "start": 88,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "The remainder were distributed off a ferry near Hong Kong, the ferry between Hainan Island and the Chinese mainland, a ferry in Vietnam, White's Ferry on the Potomac River in Virginia on Father's Day 2007, and on author H. P. Lovecraft ' s grave in Providence, Rhode Island on December 17, 2005.",
+    "entities": [
+      {
+        "text": "Hong Kong",
+        "label": "location",
+        "start": 48,
+        "end": 57
+      },
+      {
+        "text": "Hainan Island",
+        "label": "location",
+        "start": 77,
+        "end": 90
+      },
+      {
+        "text": "Chinese mainland",
+        "label": "location",
+        "start": 99,
+        "end": 115
+      },
+      {
+        "text": "Potomac River",
+        "label": "location",
+        "start": 158,
+        "end": 171
+      },
+      {
+        "text": "Virginia",
+        "label": "location",
+        "start": 175,
+        "end": 183
+      },
+      {
+        "text": "H. P. Lovecraft",
+        "label": "writer",
+        "start": 220,
+        "end": 235
+      },
+      {
+        "text": "Providence",
+        "label": "location",
+        "start": 249,
+        "end": 259
+      },
+      {
+        "text": "Rhode Island",
+        "label": "location",
+        "start": 261,
+        "end": 273
+      }
+    ]
+  },
+  {
+    "text": "In November 1813 Johann Wolfgang von Goethe invited Schopenhauer for research on his Theory of Colours.",
+    "entities": [
+      {
+        "text": "Johann Wolfgang von Goethe",
+        "label": "writer",
+        "start": 17,
+        "end": 43
+      },
+      {
+        "text": "Schopenhauer",
+        "label": "writer",
+        "start": 52,
+        "end": 64
+      },
+      {
+        "text": "Theory of Colours",
+        "label": "book",
+        "start": 85,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Ansgar received the mission of evangelizing pagan Denmark, Norway and Sweden.",
+    "entities": [
+      {
+        "text": "Ansgar",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Marlowe also wrote the poem Hero and Leander (published in 1598, with a continuation by George Chapman the same year), the popular lyric The Passionate Shepherd to His Love, translations of Ovid ' s Amores and the first book of Lucan ' s Pharsalia.",
+    "entities": [
+      {
+        "text": "Marlowe",
+        "label": "writer",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 23,
+        "end": 27
+      },
+      {
+        "text": "George Chapman",
+        "label": "writer",
+        "start": 88,
+        "end": 102
+      },
+      {
+        "text": "Ovid",
+        "label": "writer",
+        "start": 190,
+        "end": 194
+      },
+      {
+        "text": "Amores",
+        "label": "book",
+        "start": 199,
+        "end": 205
+      },
+      {
+        "text": "Lucan",
+        "label": "writer",
+        "start": 228,
+        "end": 233
+      }
+    ]
+  },
+  {
+    "text": "In Rebuilding Russia, an essay first published in 1990 in Komsomolskaya Pravda Solzhenitsyn urged the Soviet Union to grant independence to all the non-Slav republics, which he claimed were sapping the Russian nation and he called for the creation of a new Slavic state bringing together Russia, Ukraine, Belarus, and parts of Kazakhstan that he considered to be Russified.",
+    "entities": [
+      {
+        "text": "Rebuilding Russia",
+        "label": "book",
+        "start": 3,
+        "end": 20
+      },
+      {
+        "text": "Solzhenitsyn",
+        "label": "writer",
+        "start": 79,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "The film was presented at the Cannes Film Festival, won the Grand Prix Spécial du Jury and the FIPRESCI prize, and was nominated for the Palme d 'Or.",
+    "entities": []
+  },
+  {
+    "text": "This included The 500 Hats of Bartholomew Cubbins in 1938, as well as The King's Stilts and The Seven Lady Godivas in 1939, all of which were in prose, atypically for him.",
+    "entities": [
+      {
+        "text": "The 500 Hats of Bartholomew Cubbins",
+        "label": "book",
+        "start": 14,
+        "end": 49
+      },
+      {
+        "text": "The King's Stilts",
+        "label": "book",
+        "start": 70,
+        "end": 87
+      },
+      {
+        "text": "The Seven Lady Godivas",
+        "label": "book",
+        "start": 92,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "text": "Her stage credits include Norman Mailer ' s The Deer Park, Israel Horovitz ' s The Indian Wants the Bronx, Neil Simon's The Good Doctor and Joseph Papp ' s 1974 Richard III at the Lincoln Center.",
+    "entities": [
+      {
+        "text": "Norman Mailer",
+        "label": "writer",
+        "start": 26,
+        "end": 39
+      },
+      {
+        "text": "The Deer Park",
+        "label": "book",
+        "start": 44,
+        "end": 57
+      },
+      {
+        "text": "Israel Horovitz",
+        "label": "writer",
+        "start": 59,
+        "end": 74
+      },
+      {
+        "text": "The Indian Wants the Bronx",
+        "label": "book",
+        "start": 79,
+        "end": 105
+      },
+      {
+        "text": "Neil Simon",
+        "label": "writer",
+        "start": 107,
+        "end": 117
+      },
+      {
+        "text": "The Good Doctor",
+        "label": "book",
+        "start": 120,
+        "end": 135
+      },
+      {
+        "text": "Joseph Papp",
+        "label": "person",
+        "start": 140,
+        "end": 151
+      },
+      {
+        "text": "Lincoln Center",
+        "label": "location",
+        "start": 180,
+        "end": 194
+      }
+    ]
+  },
+  {
+    "text": "Highly regarded in his lifetime and for a period thereafter, he is now largely remembered for his anti-slavery writings and his poems Barbara Frietchie, The Barefoot Boy, Maud Muller and Snow-Bound.",
+    "entities": [
+      {
+        "text": "anti-slavery writings",
+        "label": "literarygenre",
+        "start": 98,
+        "end": 119
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 128,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "Aleksandr Solzhenitsyn, the Russian Nobel Prize in Literature -winning anti-Communist author of The Gulag Archipelago, argued that Soviet communism needed enslavement and forced labour to survive, and that this had been ... foreseen as far back as Thomas More, in his Utopia.",
+    "entities": [
+      {
+        "text": "Aleksandr Solzhenitsyn",
+        "label": "writer",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "The Gulag Archipelago",
+        "label": "book",
+        "start": 96,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "text": "Yet another source for Defoe's novel may have been the Robert Knox account of his abduction by the King of Sri Lanka Rajasinha II of Kandy in 1659 in An Historical Relation of the Island Ceylon .Knox, Robert (1911).",
+    "entities": [
+      {
+        "text": "Defoe",
+        "label": "writer",
+        "start": 23,
+        "end": 28
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 31,
+        "end": 36
+      },
+      {
+        "text": "Robert Knox",
+        "label": "person",
+        "start": 55,
+        "end": 66
+      },
+      {
+        "text": "Rajasinha II of Kandy",
+        "label": "person",
+        "start": 117,
+        "end": 138
+      },
+      {
+        "text": "An Historical Relation of the Island Ceylon",
+        "label": "book",
+        "start": 150,
+        "end": 193
+      },
+      {
+        "text": ".Knox, Robert",
+        "label": "person",
+        "start": 194,
+        "end": 207
+      }
+    ]
+  },
+  {
+    "text": "In April he chaired the South Side Writers Group, whose members included Arna Bontemps and Margaret Walker.",
+    "entities": [
+      {
+        "text": "Arna Bontemps",
+        "label": "writer",
+        "start": 73,
+        "end": 86
+      },
+      {
+        "text": "Margaret Walker",
+        "label": "writer",
+        "start": 91,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "British policy in South Africa was to encourage federation between the British-run Cape Colony and Colony of Natal, and the Boer republics, the South African Republic (annexed by Britain in 1877) and the Orange Free State.",
+    "entities": [
+      {
+        "text": "Cape Colony",
+        "label": "location",
+        "start": 83,
+        "end": 94
+      },
+      {
+        "text": "Colony of Natal",
+        "label": "location",
+        "start": 99,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "text": "In his spare time he also enjoyed reading about natural science s and popular novels, such as Don Quixote and Robinson Crusoe.",
+    "entities": [
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 78,
+        "end": 84
+      },
+      {
+        "text": "Don Quixote",
+        "label": "book",
+        "start": 94,
+        "end": 105
+      },
+      {
+        "text": "Robinson Crusoe",
+        "label": "book",
+        "start": 110,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "On the day of the preview, however, he was expelled from the Surrealist Group by André Breton, who ordered the poet Paul Éluard to take down his pictures.",
+    "entities": [
+      {
+        "text": "André Breton",
+        "label": "writer",
+        "start": 81,
+        "end": 93
+      },
+      {
+        "text": "Paul Éluard",
+        "label": "writer",
+        "start": 116,
+        "end": 127
+      }
+    ]
+  },
+  {
+    "text": "Among his awards for particular works were: Hugo Award s, in 1963 for The Dragon Masters, in 1967 for The Last Castle, and in 2010 for his memoir This is Me, Jack Vance!; a Nebula Award in 1966, also for The Last Castle; the Jupiter Award in 1975; the World Fantasy Award in 1990 for Lyonesse: Madouc.",
+    "entities": [
+      {
+        "text": "The Dragon Masters",
+        "label": "book",
+        "start": 70,
+        "end": 88
+      },
+      {
+        "text": "The Last Castle",
+        "label": "book",
+        "start": 102,
+        "end": 117
+      },
+      {
+        "text": "This is Me, Jack Vance!",
+        "label": "book",
+        "start": 146,
+        "end": 169
+      },
+      {
+        "text": "The Last Castle",
+        "label": "book",
+        "start": 204,
+        "end": 219
+      },
+      {
+        "text": "Lyonesse: Madouc",
+        "label": "book",
+        "start": 284,
+        "end": 300
+      }
+    ]
+  },
+  {
+    "text": "Sagan served as Chairman of the Division for Planetary Science of the American Astronomical Society, as President of the Planetology Section of the American Geophysical Union, and as Chairman of the Astronomy Section of the American Association for the Advancement of Science (AAAS).",
+    "entities": [
+      {
+        "text": "Sagan",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "In the early 6th century BC, the Kingdom of Judah rebelled against the Neo-Babylonian Empire and was destroyed.",
+    "entities": []
+  },
+  {
+    "text": "Hawks was venerated by French critics associated with Cahiers du cinéma, who intellectualized his work in a way that Hawks himself found moderately amusing (his work was promoted in France by The Studio des Ursulines cinema), and though he was not taken seriously by British critics of the Sight & Sound circle at first, other independent British writers, such as Robin Wood, admired his films.",
+    "entities": [
+      {
+        "text": "Hawks",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Hawks",
+        "label": "writer",
+        "start": 117,
+        "end": 122
+      },
+      {
+        "text": "Robin Wood",
+        "label": "writer",
+        "start": 364,
+        "end": 374
+      }
+    ]
+  },
+  {
+    "text": "Nominated for Academy Awards in nine categories, it won an Academy Award for Best Original Screenplay by Herman J. Mankiewicz and Welles.",
+    "entities": [
+      {
+        "text": "Herman J. Mankiewicz",
+        "label": "writer",
+        "start": 105,
+        "end": 125
+      },
+      {
+        "text": "Welles",
+        "label": "writer",
+        "start": 130,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "In January 2008 Fry broke his arm while filming Last Chance to See in Brazil.",
+    "entities": [
+      {
+        "text": "Fry",
+        "label": "person",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "Last Chance to See",
+        "label": "book",
+        "start": 48,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "He wrote for many publications, including Rolling Stone, Esquire, The Boston Globe, Chicago Tribune, The New York Times, The San Francisco Examiner, Time, Vanity Fair, The San Juan Star, and Playboy.",
+    "entities": []
+  },
+  {
+    "text": "Confucianism reached its peak of influence during the Tang dynasty and Song dynasty Dynasties under a rebranded Confucianism called Neo-Confucianism.",
+    "entities": []
+  },
+  {
+    "text": "The Macedonian phalanx of Aelian had many points of resemblance to the solid masses of pikemen and the squadrons of cavalry of the Spain and Netherlands systems, and the translations made in the 16th century formed the groundwork of numerous books on drill and tactics.",
+    "entities": [
+      {
+        "text": "Aelian",
+        "label": "writer",
+        "start": 26,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "On June 17, 1915, shortly after submitting his patent application for the doll's design, Johnny Gruelle applied for a registered trademark for the Raggedy Ann name, which he created by combining words from two of James Whitcomb Riley poems, The Raggedy Man and Little Orphant Annie.",
+    "entities": [
+      {
+        "text": "Johnny Gruelle",
+        "label": "person",
+        "start": 89,
+        "end": 103
+      },
+      {
+        "text": "James Whitcomb Riley",
+        "label": "writer",
+        "start": 213,
+        "end": 233
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 234,
+        "end": 239
+      }
+    ]
+  },
+  {
+    "text": "Novelist James Joyce noted that the TRUE symbol of the British Empire is Robinson Crusoe, to whom he ascribed stereotypical and somewhat hostile English racial characteristics: He is the TRUE prototype of the British colonist.",
+    "entities": [
+      {
+        "text": "James Joyce",
+        "label": "writer",
+        "start": 9,
+        "end": 20
+      },
+      {
+        "text": "Robinson Crusoe",
+        "label": "book",
+        "start": 73,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "text": "The tradition of regularly assembling bards at an eisteddfod never lapsed, and was strengthened by formation of the Gorsedd by Iolo Morganwg in 1792, establishing Wales as the major Celtic upholder of bardic tradition in the 21st century.",
+    "entities": [
+      {
+        "text": "Iolo Morganwg",
+        "label": "writer",
+        "start": 127,
+        "end": 140
+      },
+      {
+        "text": "Wales",
+        "label": "location",
+        "start": 163,
+        "end": 168
+      }
+    ]
+  },
+  {
+    "text": "At the 47th Berlin International Film Festival in 1997, DiCaprio won the Silver Bear for Best Actor and Luhrmann won the Alfred Bauer Prize.",
+    "entities": [
+      {
+        "text": "DiCaprio",
+        "label": "person",
+        "start": 56,
+        "end": 64
+      },
+      {
+        "text": "Luhrmann",
+        "label": "person",
+        "start": 104,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "text": "Baron Cohen's other work includes voicing King Julien XIII in the Madagascar film series (2005-2012) and appearing in films such as Talladega Nights: The Ballad of Ricky Bobby (2006), Sweeney Todd: The Demon Barber of Fleet Street (2007), Hugo (2011), and Les Misérables (2012).",
+    "entities": [
+      {
+        "text": "Baron Cohen",
+        "label": "person",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Hugo",
+        "label": "person",
+        "start": 239,
+        "end": 243
+      },
+      {
+        "text": "Les Misérables",
+        "label": "book",
+        "start": 256,
+        "end": 270
+      }
+    ]
+  },
+  {
+    "text": "She subsequently received critical acclaim for her performances in films such as Silkwood (1983), Mask (1985), The Witches of Eastwick (1987), and Moonstruck (1987), with the latter having earned her the Academy Award for Best Actress.",
+    "entities": []
+  },
+  {
+    "text": "Her last novel, Unless (2002), was nominated for the 2002 Giller Prize, the Governor General of Canada Literary Award, the Booker Prize and the 2003 Orange Prize for Fiction.",
+    "entities": [
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "text": "Unless",
+        "label": "book",
+        "start": 16,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "1969, Crichton also wrote a review for The New Republic (as J. Michael Crichton), critiquing Slaughterhouse Five by Kurt Vonnegut.",
+    "entities": [
+      {
+        "text": "Crichton",
+        "label": "writer",
+        "start": 6,
+        "end": 14
+      },
+      {
+        "text": "J. Michael Crichton",
+        "label": "writer",
+        "start": 60,
+        "end": 79
+      },
+      {
+        "text": "Slaughterhouse Five",
+        "label": "book",
+        "start": 93,
+        "end": 112
+      },
+      {
+        "text": "Kurt Vonnegut",
+        "label": "writer",
+        "start": 116,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "In Patricia Wrede ' s Regency fantasies, Great Britain has a Royal Society of Wizards, and in Poul Anderson's A Midsummer Tempest William Shakespeare is remembered as the Great Historian, with the novel itself taking place in the era of Oliver Cromwell and Charles I, with an alternate outcome for the English Civil War and an earlier Industrial Revolution.",
+    "entities": [
+      {
+        "text": "Patricia Wrede",
+        "label": "writer",
+        "start": 3,
+        "end": 17
+      },
+      {
+        "text": "Regency fantasies",
+        "label": "book",
+        "start": 22,
+        "end": 39
+      },
+      {
+        "text": "Poul Anderson",
+        "label": "writer",
+        "start": 94,
+        "end": 107
+      },
+      {
+        "text": "A Midsummer Tempest",
+        "label": "book",
+        "start": 110,
+        "end": 129
+      },
+      {
+        "text": "William Shakespeare",
+        "label": "writer",
+        "start": 130,
+        "end": 149
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 197,
+        "end": 202
+      },
+      {
+        "text": "Oliver Cromwell",
+        "label": "person",
+        "start": 237,
+        "end": 252
+      },
+      {
+        "text": "Charles I",
+        "label": "person",
+        "start": 257,
+        "end": 266
+      }
+    ]
+  },
+  {
+    "text": "Love subsequently attracted media attention in May 1998 after punching journalist Belissa Cohen in the face at a party; the suit was settled out of court for an undisclosed sum. and were subsequently nominated for three Grammy Award s at the 41st Annual Grammy Awards ceremony.",
+    "entities": [
+      {
+        "text": "Love",
+        "label": "writer",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Belissa Cohen",
+        "label": "writer",
+        "start": 82,
+        "end": 95
+      }
+    ]
+  },
+  {
+    "text": "In The New York Review of Books Christopher Ricks wrote of the refinement of self-consciousness, usually flawless in its execution and Larkin's summoning up of the world of all of us, the place where, in the end, we find our happiness, or not at all.",
+    "entities": [
+      {
+        "text": "Christopher Ricks",
+        "label": "writer",
+        "start": 32,
+        "end": 49
+      },
+      {
+        "text": "Larkin",
+        "label": "writer",
+        "start": 135,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "Snyder's interest in things Chinese and Japanese stemmed from his early reading of Pound's writings. and his long poem Mountains and Rivers Without End (1965-1996) reflects his reading of The Cantos in many of the formal devices used.",
+    "entities": [
+      {
+        "text": "Snyder",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Pound",
+        "label": "writer",
+        "start": 83,
+        "end": 88
+      },
+      {
+        "text": "long poem",
+        "label": "literarygenre",
+        "start": 109,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "text": "The film was well received critically in the festival circuit, winning awards at the 1997 Fantasia Festival in Montréal, and Fantasporto Film Festival in Portugal.",
+    "entities": [
+      {
+        "text": "Montréal",
+        "label": "location",
+        "start": 111,
+        "end": 119
+      },
+      {
+        "text": "Portugal",
+        "label": "location",
+        "start": 154,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "text": "In 1926, Hugo Gernsback published the first United States science-fiction magazine, Amazing Stories.",
+    "entities": [
+      {
+        "text": "Hugo Gernsback",
+        "label": "writer",
+        "start": 9,
+        "end": 23
+      },
+      {
+        "text": "science-fiction",
+        "label": "literarygenre",
+        "start": 58,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "A different account in Virgil ' s Aeneid (3.163f) has Aeneas in a dream learn from his ancestral Penates that Dardanus and Father Iasius and the Penates themselves originally came from Hesperia, afterwards renamed as Italy.",
+    "entities": [
+      {
+        "text": "Virgil",
+        "label": "writer",
+        "start": 23,
+        "end": 29
+      },
+      {
+        "text": "Aeneas",
+        "label": "person",
+        "start": 54,
+        "end": 60
+      },
+      {
+        "text": "Penates",
+        "label": "person",
+        "start": 97,
+        "end": 104
+      },
+      {
+        "text": "Dardanus",
+        "label": "person",
+        "start": 110,
+        "end": 118
+      },
+      {
+        "text": "Father Iasius",
+        "label": "person",
+        "start": 123,
+        "end": 136
+      },
+      {
+        "text": "Penates",
+        "label": "person",
+        "start": 145,
+        "end": 152
+      },
+      {
+        "text": "Hesperia",
+        "label": "location",
+        "start": 185,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "The Knighthood (i.e. the title of ' Sir ') was conferred on him by the same King George V after receiving the Nobel Prize in Literature for Gitanjali from the government of Sweden.",
+    "entities": [
+      {
+        "text": "King George V",
+        "label": "person",
+        "start": 76,
+        "end": 89
+      },
+      {
+        "text": "Gitanjali",
+        "label": "book",
+        "start": 140,
+        "end": 149
+      }
+    ]
+  }
+]

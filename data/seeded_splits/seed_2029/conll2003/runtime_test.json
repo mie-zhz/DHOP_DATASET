@@ -1,0 +1,861 @@
+[
+  {
+    "text": "It started operations in January 1985 and has registered capital of 1.56 billion baht, it said but gave no further details.",
+    "entities": []
+  },
+  {
+    "text": "He denied that his contacts, criticised by Kinshasa, with the Zairean rebels amounted to negotiations.",
+    "entities": [
+      {
+        "text": "Kinshasa",
+        "label": "LOC",
+        "start": 43,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "Men's singles, first round",
+    "entities": []
+  },
+  {
+    "text": "MOSCOW 1996-08-26",
+    "entities": [
+      {
+        "text": "MOSCOW",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Montreal 3 SAN FRANCISCO 0",
+    "entities": [
+      {
+        "text": "Montreal",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "SAN FRANCISCO",
+        "label": "ORG",
+        "start": 11,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "May 13 Arrive in London",
+    "entities": [
+      {
+        "text": "London",
+        "label": "LOC",
+        "start": 17,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "Their families are not told, \" she said.",
+    "entities": []
+  },
+  {
+    "text": "12/15/2009 1,240M 5.05 5.05",
+    "entities": []
+  },
+  {
+    "text": "Choudhury also was president of the 41st session of the U.N. General Assembly in 1986-87.",
+    "entities": [
+      {
+        "text": "Choudhury",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "U.N. General Assembly",
+        "label": "ORG",
+        "start": 56,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "Magnificent, ' ' said Fitzpatrick, New Zealand's most capped player and the world's most capped forward.",
+    "entities": [
+      {
+        "text": "Fitzpatrick",
+        "label": "PER",
+        "start": 22,
+        "end": 33
+      },
+      {
+        "text": "New Zealand",
+        "label": "LOC",
+        "start": 35,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "MADRID 1996-08-31",
+    "entities": [
+      {
+        "text": "MADRID",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "SK Slavia Praha 3 1 2 0 6 3 5",
+    "entities": [
+      {
+        "text": "SK Slavia Praha",
+        "label": "ORG",
+        "start": 0,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "8. Giuseppe Citterio (Italy) Aki",
+    "entities": [
+      {
+        "text": "Giuseppe Citterio",
+        "label": "PER",
+        "start": 3,
+        "end": 20
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "Aki",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "The cause of the crash of the helicopter, which went down on Sunday while on a routine resupply flight between Phnom Penh and Stung Treng, was not known.",
+    "entities": [
+      {
+        "text": "Phnom Penh",
+        "label": "LOC",
+        "start": 111,
+        "end": 121
+      },
+      {
+        "text": "Stung Treng",
+        "label": "LOC",
+        "start": 126,
+        "end": 137
+      }
+    ]
+  },
+  {
+    "text": "A.G. Edwards & Sons, Inc.",
+    "entities": [
+      {
+        "text": "A.G. Edwards & Sons, Inc",
+        "label": "ORG",
+        "start": 0,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "4. Pauline Davis (Bahamas) 50.14",
+    "entities": [
+      {
+        "text": "Pauline Davis",
+        "label": "PER",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "Bahamas",
+        "label": "LOC",
+        "start": 18,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "CHICAGO 3 Atlanta 2 (1st game)",
+    "entities": [
+      {
+        "text": "CHICAGO",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Atlanta",
+        "label": "ORG",
+        "start": 10,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "- USDA",
+    "entities": [
+      {
+        "text": "USDA",
+        "label": "ORG",
+        "start": 2,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "The tourists will play nine first-class matches against",
+    "entities": []
+  },
+  {
+    "text": "Hong Kong nabs blind 10-year-old illegal immigrant.",
+    "entities": [
+      {
+        "text": "Hong Kong",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Derek Ryan (Ireland) beat 5 - Simon Parke (England) 15-11 15-11",
+    "entities": [
+      {
+        "text": "Derek Ryan",
+        "label": "PER",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Ireland",
+        "label": "LOC",
+        "start": 12,
+        "end": 19
+      },
+      {
+        "text": "Simon Parke",
+        "label": "PER",
+        "start": 30,
+        "end": 41
+      },
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 43,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "9. Alexandre Barros (Brazil) Honda 1:51.784",
+    "entities": [
+      {
+        "text": "Alexandre Barros",
+        "label": "PER",
+        "start": 3,
+        "end": 19
+      },
+      {
+        "text": "Brazil",
+        "label": "LOC",
+        "start": 21,
+        "end": 27
+      },
+      {
+        "text": "Honda",
+        "label": "ORG",
+        "start": 29,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "Sydney Bulldogs 21 10 0 11 325 356 20",
+    "entities": [
+      {
+        "text": "Sydney Bulldogs",
+        "label": "ORG",
+        "start": 0,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "SUGO, Japan 1996-08-25",
+    "entities": [
+      {
+        "text": "SUGO",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 6,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "15. Katharina Gutensohn (Germany) 1:18.92",
+    "entities": [
+      {
+        "text": "Katharina Gutensohn",
+        "label": "PER",
+        "start": 4,
+        "end": 23
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 25,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "Le Havre 1 Caen 1",
+    "entities": [
+      {
+        "text": "Le Havre",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Caen",
+        "label": "ORG",
+        "start": 11,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "Samsung 48 5 55 .468 14",
+    "entities": [
+      {
+        "text": "Samsung",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Pettite (19-7) allowed two runs and eight hits over eight innings with a walk and seven strikeouts.",
+    "entities": [
+      {
+        "text": "Pettite",
+        "label": "PER",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Turnover on BSM, which trades only SOLIDERE shares, was 8,049 shares from Thursday's 8,757 and value was $850,968 from $918,288.",
+    "entities": [
+      {
+        "text": "BSM",
+        "label": "ORG",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "SOLIDERE",
+        "label": "ORG",
+        "start": 35,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "5. Olga Slioussareva (Russia) 36.170",
+    "entities": [
+      {
+        "text": "Olga Slioussareva",
+        "label": "PER",
+        "start": 3,
+        "end": 20
+      },
+      {
+        "text": "Russia",
+        "label": "LOC",
+        "start": 22,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "Lucchese 1 Vicenza 2",
+    "entities": [
+      {
+        "text": "Lucchese",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Vicenza",
+        "label": "ORG",
+        "start": 11,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "HK has infrastructure in place for post-97 - Tsang.",
+    "entities": [
+      {
+        "text": "HK",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "Tsang",
+        "label": "PER",
+        "start": 45,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "At the end of a January 1967 concert in the English city of Nottingham he threw the sheet of paper into the audience, where it was retrieved by a fan.",
+    "entities": [
+      {
+        "text": "Nottingham",
+        "label": "LOC",
+        "start": 60,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "text": "Motherwell 3 1 2 0 6 3 5",
+    "entities": [
+      {
+        "text": "Motherwell",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "But General Baril said it would be premature to rule out any course of action until he had more information.",
+    "entities": [
+      {
+        "text": "Baril",
+        "label": "PER",
+        "start": 12,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "BOSTON 64 65 .496 10",
+    "entities": [
+      {
+        "text": "BOSTON",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "PARIS 1996-08-24",
+    "entities": [
+      {
+        "text": "PARIS",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "5. Giunluca Gorini (Italy) Aki 45",
+    "entities": [
+      {
+        "text": "Giunluca Gorini",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 20,
+        "end": 25
+      },
+      {
+        "text": "Aki",
+        "label": "ORG",
+        "start": 27,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "Sri Lanka - Arjuna Ranatunga (captain), Sanath Jayasuriya, Romesh Kaluwitharana, Asanka Gurusinha, Aravinda de Silva, Hashan Tillekeratne, Roshan Mahanama, Kumara Dharmasena, Chaminda Vaas, Muthiah Muralitharan, Ravindra Pushpakumara.",
+    "entities": [
+      {
+        "text": "Sri Lanka",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Arjuna Ranatunga",
+        "label": "PER",
+        "start": 12,
+        "end": 28
+      },
+      {
+        "text": "Sanath Jayasuriya",
+        "label": "PER",
+        "start": 40,
+        "end": 57
+      },
+      {
+        "text": "Romesh Kaluwitharana",
+        "label": "PER",
+        "start": 59,
+        "end": 79
+      },
+      {
+        "text": "Asanka Gurusinha",
+        "label": "PER",
+        "start": 81,
+        "end": 97
+      },
+      {
+        "text": "Aravinda de Silva",
+        "label": "PER",
+        "start": 99,
+        "end": 116
+      },
+      {
+        "text": "Hashan Tillekeratne",
+        "label": "PER",
+        "start": 118,
+        "end": 137
+      },
+      {
+        "text": "Roshan Mahanama",
+        "label": "PER",
+        "start": 139,
+        "end": 154
+      },
+      {
+        "text": "Kumara Dharmasena",
+        "label": "PER",
+        "start": 156,
+        "end": 173
+      },
+      {
+        "text": "Chaminda Vaas",
+        "label": "PER",
+        "start": 175,
+        "end": 188
+      },
+      {
+        "text": "Muthiah Muralitharan",
+        "label": "PER",
+        "start": 190,
+        "end": 210
+      },
+      {
+        "text": "Ravindra Pushpakumara",
+        "label": "PER",
+        "start": 212,
+        "end": 233
+      }
+    ]
+  },
+  {
+    "text": "CRICKET - INDIA V SRI LANKA SCOREBOARD.",
+    "entities": [
+      {
+        "text": "INDIA",
+        "label": "LOC",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "SRI LANKA",
+        "label": "LOC",
+        "start": 18,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "CHICAGO AT HOUSTON",
+    "entities": [
+      {
+        "text": "CHICAGO",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "HOUSTON",
+        "label": "LOC",
+        "start": 11,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "Bread and flour prices have been raised with immediate effect but government will provide relief to underpriviledged sections of society.",
+    "entities": []
+  },
+  {
+    "text": "There were no clashes.",
+    "entities": []
+  },
+  {
+    "text": "A boisterous cheering section backed the distracted Chilean and booed the lanky American, who ate up all the attention.",
+    "entities": []
+  },
+  {
+    "text": "The study involved 115 people with high blood cholesterol levels.",
+    "entities": []
+  },
+  {
+    "text": "2021 5.45 5.40 5.60 5.55 5.90 5.85 6.20 6.15",
+    "entities": []
+  },
+  {
+    "text": "Benetton (Italy) 92 Dinamo (Russia) 81 (halftime 50-28)",
+    "entities": [
+      {
+        "text": "Benetton",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "Dinamo",
+        "label": "ORG",
+        "start": 20,
+        "end": 26
+      },
+      {
+        "text": "Russia",
+        "label": "LOC",
+        "start": 28,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "text": "Chechnya must be accorded the maximum autonomy possible within the framework of Russian integrity, \" said Cotti.",
+    "entities": [
+      {
+        "text": "Chechnya",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Cotti",
+        "label": "PER",
+        "start": 106,
+        "end": 111
+      }
+    ]
+  },
+  {
+    "text": "Western powers regard diplomatic normalisation between Croatia and Serbia, twin pillars of the old multinational federal Yugoslavia, as a crucial step towards a lasting peace in the Balkans.",
+    "entities": [
+      {
+        "text": "Croatia",
+        "label": "LOC",
+        "start": 55,
+        "end": 62
+      },
+      {
+        "text": "Serbia",
+        "label": "LOC",
+        "start": 67,
+        "end": 73
+      },
+      {
+        "text": "Yugoslavia",
+        "label": "LOC",
+        "start": 121,
+        "end": 131
+      },
+      {
+        "text": "Balkans",
+        "label": "LOC",
+        "start": 182,
+        "end": 189
+      }
+    ]
+  },
+  {
+    "text": "Honda Motor Co Ltd said on Friday that it had received 15,000 domestic orders for its S-MX recreational vehicle in the first two weeks after its launch.",
+    "entities": [
+      {
+        "text": "Honda Motor Co Ltd",
+        "label": "ORG",
+        "start": 0,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "Eighth seed Jim Courier withdrew because of a bruised right knee, and 1988 Open champion Mats Wilander bowed out due to a groin pull, organisers said.",
+    "entities": [
+      {
+        "text": "Jim Courier",
+        "label": "PER",
+        "start": 12,
+        "end": 23
+      },
+      {
+        "text": "Mats Wilander",
+        "label": "PER",
+        "start": 89,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "The Russians, working for the Aerostan firm in the Russian republic of Tatarstan, were taken hostage after a Taleban MiG-19 fighter forced their cargo plane to land in August 1995.",
+    "entities": [
+      {
+        "text": "Aerostan",
+        "label": "ORG",
+        "start": 30,
+        "end": 38
+      },
+      {
+        "text": "Tatarstan",
+        "label": "LOC",
+        "start": 71,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "21. Shannon Nobis (U.S.) 1:19.08",
+    "entities": [
+      {
+        "text": "Shannon Nobis",
+        "label": "PER",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "A British photographer branded a stalker by Princess Diana has been forced to postpone a legal challenge to a ban on approaching her because he's been jailed for criminal damage, his lawyer said on Friday.",
+    "entities": [
+      {
+        "text": "Diana",
+        "label": "PER",
+        "start": 53,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "Kankkunen has set an astonishing pace for a driver who has not rallied for three months.",
+    "entities": [
+      {
+        "text": "Kankkunen",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "New York 6 CALIFORNIA 2",
+    "entities": [
+      {
+        "text": "New York",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "CALIFORNIA",
+        "label": "ORG",
+        "start": 11,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "Woman charged over N. Ireland arms find.",
+    "entities": [
+      {
+        "text": "N. Ireland",
+        "label": "LOC",
+        "start": 19,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "The value of exports fell one percent year-on-year in April and the value of imports fell two percent, NCB said.",
+    "entities": [
+      {
+        "text": "NCB",
+        "label": "ORG",
+        "start": 103,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "NEW JERSEY 4 10 .286 7 1/2",
+    "entities": [
+      {
+        "text": "NEW JERSEY",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "Polish ex-communist president to visit Pope.",
+    "entities": []
+  }
+]

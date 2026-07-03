@@ -1,0 +1,984 @@
+[
+  {
+    "text": "Other Dynasty 21 and 22 kings such as Amenemope and Takelot I, for instance, employed grave goods which mentioned their parent's names in their own tombs.",
+    "entities": [
+      {
+        "text": "Amenemope",
+        "label": "person",
+        "start": 38,
+        "end": 47
+      },
+      {
+        "text": "Takelot I",
+        "label": "person",
+        "start": 52,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "text": "Yongphulla Airport in Trashigang is a small domestic airport that underwent upgrades through 2010.",
+    "entities": [
+      {
+        "text": "Trashigang",
+        "label": "location",
+        "start": 22,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "A tryptophan 2, 3-dioxygenase inhibitor developed by the group restored the ability of these mice to reject tryptophan 2, 3-dioxygenase -expressed tumors, demonstrating that tryptophan 2, 3-dioxygenase inhibitors display potential in cancer therapy.",
+    "entities": []
+  },
+  {
+    "text": "In the rematch the following year, he knocked out Brodie in the 7th round.",
+    "entities": [
+      {
+        "text": "Brodie",
+        "label": "person",
+        "start": 50,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "text": "Less well known, but perhaps more significant, was Marshall's effort to assemble German officers after the war to write histories and analyses of battles in all theatres of the European war.",
+    "entities": [
+      {
+        "text": "German",
+        "label": "location",
+        "start": 81,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "text": "He died on 24 May 1806 and was buried at Kilmun Parish Church.",
+    "entities": []
+  },
+  {
+    "text": "The city of Tampa has a large police department that provides law enforcement services.",
+    "entities": [
+      {
+        "text": "Tampa",
+        "label": "location",
+        "start": 12,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "As of 2018, Shree Airlines was the third largest domestic carrier in Nepal, after Buddha Air and Yeti Airlines, with a market share of 15.7%.",
+    "entities": [
+      {
+        "text": "Shree Airlines",
+        "label": "organization",
+        "start": 12,
+        "end": 26
+      },
+      {
+        "text": "Nepal",
+        "label": "location",
+        "start": 69,
+        "end": 74
+      },
+      {
+        "text": "Buddha Air",
+        "label": "organization",
+        "start": 82,
+        "end": 92
+      },
+      {
+        "text": "Yeti Airlines",
+        "label": "organization",
+        "start": 97,
+        "end": 110
+      }
+    ]
+  },
+  {
+    "text": "Consequent to the Nazi Holocaust (1941–1945), with documents such as ``The Race Question ``(1950) and the ``Declaration on the Elimination of All Forms of Racial Discrimination ``(1963), the United Nations officially declared that racial differences are insignificant to anthropological likeness among human beings.",
+    "entities": [
+      {
+        "text": "United Nations",
+        "label": "organization",
+        "start": 191,
+        "end": 205
+      }
+    ]
+  },
+  {
+    "text": "On 17 October 1973, HS-11 moved to its new home port of Naval Air Station Jacksonville and was reassigned to Carrier Air Wing ONE (CVW-1) where it remains assigned to this day.",
+    "entities": [
+      {
+        "text": "HS-11",
+        "label": "organization",
+        "start": 20,
+        "end": 25
+      },
+      {
+        "text": "Carrier Air Wing ONE",
+        "label": "product",
+        "start": 109,
+        "end": 129
+      },
+      {
+        "text": "CVW-1",
+        "label": "product",
+        "start": 131,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "A made-for-TV movie, ``Michael Landon, the Father I Knew ``, co-written and directed by his son Michael Jr., aired on CBS in May 1999.",
+    "entities": [
+      {
+        "text": "Michael Landon, the Father I Knew",
+        "label": "art",
+        "start": 23,
+        "end": 56
+      },
+      {
+        "text": "CBS",
+        "label": "organization",
+        "start": 118,
+        "end": 121
+      }
+    ]
+  },
+  {
+    "text": "The album included the singles ``The Tilt ``and ``I Enjoy Ya ``.",
+    "entities": [
+      {
+        "text": "The Tilt",
+        "label": "art",
+        "start": 33,
+        "end": 41
+      },
+      {
+        "text": "I Enjoy Ya",
+        "label": "art",
+        "start": 50,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "Bartali won his last Giro in 1946, with Coppi winning his second the following year.",
+    "entities": [
+      {
+        "text": "Bartali",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Coppi",
+        "label": "person",
+        "start": 40,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "Tory completed two years of additional training at Osgoode Hall, and with his brother, they joined their father ’ s firm at the age of 24.",
+    "entities": [
+      {
+        "text": "Osgoode Hall",
+        "label": "organization",
+        "start": 51,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "The newscasts were originally branded as ``NewsChannel 11 on Pax ``when KNTV was affiliated with The WB; after KNTV joined NBC in January 2002, the newscasts were first renamed to ``NBC 3 News on Pax ``, then to ``NBC 11 News on Pax ``several months later, after KNTV stopped branding by its common channel number on Bay Area cable systems.",
+    "entities": [
+      {
+        "text": "NewsChannel 11 on Pax",
+        "label": "organization",
+        "start": 43,
+        "end": 64
+      },
+      {
+        "text": "KNTV",
+        "label": "organization",
+        "start": 72,
+        "end": 76
+      },
+      {
+        "text": "The WB",
+        "label": "organization",
+        "start": 97,
+        "end": 103
+      },
+      {
+        "text": "KNTV",
+        "label": "organization",
+        "start": 111,
+        "end": 115
+      },
+      {
+        "text": "NBC",
+        "label": "organization",
+        "start": 123,
+        "end": 126
+      },
+      {
+        "text": "NBC 3 News on Pax",
+        "label": "organization",
+        "start": 182,
+        "end": 199
+      },
+      {
+        "text": "NBC 11 News on Pax",
+        "label": "organization",
+        "start": 214,
+        "end": 232
+      },
+      {
+        "text": "KNTV",
+        "label": "organization",
+        "start": 263,
+        "end": 267
+      }
+    ]
+  },
+  {
+    "text": "Eventually, Linnanmäki chose to build a tower in the form of a gyro tower ride.",
+    "entities": [
+      {
+        "text": "Linnanmäki",
+        "label": "person",
+        "start": 12,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "Leventhal envisioned that the BPLs cartographic resources would lead to the foundation of educational programs for students.",
+    "entities": [
+      {
+        "text": "Leventhal",
+        "label": "person",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "A prototype, registered G-EAOV, was a five-seat cabin biplane with a pusher propeller driven by a Rolls-Royce Falcon water-cooled V 12 engine.",
+    "entities": [
+      {
+        "text": "G-EAOV",
+        "label": "product",
+        "start": 24,
+        "end": 30
+      },
+      {
+        "text": "Rolls-Royce Falcon water-cooled V 12 engine",
+        "label": "product",
+        "start": 98,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "The play has as its full name The Great Revenge of the Orphan of Zhao.",
+    "entities": [
+      {
+        "text": "The Great Revenge of the Orphan of Zhao",
+        "label": "art",
+        "start": 30,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "This gives it the widest Gothic nave in France,, compared with at Reims Cathedral and at Notre-Dame de Paris.",
+    "entities": [
+      {
+        "text": "France",
+        "label": "location",
+        "start": 40,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "The Austin Mini Cooper and Morris Mini Cooper debuted in September 1961.",
+    "entities": [
+      {
+        "text": "Austin Mini Cooper",
+        "label": "product",
+        "start": 4,
+        "end": 22
+      },
+      {
+        "text": "Morris Mini Cooper",
+        "label": "product",
+        "start": 27,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "Edmonton got off to a horrible start, starting the year 3–18–3, before head coach Ted Green was fired and replaced by Glen Sather for the rest of the season.",
+    "entities": [
+      {
+        "text": "Ted Green",
+        "label": "person",
+        "start": 82,
+        "end": 91
+      },
+      {
+        "text": "Glen Sather",
+        "label": "person",
+        "start": 118,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "28 Aurigae is one of the few faint Flamsteed stars which is not in the Bright Star Catalogue.",
+    "entities": []
+  },
+  {
+    "text": "It was sometimes used on London - Birmingham services in the event of a Pendolino shortage.",
+    "entities": [
+      {
+        "text": "London",
+        "label": "location",
+        "start": 25,
+        "end": 31
+      },
+      {
+        "text": "Birmingham",
+        "label": "location",
+        "start": 34,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "The highways followed Sherman Avenue east through downtown town Coeur D'Alene.",
+    "entities": [
+      {
+        "text": "Sherman Avenue",
+        "label": "location",
+        "start": 22,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "A deadiction centre called Navdarshan is also run by the diocese.",
+    "entities": [
+      {
+        "text": "Navdarshan",
+        "label": "location",
+        "start": 27,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "text": "Its soundtrack is composed by Jatin–Lalit and lyrics are penned by Anand Bakshi.",
+    "entities": [
+      {
+        "text": "Jatin–Lalit",
+        "label": "person",
+        "start": 30,
+        "end": 41
+      },
+      {
+        "text": "Anand Bakshi",
+        "label": "person",
+        "start": 67,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "text": "He is a former member of the Republican Party.",
+    "entities": [
+      {
+        "text": "Republican Party",
+        "label": "organization",
+        "start": 29,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "The MTA also unveiled the first of 26 planned Metro Rapid bus routes in June, which were Metro Rapid Lines 720 (Wilshire Blvd. / Whittier Blvd.)",
+    "entities": [
+      {
+        "text": "Metro Rapid Lines 720",
+        "label": "location",
+        "start": 89,
+        "end": 110
+      },
+      {
+        "text": "Wilshire Blvd.",
+        "label": "location",
+        "start": 112,
+        "end": 126
+      },
+      {
+        "text": "Whittier Blvd.",
+        "label": "location",
+        "start": 129,
+        "end": 143
+      }
+    ]
+  },
+  {
+    "text": "The noble, on 8 July 1130, granted a charter to the town (referred to as Civitate Noman) and promoted the rebuilding of the castle.",
+    "entities": [
+      {
+        "text": "Civitate Noman",
+        "label": "person",
+        "start": 73,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "text": "In 1957, CCPC constructed one of the first combined-cycle facilities containing a 12.5 megawatt coal plant and a 5 megawatt natural gas combustion turbine.",
+    "entities": [
+      {
+        "text": "CCPC",
+        "label": "organization",
+        "start": 9,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "He died in Ballinasloe in May 2014 at the age of 92.",
+    "entities": [
+      {
+        "text": "Ballinasloe",
+        "label": "location",
+        "start": 11,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "He played in the British Ice Hockey Superleague for the Nottingham Panthers, Ayr Scottish Eagles, London Knights and the Belfast Giants.",
+    "entities": [
+      {
+        "text": "British Ice Hockey Superleague",
+        "label": "organization",
+        "start": 17,
+        "end": 47
+      },
+      {
+        "text": "Nottingham Panthers",
+        "label": "organization",
+        "start": 56,
+        "end": 75
+      },
+      {
+        "text": "Ayr Scottish Eagles",
+        "label": "organization",
+        "start": 77,
+        "end": 96
+      },
+      {
+        "text": "London Knights",
+        "label": "organization",
+        "start": 98,
+        "end": 112
+      },
+      {
+        "text": "Belfast Giants",
+        "label": "organization",
+        "start": 121,
+        "end": 135
+      }
+    ]
+  },
+  {
+    "text": "In the insulin synthesis pathway, first preproinsulin is translocated into the endoplasmic reticulum of beta cells of the pancreas with an A-chain, a C-peptide, a B-chain, and a signal sequence.",
+    "entities": []
+  },
+  {
+    "text": "However, according to Herodotus (who gives two detailed stories), Bardiya went to Egypt with Cambyses and was there for some time but later Cambyses sent him back to Susa out of envy, because “ Bardiya alone could draw the bow brought from the Ethiopian king. ” Herodotus then states that ``Cambyses had a dream in which he saw his brother sitting on the royal throne.",
+    "entities": [
+      {
+        "text": "Bardiya",
+        "label": "person",
+        "start": 66,
+        "end": 73
+      },
+      {
+        "text": "Egypt",
+        "label": "location",
+        "start": 82,
+        "end": 87
+      },
+      {
+        "text": "Cambyses",
+        "label": "person",
+        "start": 140,
+        "end": 148
+      },
+      {
+        "text": "Susa",
+        "label": "location",
+        "start": 166,
+        "end": 170
+      },
+      {
+        "text": "Bardiya",
+        "label": "person",
+        "start": 194,
+        "end": 201
+      },
+      {
+        "text": "Ethiopian",
+        "label": "location",
+        "start": 244,
+        "end": 253
+      },
+      {
+        "text": "Cambyses",
+        "label": "person",
+        "start": 291,
+        "end": 299
+      }
+    ]
+  },
+  {
+    "text": "He prepared All Black teams for 11 tests from 1973 to 1976; and left with six wins, one draw and four losses (three in South Africa in 1976, against a rampant Springbok side) He had been a provincial coach in Taranaki (1963–69) (the province held the Ranfurly Shield for three years) and Wanganui (1970–71), and a secondary school coach in Taranaki.",
+    "entities": [
+      {
+        "text": "All Black",
+        "label": "organization",
+        "start": 12,
+        "end": 21
+      },
+      {
+        "text": "South Africa",
+        "label": "location",
+        "start": 119,
+        "end": 131
+      },
+      {
+        "text": "Springbok",
+        "label": "organization",
+        "start": 159,
+        "end": 168
+      },
+      {
+        "text": "Taranaki",
+        "label": "location",
+        "start": 209,
+        "end": 217
+      },
+      {
+        "text": "Wanganui",
+        "label": "location",
+        "start": 288,
+        "end": 296
+      },
+      {
+        "text": "Taranaki",
+        "label": "location",
+        "start": 340,
+        "end": 348
+      }
+    ]
+  },
+  {
+    "text": "Tallmadge suspected André to be a spy and Benedict Arnold to be his accomplice, and he tried to have Jameson reverse his orders.",
+    "entities": [
+      {
+        "text": "Tallmadge",
+        "label": "person",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "André",
+        "label": "person",
+        "start": 20,
+        "end": 25
+      },
+      {
+        "text": "Benedict Arnold",
+        "label": "person",
+        "start": 42,
+        "end": 57
+      },
+      {
+        "text": "Jameson",
+        "label": "person",
+        "start": 101,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "text": "PRC2 acts to create heterochromatin in these regions through similar mechanisms to the mechanism used to repress genes.",
+    "entities": []
+  },
+  {
+    "text": "These early American pioneers to the Northwest Territory have been memorialized in verse and book.",
+    "entities": [
+      {
+        "text": "American",
+        "label": "location",
+        "start": 12,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Malvern Prep was founded as a preparatory academy on the campus of Villanova University in 1842 at the Belle-Aire farm, which the Augustinian order purchased in January 1842.",
+    "entities": [
+      {
+        "text": "Malvern Prep",
+        "label": "organization",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Villanova University",
+        "label": "organization",
+        "start": 67,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "text": "Palmer is noteworthy for attempting to bring some organization to deism by founding the ``Deistical Society of New York ``and other deistic societies from Maine to Georgia.",
+    "entities": [
+      {
+        "text": "Palmer",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Deistical Society of New York",
+        "label": "organization",
+        "start": 90,
+        "end": 119
+      },
+      {
+        "text": "Maine",
+        "label": "location",
+        "start": 155,
+        "end": 160
+      },
+      {
+        "text": "Georgia",
+        "label": "location",
+        "start": 164,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "The 2006 United Nations Security Council election began on 16 October 2006 during the 61st session of the United Nations General Assembly, held at United Nations Headquarters in New York City.",
+    "entities": [
+      {
+        "text": "New York City",
+        "label": "location",
+        "start": 178,
+        "end": 191
+      }
+    ]
+  },
+  {
+    "text": "In 1708 Bulavin's forces accompanied by Turks and cossacks stormed Azov, but Tolstoy's troops were victorious and not only kept the fortress but according to historian Nikolay Tolstoy captured and hanged Bulavin himself.",
+    "entities": [
+      {
+        "text": "Bulavin",
+        "label": "person",
+        "start": 8,
+        "end": 15
+      },
+      {
+        "text": "Turks",
+        "label": "person",
+        "start": 40,
+        "end": 45
+      },
+      {
+        "text": "Azov",
+        "label": "organization",
+        "start": 67,
+        "end": 71
+      },
+      {
+        "text": "Tolstoy",
+        "label": "person",
+        "start": 77,
+        "end": 84
+      },
+      {
+        "text": "Bulavin",
+        "label": "person",
+        "start": 204,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "Bill Schmoll tells SWAT team that condition ``is green.''",
+    "entities": [
+      {
+        "text": "SWAT team",
+        "label": "organization",
+        "start": 19,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "Yeh Saali Zindagi () is a 2011 Hindi crime thriller film directed by Sudhir Mishra.",
+    "entities": [
+      {
+        "text": "Yeh Saali Zindagi",
+        "label": "art",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "Hindi",
+        "label": "location",
+        "start": 31,
+        "end": 36
+      },
+      {
+        "text": "Sudhir Mishra",
+        "label": "person",
+        "start": 69,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "It includes natural and historic areas such as the Fort Caroline National Memorial and the Kingsley Plantation, the oldest standing plantation in the state.",
+    "entities": []
+  },
+  {
+    "text": "He was one of twelve pilots who flew the North American X-15, an experimental spaceplane jointly operated by the United States Air Force and NASA.",
+    "entities": [
+      {
+        "text": "American",
+        "label": "location",
+        "start": 47,
+        "end": 55
+      },
+      {
+        "text": "X-15",
+        "label": "product",
+        "start": 56,
+        "end": 60
+      },
+      {
+        "text": "United States Air Force",
+        "label": "organization",
+        "start": 113,
+        "end": 136
+      },
+      {
+        "text": "NASA",
+        "label": "organization",
+        "start": 141,
+        "end": 145
+      }
+    ]
+  },
+  {
+    "text": "Mcr7 sRNA encoded by the ``mcr7 ``gene modulates translation of the mRNA and impacts the activity of the Twin Arginine Translocation (Tat) protein secretion apparatus.",
+    "entities": []
+  },
+  {
+    "text": "Catriona Gray wore a red, high-slit dress made by Filipino fashion designer Mak Tumang during the evening gown competition in Miss Universe 2018, which she won.",
+    "entities": [
+      {
+        "text": "Filipino",
+        "label": "location",
+        "start": 50,
+        "end": 58
+      },
+      {
+        "text": "Mak Tumang",
+        "label": "person",
+        "start": 76,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "text": "Two branches of the Watford DC Line have been closed: to Rickmansworth in 1952 (to passengers, to goods in 1967) and to Croxley Green in 1996.",
+    "entities": [
+      {
+        "text": "Watford DC Line",
+        "label": "location",
+        "start": 20,
+        "end": 35
+      },
+      {
+        "text": "Rickmansworth",
+        "label": "location",
+        "start": 57,
+        "end": 70
+      },
+      {
+        "text": "Croxley Green",
+        "label": "location",
+        "start": 120,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "The Black Codes indicated the plans of the Southern Whites for the former slaves.",
+    "entities": []
+  },
+  {
+    "text": "In 2017, a coalition of attorneys general for several states, farm workers, and environmental groups sued then- EPA chief Scott Pruitt over his chlorpyrifos ban reversal.",
+    "entities": [
+      {
+        "text": "Scott Pruitt",
+        "label": "person",
+        "start": 122,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "Several players in the ``Family Stadium ``series would be named after Amul and the game itself.",
+    "entities": [
+      {
+        "text": "Family Stadium",
+        "label": "product",
+        "start": 25,
+        "end": 39
+      },
+      {
+        "text": "Amul",
+        "label": "person",
+        "start": 70,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "text": "She became internationally recognized by winning the la Caméra d'Or award at the 1985 Cannes Film Festival with her directorial debut film, ``Oriana ``.",
+    "entities": [
+      {
+        "text": "Oriana",
+        "label": "art",
+        "start": 142,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "text": "By the early 2010s, demand for compact MPVs was declining, due to the rise of the compact SUV.",
+    "entities": [
+      {
+        "text": "MPVs",
+        "label": "product",
+        "start": 39,
+        "end": 43
+      },
+      {
+        "text": "SUV",
+        "label": "product",
+        "start": 90,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "text": "Among indigenous missiles, a ship-launched version of Prithvi-II is called the Dhanush, which has a range of and can carry a nuclear warhead.",
+    "entities": [
+      {
+        "text": "Prithvi-II",
+        "label": "product",
+        "start": 54,
+        "end": 64
+      },
+      {
+        "text": "Dhanush",
+        "label": "product",
+        "start": 79,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "text": "During 1998, SMG entered into a partnership agreement with another American based company, Anschutz Sports Holdings, to hold an equal share in the ownership of London Arena.",
+    "entities": [
+      {
+        "text": "SMG",
+        "label": "location",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "American",
+        "label": "location",
+        "start": 67,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "At the beginning of the 1915–16 season, Foyston signed with the PCHA's Seattle Metropolitans, where he would play for nine seasons, leading the league in goals twice.",
+    "entities": [
+      {
+        "text": "PCHA",
+        "label": "organization",
+        "start": 64,
+        "end": 68
+      },
+      {
+        "text": "Seattle Metropolitans",
+        "label": "organization",
+        "start": 71,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "Before suffering the injury, he helped keep the team in the game with 177 return yards, though they would ultimately lose on a late flag that negated a Todd Heap touchdown.",
+    "entities": [
+      {
+        "text": "Todd Heap",
+        "label": "person",
+        "start": 152,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "The film at times uses double voice-over narration, when the audience hears both Will's and Marcus's thoughts.",
+    "entities": [
+      {
+        "text": "Will",
+        "label": "person",
+        "start": 81,
+        "end": 85
+      },
+      {
+        "text": "Marcus",
+        "label": "person",
+        "start": 92,
+        "end": 98
+      }
+    ]
+  }
+]

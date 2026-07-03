@@ -1,0 +1,1331 @@
+[
+  {
+    "text": "ATHENS 1996-08-28",
+    "entities": [
+      {
+        "text": "ATHENS",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "St Kilda 9.",
+    "entities": [
+      {
+        "text": "St Kilda",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "It could be one of the most expensive rounds of drinks ever.",
+    "entities": []
+  },
+  {
+    "text": "\" The new evidence to me means some of that proposal should be re-examined because we could get away with considerably less animals being culled if in fact scientists throughout Europe accepted this evidence, \" Naish said.",
+    "entities": [
+      {
+        "text": "Europe",
+        "label": "LOC",
+        "start": 178,
+        "end": 184
+      },
+      {
+        "text": "Naish",
+        "label": "PER",
+        "start": 211,
+        "end": 216
+      }
+    ]
+  },
+  {
+    "text": "Gente said Ducruet, a keen racing driver, met Houteman during a race in Belgium and photographers had been on their trail ever since.",
+    "entities": [
+      {
+        "text": "Gente",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Ducruet",
+        "label": "PER",
+        "start": 11,
+        "end": 18
+      },
+      {
+        "text": "Houteman",
+        "label": "PER",
+        "start": 46,
+        "end": 54
+      },
+      {
+        "text": "Belgium",
+        "label": "LOC",
+        "start": 72,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "text": "Then Oakland manager Art Howe decided to intentionally walk Rafael Palmeiro and Bobby Bonilla to load the bases but Acre was nowhere near the plate to Ripken.",
+    "entities": [
+      {
+        "text": "Oakland",
+        "label": "ORG",
+        "start": 5,
+        "end": 12
+      },
+      {
+        "text": "Art Howe",
+        "label": "PER",
+        "start": 21,
+        "end": 29
+      },
+      {
+        "text": "Rafael Palmeiro",
+        "label": "PER",
+        "start": 60,
+        "end": 75
+      },
+      {
+        "text": "Bobby Bonilla",
+        "label": "PER",
+        "start": 80,
+        "end": 93
+      },
+      {
+        "text": "Acre",
+        "label": "PER",
+        "start": 116,
+        "end": 120
+      },
+      {
+        "text": "Ripken",
+        "label": "PER",
+        "start": 151,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "text": "OB 40 6 60 .406 21 1/2",
+    "entities": [
+      {
+        "text": "OB",
+        "label": "ORG",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "text": "HORSE RACING - NUNTHORPE STAKES RESULTS.",
+    "entities": []
+  },
+  {
+    "text": "ISLAMABAD 1996-08-25",
+    "entities": [
+      {
+        "text": "ISLAMABAD",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "12. Craig MacLean (Britain) 1:05.735",
+    "entities": [
+      {
+        "text": "Craig MacLean",
+        "label": "PER",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 19,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "Notts County 3 Rochdale 1",
+    "entities": [
+      {
+        "text": "Notts County",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Rochdale",
+        "label": "ORG",
+        "start": 15,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "6. Inoue Junichi (Japan) 1:16.61",
+    "entities": [
+      {
+        "text": "Inoue Junichi",
+        "label": "PER",
+        "start": 3,
+        "end": 16
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 18,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "Better-than-expected British trade figures had little impact on equities.",
+    "entities": []
+  },
+  {
+    "text": "Vera Haller",
+    "entities": [
+      {
+        "text": "Vera Haller",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "Germany imported 47,600 sheep from Britain last year, nearly half of total imports.",
+    "entities": [
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 35,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "text": "\" This was an act of terrorism and now I fear not only for my own life, but also of that of my wife and children, \" he told TASR.",
+    "entities": [
+      {
+        "text": "TASR",
+        "label": "ORG",
+        "start": 124,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "Government officials were not available to comment.",
+    "entities": []
+  },
+  {
+    "text": "GLASGOW 1996-12-07",
+    "entities": [
+      {
+        "text": "GLASGOW",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Following their midweek Champions ' League elimination by Norwegian side Rosenborg, a morale-boosting win is badly needed.",
+    "entities": [
+      {
+        "text": "Rosenborg",
+        "label": "ORG",
+        "start": 73,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "MOTOR RACING - BELGIAN GRAND PRIX PRACTICE TIMES.",
+    "entities": []
+  },
+  {
+    "text": "1-2.",
+    "entities": []
+  },
+  {
+    "text": "Vorskla 6 4 2 0 11 3 14",
+    "entities": [
+      {
+        "text": "Vorskla",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Bowling (to date): Wasim Akram 25-8-61-1, Waqar Younis",
+    "entities": [
+      {
+        "text": "Wasim Akram",
+        "label": "PER",
+        "start": 19,
+        "end": 30
+      },
+      {
+        "text": "Waqar Younis",
+        "label": "PER",
+        "start": 42,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "BORROWER BAYERISCHE VEREINSBANK",
+    "entities": [
+      {
+        "text": "BAYERISCHE VEREINSBANK",
+        "label": "ORG",
+        "start": 9,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "Final figures for June pegged can stock shipments at 40,144 tonnes, up 2.4 percent year-on-year.",
+    "entities": []
+  },
+  {
+    "text": "Inhabited by fewer than 3,000 people in total, it sees the sun for 24 hours a day during summer and is plunged into round-the-clock darkness in the winter months.",
+    "entities": []
+  },
+  {
+    "text": "Chicago 0 0",
+    "entities": [
+      {
+        "text": "Chicago",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Eritrea cut diplomatic ties with Sudan in 1994, accusing it of training rebels to make raids into Eritrea.",
+    "entities": [
+      {
+        "text": "Eritrea",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Sudan",
+        "label": "LOC",
+        "start": 33,
+        "end": 38
+      },
+      {
+        "text": "Eritrea",
+        "label": "LOC",
+        "start": 98,
+        "end": 105
+      }
+    ]
+  },
+  {
+    "text": "PUT D 94.00 PCT 0.94 DEM 2.40 PCT 101.40 X",
+    "entities": []
+  },
+  {
+    "text": "Metro slides 3.3 pct after market opens.",
+    "entities": [
+      {
+        "text": "Metro",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "MADRID 1996-08-29",
+    "entities": [
+      {
+        "text": "MADRID",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "\" To be a great coach you have to have the right horses and I got the right horses, \" said King.",
+    "entities": [
+      {
+        "text": "King",
+        "label": "PER",
+        "start": 91,
+        "end": 95
+      }
+    ]
+  },
+  {
+    "text": "Barnsley 3 Southend 0",
+    "entities": [
+      {
+        "text": "Barnsley",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Southend",
+        "label": "ORG",
+        "start": 11,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "The three-month cash bill traded at 4.04 percent against the U.S. three-month bill at 5.26 percent.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 61,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "text": "Goldman Sachs & Co Wertpapier GmbH has issued a total of five million American-style call warrants, on Continental AG, lead manager Goldman Sachs & Co said.",
+    "entities": [
+      {
+        "text": "Goldman Sachs & Co Wertpapier GmbH",
+        "label": "ORG",
+        "start": 0,
+        "end": 34
+      },
+      {
+        "text": "Continental AG",
+        "label": "ORG",
+        "start": 103,
+        "end": 117
+      },
+      {
+        "text": "Goldman Sachs & Co",
+        "label": "ORG",
+        "start": 132,
+        "end": 150
+      }
+    ]
+  },
+  {
+    "text": "2007 90,000",
+    "entities": []
+  },
+  {
+    "text": "CALIFORNIA AT BALTIMORE",
+    "entities": [
+      {
+        "text": "CALIFORNIA",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "BALTIMORE",
+        "label": "LOC",
+        "start": 14,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "He faces Republican challenger Bob Dole in the November 5 presidential election.",
+    "entities": [
+      {
+        "text": "Bob Dole",
+        "label": "PER",
+        "start": 31,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "text": "Anthony Hill (Australia) beat Mir Zaman Gul (Pakistan) 15-12 15-11 15-13",
+    "entities": [
+      {
+        "text": "Anthony Hill",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Australia",
+        "label": "LOC",
+        "start": 14,
+        "end": 23
+      },
+      {
+        "text": "Mir Zaman Gul",
+        "label": "PER",
+        "start": 30,
+        "end": 43
+      },
+      {
+        "text": "Pakistan",
+        "label": "LOC",
+        "start": 45,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "text": "CONAKRY 1996-08-28",
+    "entities": [
+      {
+        "text": "CONAKRY",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Police said an unknown number of hijackers were on board the Airbus 310 which was hijacked on its way from Khartoum to Amman in Jordan.",
+    "entities": [
+      {
+        "text": "Khartoum",
+        "label": "LOC",
+        "start": 107,
+        "end": 115
+      },
+      {
+        "text": "Amman",
+        "label": "LOC",
+        "start": 119,
+        "end": 124
+      },
+      {
+        "text": "Jordan",
+        "label": "LOC",
+        "start": 128,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "WHEAT--Rains boost U.S. HRW planting prospects.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "Newmont said the companies have had previous contact, though declined to detail the encounters.",
+    "entities": [
+      {
+        "text": "Newmont",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Students burn Hasina effigy, battle police.",
+    "entities": [
+      {
+        "text": "Hasina",
+        "label": "PER",
+        "start": 14,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "\" The nomination ...",
+    "entities": []
+  },
+  {
+    "text": "for, goals against, points):",
+    "entities": []
+  },
+  {
+    "text": "\" We have always avoided the question of numbers of animals to be slaughtered, that's not the issue.",
+    "entities": []
+  },
+  {
+    "text": "The company is \" vigorously defending \" the remaining four suits filed by former and current Brush Wellman employees, he said.",
+    "entities": [
+      {
+        "text": "Brush Wellman",
+        "label": "ORG",
+        "start": 93,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "-- Moscow Newsroom +7095 941 8520",
+    "entities": [
+      {
+        "text": "Moscow Newsroom",
+        "label": "ORG",
+        "start": 3,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "(0-0)",
+    "entities": []
+  },
+  {
+    "text": "Roberto Chiappa (Italy) beat Frederic Magne (France) 2-0",
+    "entities": [
+      {
+        "text": "Roberto Chiappa",
+        "label": "PER",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "Frederic Magne",
+        "label": "PER",
+        "start": 29,
+        "end": 43
+      },
+      {
+        "text": "France",
+        "label": "LOC",
+        "start": 45,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "2. Candice Gilg (France) 24.31",
+    "entities": [
+      {
+        "text": "Candice Gilg",
+        "label": "PER",
+        "start": 3,
+        "end": 15
+      },
+      {
+        "text": "France",
+        "label": "LOC",
+        "start": 17,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "SINGAPORE 1996-08-30",
+    "entities": [
+      {
+        "text": "SINGAPORE",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "The C$ 30-a-share deal means Barrick will own Arequipa's attractive Pierina gold deposit in Peru.",
+    "entities": [
+      {
+        "text": "Barrick",
+        "label": "ORG",
+        "start": 29,
+        "end": 36
+      },
+      {
+        "text": "Arequipa",
+        "label": "ORG",
+        "start": 46,
+        "end": 54
+      },
+      {
+        "text": "Pierina",
+        "label": "LOC",
+        "start": 68,
+        "end": 75
+      },
+      {
+        "text": "Peru",
+        "label": "LOC",
+        "start": 92,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "text": "Barcelona - Ronaldo (5th and 89th minutes), Giovanni (31st), Pizzi (73rd), De la Pena (75th)",
+    "entities": [
+      {
+        "text": "Barcelona",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Ronaldo",
+        "label": "PER",
+        "start": 12,
+        "end": 19
+      },
+      {
+        "text": "Giovanni",
+        "label": "PER",
+        "start": 44,
+        "end": 52
+      },
+      {
+        "text": "Pizzi",
+        "label": "PER",
+        "start": 61,
+        "end": 66
+      },
+      {
+        "text": "De la Pena",
+        "label": "PER",
+        "start": 75,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "India's leading cement firm Associated Cement Companies (ACC) said on Wednesday its cement sales rose to 3.1 million tonnes in April-July 1996 from 2.93 million a year ago.",
+    "entities": [
+      {
+        "text": "India",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Associated Cement Companies",
+        "label": "ORG",
+        "start": 28,
+        "end": 55
+      },
+      {
+        "text": "ACC",
+        "label": "ORG",
+        "start": 57,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "Oxford 4 1 0 3 6 5 3",
+    "entities": [
+      {
+        "text": "Oxford",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "- Jordan releases 32 from southern town of Karak.",
+    "entities": [
+      {
+        "text": "Jordan",
+        "label": "LOC",
+        "start": 2,
+        "end": 8
+      },
+      {
+        "text": "Karak",
+        "label": "LOC",
+        "start": 43,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "The BJP backs a hardline Hindu campaign to build a temple at the site of the mosque, which Hindus believe was the birthplace of the Lord Rama.",
+    "entities": [
+      {
+        "text": "BJP",
+        "label": "ORG",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "Rama",
+        "label": "PER",
+        "start": 137,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "Under the proposal, only imports of export-quality avocados growing in approved orchards in Michoacan, Mexico, the country's main avocado area, would be allowed.",
+    "entities": [
+      {
+        "text": "Michoacan",
+        "label": "LOC",
+        "start": 92,
+        "end": 101
+      },
+      {
+        "text": "Mexico",
+        "label": "LOC",
+        "start": 103,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "Burma's democracy leader Aung San Suu Kyi hit out at the government on Saturday for recent arrests and jailing of activists, saying the military abused the law to try to crush the democracy movement.",
+    "entities": [
+      {
+        "text": "Burma",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Aung San Suu Kyi",
+        "label": "PER",
+        "start": 25,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "text": "VANCOUVER AT SAN ANTONIO",
+    "entities": [
+      {
+        "text": "VANCOUVER",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "SAN ANTONIO",
+        "label": "LOC",
+        "start": 13,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "Admira / Wacker 6 0 3 3 5 10 3",
+    "entities": [
+      {
+        "text": "Admira / Wacker",
+        "label": "ORG",
+        "start": 0,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "Mount Zion Missionary Baptist Church and St. Matthews Missionary Baptist Church were both frame structures, each near Turner, Arkansas, a small community surrounded by cotton and soybean fields.",
+    "entities": [
+      {
+        "text": "Mount Zion Missionary Baptist Church",
+        "label": "LOC",
+        "start": 0,
+        "end": 36
+      },
+      {
+        "text": "St. Matthews Missionary Baptist Church",
+        "label": "LOC",
+        "start": 41,
+        "end": 79
+      },
+      {
+        "text": "Turner",
+        "label": "LOC",
+        "start": 118,
+        "end": 124
+      },
+      {
+        "text": "Arkansas",
+        "label": "LOC",
+        "start": 126,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "R. Croft not out 5",
+    "entities": [
+      {
+        "text": "R. Croft",
+        "label": "PER",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Southend 4 0 1 3 2 10 1",
+    "entities": [
+      {
+        "text": "Southend",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Hapoel Taiba 12 3 1 8 10 21 10",
+    "entities": [
+      {
+        "text": "Hapoel Taiba",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Mohammed Rashid \" is a terrorist who deserves to be behind bars.",
+    "entities": [
+      {
+        "text": "Mohammed Rashid",
+        "label": "PER",
+        "start": 0,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "Palmeiras 5 2 3 0 8 1 9",
+    "entities": [
+      {
+        "text": "Palmeiras",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Women's singles",
+    "entities": []
+  },
+  {
+    "text": "\" The United Kingdom believes that such a treaty will contribute positively to the further development of good neighbourly relations between the two countries and enhance the stability of the region, \" said the British Foreign office statement.",
+    "entities": [
+      {
+        "text": "United Kingdom",
+        "label": "LOC",
+        "start": 6,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "3. Fatima Yusuf (Nigeria) 51.43",
+    "entities": [
+      {
+        "text": "Fatima Yusuf",
+        "label": "PER",
+        "start": 3,
+        "end": 15
+      },
+      {
+        "text": "Nigeria",
+        "label": "LOC",
+        "start": 17,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "Headlines from major national newspapers.",
+    "entities": []
+  },
+  {
+    "text": "2. Benson Koech (Kenya) 1:45.96",
+    "entities": [
+      {
+        "text": "Benson Koech",
+        "label": "PER",
+        "start": 3,
+        "end": 15
+      },
+      {
+        "text": "Kenya",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "Extras (b-9 lb-3 w-12 nb-2) 26",
+    "entities": []
+  },
+  {
+    "text": "Slovak women visited Dutroux, police say.",
+    "entities": [
+      {
+        "text": "Dutroux",
+        "label": "PER",
+        "start": 21,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "text": "\" I am sorry to my ancestors for five generations, \" Chen Chun-yeh told the High Court after sentencing on Friday, the Hong Kong Standard said. \"",
+    "entities": [
+      {
+        "text": "Chen Chun-yeh",
+        "label": "PER",
+        "start": 53,
+        "end": 66
+      },
+      {
+        "text": "High Court",
+        "label": "ORG",
+        "start": 76,
+        "end": 86
+      },
+      {
+        "text": "Hong Kong Standard",
+        "label": "ORG",
+        "start": 119,
+        "end": 137
+      }
+    ]
+  },
+  {
+    "text": "rugby league match on Monday:",
+    "entities": []
+  },
+  {
+    "text": "LONDON 1996-08-29",
+    "entities": [
+      {
+        "text": "LONDON",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Yr / yr figures (%) - 3.2 +1.0 +9.8 108.4** -",
+    "entities": []
+  },
+  {
+    "text": "Freiburg 3 1 0 2 5 10 3",
+    "entities": [
+      {
+        "text": "Freiburg",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "15. Miriam Vogt (Germany) 47",
+    "entities": [
+      {
+        "text": "Miriam Vogt",
+        "label": "PER",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 17,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "OPEC basket price $24.20 on Thursday.",
+    "entities": [
+      {
+        "text": "OPEC",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "Defence Minister Chavalit Yongchaiyudh, head of coalition member the New Aspiration Party, was the second choice for prime minister, the poll showed.",
+    "entities": [
+      {
+        "text": "Chavalit Yongchaiyudh",
+        "label": "PER",
+        "start": 17,
+        "end": 38
+      },
+      {
+        "text": "New Aspiration Party",
+        "label": "ORG",
+        "start": 69,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "Britain says death of its citizen will sour ties.",
+    "entities": [
+      {
+        "text": "Britain",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Lebanon sentences pro-Israeli warlord to death.",
+    "entities": [
+      {
+        "text": "Lebanon",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "The run broke Clemens ' 28-inning shutout streak, longest in the majors this season.",
+    "entities": [
+      {
+        "text": "Clemens",
+        "label": "PER",
+        "start": 14,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "text": "Seven truckloads of armed riot police and three fire engines were on standby at one of the junctions near the institute.",
+    "entities": []
+  },
+  {
+    "text": "It was softer in the morning due to relatively ample rupiah liquidity but recovered later.",
+    "entities": []
+  },
+  {
+    "text": "The Vermonter, which runs between St. Albans, Vermont, near the Canadian border and Washington, D.C., collided with the truck at 7:51 a.m. EDT near the rural town of Roxbury some 15 miles southeast of the state capital Montpelier, Amtrak spokeswoman Maureen Garrity said.",
+    "entities": [
+      {
+        "text": "St. Albans",
+        "label": "LOC",
+        "start": 34,
+        "end": 44
+      },
+      {
+        "text": "Vermont",
+        "label": "LOC",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "Washington, D.C.",
+        "label": "LOC",
+        "start": 84,
+        "end": 100
+      },
+      {
+        "text": "Roxbury",
+        "label": "LOC",
+        "start": 166,
+        "end": 173
+      },
+      {
+        "text": "Montpelier",
+        "label": "LOC",
+        "start": 219,
+        "end": 229
+      },
+      {
+        "text": "Amtrak",
+        "label": "ORG",
+        "start": 231,
+        "end": 237
+      },
+      {
+        "text": "Maureen Garrity",
+        "label": "PER",
+        "start": 250,
+        "end": 265
+      }
+    ]
+  },
+  {
+    "text": "Two Iranian opposition leaders meet in Baghdad.",
+    "entities": [
+      {
+        "text": "Baghdad",
+        "label": "LOC",
+        "start": 39,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "In November, New York City said it became the first U.S. municipality to offer bonds for sale in European markets by competitive bidding as it listed taxable bonds on the London Stock Exchange.",
+    "entities": [
+      {
+        "text": "New York City",
+        "label": "LOC",
+        "start": 13,
+        "end": 26
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 52,
+        "end": 56
+      },
+      {
+        "text": "London Stock Exchange",
+        "label": "ORG",
+        "start": 171,
+        "end": 192
+      }
+    ]
+  },
+  {
+    "text": "He said one of Wang's apparent offences was to write a public letter in May suggesting that a free press and an independent judicial system were vital if the government really meant to stamp out rampant corruption.",
+    "entities": [
+      {
+        "text": "Wang",
+        "label": "PER",
+        "start": 15,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "Kamil Jamil didn't have a prayer.",
+    "entities": [
+      {
+        "text": "Kamil Jamil",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "INTEREST RATES Latest rate Pvs rate Date changed",
+    "entities": []
+  },
+  {
+    "text": "Mixed low-copper clips 48 to 49 cents / pound",
+    "entities": []
+  },
+  {
+    "text": "I expect the market to go as far down as 63,000 tomorrow if sales continue, \" said Burcin Mavituna from Interbank.",
+    "entities": [
+      {
+        "text": "Burcin Mavituna",
+        "label": "PER",
+        "start": 83,
+        "end": 98
+      },
+      {
+        "text": "Interbank",
+        "label": "ORG",
+        "start": 104,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "- Maronite Patriarch Sfeir expressed sorrow over the violations in Sunday ' elections.",
+    "entities": [
+      {
+        "text": "Maronite",
+        "label": "ORG",
+        "start": 2,
+        "end": 10
+      },
+      {
+        "text": "Sfeir",
+        "label": "PER",
+        "start": 21,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "5. Patrick Stevens (Belgium) 20.54",
+    "entities": [
+      {
+        "text": "Patrick Stevens",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "Belgium",
+        "label": "LOC",
+        "start": 20,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "I. Healy c Ranatunga b Muralitharan 8",
+    "entities": [
+      {
+        "text": "I. Healy",
+        "label": "PER",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Ranatunga",
+        "label": "PER",
+        "start": 11,
+        "end": 20
+      },
+      {
+        "text": "Muralitharan",
+        "label": "PER",
+        "start": 23,
+        "end": 35
+      }
+    ]
+  }
+]

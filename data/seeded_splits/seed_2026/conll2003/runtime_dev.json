@@ -1,0 +1,839 @@
+[
+  {
+    "text": "Nice 1 Bastia 1",
+    "entities": [
+      {
+        "text": "Nice",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Bastia",
+        "label": "ORG",
+        "start": 7,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "Attendance: 2,000",
+    "entities": []
+  },
+  {
+    "text": "Naina Yeltsin is recovering in Moscow's Central Clinical Hospital, where the president himself was treated twice last year for heart attacks.",
+    "entities": [
+      {
+        "text": "Naina Yeltsin",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Moscow",
+        "label": "LOC",
+        "start": 31,
+        "end": 37
+      },
+      {
+        "text": "Central Clinical Hospital",
+        "label": "LOC",
+        "start": 40,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "text": "AL-RAM, West Bank 1996-08-30",
+    "entities": [
+      {
+        "text": "AL-RAM",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "West Bank",
+        "label": "LOC",
+        "start": 8,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "NEC Nijmegen 18 3 7 8 19 32 16",
+    "entities": [
+      {
+        "text": "NEC Nijmegen",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Notts County 2 1 1 0 2 1 4",
+    "entities": [
+      {
+        "text": "Notts County",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Three were listed in poor condition.",
+    "entities": []
+  },
+  {
+    "text": "DECATUR, IL / CLINTON AND CEDAR RAPIDS, IA",
+    "entities": [
+      {
+        "text": "DECATUR",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "IL",
+        "label": "LOC",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "CLINTON AND CEDAR RAPIDS",
+        "label": "ORG",
+        "start": 14,
+        "end": 38
+      },
+      {
+        "text": "IA",
+        "label": "LOC",
+        "start": 40,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "text": "5. Capiot 5",
+    "entities": [
+      {
+        "text": "Capiot",
+        "label": "PER",
+        "start": 3,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "SOCCER - GERMAN FIRST DIVISION SUMMARIES.",
+    "entities": []
+  },
+  {
+    "text": "U.S. - Joe-Max Moore (3rd minute, 88th on penalty kick), Eric Wynalda (61st)",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Joe-Max Moore",
+        "label": "PER",
+        "start": 7,
+        "end": 20
+      },
+      {
+        "text": "Eric Wynalda",
+        "label": "PER",
+        "start": 57,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "Deportivo started strongly, taking the lead midway through the first half when former Auxerre playmaker Corentine Martins headed home a corner after a flick-on by Brazilian-born Spanish international midfielder Donato.",
+    "entities": [
+      {
+        "text": "Deportivo",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Auxerre",
+        "label": "ORG",
+        "start": 86,
+        "end": 93
+      },
+      {
+        "text": "Corentine Martins",
+        "label": "PER",
+        "start": 104,
+        "end": 121
+      },
+      {
+        "text": "Donato",
+        "label": "PER",
+        "start": 211,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "CHICAGO AREA MILLS (dollars per short ton)",
+    "entities": []
+  },
+  {
+    "text": "professional baseball games played on Thursday.",
+    "entities": []
+  },
+  {
+    "text": "A doctor said it was too early to say whether Popov, the only man to retain the Olympic 50 and 100 metres freestyle titles, would return to top-level sport.",
+    "entities": [
+      {
+        "text": "Popov",
+        "label": "PER",
+        "start": 46,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "text": "LONDON 1996-08-27",
+    "entities": [
+      {
+        "text": "LONDON",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "direct equity trades made on the Prague Stock Exchange:",
+    "entities": [
+      {
+        "text": "Prague Stock Exchange",
+        "label": "ORG",
+        "start": 33,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "German farm ministry tells consumers to avoid British mutton.",
+    "entities": []
+  },
+  {
+    "text": "Garlic pills don't lower cholesterol, study finds.",
+    "entities": []
+  },
+  {
+    "text": "LONDON 1996-08-25",
+    "entities": [
+      {
+        "text": "LONDON",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "A five-year-old girl in the east China city of Tianjin choked and almost died from cigarette smoke at her grandfather's birthday with relatives smoking for hours in a small room, the Wen Hui Bao newspaper said on Friday.",
+    "entities": [
+      {
+        "text": "China",
+        "label": "LOC",
+        "start": 33,
+        "end": 38
+      },
+      {
+        "text": "Tianjin",
+        "label": "LOC",
+        "start": 47,
+        "end": 54
+      },
+      {
+        "text": "Wen Hui Bao",
+        "label": "ORG",
+        "start": 183,
+        "end": 194
+      }
+    ]
+  },
+  {
+    "text": "\" They could cause serious damage as much as 500 meters (yards) away from wherever they were detonated, \" the spokesman added.",
+    "entities": []
+  },
+  {
+    "text": "LA PRESSE",
+    "entities": [
+      {
+        "text": "LA PRESSE",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "Crystal Palace 4 1 2 1 4 3 5",
+    "entities": [
+      {
+        "text": "Crystal Palace",
+        "label": "ORG",
+        "start": 0,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "A U.S. appeals court on Tuesday gave Lloyd's a reprieve, throwing out an injunction that the insurance giant said could have led to its collapse.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 2,
+        "end": 6
+      },
+      {
+        "text": "Lloyd's",
+        "label": "ORG",
+        "start": 37,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "Chester.",
+    "entities": [
+      {
+        "text": "Chester",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "CHICAGO 70 63 .526 9",
+    "entities": [
+      {
+        "text": "CHICAGO",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "CRICKET - ESSEX AND KENT MADE TO SWEAT IN TITLE RACE.",
+    "entities": [
+      {
+        "text": "ESSEX",
+        "label": "ORG",
+        "start": 10,
+        "end": 15
+      },
+      {
+        "text": "KENT",
+        "label": "ORG",
+        "start": 20,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "The couple would probably be extradited to Germany which has requested their deportation, the Dutch police spokeswoman said.",
+    "entities": [
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 43,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "Daughter of Henry VIII and his second wife Anne Boleyn, she was queen of England 1558-1603.",
+    "entities": [
+      {
+        "text": "Henry VIII",
+        "label": "PER",
+        "start": 12,
+        "end": 22
+      },
+      {
+        "text": "Anne Boleyn",
+        "label": "PER",
+        "start": 43,
+        "end": 54
+      },
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 73,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "Rudar 4 1 0 3 1 7 3",
+    "entities": [
+      {
+        "text": "Rudar",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "Add Women's singles, third round Linda Wild (U.S.) beat Barbara Rittner (Germany) 6-4 4-6 7-5 Asa Carlsson (Sweden) beat 15 - Gabriela Sabatini (Argentina) 7-5 3-6 6-2",
+    "entities": [
+      {
+        "text": "Linda Wild",
+        "label": "PER",
+        "start": 33,
+        "end": 43
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 45,
+        "end": 49
+      },
+      {
+        "text": "Barbara Rittner",
+        "label": "PER",
+        "start": 56,
+        "end": 71
+      },
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 73,
+        "end": 80
+      },
+      {
+        "text": "Asa Carlsson",
+        "label": "PER",
+        "start": 94,
+        "end": 106
+      },
+      {
+        "text": "Sweden",
+        "label": "LOC",
+        "start": 108,
+        "end": 114
+      },
+      {
+        "text": "Gabriela Sabatini",
+        "label": "PER",
+        "start": 126,
+        "end": 143
+      },
+      {
+        "text": "Argentina",
+        "label": "LOC",
+        "start": 145,
+        "end": 154
+      }
+    ]
+  },
+  {
+    "text": "PT Tambang Timah closed at $15.575 per GDR in London on Friday.",
+    "entities": [
+      {
+        "text": "PT Tambang Timah",
+        "label": "ORG",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "London",
+        "label": "LOC",
+        "start": 46,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "The volcano in the Soufriere hills has erupted three times in the past 13 months and last April some 4,500 people living in the capital, Plymouth, and southern areas were evacuated to the north, where many are living in public shelters and schools.",
+    "entities": [
+      {
+        "text": "Plymouth",
+        "label": "ORG",
+        "start": 137,
+        "end": 145
+      }
+    ]
+  },
+  {
+    "text": "Some human rights groups have criticised the government's handling of the situation.",
+    "entities": []
+  },
+  {
+    "text": "In the original draw, Medvedev and Fleurian were slotted to play each other.",
+    "entities": [
+      {
+        "text": "Medvedev",
+        "label": "PER",
+        "start": 22,
+        "end": 30
+      },
+      {
+        "text": "Fleurian",
+        "label": "PER",
+        "start": 35,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "I think the reality is that we operate in emerging markets, emerging markets tend to be more volatile. \"",
+    "entities": []
+  },
+  {
+    "text": "RTRS - Toyota Australia workers to return to work.",
+    "entities": [
+      {
+        "text": "RTRS",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Toyota Australia",
+        "label": "ORG",
+        "start": 7,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "\" I would like to thank the Eagles organisation and the wonderful fans of Philadelphia for supporting me throughout my career, \" Cunningham said.",
+    "entities": [
+      {
+        "text": "Eagles",
+        "label": "ORG",
+        "start": 28,
+        "end": 34
+      },
+      {
+        "text": "Philadelphia",
+        "label": "ORG",
+        "start": 74,
+        "end": 86
+      },
+      {
+        "text": "Cunningham",
+        "label": "PER",
+        "start": 129,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "text": "NATO said it was closely monitoring the movement of about 75 Moslem men towards the village of Mahala in Bosnia's Serb republic on Saturday, two days after a violent confrontation with Serbs.",
+    "entities": [
+      {
+        "text": "NATO",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Mahala",
+        "label": "LOC",
+        "start": 95,
+        "end": 101
+      },
+      {
+        "text": "Bosnia",
+        "label": "LOC",
+        "start": 105,
+        "end": 111
+      }
+    ]
+  },
+  {
+    "text": "6-1 7-5",
+    "entities": []
+  },
+  {
+    "text": "Keith O'Neill of Norwich City joins Niall Quinn up front.",
+    "entities": [
+      {
+        "text": "Keith O'Neill",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Norwich City",
+        "label": "ORG",
+        "start": 17,
+        "end": 29
+      },
+      {
+        "text": "Niall Quinn",
+        "label": "PER",
+        "start": 36,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "text": "Bangkok has complained to Rangoon about the raids but Burmese military authorities say they have no contol over the faction.",
+    "entities": [
+      {
+        "text": "Bangkok",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Rangoon",
+        "label": "LOC",
+        "start": 26,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "Ballanger, 25, will be aiming to complete a track double when she defends her 500 metres time trial title on Saturday.",
+    "entities": [
+      {
+        "text": "Ballanger",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "WIGAN, England 1996-08-31",
+    "entities": [
+      {
+        "text": "WIGAN",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "England",
+        "label": "LOC",
+        "start": 7,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "W L PCT GB",
+    "entities": []
+  },
+  {
+    "text": "Finland beat the Czech Republic",
+    "entities": [
+      {
+        "text": "Finland",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Czech Republic",
+        "label": "LOC",
+        "start": 17,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "BELGRADE 1996-08-31",
+    "entities": [
+      {
+        "text": "BELGRADE",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "He is due back in Berlin on September 5 to continue his testimony, which has backed up German prosecutors ' allegations that Tehran ordered the attack on the exiled leaders.",
+    "entities": [
+      {
+        "text": "Berlin",
+        "label": "LOC",
+        "start": 18,
+        "end": 24
+      },
+      {
+        "text": "Tehran",
+        "label": "LOC",
+        "start": 125,
+        "end": 131
+      }
+    ]
+  },
+  {
+    "text": "Boskalis upgrades 1996 outlook.",
+    "entities": [
+      {
+        "text": "Boskalis",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Other cricketers who have taken over 300 Test wickets:",
+    "entities": []
+  },
+  {
+    "text": "Baker made the March 1995 trip on the explicit understanding that it remain a secret, but after his speech at the GOP convention, Israel's outgoing ambassador Itamar Rabinovich told a reporter about it, the Post said.",
+    "entities": [
+      {
+        "text": "Baker",
+        "label": "PER",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Israel",
+        "label": "LOC",
+        "start": 130,
+        "end": 136
+      },
+      {
+        "text": "Itamar Rabinovich",
+        "label": "PER",
+        "start": 159,
+        "end": 176
+      },
+      {
+        "text": "Post",
+        "label": "ORG",
+        "start": 207,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "1. Juha Kankkunen (Finland) Toyota Celica 2 hours 30 minutes",
+    "entities": [
+      {
+        "text": "Juha Kankkunen",
+        "label": "PER",
+        "start": 3,
+        "end": 17
+      },
+      {
+        "text": "Finland",
+        "label": "LOC",
+        "start": 19,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "text": "M2 389.79 391.32 381.65",
+    "entities": []
+  },
+  {
+    "text": "Inzamam-ul-Haq, Salim Malik, Asif Mujtaba, Wasim Akram, Moin",
+    "entities": [
+      {
+        "text": "Inzamam-ul-Haq",
+        "label": "PER",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Salim Malik",
+        "label": "PER",
+        "start": 16,
+        "end": 27
+      },
+      {
+        "text": "Asif Mujtaba",
+        "label": "PER",
+        "start": 29,
+        "end": 41
+      },
+      {
+        "text": "Wasim Akram",
+        "label": "PER",
+        "start": 43,
+        "end": 54
+      },
+      {
+        "text": "Moin",
+        "label": "PER",
+        "start": 56,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "Anytime somebody gets the opportunity to enter the next era with such a big bang has got to be seen as a strong message to the industry. \"",
+    "entities": []
+  },
+  {
+    "text": "He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains, spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health.",
+    "entities": [
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 33,
+        "end": 35
+      },
+      {
+        "text": "Franz Fischler",
+        "label": "PER",
+        "start": 54,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "text": "Magna's traditional strength has been instrument panels, door panels and other interior components.",
+    "entities": [
+      {
+        "text": "Magna",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "(Chicago newsdesk 312 408 8720)",
+    "entities": [
+      {
+        "text": "Chicago",
+        "label": "LOC",
+        "start": 1,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "PARIS 1996-12-06",
+    "entities": [
+      {
+        "text": "PARIS",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,960 @@
+[
+  {
+    "text": "The average selling price, $206,464, was up 10.6 percent over July 1995.",
+    "entities": []
+  },
+  {
+    "text": "That doesn't happen in other Grand Slams.",
+    "entities": []
+  },
+  {
+    "text": "\" We will look at our approach (to the plan) but we won't get involved with the number of animals to be slaughtered, \" he said.",
+    "entities": []
+  },
+  {
+    "text": "The United States edged Austria in Salzburg 3-2 in the opening round in April, and then blanked Japan 5-0 in Nagoya last month in the semifinals.",
+    "entities": [
+      {
+        "text": "United States",
+        "label": "LOC",
+        "start": 4,
+        "end": 17
+      },
+      {
+        "text": "Austria",
+        "label": "LOC",
+        "start": 24,
+        "end": 31
+      },
+      {
+        "text": "Salzburg",
+        "label": "LOC",
+        "start": 35,
+        "end": 43
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 96,
+        "end": 101
+      },
+      {
+        "text": "Nagoya",
+        "label": "LOC",
+        "start": 109,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "text": "Volkswagen AG won 77,719 registrations, slightly more than a quarter of the total.",
+    "entities": [
+      {
+        "text": "Volkswagen AG",
+        "label": "ORG",
+        "start": 0,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "Syria has held sporadic peace talks with Israel since 1991 without achieving a breakthrough.",
+    "entities": [
+      {
+        "text": "Syria",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Israel",
+        "label": "LOC",
+        "start": 41,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "text": "BOGOTA, Colombia 1996-08-30",
+    "entities": [
+      {
+        "text": "BOGOTA",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Colombia",
+        "label": "LOC",
+        "start": 8,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "SEATTLE 9 Baltimore 6",
+    "entities": [
+      {
+        "text": "SEATTLE",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Baltimore",
+        "label": "ORG",
+        "start": 10,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "6 - Andre Agassi (U.S.) beat Leander Paes (India) 3-6 6-4 6-1 6-0",
+    "entities": [
+      {
+        "text": "Andre Agassi",
+        "label": "PER",
+        "start": 4,
+        "end": 16
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 18,
+        "end": 22
+      },
+      {
+        "text": "Leander Paes",
+        "label": "PER",
+        "start": 29,
+        "end": 41
+      },
+      {
+        "text": "India",
+        "label": "LOC",
+        "start": 43,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "\" He 'll make news during the day ... and then at night the attention will go to the convention, \" said the campaign official. \"",
+    "entities": []
+  },
+  {
+    "text": "TIGNES, France 1996-12-07",
+    "entities": [
+      {
+        "text": "TIGNES",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "France",
+        "label": "LOC",
+        "start": 8,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "British Data in merger talks with Mentmore.",
+    "entities": [
+      {
+        "text": "British Data",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Mentmore",
+        "label": "ORG",
+        "start": 34,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "text": "Americast said Southern New England Telecommunications Corp. has signed a letter of intent to join the group, which plans to provide a home entertainment service similar to cable television.",
+    "entities": [
+      {
+        "text": "Americast",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Southern New England Telecommunications Corp.",
+        "label": "ORG",
+        "start": 15,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "Frederick is serving a 347-year sentence.",
+    "entities": [
+      {
+        "text": "Frederick",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "CINCO DIAS",
+    "entities": [
+      {
+        "text": "CINCO DIAS",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "However, he singled out \" Mission: Impossible \" as an especially entertaining movie, Daily Variety said.",
+    "entities": [
+      {
+        "text": "Daily Variety",
+        "label": "ORG",
+        "start": 85,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "text": "But on Saturday the people gathered just outside the town seemed to be united in favour of the separatists.",
+    "entities": []
+  },
+  {
+    "text": "Men's singles",
+    "entities": []
+  },
+  {
+    "text": "He was also expected to meet Prime Minister Netanyahu and opposition leader Shimon Peres for talks.",
+    "entities": [
+      {
+        "text": "Netanyahu",
+        "label": "PER",
+        "start": 44,
+        "end": 53
+      },
+      {
+        "text": "Shimon Peres",
+        "label": "PER",
+        "start": 76,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "text": "Seven Iraqis charged with hijack.",
+    "entities": []
+  },
+  {
+    "text": "Rita Grande (Italy) beat Tina Krizan (Slovenia) 6-2 6-0",
+    "entities": [
+      {
+        "text": "Rita Grande",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Italy",
+        "label": "LOC",
+        "start": 13,
+        "end": 18
+      },
+      {
+        "text": "Tina Krizan",
+        "label": "PER",
+        "start": 25,
+        "end": 36
+      },
+      {
+        "text": "Slovenia",
+        "label": "LOC",
+        "start": 38,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "He said his government had just asked U.N. human rights monitors to increase their numbers in Burundi in an effort \" to put an end to this vicious circle of violence. \"",
+    "entities": [
+      {
+        "text": "U.N.",
+        "label": "ORG",
+        "start": 38,
+        "end": 42
+      },
+      {
+        "text": "Burundi",
+        "label": "LOC",
+        "start": 94,
+        "end": 101
+      }
+    ]
+  },
+  {
+    "text": "A shot was fired, but onlookers managed to disarm the man.",
+    "entities": []
+  },
+  {
+    "text": "They have occupied the area to the depth of 40 km (25 miles).",
+    "entities": []
+  },
+  {
+    "text": "CHICAGO 5 8 0 202 248",
+    "entities": [
+      {
+        "text": "CHICAGO",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "PHILADELPHIA 8 6 0 313 302",
+    "entities": [
+      {
+        "text": "PHILADELPHIA",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Salim Malik not out 6",
+    "entities": [
+      {
+        "text": "Salim Malik",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "SOCCER - YUGOSLAV LEAGUE RESULTS.",
+    "entities": []
+  },
+  {
+    "text": "Dutch couple kidnapped in Costa Rica.",
+    "entities": [
+      {
+        "text": "Costa Rica",
+        "label": "LOC",
+        "start": 26,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "text": "-- Caracas newsroom, 582 834405",
+    "entities": [
+      {
+        "text": "Caracas",
+        "label": "LOC",
+        "start": 3,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "But at 36 it would be asking too much of Paul, \" he said.",
+    "entities": [
+      {
+        "text": "Paul",
+        "label": "PER",
+        "start": 41,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "said the 37-year-old veteran.",
+    "entities": []
+  },
+  {
+    "text": "River Plate 0 Gimnasia-La Plata 0",
+    "entities": [
+      {
+        "text": "River Plate",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Gimnasia-La Plata",
+        "label": "ORG",
+        "start": 14,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "Grimsby 0 Portsmouth 1",
+    "entities": [
+      {
+        "text": "Grimsby",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Portsmouth",
+        "label": "ORG",
+        "start": 10,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "When the All Blacks did break through, it was too late.",
+    "entities": [
+      {
+        "text": "All Blacks",
+        "label": "ORG",
+        "start": 9,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "EASTERN CONFERENCE",
+    "entities": []
+  },
+  {
+    "text": "I think it's fair to give them a chance, \" he told reporters.",
+    "entities": []
+  },
+  {
+    "text": "WASHINGTON 1996-12-06",
+    "entities": [
+      {
+        "text": "WASHINGTON",
+        "label": "LOC",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "A passenger train collided with a locomotive at a main railway station in Linz on Wednesday and police said around 10 people were injured.",
+    "entities": [
+      {
+        "text": "Linz",
+        "label": "LOC",
+        "start": 74,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "Attendance 6,000.",
+    "entities": []
+  },
+  {
+    "text": "2 - Miladin Becanovic (Lille), Enzo Scifo (Monaco),",
+    "entities": [
+      {
+        "text": "Miladin Becanovic",
+        "label": "PER",
+        "start": 4,
+        "end": 21
+      },
+      {
+        "text": "Lille",
+        "label": "ORG",
+        "start": 23,
+        "end": 28
+      },
+      {
+        "text": "Enzo Scifo",
+        "label": "PER",
+        "start": 31,
+        "end": 41
+      },
+      {
+        "text": "Monaco",
+        "label": "ORG",
+        "start": 43,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "Imports of 1.04 million bags in August were down from 1.08 million in August 1995 but up from 992,860 bags in July 1996.",
+    "entities": []
+  },
+  {
+    "text": "Mexican stocks closed sharply lower Friday, but had made a tentative recovery as initial panic and volatility abated.",
+    "entities": []
+  },
+  {
+    "text": "Germany 1 0 0 1 1 6 0",
+    "entities": [
+      {
+        "text": "Germany",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Huddersfield 1 Crystal Palace 1",
+    "entities": [
+      {
+        "text": "Huddersfield",
+        "label": "ORG",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Crystal Palace",
+        "label": "ORG",
+        "start": 15,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "OAKLAND AT BALTIMORE",
+    "entities": [
+      {
+        "text": "OAKLAND",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "BALTIMORE",
+        "label": "LOC",
+        "start": 11,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "France on Saturday handed a suspected member of the Basque separatist group ETA to Spanish authorities, French Interior Ministry officials said.",
+    "entities": [
+      {
+        "text": "France",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "ETA",
+        "label": "ORG",
+        "start": 76,
+        "end": 79
+      },
+      {
+        "text": "Interior Ministry",
+        "label": "ORG",
+        "start": 111,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "Chelsea 3 2 1 0 3 0 7",
+    "entities": [
+      {
+        "text": "Chelsea",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "For the foreign powers which back last year's Dayton peace agreement, the main point of the election rules is that by voting as though they were still in their pre-war homes, Bosnians should override the effects of ethnic cleansing and reassert the concept of a single multi-ethnic state.",
+    "entities": [
+      {
+        "text": "Dayton",
+        "label": "LOC",
+        "start": 46,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "Attendance: 15,150",
+    "entities": []
+  },
+  {
+    "text": "NEW YORK 1996-12-06",
+    "entities": [
+      {
+        "text": "NEW YORK",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "N. Williams 5-43).",
+    "entities": [
+      {
+        "text": "N. Williams",
+        "label": "PER",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "-- Wellington newsroom 64 4 473-4746",
+    "entities": [
+      {
+        "text": "Wellington",
+        "label": "LOC",
+        "start": 3,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "Barnsley v Huddersfield",
+    "entities": [
+      {
+        "text": "Barnsley",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Huddersfield",
+        "label": "ORG",
+        "start": 11,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "text": "DIRECT EQUITY TRADES ON THE CZECH PSE - AUG 27.",
+    "entities": [
+      {
+        "text": "PSE",
+        "label": "ORG",
+        "start": 34,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "text": "On the foreign exchange markets, a survey indicating weaker than expected Japanese business sentiment boosted the dollar in early trading but it failed to build on its gains against the yen and slipped lower against the mark in quiet afternoon trade.",
+    "entities": []
+  },
+  {
+    "text": "Moscow peacemaker Alexander Lebed and rebel chief-of-staff Aslan Maskhadov signed an agreement earlier on Thursday under which the two sides would cease all hostilities at noon (0800 GMT) on Friday.",
+    "entities": [
+      {
+        "text": "Moscow",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Alexander Lebed",
+        "label": "PER",
+        "start": 18,
+        "end": 33
+      },
+      {
+        "text": "Aslan Maskhadov",
+        "label": "PER",
+        "start": 59,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "text": "Heerenveen 2 Ajax Amsterdam 0",
+    "entities": [
+      {
+        "text": "Heerenveen",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Ajax Amsterdam",
+        "label": "ORG",
+        "start": 13,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "4. Lance Armstrong (U.S.)",
+    "entities": [
+      {
+        "text": "Lance Armstrong",
+        "label": "PER",
+        "start": 3,
+        "end": 18
+      },
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 20,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "TENNIS - QUENCH YOUR THIRST - IF YOU CAN AFFORD IT AT U.S. OPEN.",
+    "entities": []
+  },
+  {
+    "text": "No2 Refined 75 to 77 cents / pound",
+    "entities": []
+  },
+  {
+    "text": "The prime minister offered financial grants to the families of those killed, ordered the best possible medical care for the injured and urged Bogra residents to call off the strike.",
+    "entities": [
+      {
+        "text": "Bogra",
+        "label": "LOC",
+        "start": 142,
+        "end": 147
+      }
+    ]
+  },
+  {
+    "text": "Thousands of workers of Serbia's Zastava arms factory entered the second week of protests on Monday over unpaid wages and the lack of a programme to revive the plant's production.",
+    "entities": [
+      {
+        "text": "Serbia",
+        "label": "LOC",
+        "start": 24,
+        "end": 30
+      },
+      {
+        "text": "Zastava",
+        "label": "ORG",
+        "start": 33,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "She was sent to Loretto Abbey in Dublin and from there to India to begin her novitiate and teach geography at a convent school in Calcutta.",
+    "entities": [
+      {
+        "text": "Loretto Abbey",
+        "label": "LOC",
+        "start": 16,
+        "end": 29
+      },
+      {
+        "text": "Dublin",
+        "label": "LOC",
+        "start": 33,
+        "end": 39
+      },
+      {
+        "text": "India",
+        "label": "LOC",
+        "start": 58,
+        "end": 63
+      },
+      {
+        "text": "Calcutta",
+        "label": "LOC",
+        "start": 130,
+        "end": 138
+      }
+    ]
+  },
+  {
+    "text": "SEATTLE 5 8 0 250 317",
+    "entities": [
+      {
+        "text": "SEATTLE",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Voeks, who was already on probation for prior pig thefts, pleaded that he was trying to pay bills for his ex-wife and children.",
+    "entities": [
+      {
+        "text": "Voeks",
+        "label": "PER",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "The American, who finished fourth at the Atlanta Games, was fast out of his blocks and held off Bailey's late burst in the final 20 metres before heading off for a lap of celebration.",
+    "entities": [
+      {
+        "text": "Bailey",
+        "label": "PER",
+        "start": 96,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "\" We noticed among the people who come from across the border, there is a growing number of foreign mercenaries, \" Gupta said.",
+    "entities": [
+      {
+        "text": "Gupta",
+        "label": "PER",
+        "start": 115,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "Essendon 21 13 1 7 2130 1947 109.4 54",
+    "entities": [
+      {
+        "text": "Essendon",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "It blamed the drop in profits on a weak vehicle market and said as its engine plant had only just started trial production, the company's results would not improve in the short-term.",
+    "entities": []
+  },
+  {
+    "text": "Waqar Younis 4-95).",
+    "entities": [
+      {
+        "text": "Waqar Younis",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Sanchez Vicario, runner-up to Graf at the French Open and Wimbledon, begins play against a qualifier in a quarter of the draw that includes young talent Martina Hingis, the 16th seed, before a probable quarter-final clash with seventh-seeded veteran Jana Novotna.",
+    "entities": [
+      {
+        "text": "Sanchez Vicario",
+        "label": "PER",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Graf",
+        "label": "PER",
+        "start": 30,
+        "end": 34
+      },
+      {
+        "text": "Martina Hingis",
+        "label": "PER",
+        "start": 153,
+        "end": 167
+      },
+      {
+        "text": "Jana Novotna",
+        "label": "PER",
+        "start": 250,
+        "end": 262
+      }
+    ]
+  },
+  {
+    "text": "CARLSBAD, California 1996-08-22",
+    "entities": [
+      {
+        "text": "CARLSBAD",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "California",
+        "label": "LOC",
+        "start": 10,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "Group B",
+    "entities": []
+  },
+  {
+    "text": "HONG KONG 1996-08-30",
+    "entities": [
+      {
+        "text": "HONG KONG",
+        "label": "LOC",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "TOKYO 1996-08-30",
+    "entities": [
+      {
+        "text": "TOKYO",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "Cowdenbeath 15 7 3 5 22 16 24",
+    "entities": [
+      {
+        "text": "Cowdenbeath",
+        "label": "ORG",
+        "start": 0,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "Cofinec, the first foreign company to list on the Budapest bourse, released its consolidated first half figures (IAS) this morning.",
+    "entities": [
+      {
+        "text": "Cofinec",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Budapest",
+        "label": "LOC",
+        "start": 50,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "The soybeans were for Oct 15-30 shipment.",
+    "entities": []
+  },
+  {
+    "text": "Attendance: 9,000",
+    "entities": []
+  }
+]

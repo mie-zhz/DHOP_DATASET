@@ -1,0 +1,1547 @@
+[
+  {
+    "text": "The Dragons of Eden, which won a Pulitzer Prize; and Broca's Brain: Reflections on the Romance of Science.",
+    "entities": [
+      {
+        "text": "The Dragons of Eden",
+        "label": "book",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "Broca's Brain: Reflections on the Romance of Science",
+        "label": "book",
+        "start": 53,
+        "end": 105
+      }
+    ]
+  },
+  {
+    "text": "In 1988, Berkoff directed an interpretation of Salome by Oscar Wilde, performed in slow motion, at the Gate Theatre, Dublin ..",
+    "entities": [
+      {
+        "text": "Berkoff",
+        "label": "person",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "Oscar Wilde",
+        "label": "writer",
+        "start": 57,
+        "end": 68
+      },
+      {
+        "text": "Gate Theatre",
+        "label": "location",
+        "start": 103,
+        "end": 115
+      },
+      {
+        "text": "Dublin",
+        "label": "location",
+        "start": 117,
+        "end": 123
+      }
+    ]
+  },
+  {
+    "text": "He has directed film versions of his plays The Grey Zone and Eye of God (for which he received an Independent Spirit Awards nomination for the Someone to Watch Award), as well as writing and directing two original screenplays: 1998's Kansas and Leaves of Grass, which was released in 2009.",
+    "entities": [
+      {
+        "text": "The Grey Zone",
+        "label": "book",
+        "start": 43,
+        "end": 56
+      },
+      {
+        "text": "Eye of God",
+        "label": "book",
+        "start": 61,
+        "end": 71
+      },
+      {
+        "text": "1998's Kansas",
+        "label": "book",
+        "start": 227,
+        "end": 240
+      },
+      {
+        "text": "Leaves of Grass",
+        "label": "book",
+        "start": 245,
+        "end": 260
+      }
+    ]
+  },
+  {
+    "text": "Bernardo Bertolucci (; 16 March 1941 - 26 November 2018) was an Italian director and screenwriter, whose films include The Conformist, Last Tango in Paris, 1900, The Last Emperor (for which he won the Academy Award for Best Director and the Academy Award for Best Adapted Screenplay), The Sheltering Sky, Little Buddha, Stealing Beauty and The Dreamers.",
+    "entities": [
+      {
+        "text": "Bernardo Bertolucci",
+        "label": "writer",
+        "start": 0,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "Bova holds the position of President Emeritus of the National Space Society and served as President of Science Fiction and Fantasy Writers of America (SFWA) from 1990 to 1992.",
+    "entities": [
+      {
+        "text": "Bova",
+        "label": "writer",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "Fry helped to fund a 1988 London re-staging of Stanshall's Stinkfoot, a Comic Opera, written by Vivian and Ki Longfellow for the Bristol -based The Thekla.",
+    "entities": [
+      {
+        "text": "Fry",
+        "label": "person",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "London",
+        "label": "location",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "text": "Stanshall",
+        "label": "writer",
+        "start": 47,
+        "end": 56
+      },
+      {
+        "text": "Stinkfoot, a Comic Opera",
+        "label": "book",
+        "start": 59,
+        "end": 83
+      },
+      {
+        "text": "Vivian",
+        "label": "writer",
+        "start": 96,
+        "end": 102
+      },
+      {
+        "text": "Ki Longfellow",
+        "label": "writer",
+        "start": 107,
+        "end": 120
+      },
+      {
+        "text": "Bristol",
+        "label": "location",
+        "start": 129,
+        "end": 136
+      },
+      {
+        "text": "The Thekla",
+        "label": "location",
+        "start": 144,
+        "end": 154
+      }
+    ]
+  },
+  {
+    "text": "In 1930 he was nominated for the Nobel Prize in Literature by Swedish author Anders Österling, but was passed over in favor of Sinclair Lewis.",
+    "entities": [
+      {
+        "text": "Anders Österling",
+        "label": "writer",
+        "start": 77,
+        "end": 93
+      },
+      {
+        "text": "Sinclair Lewis",
+        "label": "writer",
+        "start": 127,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "The poor conditions of the hospital in Lambaréné were also famously criticized by Nigerian professor and novelist Chinua Achebe in his essay on Joseph Conrad ' s novel Heart of Darkness: In a comment which has often been quoted Schweitzer says: ' The African is indeed my brother but my junior brother.",
+    "entities": [
+      {
+        "text": "Lambaréné",
+        "label": "location",
+        "start": 39,
+        "end": 48
+      },
+      {
+        "text": "Chinua Achebe",
+        "label": "writer",
+        "start": 114,
+        "end": 127
+      },
+      {
+        "text": "Joseph Conrad",
+        "label": "person",
+        "start": 144,
+        "end": 157
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 162,
+        "end": 167
+      },
+      {
+        "text": "Heart of Darkness",
+        "label": "book",
+        "start": 168,
+        "end": 185
+      },
+      {
+        "text": "Schweitzer",
+        "label": "writer",
+        "start": 228,
+        "end": 238
+      }
+    ]
+  },
+  {
+    "text": "The story has appeared with other works by Tolkien in omnibus editions, including The Tolkien Reader and Tales from the Perilous Realm.",
+    "entities": [
+      {
+        "text": "Tolkien",
+        "label": "writer",
+        "start": 43,
+        "end": 50
+      },
+      {
+        "text": "The Tolkien Reader",
+        "label": "book",
+        "start": 82,
+        "end": 100
+      },
+      {
+        "text": "Tales from the Perilous Realm",
+        "label": "book",
+        "start": 105,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "Anthony Boucher, reviewing the volume in The Magazine of Fantasy & Science Fiction, wrote that The Two Towers makes inordinate demands upon the patience of its readers with passages which could be lopped away without affecting form or content.",
+    "entities": [
+      {
+        "text": "Anthony Boucher",
+        "label": "writer",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "The Two Towers",
+        "label": "book",
+        "start": 95,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "Charles spent time outdoors, but also read voraciously, including the picaresque novel s of Tobias Smollett and Henry Fielding, as well as Robinson Crusoe and Gil Blas.",
+    "entities": [
+      {
+        "text": "Charles",
+        "label": "writer",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "picaresque novel",
+        "label": "literarygenre",
+        "start": 70,
+        "end": 86
+      },
+      {
+        "text": "Tobias Smollett",
+        "label": "writer",
+        "start": 92,
+        "end": 107
+      },
+      {
+        "text": "Henry Fielding",
+        "label": "writer",
+        "start": 112,
+        "end": 126
+      },
+      {
+        "text": "Robinson Crusoe",
+        "label": "book",
+        "start": 139,
+        "end": 154
+      },
+      {
+        "text": "Gil Blas",
+        "label": "book",
+        "start": 159,
+        "end": 167
+      }
+    ]
+  },
+  {
+    "text": "Frost originally attempted to read his poem Dedication, which was written for the occasion, but was unable to read it due to the brightness of the sunlight, so he recited his poem The Gift Outright from memory instead.",
+    "entities": [
+      {
+        "text": "Frost",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 39,
+        "end": 43
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 175,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "text": "Ride with the Devil received its world premiere at the 25th Deauville American Film Festival in France on September 9, 1999.",
+    "entities": []
+  },
+  {
+    "text": "The Macedonian phalanx of Aelian had many points of resemblance to the solid masses of pikemen and the squadrons of cavalry of the Spain and Netherlands systems, and the translations made in the 16th century formed the groundwork of numerous books on drill and tactics.",
+    "entities": [
+      {
+        "text": "Aelian",
+        "label": "writer",
+        "start": 26,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "In 1992, he narrated Dr. Seuss Video Classics: Horton Hatches the Egg.",
+    "entities": [
+      {
+        "text": "Dr. Seuss",
+        "label": "writer",
+        "start": 21,
+        "end": 30
+      },
+      {
+        "text": "Horton Hatches the Egg",
+        "label": "book",
+        "start": 47,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "Lady Margaret Seymour (1540 -?) was an influential writer during the sixteenth century in England, along with her sisters, Anne Seymour, Countess of Warwick and Lady Jane Seymour, including of the Hecatodistichon",
+    "entities": [
+      {
+        "text": "Margaret Seymour",
+        "label": "writer",
+        "start": 5,
+        "end": 21
+      },
+      {
+        "text": "Anne Seymour, Countess of Warwick",
+        "label": "writer",
+        "start": 123,
+        "end": 156
+      },
+      {
+        "text": "Lady Jane Seymour",
+        "label": "writer",
+        "start": 161,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "Hein was a close associate of Martin Gardner and his work was frequently featured in Gardner's Mathematical Games column in Scientific American. The game of Hex (July 1957), the Soma cube (Sep 1958), the game of Tangloids (Dec 1959) and The Superellipse (Sep 1965) At the age of 95 Gardner wrote his autobiography and titled it Undiluted Hocus-Pocus.",
+    "entities": [
+      {
+        "text": "Hein",
+        "label": "writer",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Martin Gardner",
+        "label": "writer",
+        "start": 30,
+        "end": 44
+      },
+      {
+        "text": "Gardner",
+        "label": "writer",
+        "start": 85,
+        "end": 92
+      },
+      {
+        "text": "Gardner",
+        "label": "writer",
+        "start": 282,
+        "end": 289
+      },
+      {
+        "text": "Undiluted Hocus-Pocus",
+        "label": "book",
+        "start": 328,
+        "end": 349
+      }
+    ]
+  },
+  {
+    "text": "The Anglo-Irish writer Jonathan Swift (1667-1745), in his Discourse on the Contests and Dissentions in Athens and Rome, criticized Augustus for installing tyranny over Rome, and likened what he believed United Kingdom ' s virtuous constitutional monarchy to Rome's moral Republic of the 2nd century BC.",
+    "entities": [
+      {
+        "text": "Jonathan Swift",
+        "label": "writer",
+        "start": 23,
+        "end": 37
+      },
+      {
+        "text": "Discourse on the Contests and Dissentions in Athens and Rome",
+        "label": "book",
+        "start": 58,
+        "end": 118
+      },
+      {
+        "text": "Augustus",
+        "label": "person",
+        "start": 131,
+        "end": 139
+      },
+      {
+        "text": "Rome",
+        "label": "location",
+        "start": 168,
+        "end": 172
+      },
+      {
+        "text": "Rome",
+        "label": "location",
+        "start": 258,
+        "end": 262
+      }
+    ]
+  },
+  {
+    "text": "Private Eye parodied Sue Townsend ' s The Secret Diary of Adrian Mole, age 13 ¾ to write The Secret Diary of John Major, age 47 ¾, in which Major was portrayed as naïve and childish, keeping lists of his enemies in a Rymans Notebook called his Bastards Book, and featuring my wife Norman and Mr Dr Mawhinney as recurring character s.",
+    "entities": [
+      {
+        "text": "Sue Townsend",
+        "label": "writer",
+        "start": 21,
+        "end": 33
+      },
+      {
+        "text": "The Secret Diary of Adrian Mole, age 13 ¾",
+        "label": "book",
+        "start": 38,
+        "end": 79
+      },
+      {
+        "text": "The Secret Diary of John Major, age 47 ¾",
+        "label": "book",
+        "start": 89,
+        "end": 129
+      },
+      {
+        "text": "Major",
+        "label": "person",
+        "start": 140,
+        "end": 145
+      },
+      {
+        "text": "Norman",
+        "label": "person",
+        "start": 281,
+        "end": 287
+      },
+      {
+        "text": "Mr Dr Mawhinney",
+        "label": "person",
+        "start": 292,
+        "end": 307
+      }
+    ]
+  },
+  {
+    "text": "Under the influence of Adrian Maniu, the adolescent Tzara became interested in Symbolism and co-founded the magazine Simbolul with Ion Vinea (with whom he also wrote experimental poetry) and painter Marcel Janco.",
+    "entities": [
+      {
+        "text": "Adrian Maniu",
+        "label": "writer",
+        "start": 23,
+        "end": 35
+      },
+      {
+        "text": "Tzara",
+        "label": "writer",
+        "start": 52,
+        "end": 57
+      },
+      {
+        "text": "Symbolism",
+        "label": "literarygenre",
+        "start": 79,
+        "end": 88
+      },
+      {
+        "text": "Ion Vinea",
+        "label": "writer",
+        "start": 131,
+        "end": 140
+      },
+      {
+        "text": "experimental poetry",
+        "label": "literarygenre",
+        "start": 166,
+        "end": 185
+      },
+      {
+        "text": "Marcel Janco",
+        "label": "person",
+        "start": 199,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "Alternate history shades off into other fantasy subgenres when the use of actual, though altered, history and geography decreases, although a culture may still be clearly the original source; Barry Hughart ' s Bridge of Birds and its sequels take place in a fantasy world, albeit one clearly based on China, and with allusions to actual Chinese history, such as the Empress Wu.",
+    "entities": [
+      {
+        "text": "Alternate history",
+        "label": "literarygenre",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "fantasy",
+        "label": "literarygenre",
+        "start": 40,
+        "end": 47
+      },
+      {
+        "text": "Barry Hughart",
+        "label": "writer",
+        "start": 192,
+        "end": 205
+      },
+      {
+        "text": "Bridge of Birds",
+        "label": "book",
+        "start": 210,
+        "end": 225
+      },
+      {
+        "text": "Empress Wu",
+        "label": "person",
+        "start": 366,
+        "end": 376
+      }
+    ]
+  },
+  {
+    "text": "He knew patristic literature, as well as Pliny the Elder, Virgil, Lucretius, Ovid, Horace and other classical writers.",
+    "entities": [
+      {
+        "text": "patristic literature",
+        "label": "literarygenre",
+        "start": 8,
+        "end": 28
+      },
+      {
+        "text": "Pliny the Elder",
+        "label": "writer",
+        "start": 41,
+        "end": 56
+      },
+      {
+        "text": "Virgil",
+        "label": "writer",
+        "start": 58,
+        "end": 64
+      },
+      {
+        "text": "Lucretius",
+        "label": "writer",
+        "start": 66,
+        "end": 75
+      },
+      {
+        "text": "Ovid",
+        "label": "writer",
+        "start": 77,
+        "end": 81
+      },
+      {
+        "text": "Horace",
+        "label": "writer",
+        "start": 83,
+        "end": 89
+      },
+      {
+        "text": "classical",
+        "label": "literarygenre",
+        "start": 100,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "In The Spectator, Graham Greene Greene, Graham (30 April 1937).",
+    "entities": [
+      {
+        "text": "Graham Greene",
+        "label": "writer",
+        "start": 18,
+        "end": 31
+      },
+      {
+        "text": "Greene, Graham",
+        "label": "writer",
+        "start": 32,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "H. P. Lovecraft stated that in sheer daemonic strangeness and fertility of conception, Clark Ashton Smith is perhaps unexcelled, and Ray Bradbury said that Smith filled my mind with incredible worlds, impossibly beautiful cities, and still more fantastic creatures.",
+    "entities": [
+      {
+        "text": "H. P. Lovecraft",
+        "label": "writer",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Clark Ashton Smith",
+        "label": "writer",
+        "start": 87,
+        "end": 105
+      },
+      {
+        "text": "Ray Bradbury",
+        "label": "writer",
+        "start": 133,
+        "end": 145
+      },
+      {
+        "text": "Smith",
+        "label": "writer",
+        "start": 156,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "Two decades later, Herbert's son Brian Herbert, along with Kevin J. Anderson, published two sequel s - Hunters of Dune (2006) and Sandworms of Dune (2007) - based in part on notes left behind by Frank Herbert for what he referred to as Dune 7, his own planned seventh novel in the Dune series.",
+    "entities": [
+      {
+        "text": "Herbert",
+        "label": "writer",
+        "start": 19,
+        "end": 26
+      },
+      {
+        "text": "Brian Herbert",
+        "label": "writer",
+        "start": 33,
+        "end": 46
+      },
+      {
+        "text": "Kevin J. Anderson",
+        "label": "writer",
+        "start": 59,
+        "end": 76
+      },
+      {
+        "text": "Hunters of Dune",
+        "label": "book",
+        "start": 103,
+        "end": 118
+      },
+      {
+        "text": "Sandworms of Dune",
+        "label": "book",
+        "start": 130,
+        "end": 147
+      },
+      {
+        "text": "Frank Herbert",
+        "label": "writer",
+        "start": 195,
+        "end": 208
+      },
+      {
+        "text": "Dune 7",
+        "label": "book",
+        "start": 236,
+        "end": 242
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 268,
+        "end": 273
+      }
+    ]
+  },
+  {
+    "text": "During his life, Cocteau was commander of the Legion of Honor, Member of the Mallarmé Academy, German Academy (Berlin), American Academy, Mark Twain (U.S.A) Academy, Honorary President of the Cannes Film Festival, Honorary President of the France-Hungary Association and President of the Jazz Academy and of the Academy of the Disc.",
+    "entities": [
+      {
+        "text": "Cocteau",
+        "label": "writer",
+        "start": 17,
+        "end": 24
+      },
+      {
+        "text": "Berlin",
+        "label": "location",
+        "start": 111,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "text": "A few Saint stories crossed into science fiction and fantasy, The Man Who Liked Ants and the early novel The Last Hero being examples; one Saint short story, The Darker Drink, was even published in the October 1952 issue of The Magazine of Fantasy & Science Fiction.",
+    "entities": [
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 33,
+        "end": 48
+      },
+      {
+        "text": "fantasy",
+        "label": "literarygenre",
+        "start": 53,
+        "end": 60
+      },
+      {
+        "text": "The Man Who Liked Ants",
+        "label": "book",
+        "start": 62,
+        "end": 84
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 99,
+        "end": 104
+      },
+      {
+        "text": "The Last Hero",
+        "label": "book",
+        "start": 105,
+        "end": 118
+      },
+      {
+        "text": "short story",
+        "label": "literarygenre",
+        "start": 145,
+        "end": 156
+      },
+      {
+        "text": "The Darker Drink",
+        "label": "book",
+        "start": 158,
+        "end": 174
+      }
+    ]
+  },
+  {
+    "text": "The late 1980s and the 1990s saw a boom in popular-fiction versions of alternate history, fueled by the emergence of the prolific alternate history author Harry Turtledove, as well as the development of the steampunk genre and two series of anthologies - the What Might Have Been series edited by Gregory Benford and the Alternate series edited by Mike Resnick.",
+    "entities": [
+      {
+        "text": "popular-fiction",
+        "label": "literarygenre",
+        "start": 43,
+        "end": 58
+      },
+      {
+        "text": "alternate history",
+        "label": "literarygenre",
+        "start": 71,
+        "end": 88
+      },
+      {
+        "text": "Harry Turtledove",
+        "label": "writer",
+        "start": 155,
+        "end": 171
+      },
+      {
+        "text": "steampunk genre",
+        "label": "literarygenre",
+        "start": 207,
+        "end": 222
+      },
+      {
+        "text": "What Might Have Been",
+        "label": "book",
+        "start": 259,
+        "end": 279
+      },
+      {
+        "text": "Gregory Benford",
+        "label": "writer",
+        "start": 297,
+        "end": 312
+      },
+      {
+        "text": "Alternate series",
+        "label": "book",
+        "start": 321,
+        "end": 337
+      },
+      {
+        "text": "Mike Resnick",
+        "label": "writer",
+        "start": 348,
+        "end": 360
+      }
+    ]
+  },
+  {
+    "text": "He is a key figure in the 17th-century scientific revolution, best known for his laws of planetary motion, and his books Astronomia nova, Harmonices Mundi, and Epitome Astronomiae Copernicanae.",
+    "entities": [
+      {
+        "text": "Astronomia nova",
+        "label": "book",
+        "start": 121,
+        "end": 136
+      },
+      {
+        "text": "Harmonices Mundi",
+        "label": "book",
+        "start": 138,
+        "end": 154
+      },
+      {
+        "text": "Epitome Astronomiae Copernicanae",
+        "label": "book",
+        "start": 160,
+        "end": 192
+      }
+    ]
+  },
+  {
+    "text": "Solzhenitsyn criticized the Allies of World War II for not opening a new front against Nazi Germany in the west earlier in World War II.",
+    "entities": [
+      {
+        "text": "Solzhenitsyn",
+        "label": "writer",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Qualification for Euro 1988 meant winning UEFA Euro 1988 qualifying Group 7 containing Bulgaria, Luxembourg and Scotland.",
+    "entities": []
+  },
+  {
+    "text": "Another Gruelle family friends was Hoosier poet James Whitcomb Riley, whose poems The Elf-Child, later titled Little Orphant Annie! -- Orphant is correct -- not the comic strip-- (1885), and The Raggedy Man (1888), eventually formed the name for John Gruelle's iconic Raggedy Ann character.",
+    "entities": [
+      {
+        "text": "Gruelle",
+        "label": "person",
+        "start": 8,
+        "end": 15
+      },
+      {
+        "text": "Hoosier poet",
+        "label": "writer",
+        "start": 35,
+        "end": 47
+      },
+      {
+        "text": "James Whitcomb Riley",
+        "label": "writer",
+        "start": 48,
+        "end": 68
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 76,
+        "end": 81
+      },
+      {
+        "text": "John Gruelle",
+        "label": "person",
+        "start": 246,
+        "end": 258
+      }
+    ]
+  },
+  {
+    "text": "Akhundzade's first published work was Eastern poem on the death of Pushkin (1837), written to lament the death of the great Russian poet Alexander Pushkin.",
+    "entities": [
+      {
+        "text": "Akhundzade",
+        "label": "writer",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Alexander Pushkin",
+        "label": "writer",
+        "start": 137,
+        "end": 154
+      }
+    ]
+  },
+  {
+    "text": "Penguin Classics has at present issued three volumes of Lovecraft's works: The Call of Cthulhu and Other Weird Stories, The Thing on the Doorstep and Other Weird Stories, and most recently The Dreams in the Witch House and Other Weird Stories.",
+    "entities": [
+      {
+        "text": "Lovecraft's works",
+        "label": "book",
+        "start": 56,
+        "end": 73
+      },
+      {
+        "text": "The Call of Cthulhu and Other Weird Stories",
+        "label": "book",
+        "start": 75,
+        "end": 118
+      },
+      {
+        "text": "The Thing on the Doorstep and Other Weird Stories",
+        "label": "book",
+        "start": 120,
+        "end": 169
+      },
+      {
+        "text": "The Dreams in the Witch House and Other Weird Stories",
+        "label": "book",
+        "start": 189,
+        "end": 242
+      }
+    ]
+  },
+  {
+    "text": "The Chicago Tribune quoted Pulitzer Prize -winning author Stephen Hunter as saying, When he published The Hunt for Red October, he redefined and expanded the genre and as a consequence of that, many people were able to publish such books who had previously been unable to do so.",
+    "entities": [
+      {
+        "text": "Stephen Hunter",
+        "label": "writer",
+        "start": 58,
+        "end": 72
+      },
+      {
+        "text": "The Hunt for Red October",
+        "label": "book",
+        "start": 102,
+        "end": 126
+      }
+    ]
+  },
+  {
+    "text": "By the end of 1131, the kingdoms of Kingdom of France, Kingdom of England, Holy Roman Empire, Kingdom of Portugal, Kingdom of Castile, and Aragon supported Pope Innocent II; however, most of Italy, southern France, and Sicily, with the Latin patriarchs of Constantinople, Antioch, and Jerusalem supported Antipope Anacletus II.",
+    "entities": [
+      {
+        "text": "Pope Innocent II",
+        "label": "person",
+        "start": 156,
+        "end": 172
+      },
+      {
+        "text": "Sicily",
+        "label": "location",
+        "start": 219,
+        "end": 225
+      },
+      {
+        "text": "Constantinople",
+        "label": "location",
+        "start": 256,
+        "end": 270
+      },
+      {
+        "text": "Antioch",
+        "label": "location",
+        "start": 272,
+        "end": 279
+      },
+      {
+        "text": "Jerusalem",
+        "label": "location",
+        "start": 285,
+        "end": 294
+      },
+      {
+        "text": "Antipope Anacletus II",
+        "label": "person",
+        "start": 305,
+        "end": 326
+      }
+    ]
+  },
+  {
+    "text": "Hasanaginica was the only authentic ballad included into La Guzla, an 1827 literary hoax of Prosper Mérimée.",
+    "entities": [
+      {
+        "text": "Hasanaginica",
+        "label": "book",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Prosper Mérimée",
+        "label": "writer",
+        "start": 92,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "Early in his career, he published short stories and poetry and edited the literary magazine Oxford Poetry, before going on to publish travel writing, satire, and screenplays.",
+    "entities": [
+      {
+        "text": "short stories",
+        "label": "literarygenre",
+        "start": 34,
+        "end": 47
+      },
+      {
+        "text": "poetry",
+        "label": "literarygenre",
+        "start": 52,
+        "end": 58
+      },
+      {
+        "text": "satire",
+        "label": "literarygenre",
+        "start": 150,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "William F. Buckley, Jr and other contributors for the National Review magazine.",
+    "entities": [
+      {
+        "text": "William F. Buckley, Jr",
+        "label": "writer",
+        "start": 0,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "In the late 1980s, Coppola started considering concepts for a motion picture based upon the 19th-century novel The Adventures of Pinocchio, and in 1991 Coppola and Warner Bros. began discussing the project as well as two others involving the life of J. Edgar Hoover and the children's novel The Secret Garden.",
+    "entities": [
+      {
+        "text": "Coppola",
+        "label": "writer",
+        "start": 19,
+        "end": 26
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 105,
+        "end": 110
+      },
+      {
+        "text": "The Adventures of Pinocchio",
+        "label": "book",
+        "start": 111,
+        "end": 138
+      },
+      {
+        "text": "Coppola",
+        "label": "writer",
+        "start": 152,
+        "end": 159
+      },
+      {
+        "text": "J. Edgar Hoover",
+        "label": "writer",
+        "start": 250,
+        "end": 265
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 285,
+        "end": 290
+      },
+      {
+        "text": "The Secret Garden",
+        "label": "book",
+        "start": 291,
+        "end": 308
+      }
+    ]
+  },
+  {
+    "text": "A final folktale, Wag by Wall, was published posthumously by The Horn Book Magazine in 1944.",
+    "entities": [
+      {
+        "text": "folktale",
+        "label": "literarygenre",
+        "start": 8,
+        "end": 16
+      },
+      {
+        "text": "Wag by Wall",
+        "label": "book",
+        "start": 18,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "Śrīharṣa composed the poem (kāvya) Naishadha Charita (IAST: Naiṣadhacarita) in 1174, during the reign of the Vijayachandra's son Jayachandra.",
+    "entities": [
+      {
+        "text": "Śrīharṣa",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 22,
+        "end": 26
+      },
+      {
+        "text": "kāvya",
+        "label": "literarygenre",
+        "start": 28,
+        "end": 33
+      },
+      {
+        "text": "Vijayachandra",
+        "label": "person",
+        "start": 109,
+        "end": 122
+      },
+      {
+        "text": "Jayachandra",
+        "label": "person",
+        "start": 129,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "Pauline Kael, who wrote a lengthy freelance essay in The New Yorker in praise of the film, was hired as the magazine's new staff-critic.",
+    "entities": [
+      {
+        "text": "Pauline Kael",
+        "label": "writer",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "The Pulitzer Prize -winning The Grapes of Wrath (1939)",
+    "entities": [
+      {
+        "text": "The Grapes of Wrath",
+        "label": "book",
+        "start": 28,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "text": "Jonathan Lethem, in a 1998 essay in the Village Voice entitled Close Encounters: The Squandered Promise of Science Fiction, suggested that the point in 1973 when Thomas Pynchon Gravity's Rainbow was nominated for the Nebula Award and was passed over in favor of Clarke's Rendezvous with Rama, stands as a hidden tombstone marking the death of the hope that SF was about to merge with the mainstream.",
+    "entities": [
+      {
+        "text": "Jonathan Lethem",
+        "label": "writer",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Close Encounters: The Squandered Promise of Science Fiction",
+        "label": "book",
+        "start": 63,
+        "end": 122
+      },
+      {
+        "text": "Thomas Pynchon",
+        "label": "writer",
+        "start": 162,
+        "end": 176
+      },
+      {
+        "text": "Gravity's Rainbow",
+        "label": "book",
+        "start": 177,
+        "end": 194
+      },
+      {
+        "text": "Clarke",
+        "label": "writer",
+        "start": 262,
+        "end": 268
+      },
+      {
+        "text": "Rendezvous with Rama",
+        "label": "book",
+        "start": 271,
+        "end": 291
+      },
+      {
+        "text": "SF",
+        "label": "literarygenre",
+        "start": 357,
+        "end": 359
+      }
+    ]
+  },
+  {
+    "text": "S. M. Stirling wrote the Island in the Sea of Time trilogy, in which Nantucket Island and all its modern inhabitants are transported to Bronze Age times to become the world's first superpower.",
+    "entities": [
+      {
+        "text": "S. M. Stirling",
+        "label": "writer",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Island in the Sea of Time",
+        "label": "book",
+        "start": 25,
+        "end": 50
+      },
+      {
+        "text": "Nantucket Island",
+        "label": "location",
+        "start": 69,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "He was also an admirer of Richard Condon, author of The Manchurian Candidate (1959), Prizzi's Honor (1982), and numerous other novels.",
+    "entities": [
+      {
+        "text": "Richard Condon",
+        "label": "writer",
+        "start": 26,
+        "end": 40
+      },
+      {
+        "text": "The Manchurian Candidate",
+        "label": "book",
+        "start": 52,
+        "end": 76
+      },
+      {
+        "text": "Prizzi's Honor",
+        "label": "book",
+        "start": 85,
+        "end": 99
+      },
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 127,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "The film is based on The Caine Mutiny, the 1951 Pulitzer Prize -winning novel written by Herman Wouk.",
+    "entities": [
+      {
+        "text": "The Caine Mutiny",
+        "label": "book",
+        "start": 21,
+        "end": 37
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 72,
+        "end": 77
+      },
+      {
+        "text": "Herman Wouk",
+        "label": "writer",
+        "start": 89,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "text": "Robert B. Parker, The Godwulf Manuscript, Dell Books, 1987, page 163: I looked at them obliquely as I 'd learned to do a long time ago in Korea.",
+    "entities": [
+      {
+        "text": "Robert B. Parker",
+        "label": "writer",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "The Godwulf Manuscript",
+        "label": "book",
+        "start": 18,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "Gigi () is a 1944 novella by France writer Colette.",
+    "entities": [
+      {
+        "text": "Gigi",
+        "label": "book",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "novella",
+        "label": "literarygenre",
+        "start": 18,
+        "end": 25
+      },
+      {
+        "text": "Colette",
+        "label": "writer",
+        "start": 43,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "A Clockwork Orange is a dystopian satirical black comedy novel by English writer Anthony Burgess, published in 1962.",
+    "entities": [
+      {
+        "text": "A Clockwork Orange",
+        "label": "book",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "dystopian satirical black comedy novel",
+        "label": "literarygenre",
+        "start": 24,
+        "end": 62
+      },
+      {
+        "text": "Anthony Burgess",
+        "label": "writer",
+        "start": 81,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "text": "Other biographers, such as Peter Ackroyd, have offered a more sympathetic picture of More as both a sophisticated philosopher and man of letters, as well as a zealous Catholic who believed in the authority of the Holy See over Christendom.",
+    "entities": [
+      {
+        "text": "Peter Ackroyd",
+        "label": "writer",
+        "start": 27,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "Among his most celebrated tales are The Call of Cthulhu, The Rats in the Walls, At the Mountains of Madness, The Shadow over Innsmouth, and The Shadow Out of Time.",
+    "entities": [
+      {
+        "text": "The Call of Cthulhu",
+        "label": "book",
+        "start": 36,
+        "end": 55
+      },
+      {
+        "text": "The Rats in the Walls",
+        "label": "book",
+        "start": 57,
+        "end": 78
+      },
+      {
+        "text": "At the Mountains of Madness",
+        "label": "book",
+        "start": 80,
+        "end": 107
+      },
+      {
+        "text": "The Shadow over Innsmouth",
+        "label": "book",
+        "start": 109,
+        "end": 134
+      },
+      {
+        "text": "The Shadow Out of Time",
+        "label": "book",
+        "start": 140,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "text": "Two decades after Frank Herbert's death, his son Brian Herbert, along with Kevin J. Anderson, published two sequel s - Hunters of Dune (2006) and Sandworms of Dune (2007) - based on notes left behind by Frank Herbert for what he referred to as Dune 7, his own planned seventh novel in the Dune series.",
+    "entities": [
+      {
+        "text": "Frank Herbert",
+        "label": "writer",
+        "start": 18,
+        "end": 31
+      },
+      {
+        "text": "Brian Herbert",
+        "label": "writer",
+        "start": 49,
+        "end": 62
+      },
+      {
+        "text": "Kevin J. Anderson",
+        "label": "writer",
+        "start": 75,
+        "end": 92
+      },
+      {
+        "text": "Hunters of Dune",
+        "label": "book",
+        "start": 119,
+        "end": 134
+      },
+      {
+        "text": "Sandworms of Dune",
+        "label": "book",
+        "start": 146,
+        "end": 163
+      },
+      {
+        "text": "Frank Herbert",
+        "label": "writer",
+        "start": 203,
+        "end": 216
+      },
+      {
+        "text": "Dune 7",
+        "label": "book",
+        "start": 244,
+        "end": 250
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 276,
+        "end": 281
+      }
+    ]
+  },
+  {
+    "text": "See also Two Figures In Dense Violet Night which can be read as a humorous anecdote about the gauche male, or a meditation on the lover's otherness, or the poet's challenge to the imagination of the reader.",
+    "entities": []
+  },
+  {
+    "text": "He also wrote realistic novels that received critical acclaim, including Kipps and a critique of English culture during the Edwardian period, Tono-Bungay.",
+    "entities": [
+      {
+        "text": "realistic novels",
+        "label": "literarygenre",
+        "start": 14,
+        "end": 30
+      },
+      {
+        "text": "Kipps",
+        "label": "book",
+        "start": 73,
+        "end": 78
+      },
+      {
+        "text": "Tono-Bungay",
+        "label": "book",
+        "start": 142,
+        "end": 153
+      }
+    ]
+  },
+  {
+    "text": "His editions of Juvenal, Manilius and Lucan are still considered authoritative.",
+    "entities": [
+      {
+        "text": "Juvenal",
+        "label": "writer",
+        "start": 16,
+        "end": 23
+      },
+      {
+        "text": "Manilius",
+        "label": "writer",
+        "start": 25,
+        "end": 33
+      },
+      {
+        "text": "Lucan",
+        "label": "writer",
+        "start": 38,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "In 1998, Oldman was honored at the Camerimage Film Festival, where he was awarded the Krzysztof Kieślowski Award for Acting, the first recipient of the award.",
+    "entities": [
+      {
+        "text": "Oldman",
+        "label": "person",
+        "start": 9,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "She exhibited a marble statue of Maud Muller at the 1876 Centennial Exposition in Philadelphia.",
+    "entities": [
+      {
+        "text": "Philadelphia",
+        "label": "location",
+        "start": 82,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "text": "His mother was murdered by the Nazi Germany, and two other sisters, Gittel and Devorah, died in Nazi concentration camps.",
+    "entities": [
+      {
+        "text": "Gittel",
+        "label": "person",
+        "start": 68,
+        "end": 74
+      },
+      {
+        "text": "Devorah",
+        "label": "person",
+        "start": 79,
+        "end": 86
+      },
+      {
+        "text": "Nazi concentration camps",
+        "label": "location",
+        "start": 96,
+        "end": 120
+      }
+    ]
+  }
+]

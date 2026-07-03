@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use these splits or scripts, please cite both this repository and the original DHOP paper."
+title: "Seeded train-test splits and sampling scripts for generative NER prompt optimization"
+abstract: >
+  Five-seed (2026--2030) deterministic splits over eight NER benchmarks
+  (BC5CDR, CoNLL-2003, five CrossNER subsets, and Few-NERD). For each
+  (seed, dataset) pair, 200 instances form the optimization set visible
+  during prompt search and 500 instances form the held-out test set.
+  Method-specific sub-splits for OPRO, GEPA, PromptAgent, PromptBreeder,
+  and DHOP are derived from the 200 optimization instances. The
+  repository also includes the sampling script that reproduces these
+  splits from the original public HuggingFace and GitHub datasets.
+authors:
+  - family-names: "Zhang"
+    given-names: "Hanzhi"
+  - family-names: "Chen"
+    given-names: "Hao"
+  - family-names: "Li"
+    given-names: "Weibin"
+  - family-names: "Fu"
+    given-names: "WenLin"
+keywords:
+  - named-entity-recognition
+  - generative-ner
+  - prompt-optimization
+  - dataset-splits
+  - reproducibility
+license: "CC-BY-4.0"
+type: software
+version: "1.0.0"
+date-released: "2026-07-03"
+# preferred-citation points back to the paper once it is published.
+preferred-citation:
+  type: unpublished
+  title: "From Local Feedback to Persistent Evidence: Observable Prompt Optimization for Generative Named Entity Recognition"
+  authors:
+    - family-names: "Zhang"
+      given-names: "Hanzhi"
+    - family-names: "Chen"
+      given-names: "Hao"
+    - family-names: "Li"
+      given-names: "Weibin"
+    - family-names: "Fu"
+      given-names: "WenLin"
+  year: 2026
+# The Zenodo DOI is filled in automatically when the GitHub release is synced.

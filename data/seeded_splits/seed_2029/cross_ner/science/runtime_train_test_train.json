@@ -1,0 +1,2290 @@
+[
+  {
+    "text": "He has been published in a range of Academic journal s, such as the Cambridge Journal of Economics, the Oxford Bulletin of Economics and Statistics and the Oxford Review of Economic Policy.",
+    "entities": []
+  },
+  {
+    "text": "Now being unemployed, Izzie Stevens (Katherine Heigl) tries to move on after the death of her fiancé, Denny Duquette (Jeffrey Dean Morgan).",
+    "entities": [
+      {
+        "text": "Izzie Stevens",
+        "label": "person",
+        "start": 22,
+        "end": 35
+      },
+      {
+        "text": "Katherine Heigl",
+        "label": "person",
+        "start": 37,
+        "end": 52
+      },
+      {
+        "text": "Denny Duquette",
+        "label": "person",
+        "start": 102,
+        "end": 116
+      },
+      {
+        "text": "Jeffrey Dean Morgan",
+        "label": "person",
+        "start": 118,
+        "end": 137
+      }
+    ]
+  },
+  {
+    "text": "The Perturb-seq protocol uses CRISPR technology to inactivate specific genes and DNA barcoding of each guide RNA to allow for all perturbations to be pooled together and later deconvoluted, with assignment of each phenotype to a specific guide RNA.",
+    "entities": []
+  },
+  {
+    "text": "A specialist in polymers, Peterlin was a member of numerous scientific societies, including the American Physical Society, the Deutsche Kolloid Gesellschaft, the Deutsche Physikalische Gesellschaft, and the Slovenian Academy of Sciences and Arts.",
+    "entities": [
+      {
+        "text": "Peterlin",
+        "label": "person",
+        "start": 26,
+        "end": 34
+      },
+      {
+        "text": "American Physical Society",
+        "label": "organisation",
+        "start": 96,
+        "end": 121
+      },
+      {
+        "text": "Deutsche Kolloid Gesellschaft",
+        "label": "organisation",
+        "start": 127,
+        "end": 156
+      },
+      {
+        "text": "Deutsche Physikalische Gesellschaft",
+        "label": "organisation",
+        "start": 162,
+        "end": 197
+      },
+      {
+        "text": "Slovenian Academy of Sciences and Arts",
+        "label": "organisation",
+        "start": 207,
+        "end": 245
+      }
+    ]
+  },
+  {
+    "text": "The quarry is at Herniss, to the north of the A 394 road, between Rame and Longdowns.",
+    "entities": []
+  },
+  {
+    "text": "Notable proponents of this approach include Arjun Appadurai, James Clifford, George E. Marcus, Sidney Mintz, Michael Taussig, Eric Wolf and Ronald Daus.",
+    "entities": [
+      {
+        "text": "Arjun Appadurai",
+        "label": "scientist",
+        "start": 44,
+        "end": 59
+      },
+      {
+        "text": "James Clifford",
+        "label": "scientist",
+        "start": 61,
+        "end": 75
+      },
+      {
+        "text": "George E. Marcus",
+        "label": "scientist",
+        "start": 77,
+        "end": 93
+      },
+      {
+        "text": "Sidney Mintz",
+        "label": "scientist",
+        "start": 95,
+        "end": 107
+      },
+      {
+        "text": "Michael Taussig",
+        "label": "scientist",
+        "start": 109,
+        "end": 124
+      },
+      {
+        "text": "Eric Wolf",
+        "label": "scientist",
+        "start": 126,
+        "end": 135
+      },
+      {
+        "text": "Ronald Daus",
+        "label": "scientist",
+        "start": 140,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "Epigenetic modifications to the genome, including Histone, DNA methylation, and the modulation of RNAi, are major epigenetic events used to modulate gene expression.",
+    "entities": []
+  },
+  {
+    "text": "(1976); Guggenheim Fellow (1977); Member National Academy of Sciences (1979); Member International Academy of Science, Member Academia Sinica (1980); E.O. Lawrence Award (1981); Miller Professor, Berkeley (1981); Fairchild Distinguished Scholar (1983); Harrison Howe Award (1983); Peter Debye Award (1986); National Medal of Science (1986).",
+    "entities": [
+      {
+        "text": "National Academy of Sciences",
+        "label": "organisation",
+        "start": 41,
+        "end": 69
+      },
+      {
+        "text": "International Academy of Science",
+        "label": "organisation",
+        "start": 85,
+        "end": 117
+      },
+      {
+        "text": "Academia Sinica",
+        "label": "organisation",
+        "start": 126,
+        "end": 141
+      },
+      {
+        "text": "Miller",
+        "label": "scientist",
+        "start": 178,
+        "end": 184
+      }
+    ]
+  },
+  {
+    "text": "Pneumatic chemistry developed in the eighteenth century with the work of scientists such as Stephen Hales, Joseph Black, Joseph Priestley, and Antoine-Laurent Lavoisier, and others.",
+    "entities": [
+      {
+        "text": "Stephen Hales",
+        "label": "scientist",
+        "start": 92,
+        "end": 105
+      },
+      {
+        "text": "Joseph Black",
+        "label": "scientist",
+        "start": 107,
+        "end": 119
+      },
+      {
+        "text": "Joseph Priestley",
+        "label": "scientist",
+        "start": 121,
+        "end": 137
+      },
+      {
+        "text": "Antoine-Laurent Lavoisier",
+        "label": "scientist",
+        "start": 143,
+        "end": 168
+      }
+    ]
+  },
+  {
+    "text": "That first evening session was organized by Jack Yardley from Johns Hopkins University, and included Henry Appelman (University of Michigan), Harvey Goldman (Beth Israel Deaconess Medical Center and Harvard Medical School), Bill Hawk (The Cleveland Clinic), Tom Kent (University of Iowa), Si-Chun Ming (Temple University), Tom Norris (University of Washington), and Robert Riddell (University of Chicago).",
+    "entities": [
+      {
+        "text": "Jack Yardley",
+        "label": "person",
+        "start": 44,
+        "end": 56
+      },
+      {
+        "text": "Henry Appelman",
+        "label": "person",
+        "start": 101,
+        "end": 115
+      },
+      {
+        "text": "Harvey Goldman",
+        "label": "scientist",
+        "start": 142,
+        "end": 156
+      },
+      {
+        "text": "Beth Israel Deaconess Medical Center",
+        "label": "organisation",
+        "start": 158,
+        "end": 194
+      },
+      {
+        "text": "Bill Hawk",
+        "label": "scientist",
+        "start": 224,
+        "end": 233
+      },
+      {
+        "text": "Cleveland Clinic",
+        "label": "organisation",
+        "start": 239,
+        "end": 255
+      },
+      {
+        "text": "Tom Kent",
+        "label": "person",
+        "start": 258,
+        "end": 266
+      },
+      {
+        "text": "Si-Chun Ming",
+        "label": "scientist",
+        "start": 289,
+        "end": 301
+      },
+      {
+        "text": "Tom Norris",
+        "label": "scientist",
+        "start": 323,
+        "end": 333
+      },
+      {
+        "text": "Robert Riddell",
+        "label": "scientist",
+        "start": 366,
+        "end": 380
+      }
+    ]
+  },
+  {
+    "text": "He was a member of the Experimental Aircraft Association, the Space Pioneers, the Confederate Air Force, the Order of Daedalians, the National Rifle Association of America, the Veterans of Foreign Wars, and the Fraternal Order of Eagles.",
+    "entities": [
+      {
+        "text": "Experimental Aircraft Association",
+        "label": "organisation",
+        "start": 23,
+        "end": 56
+      },
+      {
+        "text": "Space Pioneers",
+        "label": "organisation",
+        "start": 62,
+        "end": 76
+      },
+      {
+        "text": "Confederate Air Force",
+        "label": "organisation",
+        "start": 82,
+        "end": 103
+      },
+      {
+        "text": "Order of Daedalians",
+        "label": "organisation",
+        "start": 109,
+        "end": 128
+      },
+      {
+        "text": "National Rifle Association",
+        "label": "organisation",
+        "start": 134,
+        "end": 160
+      },
+      {
+        "text": "Veterans of Foreign Wars",
+        "label": "organisation",
+        "start": 177,
+        "end": 201
+      },
+      {
+        "text": "Fraternal Order of Eagles",
+        "label": "organisation",
+        "start": 211,
+        "end": 236
+      }
+    ]
+  },
+  {
+    "text": "When he was about eighteen he went to the University of Copenhagen and afterwards studied at University of Rostock and Wittenberg.",
+    "entities": []
+  },
+  {
+    "text": "The scientists reported that genome editing by CRISPR induced DNA damage response and the cell cycle stopped.",
+    "entities": []
+  },
+  {
+    "text": "It stars Vincent Gallo and Maria de Medeiros, and was directed by Spanish filmmaker and actress María Lidón (credited in the English version of the movie as Luna), with screenplay by Spanish science fiction author Juan Miguel Aguilera.",
+    "entities": [
+      {
+        "text": "Vincent Gallo",
+        "label": "person",
+        "start": 9,
+        "end": 22
+      },
+      {
+        "text": "Maria de Medeiros",
+        "label": "person",
+        "start": 27,
+        "end": 44
+      },
+      {
+        "text": "María Lidón",
+        "label": "person",
+        "start": 96,
+        "end": 107
+      },
+      {
+        "text": "Juan Miguel Aguilera",
+        "label": "person",
+        "start": 214,
+        "end": 234
+      }
+    ]
+  },
+  {
+    "text": "She also played at 1986, 1989, 1993, 1995 AFC Championship, 1990, Football at the 1994 Asian Games.",
+    "entities": []
+  },
+  {
+    "text": "Among the honors he's received are the Federation Aeronautique Internationale ' s De la Vaulx Medal in 1970 for his Apollo 9 flight, both of NASA's Distinguished Service and Exceptional Service medals, and, unusual for an astronaut, an Emmy Award from the U.S. National Academy of Television Arts and Sciences for transmitting the first live TV pictures from space.",
+    "entities": [
+      {
+        "text": "Federation Aeronautique Internationale",
+        "label": "organisation",
+        "start": 39,
+        "end": 77
+      },
+      {
+        "text": "NASA",
+        "label": "organisation",
+        "start": 141,
+        "end": 145
+      },
+      {
+        "text": "National Academy of Television Arts and Sciences",
+        "label": "organisation",
+        "start": 261,
+        "end": 309
+      }
+    ]
+  },
+  {
+    "text": "Methone is a very small natural satellite of Saturn orbiting between the orbits of Mimas and Enceladus.",
+    "entities": [
+      {
+        "text": "Methone",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 45,
+        "end": 51
+      },
+      {
+        "text": "Mimas",
+        "label": "astronomicalobject",
+        "start": 83,
+        "end": 88
+      },
+      {
+        "text": "Enceladus",
+        "label": "astronomicalobject",
+        "start": 93,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Camilla is the 6th trinary asteroid that has been discovered in the asteroid belt, after 87 Sylvia, 45 Eugenia, 216 Kleopatra, 93 Minerva and 130 Elektra.",
+    "entities": [
+      {
+        "text": "Camilla",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "87 Sylvia",
+        "label": "astronomicalobject",
+        "start": 89,
+        "end": 98
+      },
+      {
+        "text": "45 Eugenia",
+        "label": "astronomicalobject",
+        "start": 100,
+        "end": 110
+      },
+      {
+        "text": "216 Kleopatra",
+        "label": "astronomicalobject",
+        "start": 112,
+        "end": 125
+      },
+      {
+        "text": "93 Minerva",
+        "label": "astronomicalobject",
+        "start": 127,
+        "end": 137
+      },
+      {
+        "text": "130 Elektra",
+        "label": "astronomicalobject",
+        "start": 142,
+        "end": 153
+      }
+    ]
+  },
+  {
+    "text": "He was also a member of the Royal Academies of Medicine and the Royal Academy of Sciences, Arts, and of Literature of Belgium; the Pontifical Academy of Sciences of the Vatican; the American Academy of Arts and Sciences; the French National Academy of Medicine; the Academy of Sciences of Paris; the Deutsche Akademie der Naturforscher Leopoldina; the American Philosophical Society.",
+    "entities": [
+      {
+        "text": "Royal Academies of Medicine",
+        "label": "organisation",
+        "start": 28,
+        "end": 55
+      },
+      {
+        "text": "Royal Academy of Sciences",
+        "label": "organisation",
+        "start": 64,
+        "end": 89
+      },
+      {
+        "text": "Pontifical Academy of Sciences",
+        "label": "organisation",
+        "start": 131,
+        "end": 161
+      },
+      {
+        "text": "American Academy of Arts and Sciences",
+        "label": "organisation",
+        "start": 182,
+        "end": 219
+      },
+      {
+        "text": "National Academy of Medicine",
+        "label": "organisation",
+        "start": 232,
+        "end": 260
+      },
+      {
+        "text": "Academy of Sciences",
+        "label": "organisation",
+        "start": 266,
+        "end": 285
+      },
+      {
+        "text": "Deutsche Akademie der Naturforscher Leopoldina",
+        "label": "organisation",
+        "start": 300,
+        "end": 346
+      },
+      {
+        "text": "American Philosophical Society",
+        "label": "organisation",
+        "start": 352,
+        "end": 382
+      }
+    ]
+  },
+  {
+    "text": "The boy was sent to school at the Lycée Louis-le-Grand, part of the University of Paris, and it was decided that he would carry on the family martial tradition. The comte, the boy's great-grandfather, enrolled the boy in a program to train future Musketeers.",
+    "entities": [
+      {
+        "text": "Lycée Louis-le-Grand",
+        "label": "organisation",
+        "start": 34,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "This binding results in the activation of a signalling pathway which allows for the transcription factor NF-κB to enter the nucleus of the macrophage and initiate the transcription and eventual secretion of various cytokines such as Il-8, Interleukin-1 family, and TNFα.",
+    "entities": []
+  },
+  {
+    "text": "Juno can reach + 7.5 at a favourable opposition, which is brighter than Neptune or Titan, and is the reason for it being discovered before the larger asteroids 10 Hygiea, 52 Europa, 511 Davida, and 704 Interamnia.",
+    "entities": [
+      {
+        "text": "Juno",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 72,
+        "end": 79
+      },
+      {
+        "text": "Titan",
+        "label": "astronomicalobject",
+        "start": 83,
+        "end": 88
+      },
+      {
+        "text": "10 Hygiea",
+        "label": "astronomicalobject",
+        "start": 160,
+        "end": 169
+      },
+      {
+        "text": "52 Europa",
+        "label": "astronomicalobject",
+        "start": 171,
+        "end": 180
+      },
+      {
+        "text": "511 Davida",
+        "label": "astronomicalobject",
+        "start": 182,
+        "end": 192
+      },
+      {
+        "text": "704 Interamnia",
+        "label": "astronomicalobject",
+        "start": 198,
+        "end": 212
+      }
+    ]
+  },
+  {
+    "text": "He was internationally recognized with membership in the Japan Academy and the Brazilian Academy of Sciences, and in 1959 was appointed a member of the Board of Governors of the Weizmann Institute of Science in Israel.",
+    "entities": [
+      {
+        "text": "Japan Academy",
+        "label": "organisation",
+        "start": 57,
+        "end": 70
+      },
+      {
+        "text": "Brazilian Academy of Sciences",
+        "label": "organisation",
+        "start": 79,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "text": "He was also awarded the Davy Medal in 1971, the Rumford Medal in 1978, the Ellison-Cliffe Medal in 1991 and the Copley Medal in 1992.",
+    "entities": []
+  },
+  {
+    "text": "In 1969, Shenton persuaded Ellis Hillman, a University of East London lecturer, to become president of the Flat Earth Society; but there is little evidence of any activity on his part until after Shenton's death, when he added most of Shenton's library to the archives of the Science Fiction Foundation he helped to establish.",
+    "entities": [
+      {
+        "text": "Shenton",
+        "label": "person",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "Ellis Hillman",
+        "label": "person",
+        "start": 27,
+        "end": 40
+      },
+      {
+        "text": "Flat Earth Society",
+        "label": "organisation",
+        "start": 107,
+        "end": 125
+      },
+      {
+        "text": "Shenton",
+        "label": "person",
+        "start": 196,
+        "end": 203
+      },
+      {
+        "text": "Shenton",
+        "label": "person",
+        "start": 235,
+        "end": 242
+      },
+      {
+        "text": "Science Fiction Foundation",
+        "label": "organisation",
+        "start": 276,
+        "end": 302
+      }
+    ]
+  },
+  {
+    "text": "His engagements have included the Staatsoper Berlin, Bolshoi Theater in Moscow, Opéra National de Paris, Palau de les Arts in Valencia, Arena di Verona, Teatro Carlo Felice in Genoa, Teatro La Fenice in Venice, Staatsoper Hamburg, Teatro Real in Madrid, Théâtre du Châtelet, Semperoper Dresden, Teatro Massimo in Palermo, Teatro alla Scala amongst other acclaimed opera companies / houses around the world and international music festivals.",
+    "entities": [
+      {
+        "text": "Staatsoper Berlin",
+        "label": "organisation",
+        "start": 34,
+        "end": 51
+      },
+      {
+        "text": "Bolshoi Theater",
+        "label": "organisation",
+        "start": 53,
+        "end": 68
+      },
+      {
+        "text": "Opéra National de Paris",
+        "label": "organisation",
+        "start": 80,
+        "end": 103
+      },
+      {
+        "text": "Palau de les Arts",
+        "label": "organisation",
+        "start": 105,
+        "end": 122
+      },
+      {
+        "text": "Arena di Verona",
+        "label": "organisation",
+        "start": 136,
+        "end": 151
+      },
+      {
+        "text": "Teatro Carlo Felice",
+        "label": "organisation",
+        "start": 153,
+        "end": 172
+      },
+      {
+        "text": "Teatro La Fenice",
+        "label": "organisation",
+        "start": 183,
+        "end": 199
+      },
+      {
+        "text": "Staatsoper Hamburg",
+        "label": "organisation",
+        "start": 211,
+        "end": 229
+      },
+      {
+        "text": "Teatro Real",
+        "label": "organisation",
+        "start": 231,
+        "end": 242
+      },
+      {
+        "text": "Théâtre du Châtelet",
+        "label": "organisation",
+        "start": 254,
+        "end": 273
+      },
+      {
+        "text": "Semperoper Dresden",
+        "label": "organisation",
+        "start": 275,
+        "end": 293
+      },
+      {
+        "text": "Teatro Massimo",
+        "label": "organisation",
+        "start": 295,
+        "end": 309
+      },
+      {
+        "text": "Teatro alla Scala",
+        "label": "organisation",
+        "start": 322,
+        "end": 339
+      }
+    ]
+  },
+  {
+    "text": "In 1871 he was elected a fellow of the Linnean Society of London, and in 1881 he was elected a fellow of the Royal Society.",
+    "entities": []
+  },
+  {
+    "text": "The 1982 Commonwealth Games in Brisbane left Tasmania off the map of Australia during the opening ceremony, as did the designs of the Australian Swim Team uniform for the 2014 Commonwealth Games.",
+    "entities": []
+  },
+  {
+    "text": "Before receiving his Ph.D. for atomic models of alkali metals from Massachusetts Institute of Technology in 1924, he spent the 1922-23 academic year as a Fellow of The American-Scandinavian Foundation at the University of Copenhagen under Niels Bohr and Hans Kramers.",
+    "entities": [
+      {
+        "text": "Niels Bohr",
+        "label": "scientist",
+        "start": 239,
+        "end": 249
+      },
+      {
+        "text": "Hans Kramers",
+        "label": "scientist",
+        "start": 254,
+        "end": 266
+      }
+    ]
+  },
+  {
+    "text": "G. Evelyn Hutchinson, a limnologist who was a contemporary of Tansley's, combined Charles Sutherland Elton ' s ideas about trophic ecology with those of Russian geochemist Vladimir Vernadsky.",
+    "entities": [
+      {
+        "text": "G. Evelyn Hutchinson",
+        "label": "scientist",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "Tansley",
+        "label": "scientist",
+        "start": 62,
+        "end": 69
+      },
+      {
+        "text": "Charles Sutherland Elton",
+        "label": "scientist",
+        "start": 82,
+        "end": 106
+      },
+      {
+        "text": "Vladimir Vernadsky",
+        "label": "scientist",
+        "start": 172,
+        "end": 190
+      }
+    ]
+  },
+  {
+    "text": "Michalak's estimate depends on the masses of 19 Fortuna, 29 Amphitrite, and 16 Psyche; thus this mass was obtained assuming an incomplete dynamical model.",
+    "entities": [
+      {
+        "text": "Michalak",
+        "label": "scientist",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "19 Fortuna",
+        "label": "astronomicalobject",
+        "start": 45,
+        "end": 55
+      },
+      {
+        "text": "29 Amphitrite",
+        "label": "astronomicalobject",
+        "start": 57,
+        "end": 70
+      },
+      {
+        "text": "16 Psyche",
+        "label": "astronomicalobject",
+        "start": 76,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "This would be achieved using biotechnology methods to confer to them the capacity to alter nucleotides in the chromosomes of infected individuals through sequence-specific editing systems like CRISPR, ZFN or TALEN.",
+    "entities": [
+      {
+        "text": "nucleotides",
+        "label": "chemicalcompound",
+        "start": 91,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "Following their charting of the JNK signaling pathway, Karin and coworkers have begun to study the role of protein phosphorylation in control of NF-κB activity.",
+    "entities": [
+      {
+        "text": "Karin",
+        "label": "scientist",
+        "start": 55,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "CoRoT discovered its first two planets in 2007: the hot Jupiter s CoRoT-1b and CoRoT-2b.",
+    "entities": [
+      {
+        "text": "hot Jupiter",
+        "label": "astronomicalobject",
+        "start": 52,
+        "end": 63
+      },
+      {
+        "text": "CoRoT-1b",
+        "label": "astronomicalobject",
+        "start": 66,
+        "end": 74
+      },
+      {
+        "text": "CoRoT-2b",
+        "label": "astronomicalobject",
+        "start": 79,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "text": "Human leukocyte antigen constitutes a group of cell surface antigens also known as the Major histocompatibility complex of humans.",
+    "entities": []
+  },
+  {
+    "text": "For example, when there is a mistake in base pairing, DNA mismatch repair has a bias favoring GC pairs.",
+    "entities": []
+  },
+  {
+    "text": "In addition to his steady research output, Naqvi has manifested his commitment to teaching by contributing to journals devoted to didactical aspects of science (American Journal of Physics, European Journal of Physics, Journal of Chemical Education).",
+    "entities": [
+      {
+        "text": "Naqvi",
+        "label": "scientist",
+        "start": 43,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "Also, they would like to find more information on the NF-κB signaling pathway as it was found to have proteins, called ELKS, which are found in the cortical complex.",
+    "entities": []
+  },
+  {
+    "text": "Another copolymer hydrogel lens, called Polymacon, is a copolymer of hydroxyethyl methacrylate and Ethylene glycol dimethacrylate.",
+    "entities": [
+      {
+        "text": "Polymacon",
+        "label": "chemicalcompound",
+        "start": 40,
+        "end": 49
+      },
+      {
+        "text": "hydroxyethyl methacrylate",
+        "label": "chemicalcompound",
+        "start": 69,
+        "end": 94
+      },
+      {
+        "text": "Ethylene glycol dimethacrylate",
+        "label": "chemicalcompound",
+        "start": 99,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "Low used the Learjet to make the discovery that both Jupiter and Saturn were emitting more energy than what they receive as solar radiation, demonstrating that both of these planets must have an internal source of energy.",
+    "entities": [
+      {
+        "text": "Low",
+        "label": "person",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 53,
+        "end": 60
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 65,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "2060 Chiron is a small Solar System body in the outer Solar System, orbit ing the Sun between Saturn and Uranus.",
+    "entities": [
+      {
+        "text": "2060 Chiron",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Sun",
+        "label": "astronomicalobject",
+        "start": 82,
+        "end": 85
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 94,
+        "end": 100
+      },
+      {
+        "text": "Uranus",
+        "label": "astronomicalobject",
+        "start": 105,
+        "end": 111
+      }
+    ]
+  },
+  {
+    "text": "In recognition of the vast amount of scientific information amassed by both rovers, two asteroid s have been named in their honor: 37452 Spirit and 39382 Opportunity.",
+    "entities": [
+      {
+        "text": "37452 Spirit",
+        "label": "astronomicalobject",
+        "start": 131,
+        "end": 143
+      },
+      {
+        "text": "39382 Opportunity",
+        "label": "astronomicalobject",
+        "start": 148,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "text": "All of these low-numbered asteroids have numbers between and were discovered between 1876 and the 1930s, predominantly by astronomers Auguste Charlois, Johann Palisa, Max Wolf and Karl Reinmuth (also see category).",
+    "entities": [
+      {
+        "text": "Auguste Charlois",
+        "label": "scientist",
+        "start": 134,
+        "end": 150
+      },
+      {
+        "text": "Johann Palisa",
+        "label": "scientist",
+        "start": 152,
+        "end": 165
+      },
+      {
+        "text": "Max Wolf",
+        "label": "scientist",
+        "start": 167,
+        "end": 175
+      },
+      {
+        "text": "Karl Reinmuth",
+        "label": "scientist",
+        "start": 180,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Such measures include proofreading by some DNA polymerase during replication, DNA mismatch repair following replication, DNA proofreading and repair.",
+    "entities": []
+  },
+  {
+    "text": "Studies in human neutrophils first detected a plasma membrane -localized site which reversibly bound 5-oxo-ETE and had the attributes of a Gi alpha subunit -linked G protein-coupled receptor based on the ability of 5-oxo-ETE to activate this class of membrane G proteins by a pertussis toxin -sensitive mechanism.",
+    "entities": [
+      {
+        "text": "5-oxo-ETE",
+        "label": "chemicalcompound",
+        "start": 101,
+        "end": 110
+      },
+      {
+        "text": "5-oxo-ETE",
+        "label": "chemicalcompound",
+        "start": 215,
+        "end": 224
+      }
+    ]
+  },
+  {
+    "text": "The use of 1,4-butanediol as an intelligent cosubstrate has also been validated in non-aqueous media using a commercial Alcohol dehydrogenase .Kara S, Spickermann D, Weckbecker A, Leggewie C, Arends IWCE, Hollmann F (2014) Bioreductions Catalyzed by an Alcohol Dehydrogenase in Non-aqueous Media.",
+    "entities": [
+      {
+        "text": "1,4-butanediol",
+        "label": "chemicalcompound",
+        "start": 11,
+        "end": 25
+      },
+      {
+        "text": ".Kara S",
+        "label": "scientist",
+        "start": 142,
+        "end": 149
+      },
+      {
+        "text": "Spickermann D",
+        "label": "scientist",
+        "start": 151,
+        "end": 164
+      },
+      {
+        "text": "Weckbecker A",
+        "label": "scientist",
+        "start": 166,
+        "end": 178
+      },
+      {
+        "text": "Leggewie C",
+        "label": "scientist",
+        "start": 180,
+        "end": 190
+      },
+      {
+        "text": "Arends IWCE",
+        "label": "scientist",
+        "start": 192,
+        "end": 203
+      },
+      {
+        "text": "Hollmann F",
+        "label": "scientist",
+        "start": 205,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "He was elected a Fellow of the Royal Society in 1877 and awarded the Royal Medal in 1888.",
+    "entities": []
+  },
+  {
+    "text": "She is awakened as a Soldier by the white cat Artemis when she is thirteen years old and instructed that she has a duty to become the beautiful warrior, Sailor V. Artemis explains that Venus and Earth are twin planets of about the same size and weight, that Venus is her mother star, and that she must protect Earth from its enemies.",
+    "entities": [
+      {
+        "text": "Sailor V. Artemis",
+        "label": "person",
+        "start": 153,
+        "end": 170
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 185,
+        "end": 190
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 195,
+        "end": 200
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 258,
+        "end": 263
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 310,
+        "end": 315
+      }
+    ]
+  },
+  {
+    "text": "For example, LHsub2 / sub / LOx bipropellant produces higher Isubsp / sub but lower thrust than RP-1 / LOx due to the exhaust gases having a lower density and higher velocity (Properties of water vs Carbon dioxide and Hsub2 / subO).",
+    "entities": [
+      {
+        "text": "LHsub2 / sub / LOx",
+        "label": "chemicalcompound",
+        "start": 13,
+        "end": 31
+      },
+      {
+        "text": "Isubsp / sub",
+        "label": "chemicalcompound",
+        "start": 61,
+        "end": 73
+      },
+      {
+        "text": "RP-1 / LOx",
+        "label": "chemicalcompound",
+        "start": 96,
+        "end": 106
+      },
+      {
+        "text": "water",
+        "label": "chemicalcompound",
+        "start": 190,
+        "end": 195
+      },
+      {
+        "text": "Carbon dioxide",
+        "label": "chemicalcompound",
+        "start": 199,
+        "end": 213
+      },
+      {
+        "text": "Hsub2 / subO",
+        "label": "chemicalcompound",
+        "start": 218,
+        "end": 230
+      }
+    ]
+  },
+  {
+    "text": "Ragtime was nominated for twelve Tony Awards and won the Tony Award for Best Original Score for Lynn Ahrens and Stephen Flahertyin addition to the Drama Desk Award for Outstanding Lyrics.",
+    "entities": [
+      {
+        "text": "Lynn Ahrens",
+        "label": "person",
+        "start": 96,
+        "end": 107
+      },
+      {
+        "text": "Stephen Flahertyin",
+        "label": "person",
+        "start": 112,
+        "end": 130
+      }
+    ]
+  },
+  {
+    "text": "Palsson serves on the editorial board of several scientific journals including Annals of Biomedical Engineering, Biotechnology and Bioengineering, Metabolic Engineering and Molecular Systems Biology.",
+    "entities": [
+      {
+        "text": "Palsson",
+        "label": "scientist",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "Antonio de Ulloa y de la Torre-Giralt, Fellow of the Royal Society, Royal Swedish Academy of Sciences, KOS (12 January 1716 - 3 July 1795) was a Spanish general of the navy, explorer, scientist, author, astronomer, colonial administrator and the first Spanish governor of Louisiana.",
+    "entities": [
+      {
+        "text": "Antonio de Ulloa y de la Torre-Giralt",
+        "label": "scientist",
+        "start": 0,
+        "end": 37
+      },
+      {
+        "text": "Royal Swedish Academy of Sciences",
+        "label": "organisation",
+        "start": 68,
+        "end": 101
+      },
+      {
+        "text": "KOS",
+        "label": "organisation",
+        "start": 103,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "Jared Diamond describes an Evil Quartet of habitat destruction, overkill, introduced species and secondary extinctions.small which has been adopted by major international conservation organizations such as the US Nature Conservancy, the World Wildlife Fund, Conservation International and BirdLife International.",
+    "entities": [
+      {
+        "text": "Jared Diamond",
+        "label": "scientist",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "US Nature Conservancy",
+        "label": "organisation",
+        "start": 210,
+        "end": 231
+      },
+      {
+        "text": "World Wildlife Fund",
+        "label": "organisation",
+        "start": 237,
+        "end": 256
+      },
+      {
+        "text": "Conservation International",
+        "label": "organisation",
+        "start": 258,
+        "end": 284
+      },
+      {
+        "text": "BirdLife International",
+        "label": "organisation",
+        "start": 289,
+        "end": 311
+      }
+    ]
+  },
+  {
+    "text": "Knowles was heavily influenced by the Motown Sound of the 1960s and 1970s prior to the album's recording, prompting her to work with several like-minded producers and songwriters such as Jack Splash, CeeLo Green, Mark Ronson, and former Holland-Dozier-Holland member Lamont Dozier.",
+    "entities": [
+      {
+        "text": "Knowles",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Motown Sound",
+        "label": "organisation",
+        "start": 38,
+        "end": 50
+      },
+      {
+        "text": "Jack Splash",
+        "label": "person",
+        "start": 187,
+        "end": 198
+      },
+      {
+        "text": "CeeLo Green",
+        "label": "person",
+        "start": 200,
+        "end": 211
+      },
+      {
+        "text": "Mark Ronson",
+        "label": "person",
+        "start": 213,
+        "end": 224
+      },
+      {
+        "text": "Holland-Dozier-Holland",
+        "label": "organisation",
+        "start": 237,
+        "end": 259
+      },
+      {
+        "text": "Lamont Dozier",
+        "label": "person",
+        "start": 267,
+        "end": 280
+      }
+    ]
+  },
+  {
+    "text": "GSK-3 has been implicated in bipolar disorder, as bipolar medications lithium and valproate have been shown to increase its phosphorylation, thereby inhibiting it.",
+    "entities": [
+      {
+        "text": "valproate",
+        "label": "chemicalcompound",
+        "start": 82,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "Juilfs was a theoretical physics assistant from 1938 to 1945 at the Kaiser-Wilhelm Institut für Physik (KWIP, Kaiser Wilhelm Institute for Physics; today, the Max-Planck Institut für Physik), first for Max von Laue and from 1943 to Werner Heisenberg and Hentschel, 1996, Appendix F.",
+    "entities": [
+      {
+        "text": "Juilfs",
+        "label": "scientist",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Kaiser-Wilhelm Institut für Physik",
+        "label": "organisation",
+        "start": 68,
+        "end": 102
+      },
+      {
+        "text": "KWIP",
+        "label": "organisation",
+        "start": 104,
+        "end": 108
+      },
+      {
+        "text": "Kaiser Wilhelm Institute for Physics",
+        "label": "organisation",
+        "start": 110,
+        "end": 146
+      },
+      {
+        "text": "Max-Planck Institut für Physik",
+        "label": "organisation",
+        "start": 159,
+        "end": 189
+      },
+      {
+        "text": "Max von Laue",
+        "label": "scientist",
+        "start": 202,
+        "end": 214
+      },
+      {
+        "text": "Werner Heisenberg",
+        "label": "scientist",
+        "start": 232,
+        "end": 249
+      },
+      {
+        "text": "Hentschel",
+        "label": "scientist",
+        "start": 254,
+        "end": 263
+      }
+    ]
+  },
+  {
+    "text": "Lexell calculated its orbit, showed that the comet had had a much larger perihelion before the encounter with Jupiter in 1767 and predicted that after encountering Jupiter again in 1779 it would be altogether expelled from the inner Solar System.",
+    "entities": [
+      {
+        "text": "Lexell",
+        "label": "scientist",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 110,
+        "end": 117
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 164,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "The traditional emblem for the House of Lancaster is a red rose, the Red Rose of Lancaster, similar to that of the House of York, which is a white rose.",
+    "entities": [
+      {
+        "text": "House of Lancaster",
+        "label": "organisation",
+        "start": 31,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "text": "A similar example is given by the Senegalese sole (Solea senegalensis), which, when acclimated to temperatures of 26 ° C, produced a significantly higher amount of taurine, Glutamic acid, Gamma-Aminobutyric acid and glycine compared to acclimation to 12 ° C. This may mean that the aforementioned compounds aid in antioxidant defense, osmoregulatory processes, or energetic purposes at these temperatures.",
+    "entities": [
+      {
+        "text": "taurine",
+        "label": "chemicalcompound",
+        "start": 164,
+        "end": 171
+      },
+      {
+        "text": "Glutamic acid",
+        "label": "chemicalcompound",
+        "start": 173,
+        "end": 186
+      },
+      {
+        "text": "Gamma-Aminobutyric acid",
+        "label": "chemicalcompound",
+        "start": 188,
+        "end": 211
+      },
+      {
+        "text": "glycine",
+        "label": "chemicalcompound",
+        "start": 216,
+        "end": 223
+      }
+    ]
+  },
+  {
+    "text": "In 1348, Giovanni Dondi built the first known clock driven mechanism which displays the ecliptical position of Moon, Sun, Mercury, Venus, Mars, Jupiter and Saturn according to the complicated Ptolemaic planetary theories.",
+    "entities": [
+      {
+        "text": "Giovanni Dondi",
+        "label": "scientist",
+        "start": 9,
+        "end": 23
+      },
+      {
+        "text": "Moon",
+        "label": "astronomicalobject",
+        "start": 111,
+        "end": 115
+      },
+      {
+        "text": "Sun",
+        "label": "astronomicalobject",
+        "start": 117,
+        "end": 120
+      },
+      {
+        "text": "Mercury",
+        "label": "astronomicalobject",
+        "start": 122,
+        "end": 129
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 131,
+        "end": 136
+      },
+      {
+        "text": "Mars",
+        "label": "astronomicalobject",
+        "start": 138,
+        "end": 142
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 144,
+        "end": 151
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 156,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "text": "Nihonium was first reported to have been created in 2003 by a Russian-American collaboration at the Joint Institute for Nuclear Research (JINR) in Dubna, Russia, and in 2004 by a team of Japanese scientists at Riken in Wakō, Japan.",
+    "entities": [
+      {
+        "text": "Joint Institute for Nuclear Research",
+        "label": "organisation",
+        "start": 100,
+        "end": 136
+      },
+      {
+        "text": "JINR",
+        "label": "organisation",
+        "start": 138,
+        "end": 142
+      },
+      {
+        "text": "Riken",
+        "label": "organisation",
+        "start": 210,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "He has written several invited review articles and book chapters for a number of prestigious journals and books including Chemical Reviews, Accounts of Chemical Research, Angewandte Chemie and the main textbook in the field of circular dichroism, Comprehensive Chiroptical Spectroscopy.",
+    "entities": []
+  },
+  {
+    "text": "Directors (superintendents) of the observatory included Stephen Demainbray, Francis Ronalds, John Welsh, Balfour Stewart, Francis John Welsh Whipple, Charles Chree, and George Clarke Simpson.",
+    "entities": [
+      {
+        "text": "Stephen Demainbray",
+        "label": "scientist",
+        "start": 56,
+        "end": 74
+      },
+      {
+        "text": "Francis Ronalds",
+        "label": "scientist",
+        "start": 76,
+        "end": 91
+      },
+      {
+        "text": "John Welsh",
+        "label": "scientist",
+        "start": 93,
+        "end": 103
+      },
+      {
+        "text": "Balfour Stewart",
+        "label": "scientist",
+        "start": 105,
+        "end": 120
+      },
+      {
+        "text": "Francis John Welsh Whipple",
+        "label": "scientist",
+        "start": 122,
+        "end": 148
+      },
+      {
+        "text": "Charles Chree",
+        "label": "scientist",
+        "start": 150,
+        "end": 163
+      },
+      {
+        "text": "George Clarke Simpson",
+        "label": "scientist",
+        "start": 169,
+        "end": 190
+      }
+    ]
+  },
+  {
+    "text": "Julius Tafel discovered that hydroxylamine hydrochloride or sulfate salts can be produced by electrolytic reduction of nitric acid with Hydrochloric acid or Sulfuric acid respectively:",
+    "entities": [
+      {
+        "text": "Julius Tafel",
+        "label": "scientist",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "hydroxylamine hydrochloride",
+        "label": "chemicalcompound",
+        "start": 29,
+        "end": 56
+      },
+      {
+        "text": "nitric acid",
+        "label": "chemicalcompound",
+        "start": 119,
+        "end": 130
+      },
+      {
+        "text": "Hydrochloric acid",
+        "label": "chemicalcompound",
+        "start": 136,
+        "end": 153
+      },
+      {
+        "text": "Sulfuric acid",
+        "label": "chemicalcompound",
+        "start": 157,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "text": "The golden age of physics cabinets was the 18th century, with the rise of such lecturer-demonstrators as John Keill, John Theophilus Desaguliers, and William Whiston, who all invented new physics apparatus for their lectures.",
+    "entities": [
+      {
+        "text": "John Keill",
+        "label": "scientist",
+        "start": 105,
+        "end": 115
+      },
+      {
+        "text": "John Theophilus Desaguliers",
+        "label": "scientist",
+        "start": 117,
+        "end": 144
+      },
+      {
+        "text": "William Whiston",
+        "label": "scientist",
+        "start": 150,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "text": "Stanley N. Cohen (November 17, 1922 - February 5, 2020) was an American biochemist who, along with Rita Levi-Montalcini, was awarded the Nobel Prize in Physiology or Medicine in 1986 for the isolation of nerve growth factor and the discovery of epidermal growth factor.",
+    "entities": [
+      {
+        "text": "Stanley N. Cohen",
+        "label": "scientist",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "Rita Levi-Montalcini",
+        "label": "scientist",
+        "start": 99,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "Uranus is similar in composition to Neptune, and both have bulk chemical compositions which differ from that of the larger gas giant s Jupiter and Saturn.",
+    "entities": [
+      {
+        "text": "Uranus",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 36,
+        "end": 43
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 135,
+        "end": 142
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 147,
+        "end": 153
+      }
+    ]
+  },
+  {
+    "text": "She has won five Grammy Awards, including Grammy Award for Album of the Year and Grammy Award for Record of the Year.",
+    "entities": []
+  },
+  {
+    "text": "Cooper studied with Oliver Coleman and Walter Dyett in the late 1950s and early 1960s, then studied at the American Conservatory and Loop College.",
+    "entities": [
+      {
+        "text": "Oliver Coleman",
+        "label": "person",
+        "start": 20,
+        "end": 34
+      },
+      {
+        "text": "Walter Dyett",
+        "label": "person",
+        "start": 39,
+        "end": 51
+      },
+      {
+        "text": "American Conservatory",
+        "label": "organisation",
+        "start": 107,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "The disease is characterized behaviorally by chronic and progressive decline in cognitive function, beginning with short term memory loss, and neurologically by buildup of misfolded tau protein and associated neurofibrillary tangles, and by amyloid-beta senile plaques Amyloid beta.",
+    "entities": []
+  },
+  {
+    "text": "The episode's airing - in particular, its shock regeneration - contributed to a public surge of interest, and speculation about Tennant's replacement: actor Robert Carlyle was the bookmaker's favourite and actors James McAvoy, Jason Statham, Alan Davies, and James Nesbitt were less popular predictions.",
+    "entities": [
+      {
+        "text": "Tennant",
+        "label": "person",
+        "start": 128,
+        "end": 135
+      },
+      {
+        "text": "Robert Carlyle",
+        "label": "person",
+        "start": 157,
+        "end": 171
+      },
+      {
+        "text": "James McAvoy",
+        "label": "person",
+        "start": 213,
+        "end": 225
+      },
+      {
+        "text": "Jason Statham",
+        "label": "person",
+        "start": 227,
+        "end": 240
+      },
+      {
+        "text": "Alan Davies",
+        "label": "person",
+        "start": 242,
+        "end": 253
+      },
+      {
+        "text": "James Nesbitt",
+        "label": "person",
+        "start": 259,
+        "end": 272
+      }
+    ]
+  },
+  {
+    "text": "He was educated at the Odessa University (1922-23) and at the Saint Petersburg State University (1923-1929).",
+    "entities": []
+  },
+  {
+    "text": "Schweickart is a fellow of the American Astronautical Society and the International Academy of Astronautics, and an associate fellow of the American Institute of Aeronautics and Astronautics.",
+    "entities": [
+      {
+        "text": "Schweickart",
+        "label": "scientist",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "International Academy of Astronautics",
+        "label": "organisation",
+        "start": 70,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "Lysostaphin can lyse Staphylococcus, but Micrococcus bacteria are resistant to the chemical.",
+    "entities": []
+  },
+  {
+    "text": "Scheele discovered organic acids Tartaric acid, Oxalic acid, Uric acid, Lactic acid, and Citric acid, as well as Hydrofluoric acid, hydrocyanic, and Arsenic acid acids. Richard Myers, (2003) He preferred speaking German to Swedish his whole life, as German was commonly spoken among Swedish pharmacists.",
+    "entities": [
+      {
+        "text": "Scheele",
+        "label": "scientist",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Tartaric acid",
+        "label": "chemicalcompound",
+        "start": 33,
+        "end": 46
+      },
+      {
+        "text": "Oxalic acid",
+        "label": "chemicalcompound",
+        "start": 48,
+        "end": 59
+      },
+      {
+        "text": "Uric acid",
+        "label": "chemicalcompound",
+        "start": 61,
+        "end": 70
+      },
+      {
+        "text": "Lactic acid",
+        "label": "chemicalcompound",
+        "start": 72,
+        "end": 83
+      },
+      {
+        "text": "Citric acid",
+        "label": "chemicalcompound",
+        "start": 89,
+        "end": 100
+      },
+      {
+        "text": "Hydrofluoric acid",
+        "label": "chemicalcompound",
+        "start": 113,
+        "end": 130
+      },
+      {
+        "text": "hydrocyanic",
+        "label": "chemicalcompound",
+        "start": 132,
+        "end": 143
+      },
+      {
+        "text": "Arsenic acid",
+        "label": "chemicalcompound",
+        "start": 149,
+        "end": 161
+      },
+      {
+        "text": "Richard Myers",
+        "label": "scientist",
+        "start": 169,
+        "end": 182
+      }
+    ]
+  },
+  {
+    "text": "The Hannes Alfvén Prize, awarded annually by the European Physical Society for outstanding contributions in plasma physics, is named after him.",
+    "entities": [
+      {
+        "text": "European Physical Society",
+        "label": "organisation",
+        "start": 49,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "text": "Acta Physica Sinica is a part of a small group of journals from the Chinese Physical Society, the others including: Communications in Theoretical Physics (Chinese Physics A), Chinese Physics B (established in 1991 as Acta Physica Sinica (Overseas Edition), renamed as Chinese Physics in 2000, renamed again in 2008 as Chinese Physics B.",
+    "entities": [
+      {
+        "text": "Chinese Physical Society",
+        "label": "organisation",
+        "start": 68,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "The human and mouse genomes each contain about 30 (evolutionarily highly conserved) bHLH / PAS protein-coding genes; this gene subfamily is a subset within the 110 members of the human Basic helix-loop-helix gene superfamily.",
+    "entities": []
+  },
+  {
+    "text": "The hydroxyl radical can damage virtually all types of macromolecules: carbohydrates, nucleic acids (mutation s), lipids (lipid peroxidation), and amino acids (e.g. conversion of Phenylalanine to m - Tyrosine and o - Tyrosine).",
+    "entities": [
+      {
+        "text": "hydroxyl radical",
+        "label": "chemicalcompound",
+        "start": 4,
+        "end": 20
+      },
+      {
+        "text": "carbohydrates",
+        "label": "chemicalcompound",
+        "start": 71,
+        "end": 84
+      },
+      {
+        "text": "nucleic acids",
+        "label": "chemicalcompound",
+        "start": 86,
+        "end": 99
+      },
+      {
+        "text": "lipids",
+        "label": "chemicalcompound",
+        "start": 114,
+        "end": 120
+      },
+      {
+        "text": "lipid",
+        "label": "chemicalcompound",
+        "start": 122,
+        "end": 127
+      },
+      {
+        "text": "Phenylalanine",
+        "label": "chemicalcompound",
+        "start": 179,
+        "end": 192
+      },
+      {
+        "text": "m -",
+        "label": "chemicalcompound",
+        "start": 196,
+        "end": 199
+      },
+      {
+        "text": "Tyrosine",
+        "label": "chemicalcompound",
+        "start": 200,
+        "end": 208
+      },
+      {
+        "text": "o - Tyrosine",
+        "label": "chemicalcompound",
+        "start": 213,
+        "end": 225
+      }
+    ]
+  },
+  {
+    "text": "Football is also a common sport and the multi-use Saifur Rahman Stadium and Netaji Subhas Chandra Bose Stadium s are known to host football matches.",
+    "entities": []
+  },
+  {
+    "text": "The entire set is processed through cycles of: (a) hybridization at 60 ° C; (b) elongation via Taq polymerase and a standard ligase; and (c) denaturation at 95 ° C, forming progressively longer contiguous strands and ultimately resulting in the final genome.",
+    "entities": []
+  },
+  {
+    "text": "This led to efforts such as Optical Gravitational Lensing Experiment, or OGLE, that have characterized hundreds of such events, including those of OGLE-2016-BLG-1190Lb and OGLE-2016-BLG-1195Lb.",
+    "entities": [
+      {
+        "text": "Optical Gravitational Lensing Experiment",
+        "label": "organisation",
+        "start": 28,
+        "end": 68
+      },
+      {
+        "text": "OGLE",
+        "label": "organisation",
+        "start": 73,
+        "end": 77
+      },
+      {
+        "text": "OGLE-2016-BLG-1190Lb",
+        "label": "astronomicalobject",
+        "start": 147,
+        "end": 167
+      },
+      {
+        "text": "OGLE-2016-BLG-1195Lb",
+        "label": "astronomicalobject",
+        "start": 172,
+        "end": 192
+      }
+    ]
+  },
+  {
+    "text": "In the second step react Phosphoribosylamine, glycine and ATP to create Glycineamide ribonucleotide, ADP, and pyrophosphate - catalyzed by phosphoribosylamine - glycine ligase (GAR synthetase).",
+    "entities": [
+      {
+        "text": "Phosphoribosylamine",
+        "label": "chemicalcompound",
+        "start": 25,
+        "end": 44
+      },
+      {
+        "text": "glycine",
+        "label": "chemicalcompound",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "ATP",
+        "label": "chemicalcompound",
+        "start": 58,
+        "end": 61
+      },
+      {
+        "text": "Glycineamide ribonucleotide",
+        "label": "chemicalcompound",
+        "start": 72,
+        "end": 99
+      },
+      {
+        "text": "ADP",
+        "label": "chemicalcompound",
+        "start": 101,
+        "end": 104
+      },
+      {
+        "text": "pyrophosphate",
+        "label": "chemicalcompound",
+        "start": 110,
+        "end": 123
+      }
+    ]
+  },
+  {
+    "text": "South Mumbai has reputed and leading educational institutions such as Jamnalal Bajaj Institute of Management Studies, St. Xavier's College, Government Law College, Jai Hind College, Grant Medical College and Sir Jamshedjee Jeejeebhoy Group of Hospitals, Sydenham Institute of Management Studies, Research and Entrepreneurship Education to name a few.",
+    "entities": [
+      {
+        "text": "Jamnalal Bajaj Institute of Management Studies",
+        "label": "organisation",
+        "start": 70,
+        "end": 116
+      },
+      {
+        "text": "Sir Jamshedjee Jeejeebhoy Group of Hospitals",
+        "label": "organisation",
+        "start": 208,
+        "end": 252
+      },
+      {
+        "text": "Sydenham Institute of Management Studies",
+        "label": "organisation",
+        "start": 254,
+        "end": 294
+      },
+      {
+        "text": "Research and Entrepreneurship Education",
+        "label": "organisation",
+        "start": 296,
+        "end": 335
+      }
+    ]
+  },
+  {
+    "text": "DNA cytosine methylation is catalyzed by DNA methyltransferase.",
+    "entities": []
+  },
+  {
+    "text": "He has taught undergraduate and graduate courses in mathematics and computer science at the University of Ljubljana, University of Zagreb, University of Udine, University of Leoben, California State University, Chico, Simon Fraser University, University of Auckland and Colgate University.",
+    "entities": []
+  },
+  {
+    "text": "This minor planet was named by Tadeusz Banachiewicz after Jan Śniadecki (1756-1830), a Polish professor of mathematics and astronomy, who founded the Kraków Observatory ().",
+    "entities": [
+      {
+        "text": "Tadeusz Banachiewicz",
+        "label": "scientist",
+        "start": 31,
+        "end": 51
+      },
+      {
+        "text": "Jan Śniadecki",
+        "label": "scientist",
+        "start": 58,
+        "end": 71
+      },
+      {
+        "text": "Kraków Observatory",
+        "label": "organisation",
+        "start": 150,
+        "end": 168
+      }
+    ]
+  },
+  {
+    "text": "She also played at 1990 Asian Games, 1991, 1993 and 1995 AFC Championship.",
+    "entities": []
+  },
+  {
+    "text": "After the war, he returned to research at the Cavendish Laboratory in Cambridge and completed building his first mass spectrograph that he reported on in 1919 and a fellow of the Royal Society and received the Nobel Prize in Chemistry the following year.",
+    "entities": [
+      {
+        "text": "Cavendish Laboratory",
+        "label": "organisation",
+        "start": 46,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "Several academic bodies exist to support behavior genetic research, including the Behavior Genetics Association, the International Society for Twin Studies, and the International Behavioural and Neural Genetics Society.",
+    "entities": [
+      {
+        "text": "Behavior Genetics Association",
+        "label": "organisation",
+        "start": 82,
+        "end": 111
+      },
+      {
+        "text": "International Society for Twin Studies",
+        "label": "organisation",
+        "start": 117,
+        "end": 155
+      },
+      {
+        "text": "International Behavioural and Neural Genetics Society",
+        "label": "organisation",
+        "start": 165,
+        "end": 218
+      }
+    ]
+  },
+  {
+    "text": "2006, 281, 1426-1431 Substrates of glycosynthase include Glucose, Galactose, Mannose, Xylose, and Glucuronic acid. Wilkinson, S.; Liew, C.; Mackay, J.; Salleh, H.; Withers, S.; McLeod, M. Org Lett.",
+    "entities": [
+      {
+        "text": "Glucose",
+        "label": "chemicalcompound",
+        "start": 57,
+        "end": 64
+      },
+      {
+        "text": "Galactose",
+        "label": "chemicalcompound",
+        "start": 66,
+        "end": 75
+      },
+      {
+        "text": "Mannose",
+        "label": "chemicalcompound",
+        "start": 77,
+        "end": 84
+      },
+      {
+        "text": "Xylose",
+        "label": "chemicalcompound",
+        "start": 86,
+        "end": 92
+      },
+      {
+        "text": "Glucuronic acid",
+        "label": "chemicalcompound",
+        "start": 98,
+        "end": 113
+      },
+      {
+        "text": "Wilkinson, S.",
+        "label": "person",
+        "start": 115,
+        "end": 128
+      },
+      {
+        "text": "Liew, C.",
+        "label": "person",
+        "start": 130,
+        "end": 138
+      },
+      {
+        "text": "Mackay, J.",
+        "label": "person",
+        "start": 140,
+        "end": 150
+      },
+      {
+        "text": "Salleh, H.",
+        "label": "person",
+        "start": 152,
+        "end": 162
+      },
+      {
+        "text": "Withers, S.",
+        "label": "person",
+        "start": 164,
+        "end": 175
+      },
+      {
+        "text": "McLeod, M.",
+        "label": "person",
+        "start": 177,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "text": "Magnetogenetic techniques involve first fusing TRPV class receptors, which are selective calcium transporters, with a paramagnetic protein (typically Ferritin).",
+    "entities": []
+  },
+  {
+    "text": "The scientists found homologous recombination-mediated alteration in HBB and Glucose-6-phosphate dehydrogenase.",
+    "entities": []
+  },
+  {
+    "text": "From left to right, they are: Saturn with sickle and club for Saturday, Jupiter with thunderbolts for Thursday, Mars with sword and shield for Tuesday, Venus with Cupid for Friday and Mercury with staff and bag for Wednesday.",
+    "entities": [
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 30,
+        "end": 36
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 72,
+        "end": 79
+      },
+      {
+        "text": "Mars",
+        "label": "astronomicalobject",
+        "start": 112,
+        "end": 116
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 152,
+        "end": 157
+      },
+      {
+        "text": "Mercury",
+        "label": "astronomicalobject",
+        "start": 184,
+        "end": 191
+      }
+    ]
+  },
+  {
+    "text": "Major species assessors include BirdLife International, the Institute of Zoology (the research division of the Zoological Society of London), the World Conservation Monitoring Centre, and many Specialist Groups within the IUCN Species Survival Commission (SSC).",
+    "entities": [
+      {
+        "text": "BirdLife International",
+        "label": "organisation",
+        "start": 32,
+        "end": 54
+      },
+      {
+        "text": "Institute of Zoology",
+        "label": "organisation",
+        "start": 60,
+        "end": 80
+      },
+      {
+        "text": "Zoological Society of London",
+        "label": "organisation",
+        "start": 111,
+        "end": 139
+      },
+      {
+        "text": "World Conservation Monitoring Centre",
+        "label": "organisation",
+        "start": 146,
+        "end": 182
+      },
+      {
+        "text": "IUCN Species Survival Commission",
+        "label": "organisation",
+        "start": 222,
+        "end": 254
+      },
+      {
+        "text": "SSC",
+        "label": "organisation",
+        "start": 256,
+        "end": 259
+      }
+    ]
+  },
+  {
+    "text": "The most common trialkyl aluminum reagents for this transformation are Trimethylaluminium, Triethylaluminium, and sometimes Triisobutylaluminium.",
+    "entities": [
+      {
+        "text": "trialkyl aluminum",
+        "label": "chemicalcompound",
+        "start": 16,
+        "end": 33
+      },
+      {
+        "text": "Trimethylaluminium",
+        "label": "chemicalcompound",
+        "start": 71,
+        "end": 89
+      },
+      {
+        "text": "Triethylaluminium",
+        "label": "chemicalcompound",
+        "start": 91,
+        "end": 108
+      },
+      {
+        "text": "Triisobutylaluminium",
+        "label": "chemicalcompound",
+        "start": 124,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "This subcategory includes Pluto, Haumea, Makemake and Eris.",
+    "entities": [
+      {
+        "text": "Pluto",
+        "label": "astronomicalobject",
+        "start": 26,
+        "end": 31
+      },
+      {
+        "text": "Haumea",
+        "label": "astronomicalobject",
+        "start": 33,
+        "end": 39
+      },
+      {
+        "text": "Makemake",
+        "label": "astronomicalobject",
+        "start": 41,
+        "end": 49
+      },
+      {
+        "text": "Eris",
+        "label": "astronomicalobject",
+        "start": 54,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "Two pairs of fathers and sons have won Nobel Prizes in other fields: Hans von Euler-Chelpin (chemistry, 1929) and Ulf von Euler (medicine, 1970); and Arthur Kornberg (medicine, 1969) and Roger D. Kornberg (chemistry, 2006).",
+    "entities": [
+      {
+        "text": "Hans von Euler-Chelpin",
+        "label": "scientist",
+        "start": 69,
+        "end": 91
+      },
+      {
+        "text": "Ulf von Euler",
+        "label": "scientist",
+        "start": 114,
+        "end": 127
+      },
+      {
+        "text": "Arthur Kornberg",
+        "label": "scientist",
+        "start": 150,
+        "end": 165
+      },
+      {
+        "text": "Roger D. Kornberg",
+        "label": "scientist",
+        "start": 187,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "Amdahl was named an IBM Fellow in 1965, became a member of the National Academy of Engineering in 1967 and was recognized as the Centennial Alumnus of South Dakota State University in 1986.",
+    "entities": [
+      {
+        "text": "Amdahl",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "National Academy of Engineering",
+        "label": "organisation",
+        "start": 63,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "text": "The extended double stranded adapters are cleaved by Restriction enzyme at a specific restriction site located at 3 side of the tag sequence and will results in a 3 -dT overhang that will be ligated to the 3 -dA overhang on DNA libraries in adapter ligation step (Figure 1).",
+    "entities": []
+  }
+]

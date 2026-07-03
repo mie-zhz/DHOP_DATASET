@@ -1,0 +1,1300 @@
+[
+  {
+    "text": "1 The eight planets are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+    "entities": [
+      {
+        "text": "Mercury",
+        "label": "astronomicalobject",
+        "start": 25,
+        "end": 32
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 34,
+        "end": 39
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 41,
+        "end": 46
+      },
+      {
+        "text": "Mars",
+        "label": "astronomicalobject",
+        "start": 48,
+        "end": 52
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 54,
+        "end": 61
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 63,
+        "end": 69
+      },
+      {
+        "text": "Uranus",
+        "label": "astronomicalobject",
+        "start": 71,
+        "end": 77
+      },
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 83,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "text": "The Royal Society elected him a Fellow of the Royal Society in June 1877 and bestowed their Rumford Medal (1894), Davy (1909), and Copley Medal (1916) medals upon him for his work, as well as inviting him to deliver their Bakerian Lecture in 1901.",
+    "entities": [
+      {
+        "text": "Royal Society",
+        "label": "organisation",
+        "start": 4,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "Also, they would like to find more information on the NF-κB signaling pathway as it was found to have proteins, called ELKS, which are found in the cortical complex.",
+    "entities": []
+  },
+  {
+    "text": "Histone deacetylase (HDACs) are a class of enzymes that remove acetyl groups from histones.",
+    "entities": [
+      {
+        "text": "acetyl groups",
+        "label": "chemicalcompound",
+        "start": 63,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "text": "He was research assistant to Richard Harrison at the Royal London Hospital, then worked with J. D. H. Slater at the Middlesex Hospital from 1973 to 1974 and with A. Grabham at Kettering General Hospital for a year, before being appointed as assistant lecturer and honorary senior house orderly registrar in the School of Pathology at Middlesex Hospital Medical School (1975 to 1976).",
+    "entities": [
+      {
+        "text": "Richard Harrison",
+        "label": "person",
+        "start": 29,
+        "end": 45
+      },
+      {
+        "text": "Royal London Hospital",
+        "label": "organisation",
+        "start": 53,
+        "end": 74
+      },
+      {
+        "text": "J. D. H. Slater",
+        "label": "person",
+        "start": 93,
+        "end": 108
+      },
+      {
+        "text": "Middlesex Hospital",
+        "label": "organisation",
+        "start": 116,
+        "end": 134
+      },
+      {
+        "text": "A. Grabham",
+        "label": "person",
+        "start": 162,
+        "end": 172
+      },
+      {
+        "text": "Kettering General Hospital",
+        "label": "organisation",
+        "start": 176,
+        "end": 202
+      },
+      {
+        "text": "the School of Pathology at Middlesex Hospital Medical School",
+        "label": "organisation",
+        "start": 307,
+        "end": 367
+      }
+    ]
+  },
+  {
+    "text": "These are: Birdlife International, the IUCN, the International Water Management Institute, Wetlands International and the World Wide Fund for Nature.",
+    "entities": [
+      {
+        "text": "Birdlife International",
+        "label": "organisation",
+        "start": 11,
+        "end": 33
+      },
+      {
+        "text": "IUCN",
+        "label": "organisation",
+        "start": 39,
+        "end": 43
+      },
+      {
+        "text": "International Water Management Institute",
+        "label": "organisation",
+        "start": 49,
+        "end": 89
+      },
+      {
+        "text": "Wetlands International",
+        "label": "organisation",
+        "start": 91,
+        "end": 113
+      },
+      {
+        "text": "World Wide Fund for Nature",
+        "label": "organisation",
+        "start": 122,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "text": "There is some information about earthquakes in Aristotle ' s Meteorology, in Naturalis Historia by Pliny the Elder, and in Strabo ' s Geographica.",
+    "entities": [
+      {
+        "text": "Aristotle",
+        "label": "scientist",
+        "start": 47,
+        "end": 56
+      },
+      {
+        "text": "Pliny the Elder",
+        "label": "person",
+        "start": 99,
+        "end": 114
+      },
+      {
+        "text": "Strabo",
+        "label": "scientist",
+        "start": 123,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "text": "Between 2006 and 2019, ICRANet has released over 1800 scientific publications in refereed journals such as Physical Review, the The Astrophysical Journal, Astronomy and Astrophysics etc.",
+    "entities": [
+      {
+        "text": "ICRANet",
+        "label": "organisation",
+        "start": 23,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "text": "South Mumbai has reputed and leading educational institutions such as Jamnalal Bajaj Institute of Management Studies, St. Xavier's College, Government Law College, Jai Hind College, Grant Medical College and Sir Jamshedjee Jeejeebhoy Group of Hospitals, Sydenham Institute of Management Studies, Research and Entrepreneurship Education to name a few.",
+    "entities": [
+      {
+        "text": "Jamnalal Bajaj Institute of Management Studies",
+        "label": "organisation",
+        "start": 70,
+        "end": 116
+      },
+      {
+        "text": "Sir Jamshedjee Jeejeebhoy Group of Hospitals",
+        "label": "organisation",
+        "start": 208,
+        "end": 252
+      },
+      {
+        "text": "Sydenham Institute of Management Studies",
+        "label": "organisation",
+        "start": 254,
+        "end": 294
+      },
+      {
+        "text": "Research and Entrepreneurship Education",
+        "label": "organisation",
+        "start": 296,
+        "end": 335
+      }
+    ]
+  },
+  {
+    "text": "It is probably the fifth- most-massive asteroid after Ceres, 4 Vesta, 2 Pallas, and 10 Hygiea, with a mass estimated to be 1.2% of the mass of the entire asteroid belt.",
+    "entities": [
+      {
+        "text": "Ceres",
+        "label": "astronomicalobject",
+        "start": 54,
+        "end": 59
+      },
+      {
+        "text": "4 Vesta",
+        "label": "astronomicalobject",
+        "start": 61,
+        "end": 68
+      },
+      {
+        "text": "2 Pallas",
+        "label": "astronomicalobject",
+        "start": 70,
+        "end": 78
+      },
+      {
+        "text": "10 Hygiea",
+        "label": "astronomicalobject",
+        "start": 84,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "text": "He is the recipient of a Lifetime Achievement Award from the The Recording Academy and a Lifetime Achievement Award from the Rhythm and Blues Foundation.",
+    "entities": []
+  },
+  {
+    "text": "He was awarded honorary doctorate degrees by Princeton University (1958), Moscow State University (1992), and the Chinese University of Hong Kong (1997).",
+    "entities": []
+  },
+  {
+    "text": "Theoretical modelling of two of these super-Earths, Kepler-62e and Kepler-62f, suggests both could be solid, either rocky or rocky with frozen water.",
+    "entities": [
+      {
+        "text": "Kepler-62e",
+        "label": "astronomicalobject",
+        "start": 52,
+        "end": 62
+      },
+      {
+        "text": "Kepler-62f",
+        "label": "astronomicalobject",
+        "start": 67,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "The specific ligand of this receptor is CCL25 To note, the chemokine binding protein D6 had previously been named CCR9, but this molecule is a scavenger receptor not a TRUE (signaling) chemokine receptor.",
+    "entities": []
+  },
+  {
+    "text": "Many of the chemical and physical differences between the 6th period (Caesium & amp; ndash; Rn) and the 5th period (Rubidium & amp; ndash; Xenon) arise from the larger relativistic effects for the former.",
+    "entities": []
+  },
+  {
+    "text": "Other studied asteroids included 15 Eunomia, 43 Ariadne, 44 Nysa, and 624 Hektor.",
+    "entities": [
+      {
+        "text": "15 Eunomia",
+        "label": "astronomicalobject",
+        "start": 33,
+        "end": 43
+      },
+      {
+        "text": "43 Ariadne",
+        "label": "astronomicalobject",
+        "start": 45,
+        "end": 55
+      },
+      {
+        "text": "44 Nysa",
+        "label": "astronomicalobject",
+        "start": 57,
+        "end": 64
+      },
+      {
+        "text": "624 Hektor",
+        "label": "astronomicalobject",
+        "start": 70,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "Under normal conditions, there is a lot more Adenosine triphosphate present in the cytoplasm than Adenosine diphosphate, and this arrangement of the NLR proteins prevents the spontaneous exchange of Adenosine diphosphate for Adenosine triphosphate and thus activation of HR.",
+    "entities": [
+      {
+        "text": "Adenosine triphosphate",
+        "label": "chemicalcompound",
+        "start": 45,
+        "end": 67
+      },
+      {
+        "text": "Adenosine diphosphate",
+        "label": "chemicalcompound",
+        "start": 98,
+        "end": 119
+      },
+      {
+        "text": "Adenosine diphosphate",
+        "label": "chemicalcompound",
+        "start": 199,
+        "end": 220
+      },
+      {
+        "text": "Adenosine triphosphate",
+        "label": "chemicalcompound",
+        "start": 225,
+        "end": 247
+      }
+    ]
+  },
+  {
+    "text": "Assisted by activists from Southern Christian Leadership Conference, Congress of Racial Equality, SNCC, and the NAACP, African Americans and supporters took a stand to fight segregation through nonviolence.",
+    "entities": [
+      {
+        "text": "Southern Christian Leadership Conference",
+        "label": "organisation",
+        "start": 27,
+        "end": 67
+      },
+      {
+        "text": "Congress of Racial Equality",
+        "label": "organisation",
+        "start": 69,
+        "end": 96
+      },
+      {
+        "text": "SNCC",
+        "label": "organisation",
+        "start": 98,
+        "end": 102
+      },
+      {
+        "text": "NAACP",
+        "label": "organisation",
+        "start": 112,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "text": "He is also a two-time Academy Award nominee, receiving a 2014 Academy Award for Best Original Song nomination for Happy (which was featured in Despicable Me 2) and a 2017 Academy Award for Best Picture nomination as one of the producers of Hidden Figures.",
+    "entities": []
+  },
+  {
+    "text": "Activated DHPR's open, forming a L-type calcium channel, that allows Casup2 + / sup to pass into the cell.",
+    "entities": [
+      {
+        "text": "DHPR",
+        "label": "chemicalcompound",
+        "start": 10,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "text": "Some known inhibitors of the caveolae pathway are Filipin III, Genistein and Nystatin.",
+    "entities": [
+      {
+        "text": "Filipin III",
+        "label": "chemicalcompound",
+        "start": 50,
+        "end": 61
+      },
+      {
+        "text": "Genistein",
+        "label": "chemicalcompound",
+        "start": 63,
+        "end": 72
+      },
+      {
+        "text": "Nystatin",
+        "label": "chemicalcompound",
+        "start": 77,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "Triple conjunctions between the inferior planets Mercury and Venus and the superior planets Jupiter, Saturn, Uranus, Neptune, dwarf planet Pluto or with star s take place when these objects are at the same time in conjunction to Sun while Mercury or Venus are at inferior conjunction.",
+    "entities": [
+      {
+        "text": "Mercury",
+        "label": "astronomicalobject",
+        "start": 49,
+        "end": 56
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 61,
+        "end": 66
+      },
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 92,
+        "end": 99
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 101,
+        "end": 107
+      },
+      {
+        "text": "Uranus",
+        "label": "astronomicalobject",
+        "start": 109,
+        "end": 115
+      },
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 117,
+        "end": 124
+      },
+      {
+        "text": "Pluto",
+        "label": "astronomicalobject",
+        "start": 139,
+        "end": 144
+      },
+      {
+        "text": "Sun",
+        "label": "astronomicalobject",
+        "start": 229,
+        "end": 232
+      },
+      {
+        "text": "Mercury",
+        "label": "astronomicalobject",
+        "start": 239,
+        "end": 246
+      },
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 250,
+        "end": 255
+      }
+    ]
+  },
+  {
+    "text": "The Oak Ridge Institute for Science and Education, operated by Oak Ridge Associated Universities, conducts research and education programs for the DOE, Department of Homeland Security, and other federal agencies.",
+    "entities": [
+      {
+        "text": "Oak Ridge Institute for Science and Education",
+        "label": "organisation",
+        "start": 4,
+        "end": 49
+      },
+      {
+        "text": "DOE",
+        "label": "organisation",
+        "start": 147,
+        "end": 150
+      },
+      {
+        "text": "Department of Homeland Security",
+        "label": "organisation",
+        "start": 152,
+        "end": 183
+      }
+    ]
+  },
+  {
+    "text": "Amphitrite (minor planet designation: 29 Amphridite) is one of the largest S-type asteroid s, approximately in diameter, and probably third largest after 15 Eunomia and 3 Juno, although 7 Iris and 532 Herculina are similar in size.",
+    "entities": [
+      {
+        "text": "Amphitrite",
+        "label": "astronomicalobject",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "29 Amphridite",
+        "label": "astronomicalobject",
+        "start": 38,
+        "end": 51
+      },
+      {
+        "text": "15 Eunomia",
+        "label": "astronomicalobject",
+        "start": 154,
+        "end": 164
+      },
+      {
+        "text": "3 Juno",
+        "label": "astronomicalobject",
+        "start": 169,
+        "end": 175
+      },
+      {
+        "text": "7 Iris",
+        "label": "astronomicalobject",
+        "start": 186,
+        "end": 192
+      },
+      {
+        "text": "532 Herculina",
+        "label": "astronomicalobject",
+        "start": 197,
+        "end": 210
+      }
+    ]
+  },
+  {
+    "text": "His work has been published in international refereed journals, including American Economic Review, Journal of European Economic Association, Journal of Economic Perspectives, Economic Journal and American Political Science Review.",
+    "entities": []
+  },
+  {
+    "text": "Next stations were the University of Vienna, the University of Kraków and finally the University of Göttingen, where he studied mathematics under David Hilbert, Woldemar Voigt, Walther Nernst, Karl Schwarzschild and Hermann Minkowski.",
+    "entities": [
+      {
+        "text": "David Hilbert",
+        "label": "scientist",
+        "start": 146,
+        "end": 159
+      },
+      {
+        "text": "Woldemar Voigt",
+        "label": "scientist",
+        "start": 161,
+        "end": 175
+      },
+      {
+        "text": "Walther Nernst",
+        "label": "scientist",
+        "start": 177,
+        "end": 191
+      },
+      {
+        "text": "Karl Schwarzschild",
+        "label": "scientist",
+        "start": 193,
+        "end": 211
+      },
+      {
+        "text": "Hermann Minkowski",
+        "label": "scientist",
+        "start": 216,
+        "end": 233
+      }
+    ]
+  },
+  {
+    "text": "DNA methyltransferase is recruited to DNA during its replication, or during DNA repair.",
+    "entities": []
+  },
+  {
+    "text": "The Olympic golf course is a new venue built for the Golf at the 2016 Summer Olympics.",
+    "entities": []
+  },
+  {
+    "text": "This asteroid shares a mean-motion resonance with the planets Jupiter and Saturn.",
+    "entities": [
+      {
+        "text": "Jupiter",
+        "label": "astronomicalobject",
+        "start": 62,
+        "end": 69
+      },
+      {
+        "text": "Saturn",
+        "label": "astronomicalobject",
+        "start": 74,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "That work has led to identification and molecular cloning of the IκB kinase (IKK) complex, which has turned out to be one of the major activators of the inflammatory response and innate immunity.",
+    "entities": []
+  },
+  {
+    "text": "The Hearthstone tournament at the 2018 Asian Games was an eSports demonstration event that was contested on 31 August 2018.",
+    "entities": []
+  },
+  {
+    "text": "Seven other objects are classified as both periodic comets and numbered asteroids: 2060 Chiron (95P / Chiron), 4015 Wilson-Harrington (107P / Wilson-Harrington), 7968 Elst-Pizarro (133P / Elst-Pizarro), 60558 Echeclus (174P / Echeclus), (362P / 2008 GOsub98 / sub).",
+    "entities": [
+      {
+        "text": "2060 Chiron",
+        "label": "astronomicalobject",
+        "start": 83,
+        "end": 94
+      },
+      {
+        "text": "95P / Chiron",
+        "label": "astronomicalobject",
+        "start": 96,
+        "end": 108
+      },
+      {
+        "text": "4015 Wilson-Harrington",
+        "label": "astronomicalobject",
+        "start": 111,
+        "end": 133
+      },
+      {
+        "text": "107P / Wilson-Harrington",
+        "label": "astronomicalobject",
+        "start": 135,
+        "end": 159
+      },
+      {
+        "text": "7968 Elst-Pizarro",
+        "label": "astronomicalobject",
+        "start": 162,
+        "end": 179
+      },
+      {
+        "text": "133P / Elst-Pizarro",
+        "label": "astronomicalobject",
+        "start": 181,
+        "end": 200
+      },
+      {
+        "text": "60558 Echeclus",
+        "label": "astronomicalobject",
+        "start": 203,
+        "end": 217
+      },
+      {
+        "text": "174P / Echeclus",
+        "label": "astronomicalobject",
+        "start": 219,
+        "end": 234
+      },
+      {
+        "text": "362P / 2008 GOsub98 / sub",
+        "label": "astronomicalobject",
+        "start": 238,
+        "end": 263
+      }
+    ]
+  },
+  {
+    "text": "A second meeting was held soon thereafter and included Klaus Clusius, Robert Döpel, Werner Heisenberg, and Carl Friedrich von Weizsäcker.",
+    "entities": [
+      {
+        "text": "Klaus Clusius",
+        "label": "scientist",
+        "start": 55,
+        "end": 68
+      },
+      {
+        "text": "Robert Döpel",
+        "label": "scientist",
+        "start": 70,
+        "end": 82
+      },
+      {
+        "text": "Werner Heisenberg",
+        "label": "scientist",
+        "start": 84,
+        "end": 101
+      },
+      {
+        "text": "Carl Friedrich von Weizsäcker",
+        "label": "scientist",
+        "start": 107,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "Organizations such as Community Forestry International, Cool Earth, The Nature Conservancy, World Wide Fund for Nature, Conservation International, African Conservation Foundation and Greenpeace also focus on preserving forest habitats.",
+    "entities": [
+      {
+        "text": "Community Forestry International",
+        "label": "organisation",
+        "start": 22,
+        "end": 54
+      },
+      {
+        "text": "Cool Earth",
+        "label": "organisation",
+        "start": 56,
+        "end": 66
+      },
+      {
+        "text": "The Nature Conservancy",
+        "label": "organisation",
+        "start": 68,
+        "end": 90
+      },
+      {
+        "text": "World Wide Fund for Nature",
+        "label": "organisation",
+        "start": 92,
+        "end": 118
+      },
+      {
+        "text": "Conservation International",
+        "label": "organisation",
+        "start": 120,
+        "end": 146
+      },
+      {
+        "text": "African Conservation Foundation",
+        "label": "organisation",
+        "start": 148,
+        "end": 179
+      },
+      {
+        "text": "Greenpeace",
+        "label": "organisation",
+        "start": 184,
+        "end": 194
+      }
+    ]
+  },
+  {
+    "text": "The exceptions are Venus and Uranus.",
+    "entities": [
+      {
+        "text": "Venus",
+        "label": "astronomicalobject",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "Uranus",
+        "label": "astronomicalobject",
+        "start": 29,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "text": "Many families of proteins act as negative regulators categorized into either antiapoptotic factors, such as IAP nowiki / s and Bcl-2 family proteins or prosurvival factors like cFLIP, BNIP3, FADD, Protein kinase B, and NF-κB.",
+    "entities": []
+  },
+  {
+    "text": "Biju has extensively published in high impact factor and prestigious journals such as Nature, Science, Zoological Journal of the Linnean Society, Proceedings of the National Academy of Sciences, Proceedings of the Royal Society, and has written books on both plants and amphibians.",
+    "entities": [
+      {
+        "text": "Biju",
+        "label": "scientist",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "Flügge also extended Niels Bohr and John Archibald Wheeler theory of nuclear fission published in 1939. Niels Bohr and J. A. Wheeler Mechanism of nuclear fission, Phys.",
+    "entities": [
+      {
+        "text": "Flügge",
+        "label": "scientist",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Niels Bohr",
+        "label": "scientist",
+        "start": 21,
+        "end": 31
+      },
+      {
+        "text": "John Archibald Wheeler",
+        "label": "scientist",
+        "start": 36,
+        "end": 58
+      },
+      {
+        "text": "Niels Bohr",
+        "label": "scientist",
+        "start": 104,
+        "end": 114
+      },
+      {
+        "text": "J. A. Wheeler",
+        "label": "scientist",
+        "start": 119,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "text": "One of the first significant contributions of Maheswari was the discovery of RNA polymerase activity in chloroplasts which he accomplished during his early stint at California Institute of Technology while working with Robert S. Bandurski and their researches revealed the presence of DNA in organelle.",
+    "entities": [
+      {
+        "text": "Maheswari",
+        "label": "scientist",
+        "start": 46,
+        "end": 55
+      },
+      {
+        "text": "Robert S. Bandurski",
+        "label": "scientist",
+        "start": 219,
+        "end": 238
+      }
+    ]
+  },
+  {
+    "text": "Hund worked at the Universities of University of Rostock, Leipzig, University of Jena, Frankfurt am Main, and University of Göttingen.",
+    "entities": [
+      {
+        "text": "Hund",
+        "label": "scientist",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "Later on, objects were found orbiting near the Lagrangian points of Neptune, Mars, Earth.",
+    "entities": [
+      {
+        "text": "Neptune",
+        "label": "astronomicalobject",
+        "start": 68,
+        "end": 75
+      },
+      {
+        "text": "Mars",
+        "label": "astronomicalobject",
+        "start": 77,
+        "end": 81
+      },
+      {
+        "text": "Earth",
+        "label": "astronomicalobject",
+        "start": 83,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "text": "It is also the first Doctor Who appearance of Gwen Cooper (Eve Myles); Ianto Jones (Gareth David-Lloyd); Luke Smith (Tommy Knight); and Mr Smith (voiced by Alexander Armstrong), though Myles and Armstrong appeared in other episodes playing different roles.",
+    "entities": [
+      {
+        "text": "Gwen Cooper",
+        "label": "person",
+        "start": 46,
+        "end": 57
+      },
+      {
+        "text": "Eve Myles",
+        "label": "person",
+        "start": 59,
+        "end": 68
+      },
+      {
+        "text": "Ianto Jones",
+        "label": "person",
+        "start": 71,
+        "end": 82
+      },
+      {
+        "text": "Gareth David-Lloyd",
+        "label": "person",
+        "start": 84,
+        "end": 102
+      },
+      {
+        "text": "Luke Smith",
+        "label": "person",
+        "start": 105,
+        "end": 115
+      },
+      {
+        "text": "Tommy Knight",
+        "label": "person",
+        "start": 117,
+        "end": 129
+      },
+      {
+        "text": "Mr Smith",
+        "label": "person",
+        "start": 136,
+        "end": 144
+      },
+      {
+        "text": "Alexander Armstrong",
+        "label": "person",
+        "start": 156,
+        "end": 175
+      },
+      {
+        "text": "Myles",
+        "label": "person",
+        "start": 185,
+        "end": 190
+      },
+      {
+        "text": "Armstrong",
+        "label": "person",
+        "start": 195,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "Computer programs that solve these problems have been used to research a broad range of scientific topics from Adenosine diphosphate to breast cancer.",
+    "entities": [
+      {
+        "text": "Adenosine diphosphate",
+        "label": "chemicalcompound",
+        "start": 111,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "text": "Excessive amounts of chlorine in the buffer should also be avoided, since this will overlap with the sulfur peak; Potassium bromide and Sodium bromide are suitable alternatives.",
+    "entities": [
+      {
+        "text": "Potassium bromide",
+        "label": "chemicalcompound",
+        "start": 114,
+        "end": 131
+      },
+      {
+        "text": "Sodium bromide",
+        "label": "chemicalcompound",
+        "start": 136,
+        "end": 150
+      }
+    ]
+  },
+  {
+    "text": "Acta Physica Sinica is a part of a small group of journals from the Chinese Physical Society, the others including: Communications in Theoretical Physics (Chinese Physics A), Chinese Physics B (established in 1991 as Acta Physica Sinica (Overseas Edition), renamed as Chinese Physics in 2000, renamed again in 2008 as Chinese Physics B.",
+    "entities": [
+      {
+        "text": "Chinese Physical Society",
+        "label": "organisation",
+        "start": 68,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "In the 2002 film, this musical number is performed by Catherine Zeta-Jones (as Velma Kelly), Susan Misner (as Liz), Denise Faye (as Annie), Deidre Goodwin (as June), Ekaterina Shchelkanova (as Katalin Helinszki nicknamed the Hunyak) and Mýa (as Mona).",
+    "entities": [
+      {
+        "text": "Catherine Zeta-Jones",
+        "label": "person",
+        "start": 54,
+        "end": 74
+      },
+      {
+        "text": "Velma Kelly",
+        "label": "person",
+        "start": 79,
+        "end": 90
+      },
+      {
+        "text": "Susan Misner",
+        "label": "person",
+        "start": 93,
+        "end": 105
+      },
+      {
+        "text": "Liz",
+        "label": "person",
+        "start": 110,
+        "end": 113
+      },
+      {
+        "text": "Denise Faye",
+        "label": "person",
+        "start": 116,
+        "end": 127
+      },
+      {
+        "text": "Annie",
+        "label": "person",
+        "start": 132,
+        "end": 137
+      },
+      {
+        "text": "Deidre Goodwin",
+        "label": "person",
+        "start": 140,
+        "end": 154
+      },
+      {
+        "text": "June",
+        "label": "person",
+        "start": 159,
+        "end": 163
+      },
+      {
+        "text": "Ekaterina Shchelkanova",
+        "label": "person",
+        "start": 166,
+        "end": 188
+      },
+      {
+        "text": "Katalin Helinszki",
+        "label": "person",
+        "start": 193,
+        "end": 210
+      },
+      {
+        "text": "Hunyak",
+        "label": "person",
+        "start": 225,
+        "end": 231
+      },
+      {
+        "text": "Mýa",
+        "label": "person",
+        "start": 237,
+        "end": 240
+      },
+      {
+        "text": "Mona",
+        "label": "person",
+        "start": 245,
+        "end": 249
+      }
+    ]
+  },
+  {
+    "text": "The study claimed precise CRISPR and homology-directed repair response with high accuracy and percision.",
+    "entities": []
+  },
+  {
+    "text": "The golden age of physics cabinets was the 18th century, with the rise of such lecturer-demonstrators as John Keill, John Theophilus Desaguliers, and William Whiston, who all invented new physics apparatus for their lectures.",
+    "entities": [
+      {
+        "text": "John Keill",
+        "label": "scientist",
+        "start": 105,
+        "end": 115
+      },
+      {
+        "text": "John Theophilus Desaguliers",
+        "label": "scientist",
+        "start": 117,
+        "end": 144
+      },
+      {
+        "text": "William Whiston",
+        "label": "scientist",
+        "start": 150,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "text": "He was elected a Fellow of the Royal Society in March 1827 and was awarded their Royal Medal the same year.",
+    "entities": []
+  },
+  {
+    "text": "Lysostaphin can lyse Staphylococcus, but Micrococcus bacteria are resistant to the chemical.",
+    "entities": []
+  },
+  {
+    "text": "One aspect, the idea of modelling atomic behaviour under incident electromagnetic radiation using virtual oscillators at the absorption and emission frequencies, rather than the (different) apparent frequencies of the Bohr orbits, significantly led Max Born, Werner Heisenberg and Kramers to explore mathematics that strongly inspired the subsequent development of matrix mechanics, the first form of modern quantum mechanics.",
+    "entities": [
+      {
+        "text": "Max Born",
+        "label": "scientist",
+        "start": 249,
+        "end": 257
+      },
+      {
+        "text": "Werner Heisenberg",
+        "label": "scientist",
+        "start": 259,
+        "end": 276
+      },
+      {
+        "text": "Kramers",
+        "label": "scientist",
+        "start": 281,
+        "end": 288
+      }
+    ]
+  },
+  {
+    "text": "His research in cognitive psychology has won the Early Career Award (1984) and Boyd McCandless Award (1986) from the American Psychological Association, the Troland Research Award (1993) from the National Academy of Sciences, the Henry Dale Prize (2004) from the Royal Institution of Great Britain, and the George Miller Prize (2010) from the Cognitive Neuroscience Society.",
+    "entities": [
+      {
+        "text": "American Psychological Association",
+        "label": "organisation",
+        "start": 117,
+        "end": 151
+      },
+      {
+        "text": "National Academy of Sciences",
+        "label": "organisation",
+        "start": 196,
+        "end": 224
+      },
+      {
+        "text": "Royal Institution of Great Britain",
+        "label": "organisation",
+        "start": 263,
+        "end": 297
+      },
+      {
+        "text": "Cognitive Neuroscience Society",
+        "label": "organisation",
+        "start": 343,
+        "end": 373
+      }
+    ]
+  },
+  {
+    "text": "From 1916 to 1921, he was a lecturer in the physics department of the Rajabazar Science College under University of Calcutta.",
+    "entities": [
+      {
+        "text": "physics department of the Rajabazar Science College",
+        "label": "organisation",
+        "start": 44,
+        "end": 95
+      }
+    ]
+  },
+  {
+    "text": "Libby was an elected member of the National Academy of Sciences, the American Academy of Arts and Sciences, and the American Philosophical Society.",
+    "entities": [
+      {
+        "text": "Libby",
+        "label": "scientist",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "National Academy of Sciences",
+        "label": "organisation",
+        "start": 35,
+        "end": 63
+      },
+      {
+        "text": "American Academy of Arts and Sciences",
+        "label": "organisation",
+        "start": 69,
+        "end": 106
+      },
+      {
+        "text": "American Philosophical Society",
+        "label": "organisation",
+        "start": 116,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "The 1982 Commonwealth Games in Brisbane left Tasmania off the map of Australia during the opening ceremony, as did the designs of the Australian Swim Team uniform for the 2014 Commonwealth Games.",
+    "entities": []
+  },
+  {
+    "text": "In neuron s, gambierol has been reported to induce Ca threshold for the activation of Ras superfamily.",
+    "entities": [
+      {
+        "text": "gambierol",
+        "label": "chemicalcompound",
+        "start": 13,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "A second meeting was held soon thereafter and included Klaus Clusius, Robert Döpel, Werner Heisenberg, and Carl Friedrich von Weizsäcker.",
+    "entities": [
+      {
+        "text": "Klaus Clusius",
+        "label": "scientist",
+        "start": 55,
+        "end": 68
+      },
+      {
+        "text": "Robert Döpel",
+        "label": "scientist",
+        "start": 70,
+        "end": 82
+      },
+      {
+        "text": "Werner Heisenberg",
+        "label": "scientist",
+        "start": 84,
+        "end": 101
+      },
+      {
+        "text": "Carl Friedrich von Weizsäcker",
+        "label": "scientist",
+        "start": 107,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "Nüsslein-Volhard was educated at the University of Tübingen where she earned a PhD in 1974 for research into Protein-DNA interaction s and the binding of RNA polymerase in Escherichia coli.",
+    "entities": [
+      {
+        "text": "Nüsslein-Volhard",
+        "label": "scientist",
+        "start": 0,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "These include the TRUE Blue Crew, Antipodean Resistance, the Australian Defence League, National Action (Australia), the Q Society, Reclaim Australia and the Lads Society (formerly United Patriots Front).",
+    "entities": [
+      {
+        "text": "TRUE Blue Crew",
+        "label": "organisation",
+        "start": 18,
+        "end": 32
+      },
+      {
+        "text": "Antipodean Resistance",
+        "label": "organisation",
+        "start": 34,
+        "end": 55
+      },
+      {
+        "text": "Australian Defence League",
+        "label": "organisation",
+        "start": 61,
+        "end": 86
+      },
+      {
+        "text": "National Action",
+        "label": "organisation",
+        "start": 88,
+        "end": 103
+      },
+      {
+        "text": "Q Society",
+        "label": "organisation",
+        "start": 121,
+        "end": 130
+      },
+      {
+        "text": "Reclaim Australia",
+        "label": "organisation",
+        "start": 132,
+        "end": 149
+      },
+      {
+        "text": "Lads Society",
+        "label": "organisation",
+        "start": 158,
+        "end": 170
+      },
+      {
+        "text": "United Patriots Front",
+        "label": "organisation",
+        "start": 181,
+        "end": 202
+      }
+    ]
+  },
+  {
+    "text": "Wilson won gold medals in the 800 metres at both the 2011 World Youth Championships in Athletics and the 2012 World Junior Championships in Athletics.",
+    "entities": [
+      {
+        "text": "Wilson",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  }
+]

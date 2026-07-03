@@ -1,0 +1,1986 @@
+[
+  {
+    "text": "Fine Gael (or its predecessor Cumann na nGaedheal) or Fianna Fáil have led every government since independence in 1922.",
+    "entities": [
+      {
+        "text": "Fine Gael",
+        "label": "politicalparty",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Cumann na nGaedheal",
+        "label": "politicalparty",
+        "start": 30,
+        "end": 49
+      },
+      {
+        "text": "Fianna Fáil",
+        "label": "politicalparty",
+        "start": 54,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "text": "Adam confirmed through a press conference that the film would co-star David Alan Grier, Illeana Douglas, Diane Farr, and Larry Miller.",
+    "entities": []
+  },
+  {
+    "text": "Resulting from this move was targeting by the New Democracy Party, the Popular Orthodox Rally, PASOK and the Communist Party of Greece.",
+    "entities": [
+      {
+        "text": "New Democracy Party",
+        "label": "politicalparty",
+        "start": 46,
+        "end": 65
+      },
+      {
+        "text": "Popular Orthodox Rally",
+        "label": "politicalparty",
+        "start": 71,
+        "end": 93
+      },
+      {
+        "text": "PASOK",
+        "label": "politicalparty",
+        "start": 95,
+        "end": 100
+      },
+      {
+        "text": "Communist Party of Greece",
+        "label": "politicalparty",
+        "start": 109,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "The six-part series features Richard Madden and Keeley Hawes, and includes Gina McKee, Sophie Rundle, Vincent Franklin, Pippa Haywood, Paul Ready, Tom Brooke, Nicholas Gleaves, Stuart Bowman, Stephanie Hyam, David Westhead, Matt Stokoe, Nina Toussaint-White, Ash Tandon, and Anjli Mohindra.",
+    "entities": []
+  },
+  {
+    "text": "Speakers included Michael Moore, Whoopi Goldberg, Padma Lakshmi, Amy Schumer, Laura Benanti, Amber Tamblyn, Patricia Arquette, Rosie Perez, Piper Perabo, Drew Barrymore, and singers Cyndi Lauper and Halsey",
+    "entities": []
+  },
+  {
+    "text": "Davis was the last Democrat until Jerry Brown in 2010 California gubernatorial election to carry Alpine, Del Norte, Sacramento, San Joaquin, and Santa Barbara Counties, the last until Jerry Brown in 2014 California gubernatorial election to carry Merced, Mono, San Diego, San Luis Obispo, Stanislaus, and Ventura Counties, and the last until Gavin Newsom in 2018 California gubernatorial election to carry San Bernardino County.",
+    "entities": [
+      {
+        "text": "Davis",
+        "label": "politician",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "Jerry Brown",
+        "label": "politician",
+        "start": 34,
+        "end": 45
+      },
+      {
+        "text": "2010 California gubernatorial election",
+        "label": "election",
+        "start": 49,
+        "end": 87
+      },
+      {
+        "text": "Alpine",
+        "label": "location",
+        "start": 97,
+        "end": 103
+      },
+      {
+        "text": "Del Norte",
+        "label": "location",
+        "start": 105,
+        "end": 114
+      },
+      {
+        "text": "Sacramento",
+        "label": "location",
+        "start": 116,
+        "end": 126
+      },
+      {
+        "text": "San Joaquin",
+        "label": "location",
+        "start": 128,
+        "end": 139
+      },
+      {
+        "text": "Santa Barbara Counties",
+        "label": "location",
+        "start": 145,
+        "end": 167
+      },
+      {
+        "text": "Jerry Brown",
+        "label": "location",
+        "start": 184,
+        "end": 195
+      },
+      {
+        "text": "2014 California gubernatorial election",
+        "label": "election",
+        "start": 199,
+        "end": 237
+      },
+      {
+        "text": "Merced",
+        "label": "location",
+        "start": 247,
+        "end": 253
+      },
+      {
+        "text": "Mono",
+        "label": "location",
+        "start": 255,
+        "end": 259
+      },
+      {
+        "text": "San Diego",
+        "label": "location",
+        "start": 261,
+        "end": 270
+      },
+      {
+        "text": "San Luis Obispo",
+        "label": "location",
+        "start": 272,
+        "end": 287
+      },
+      {
+        "text": "Stanislaus",
+        "label": "location",
+        "start": 289,
+        "end": 299
+      },
+      {
+        "text": "Ventura Counties",
+        "label": "location",
+        "start": 305,
+        "end": 321
+      },
+      {
+        "text": "Gavin Newsom",
+        "label": "politician",
+        "start": 342,
+        "end": 354
+      },
+      {
+        "text": "2018 California gubernatorial election",
+        "label": "election",
+        "start": 358,
+        "end": 396
+      },
+      {
+        "text": "San Bernardino County",
+        "label": "location",
+        "start": 406,
+        "end": 427
+      }
+    ]
+  },
+  {
+    "text": "The campaign was concurrent with the 2017 Western Iraq campaign, the Raqqa campaign conducted by the Syrian Democratic Forces (SDF) against Raqqa, as well as with the SDF's offensive in Deir ez-Zor province along the eastern banks of the Euphrates River.",
+    "entities": [
+      {
+        "text": "Syrian Democratic Forces",
+        "label": "organisation",
+        "start": 101,
+        "end": 125
+      },
+      {
+        "text": "SDF",
+        "label": "organisation",
+        "start": 127,
+        "end": 130
+      },
+      {
+        "text": "Raqqa",
+        "label": "location",
+        "start": 140,
+        "end": 145
+      },
+      {
+        "text": "SDF",
+        "label": "location",
+        "start": 167,
+        "end": 170
+      },
+      {
+        "text": "Euphrates River",
+        "label": "location",
+        "start": 238,
+        "end": 253
+      }
+    ]
+  },
+  {
+    "text": "Starting in 1992, he served as a member of Meretz, a dovish left wing party which resulted from the merger of Mapam, Ratz and Shinui.",
+    "entities": [
+      {
+        "text": "Meretz",
+        "label": "politicalparty",
+        "start": 43,
+        "end": 49
+      },
+      {
+        "text": "Mapam",
+        "label": "politicalparty",
+        "start": 110,
+        "end": 115
+      },
+      {
+        "text": "Ratz",
+        "label": "politicalparty",
+        "start": 117,
+        "end": 121
+      },
+      {
+        "text": "Shinui",
+        "label": "politicalparty",
+        "start": 126,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "text": "1885 boundaries were also used in the 1886 United Kingdom general election, the 1892 United Kingdom general election, the 1895 United Kingdom general election, the 1900 United Kingdom general election, the 1906 United Kingdom general election, the January 1910 United Kingdom general election and the December 1910 United Kingdom general election.",
+    "entities": [
+      {
+        "text": "1886 United Kingdom general election",
+        "label": "election",
+        "start": 38,
+        "end": 74
+      },
+      {
+        "text": "1892 United Kingdom general election",
+        "label": "election",
+        "start": 80,
+        "end": 116
+      },
+      {
+        "text": "1895 United Kingdom general election",
+        "label": "election",
+        "start": 122,
+        "end": 158
+      },
+      {
+        "text": "1900 United Kingdom general election",
+        "label": "election",
+        "start": 164,
+        "end": 200
+      },
+      {
+        "text": "1906 United Kingdom general election",
+        "label": "election",
+        "start": 206,
+        "end": 242
+      },
+      {
+        "text": "January 1910 United Kingdom general election",
+        "label": "election",
+        "start": 248,
+        "end": 292
+      },
+      {
+        "text": "December 1910 United Kingdom general election",
+        "label": "election",
+        "start": 301,
+        "end": 346
+      }
+    ]
+  },
+  {
+    "text": "She contested the seat of Burnley in Lancashire in the 1979 United Kingdom general election and then, against David Owen, the Plymouth Devonport seat in the 1983 United Kingdom general election.",
+    "entities": [
+      {
+        "text": "Burnley",
+        "label": "location",
+        "start": 26,
+        "end": 33
+      },
+      {
+        "text": "Lancashire",
+        "label": "location",
+        "start": 37,
+        "end": 47
+      },
+      {
+        "text": "1979 United Kingdom general election",
+        "label": "election",
+        "start": 55,
+        "end": 91
+      },
+      {
+        "text": "David Owen",
+        "label": "politician",
+        "start": 110,
+        "end": 120
+      },
+      {
+        "text": "Plymouth Devonport",
+        "label": "location",
+        "start": 126,
+        "end": 144
+      },
+      {
+        "text": "1983 United Kingdom general election",
+        "label": "election",
+        "start": 157,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Datong -Puzhou Campaign (同蒲战役) is a campaign Communist Party of China fought against the Kuomintang during the Chinese Civil War in the post- World War II era in Shanxi, and resulted in communist victory.",
+    "entities": [
+      {
+        "text": "Communist Party of China",
+        "label": "politicalparty",
+        "start": 45,
+        "end": 69
+      },
+      {
+        "text": "Kuomintang",
+        "label": "politicalparty",
+        "start": 89,
+        "end": 99
+      },
+      {
+        "text": "Shanxi",
+        "label": "location",
+        "start": 162,
+        "end": 168
+      }
+    ]
+  },
+  {
+    "text": "The Democratic primary campaign featured State Attorney General Robert Abrams, former U.S. Congresswoman and 1984 vice presidential candidate Geraldine Ferraro, Reverend Al Sharpton, Congressman Robert J. Mrazek, and New York City Comptroller and former Congresswoman Elizabeth Holtzman.",
+    "entities": [
+      {
+        "text": "Robert Abrams",
+        "label": "politician",
+        "start": 64,
+        "end": 77
+      },
+      {
+        "text": "Geraldine Ferraro",
+        "label": "politician",
+        "start": 142,
+        "end": 159
+      },
+      {
+        "text": "Robert J. Mrazek",
+        "label": "politician",
+        "start": 195,
+        "end": 211
+      },
+      {
+        "text": "New York City",
+        "label": "location",
+        "start": 217,
+        "end": 230
+      },
+      {
+        "text": "Elizabeth Holtzman",
+        "label": "politician",
+        "start": 268,
+        "end": 286
+      }
+    ]
+  },
+  {
+    "text": "Campbell's Progressive Conservatives and McLaughlin's New Democratic Party were decimated in 1993, both failing to reach official party status, and Lyn McLeod ' s Ontario Liberal Party lost the 1995 Ontario general election despite having more than a 10 per cent lead in the polls when the election was called.",
+    "entities": [
+      {
+        "text": "Campbell",
+        "label": "politician",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Progressive Conservatives",
+        "label": "politicalparty",
+        "start": 11,
+        "end": 36
+      },
+      {
+        "text": "McLaughlin",
+        "label": "politician",
+        "start": 41,
+        "end": 51
+      },
+      {
+        "text": "New Democratic Party",
+        "label": "politicalparty",
+        "start": 54,
+        "end": 74
+      },
+      {
+        "text": "Lyn McLeod",
+        "label": "politician",
+        "start": 148,
+        "end": 158
+      },
+      {
+        "text": "Ontario Liberal Party",
+        "label": "politicalparty",
+        "start": 163,
+        "end": 184
+      },
+      {
+        "text": "1995 Ontario general election",
+        "label": "election",
+        "start": 194,
+        "end": 223
+      }
+    ]
+  },
+  {
+    "text": "As a result, OI policy positions are often more socially left-wing than factions such as the Labour Students or Union of Jewish Students, but tend to avoid non-education policy areas prioritised by Student Left Network or Liberation Left such as economic or foreign policy.",
+    "entities": [
+      {
+        "text": "Labour Students",
+        "label": "organisation",
+        "start": 93,
+        "end": 108
+      },
+      {
+        "text": "Union of Jewish Students",
+        "label": "organisation",
+        "start": 112,
+        "end": 136
+      },
+      {
+        "text": "Student Left Network",
+        "label": "organisation",
+        "start": 198,
+        "end": 218
+      },
+      {
+        "text": "Liberation Left",
+        "label": "organisation",
+        "start": 222,
+        "end": 237
+      }
+    ]
+  },
+  {
+    "text": "He stood for the Green party in Oxford West and Abingdon in the 1992 United Kingdom general election, 1997 United Kingdom general election, and 2001 United Kingdom general election general elections.",
+    "entities": [
+      {
+        "text": "Green party",
+        "label": "politicalparty",
+        "start": 17,
+        "end": 28
+      },
+      {
+        "text": "Oxford West and Abingdon",
+        "label": "organisation",
+        "start": 32,
+        "end": 56
+      },
+      {
+        "text": "1992 United Kingdom general election",
+        "label": "election",
+        "start": 64,
+        "end": 100
+      },
+      {
+        "text": "1997 United Kingdom general election",
+        "label": "election",
+        "start": 102,
+        "end": 138
+      },
+      {
+        "text": "2001 United Kingdom general election",
+        "label": "election",
+        "start": 144,
+        "end": 180
+      }
+    ]
+  },
+  {
+    "text": "He was a trustee of the Center for Strategic and International Studies and The Forum for International Policy, and was a member of the Council on Foreign Relations and the Trilateral Commission.",
+    "entities": [
+      {
+        "text": "Center for Strategic and International Studies",
+        "label": "organisation",
+        "start": 24,
+        "end": 70
+      },
+      {
+        "text": "The Forum for International Policy",
+        "label": "organisation",
+        "start": 75,
+        "end": 109
+      },
+      {
+        "text": "Council on Foreign Relations",
+        "label": "organisation",
+        "start": 135,
+        "end": 163
+      },
+      {
+        "text": "Trilateral Commission",
+        "label": "organisation",
+        "start": 172,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Since 2008 it was part of the Sammarinese Union of Moderates together with Sammarinese Populars and stood in opposition to the 2006-2008 coalition government consisting of the Party of Socialists and Democrats, the Popular Alliance and the United Left.",
+    "entities": [
+      {
+        "text": "Sammarinese Union of Moderates",
+        "label": "politicalparty",
+        "start": 30,
+        "end": 60
+      },
+      {
+        "text": "Sammarinese Populars",
+        "label": "politicalparty",
+        "start": 75,
+        "end": 95
+      },
+      {
+        "text": "Party of Socialists and Democrats",
+        "label": "politicalparty",
+        "start": 176,
+        "end": 209
+      },
+      {
+        "text": "Popular Alliance",
+        "label": "politicalparty",
+        "start": 215,
+        "end": 231
+      },
+      {
+        "text": "United Left",
+        "label": "organisation",
+        "start": 240,
+        "end": 251
+      }
+    ]
+  },
+  {
+    "text": "He was an AKP parliamentary candidate in 2011 Turkish general election and the leader of the AKP in both the June 2015 Turkish general election and November 2015 Turkish general election general elections.",
+    "entities": [
+      {
+        "text": "AKP",
+        "label": "politicalparty",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "2011 Turkish general election",
+        "label": "election",
+        "start": 41,
+        "end": 70
+      },
+      {
+        "text": "AKP",
+        "label": "politicalparty",
+        "start": 93,
+        "end": 96
+      },
+      {
+        "text": "June 2015 Turkish general election",
+        "label": "election",
+        "start": 109,
+        "end": 143
+      },
+      {
+        "text": "November 2015 Turkish general election",
+        "label": "election",
+        "start": 148,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "text": "After the 1921 Canadian federal election, Progressive Party of Canada leader Thomas Crerar was considering a merger of his party with the Liberal Party of Canada and asked Greenfield to join him as Alberta's representative in the federal cabinet.",
+    "entities": [
+      {
+        "text": "1921 Canadian federal election",
+        "label": "election",
+        "start": 10,
+        "end": 40
+      },
+      {
+        "text": "Progressive Party of Canada",
+        "label": "politicalparty",
+        "start": 42,
+        "end": 69
+      },
+      {
+        "text": "Thomas Crerar",
+        "label": "politician",
+        "start": 77,
+        "end": 90
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 138,
+        "end": 161
+      },
+      {
+        "text": "Greenfield",
+        "label": "politician",
+        "start": 172,
+        "end": 182
+      },
+      {
+        "text": "Alberta",
+        "label": "location",
+        "start": 198,
+        "end": 205
+      }
+    ]
+  },
+  {
+    "text": "Representatives of the Kuomintang, Communist Party of China, Chinese Youth Party, and China Democratic League, as well as independent delegates, attended the conference in Chongqing.",
+    "entities": [
+      {
+        "text": "Kuomintang",
+        "label": "politicalparty",
+        "start": 23,
+        "end": 33
+      },
+      {
+        "text": "Communist Party of China",
+        "label": "politicalparty",
+        "start": 35,
+        "end": 59
+      },
+      {
+        "text": "Chinese Youth Party",
+        "label": "politicalparty",
+        "start": 61,
+        "end": 80
+      },
+      {
+        "text": "China Democratic League",
+        "label": "politicalparty",
+        "start": 86,
+        "end": 109
+      },
+      {
+        "text": "Chongqing",
+        "label": "location",
+        "start": 172,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "After narrowly losing the 1969 Australian federal election, Whitlam led Labor to victory at the 1972 election after 23 years of continuous Liberal Party of Australia - National Party of Australia Coalition Government.",
+    "entities": [
+      {
+        "text": "1969 Australian federal election",
+        "label": "election",
+        "start": 26,
+        "end": 58
+      },
+      {
+        "text": "Whitlam",
+        "label": "politician",
+        "start": 60,
+        "end": 67
+      },
+      {
+        "text": "Labor",
+        "label": "politicalparty",
+        "start": 72,
+        "end": 77
+      },
+      {
+        "text": "Liberal Party of Australia",
+        "label": "politicalparty",
+        "start": 139,
+        "end": 165
+      },
+      {
+        "text": "National Party of Australia",
+        "label": "politicalparty",
+        "start": 168,
+        "end": 195
+      }
+    ]
+  },
+  {
+    "text": "He quickly became active in the party, making two sacrificial-lamb bids for Parliament against entrenched but vulnerable New Zealand Labour Party incumbents in 1954 New Zealand general election (Mount Albert) and 1957 New Zealand general election (Waitemata).",
+    "entities": [
+      {
+        "text": "New Zealand Labour Party",
+        "label": "politicalparty",
+        "start": 121,
+        "end": 145
+      },
+      {
+        "text": "1954 New Zealand general election",
+        "label": "election",
+        "start": 160,
+        "end": 193
+      },
+      {
+        "text": "Mount Albert",
+        "label": "location",
+        "start": 195,
+        "end": 207
+      },
+      {
+        "text": "1957 New Zealand general election",
+        "label": "election",
+        "start": 213,
+        "end": 246
+      },
+      {
+        "text": "Waitemata",
+        "label": "location",
+        "start": 248,
+        "end": 257
+      }
+    ]
+  },
+  {
+    "text": "Gandhian right-wing Congressmen Vallabhbhai Patel, Rajendra Prasad and C. Rajagopalachari .In the 1930s the Congress Socialist Party group was formed within the INC under the leadership of Jayaprakash Narayan, Narendra Deo and Nehru, however, never joined the group but did act as bridge between them and Gandhi.",
+    "entities": [
+      {
+        "text": "Gandhian",
+        "label": "politician",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Vallabhbhai Patel",
+        "label": "politician",
+        "start": 32,
+        "end": 49
+      },
+      {
+        "text": "Rajendra Prasad",
+        "label": "politician",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "C. Rajagopalachari",
+        "label": "politician",
+        "start": 71,
+        "end": 89
+      },
+      {
+        "text": "Congress Socialist Party",
+        "label": "politicalparty",
+        "start": 108,
+        "end": 132
+      },
+      {
+        "text": "Jayaprakash Narayan",
+        "label": "politician",
+        "start": 189,
+        "end": 208
+      },
+      {
+        "text": "Narendra Deo",
+        "label": "politician",
+        "start": 210,
+        "end": 222
+      },
+      {
+        "text": "Nehru",
+        "label": "politician",
+        "start": 227,
+        "end": 232
+      },
+      {
+        "text": "Gandhi",
+        "label": "politician",
+        "start": 305,
+        "end": 311
+      }
+    ]
+  },
+  {
+    "text": "The series was written by Russell T Davies and directed by Stephen Frears, with Hugh Grant starring as Thorpe and Ben Whishaw as Scott.",
+    "entities": []
+  },
+  {
+    "text": "In the latest elections, which took place in 2011, Retired General Otto Pérez Molina of the Patriotic Party won the presidential election in a runoff against populist Manuel Baldizón of the LIDER party.",
+    "entities": [
+      {
+        "text": "Otto Pérez Molina",
+        "label": "politician",
+        "start": 67,
+        "end": 84
+      },
+      {
+        "text": "Patriotic Party",
+        "label": "politicalparty",
+        "start": 92,
+        "end": 107
+      },
+      {
+        "text": "Manuel Baldizón",
+        "label": "politician",
+        "start": 167,
+        "end": 182
+      },
+      {
+        "text": "LIDER party",
+        "label": "politicalparty",
+        "start": 190,
+        "end": 201
+      }
+    ]
+  },
+  {
+    "text": "On the Coalition side of politics, Pru Goward has served as a Minister in the NSW state Liberal Government, Scott Emerson and Sarah Henderson all held, or hold, positions at the ABC.",
+    "entities": [
+      {
+        "text": "Pru Goward",
+        "label": "politician",
+        "start": 35,
+        "end": 45
+      },
+      {
+        "text": "NSW state Liberal",
+        "label": "politicalparty",
+        "start": 78,
+        "end": 95
+      },
+      {
+        "text": "Scott Emerson",
+        "label": "politician",
+        "start": 108,
+        "end": 121
+      },
+      {
+        "text": "Sarah Henderson",
+        "label": "politician",
+        "start": 126,
+        "end": 141
+      },
+      {
+        "text": "ABC",
+        "label": "organisation",
+        "start": 178,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "In 1994, incumbent Democrat Ted Kennedy won re-election against businessman Mitt Romney with just 58% of the vote, the lowest percentage since his first 1962 United States Senate special election in Massachusetts.",
+    "entities": [
+      {
+        "text": "Ted Kennedy",
+        "label": "politician",
+        "start": 28,
+        "end": 39
+      },
+      {
+        "text": "Mitt Romney",
+        "label": "politician",
+        "start": 76,
+        "end": 87
+      },
+      {
+        "text": "1962 United States Senate special election in Massachusetts",
+        "label": "election",
+        "start": 153,
+        "end": 212
+      }
+    ]
+  },
+  {
+    "text": "In the 2009 Kurdistan Region parliamentary election they formed a coalition with the Kurdistan Islamic Union, the Kurdistan Socialist Democratic Party and the Future Party, called the Service and Reform List.",
+    "entities": [
+      {
+        "text": "2009 Kurdistan Region parliamentary election",
+        "label": "election",
+        "start": 7,
+        "end": 51
+      },
+      {
+        "text": "Kurdistan Islamic Union",
+        "label": "politicalparty",
+        "start": 85,
+        "end": 108
+      },
+      {
+        "text": "Kurdistan Socialist Democratic Party",
+        "label": "politicalparty",
+        "start": 114,
+        "end": 150
+      },
+      {
+        "text": "Future Party",
+        "label": "politicalparty",
+        "start": 159,
+        "end": 171
+      },
+      {
+        "text": "Service and Reform List",
+        "label": "politicalparty",
+        "start": 184,
+        "end": 207
+      }
+    ]
+  },
+  {
+    "text": "Other cast members include Radhika Apte, Girish Kulkarni, Neeraj Kabi, Jeetendra Joshi, Rajshri Deshpande, Karan Wahi, Aamir Bashir, Jatin Sarna, Elnaaz Norouzi, Pankaj Tripathi, Amey Wagh, and Kubbra Sait.",
+    "entities": []
+  },
+  {
+    "text": "years = 1924 United States presidential election (lost), 1928 United States presidential election (lost), 1932 United States presidential election (lost) |",
+    "entities": [
+      {
+        "text": "1924 United States presidential election",
+        "label": "election",
+        "start": 8,
+        "end": 48
+      },
+      {
+        "text": "1928 United States presidential election",
+        "label": "election",
+        "start": 57,
+        "end": 97
+      },
+      {
+        "text": "1932 United States presidential election",
+        "label": "election",
+        "start": 106,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "The Sunday Herald reported on 29 January Randall, who stood as Conservative candidate against Gordon Brown in Dunfermline East at the 2001 United Kingdom general election and 2005 United Kingdom general election s and fought Dunfermline East at the 2003 Scottish Parliament election, was aged only 43.",
+    "entities": [
+      {
+        "text": "The Sunday Herald",
+        "label": "organisation",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "Randall",
+        "label": "politician",
+        "start": 41,
+        "end": 48
+      },
+      {
+        "text": "Gordon Brown",
+        "label": "politician",
+        "start": 94,
+        "end": 106
+      },
+      {
+        "text": "Dunfermline East",
+        "label": "location",
+        "start": 110,
+        "end": 126
+      },
+      {
+        "text": "2001 United Kingdom general election",
+        "label": "election",
+        "start": 134,
+        "end": 170
+      },
+      {
+        "text": "2005 United Kingdom general election",
+        "label": "election",
+        "start": 175,
+        "end": 211
+      },
+      {
+        "text": "Dunfermline East",
+        "label": "location",
+        "start": 225,
+        "end": 241
+      },
+      {
+        "text": "2003 Scottish Parliament election",
+        "label": "election",
+        "start": 249,
+        "end": 282
+      }
+    ]
+  },
+  {
+    "text": "244 Among the most important are World Vision International (1950), Samaritan's Purse (1970), Mercy Ships (1978), Prison Fellowship International (1979), International Justice Mission (1997).",
+    "entities": [
+      {
+        "text": "World Vision International",
+        "label": "organisation",
+        "start": 33,
+        "end": 59
+      },
+      {
+        "text": "Samaritan's Purse",
+        "label": "organisation",
+        "start": 68,
+        "end": 85
+      },
+      {
+        "text": "Mercy Ships",
+        "label": "organisation",
+        "start": 94,
+        "end": 105
+      },
+      {
+        "text": "Prison Fellowship International",
+        "label": "organisation",
+        "start": 114,
+        "end": 145
+      },
+      {
+        "text": "International Justice Mission",
+        "label": "organisation",
+        "start": 154,
+        "end": 183
+      }
+    ]
+  },
+  {
+    "text": "The Kingdom of Hungary and the First Austrian Republic were treated as its successors de jure, whereas the independence of the West Slavs and South Slavs of the Empire as the First Czechoslovak Republic, the Second Polish Republic and the Kingdom of Yugoslavia, respectively, and most of the territorial demands of the Kingdom of Romania were also recognized by the victorious powers in 1920.",
+    "entities": []
+  },
+  {
+    "text": "In the 1979 United Kingdom general election the constituency witnessed a very close three-way fight between Peter Robinson of the Democratic Unionist Party, William Craig for the UUP and Oliver Napier for the Alliance Party of Northern Ireland.",
+    "entities": [
+      {
+        "text": "1979 United Kingdom general election",
+        "label": "election",
+        "start": 7,
+        "end": 43
+      },
+      {
+        "text": "Peter Robinson",
+        "label": "politician",
+        "start": 108,
+        "end": 122
+      },
+      {
+        "text": "Democratic Unionist Party",
+        "label": "politicalparty",
+        "start": 130,
+        "end": 155
+      },
+      {
+        "text": "William Craig",
+        "label": "politician",
+        "start": 157,
+        "end": 170
+      },
+      {
+        "text": "UUP",
+        "label": "politicalparty",
+        "start": 179,
+        "end": 182
+      },
+      {
+        "text": "Oliver Napier",
+        "label": "politician",
+        "start": 187,
+        "end": 200
+      },
+      {
+        "text": "Alliance Party of Northern Ireland",
+        "label": "politicalparty",
+        "start": 209,
+        "end": 243
+      }
+    ]
+  },
+  {
+    "text": "It is also the home of Universities at Medway, a tri-partite collaboration of the University of Greenwich, the University of Kent and Canterbury Christ Church University on a single campus in Chatham, together with the University for the Creative Arts, which has a campus in Rochester.",
+    "entities": [
+      {
+        "text": "Universities at Medway",
+        "label": "location",
+        "start": 23,
+        "end": 45
+      },
+      {
+        "text": "University of Greenwich",
+        "label": "location",
+        "start": 82,
+        "end": 105
+      },
+      {
+        "text": "University of Kent",
+        "label": "organisation",
+        "start": 111,
+        "end": 129
+      },
+      {
+        "text": "Canterbury Christ Church University",
+        "label": "organisation",
+        "start": 134,
+        "end": 169
+      },
+      {
+        "text": "University for the Creative Arts",
+        "label": "organisation",
+        "start": 219,
+        "end": 251
+      },
+      {
+        "text": "Rochester",
+        "label": "location",
+        "start": 275,
+        "end": 284
+      }
+    ]
+  },
+  {
+    "text": "St. John's East was won by Liberal Party of Canada Bonnie Hickey in 1993 Canadian federal election, who was defeated by Progressive Conservative Party of Canada Norman Doyle in the 1997 Canadian federal election.",
+    "entities": [
+      {
+        "text": "St. John's East",
+        "label": "location",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Liberal Party of Canada",
+        "label": "politicalparty",
+        "start": 27,
+        "end": 50
+      },
+      {
+        "text": "Bonnie Hickey",
+        "label": "politician",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "1993 Canadian federal election",
+        "label": "election",
+        "start": 68,
+        "end": 98
+      },
+      {
+        "text": "Progressive Conservative Party of Canada",
+        "label": "politicalparty",
+        "start": 120,
+        "end": 160
+      },
+      {
+        "text": "Norman Doyle",
+        "label": "politician",
+        "start": 161,
+        "end": 173
+      },
+      {
+        "text": "1997 Canadian federal election",
+        "label": "election",
+        "start": 181,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "Reid adopted a strategy of trying to reorient the party system along Australian Labor Party vs non-Labor lines - prior to the 1906 Australian federal election, he renamed his Free Trade Party to the Anti-Socialist Party.",
+    "entities": [
+      {
+        "text": "Reid",
+        "label": "politician",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Australian Labor Party",
+        "label": "politicalparty",
+        "start": 69,
+        "end": 91
+      },
+      {
+        "text": "1906 Australian federal election",
+        "label": "election",
+        "start": 126,
+        "end": 158
+      },
+      {
+        "text": "Free Trade Party",
+        "label": "politicalparty",
+        "start": 175,
+        "end": 191
+      },
+      {
+        "text": "Anti-Socialist Party",
+        "label": "politicalparty",
+        "start": 199,
+        "end": 219
+      }
+    ]
+  },
+  {
+    "text": "Van Susteren serves on the advisory board of the Center for Health and the Global Environment at Harvard Medical School and the grassroots advocacy group The Climate Mobilization, and is a member of the Board of Directors of the National Wildlife Federation and the Chesapeake Climate Action Network.",
+    "entities": [
+      {
+        "text": "Center for Health and the Global Environment at Harvard Medical School",
+        "label": "organisation",
+        "start": 49,
+        "end": 119
+      },
+      {
+        "text": "The Climate Mobilization",
+        "label": "organisation",
+        "start": 154,
+        "end": 178
+      },
+      {
+        "text": "National Wildlife Federation",
+        "label": "organisation",
+        "start": 229,
+        "end": 257
+      },
+      {
+        "text": "Chesapeake Climate Action Network",
+        "label": "organisation",
+        "start": 266,
+        "end": 299
+      }
+    ]
+  },
+  {
+    "text": "On the second day of the Summit, President Obama announced that the next summit meeting about this subject will be in South Korea; see 2012 Nuclear Security Summit.",
+    "entities": [
+      {
+        "text": "Obama",
+        "label": "politician",
+        "start": 43,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "text": "He ran for President of Russia in 1991 Russian presidential election, 1996 Russian presidential election (withdrawing during the campaign) and 2000 Russian presidential election, coming fourth in both 1991 and 2000.",
+    "entities": [
+      {
+        "text": "1991 Russian presidential election",
+        "label": "election",
+        "start": 34,
+        "end": 68
+      },
+      {
+        "text": "1996 Russian presidential election",
+        "label": "election",
+        "start": 70,
+        "end": 104
+      },
+      {
+        "text": "2000 Russian presidential election",
+        "label": "election",
+        "start": 143,
+        "end": 177
+      }
+    ]
+  },
+  {
+    "text": "In the United Kingdom, the Alternative Vote referendum also known as the UK-wide referendum on the Parliamentary voting system was a referendum that took place on 5 May 2011, on whether to change the system for electing the House of Commons, the lower house of the national Parliament at Westminster.",
+    "entities": [
+      {
+        "text": "House of Commons",
+        "label": "organisation",
+        "start": 224,
+        "end": 240
+      },
+      {
+        "text": "Parliament at Westminster",
+        "label": "organisation",
+        "start": 274,
+        "end": 299
+      }
+    ]
+  },
+  {
+    "text": "Throughout his political career he has been variously associated with conservative groups, including the Association of Christian Parent Controlled Schools, Salt Shakers, Focus on the Family, Lyons Forum, Endeavour Forum, Family Council of Victoria, Fatherhood Foundation, Australian Christian Lobby, Australian Family Association and Right to Life Australia.",
+    "entities": [
+      {
+        "text": "Association of Christian Parent Controlled Schools",
+        "label": "organisation",
+        "start": 105,
+        "end": 155
+      },
+      {
+        "text": "Salt Shakers",
+        "label": "organisation",
+        "start": 157,
+        "end": 169
+      },
+      {
+        "text": "Focus on the Family",
+        "label": "organisation",
+        "start": 171,
+        "end": 190
+      },
+      {
+        "text": "Lyons Forum",
+        "label": "organisation",
+        "start": 192,
+        "end": 203
+      },
+      {
+        "text": "Endeavour Forum",
+        "label": "organisation",
+        "start": 205,
+        "end": 220
+      },
+      {
+        "text": "Family Council of Victoria",
+        "label": "organisation",
+        "start": 222,
+        "end": 248
+      },
+      {
+        "text": "Fatherhood Foundation",
+        "label": "organisation",
+        "start": 250,
+        "end": 271
+      },
+      {
+        "text": "Australian Christian Lobby",
+        "label": "organisation",
+        "start": 273,
+        "end": 299
+      },
+      {
+        "text": "Australian Family Association",
+        "label": "organisation",
+        "start": 301,
+        "end": 330
+      },
+      {
+        "text": "Right to Life Australia",
+        "label": "organisation",
+        "start": 335,
+        "end": 358
+      }
+    ]
+  },
+  {
+    "text": "The EPP includes major centre-right parties such as the CDU / CSU of Germany, The Republicans of France, Christen-Democratisch en Vlaams of Belgium, PNL of Romania, Fine Gael of Ireland, Kokoomus of Finland, New Democracy of Greece, Forza Italia of Italy, the People's Party (PP) of Spain, and the Civic Platform of Poland.",
+    "entities": [
+      {
+        "text": "EPP",
+        "label": "organisation",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "CDU / CSU",
+        "label": "politicalparty",
+        "start": 56,
+        "end": 65
+      },
+      {
+        "text": "The Republicans",
+        "label": "politicalparty",
+        "start": 78,
+        "end": 93
+      },
+      {
+        "text": "Christen-Democratisch en Vlaams",
+        "label": "politicalparty",
+        "start": 105,
+        "end": 136
+      },
+      {
+        "text": "PNL",
+        "label": "politicalparty",
+        "start": 149,
+        "end": 152
+      },
+      {
+        "text": "Fine Gael",
+        "label": "politicalparty",
+        "start": 165,
+        "end": 174
+      },
+      {
+        "text": "Kokoomus",
+        "label": "politicalparty",
+        "start": 187,
+        "end": 195
+      },
+      {
+        "text": "New Democracy",
+        "label": "politicalparty",
+        "start": 208,
+        "end": 221
+      },
+      {
+        "text": "Forza Italia",
+        "label": "politicalparty",
+        "start": 233,
+        "end": 245
+      },
+      {
+        "text": "People's Party",
+        "label": "politicalparty",
+        "start": 260,
+        "end": 274
+      },
+      {
+        "text": "PP",
+        "label": "politicalparty",
+        "start": 276,
+        "end": 278
+      },
+      {
+        "text": "Civic Platform",
+        "label": "politicalparty",
+        "start": 298,
+        "end": 312
+      }
+    ]
+  },
+  {
+    "text": "On these pages Eddie Peng, Shu Qi, Joe Chen and Mark Chao, user Treysand keeps on adding English title to the filmography pages and accuses me of vandalism.",
+    "entities": []
+  },
+  {
+    "text": "East Aberdeenshire retained the same boundaries for the 1959 United Kingdom general election, the 1964 United Kingdom general election, the 1966 United Kingdom general election, the 1970 United Kingdom general election, the February 1974 United Kingdom general election and the October 1974 United Kingdom general election.",
+    "entities": [
+      {
+        "text": "East Aberdeenshire",
+        "label": "location",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "1959 United Kingdom general election",
+        "label": "election",
+        "start": 56,
+        "end": 92
+      },
+      {
+        "text": "1964 United Kingdom general election",
+        "label": "election",
+        "start": 98,
+        "end": 134
+      },
+      {
+        "text": "1966 United Kingdom general election",
+        "label": "election",
+        "start": 140,
+        "end": 176
+      },
+      {
+        "text": "1970 United Kingdom general election",
+        "label": "election",
+        "start": 182,
+        "end": 218
+      },
+      {
+        "text": "February 1974 United Kingdom general election",
+        "label": "election",
+        "start": 224,
+        "end": 269
+      },
+      {
+        "text": "October 1974 United Kingdom general election",
+        "label": "election",
+        "start": 278,
+        "end": 322
+      }
+    ]
+  },
+  {
+    "text": "Hugo Chávez, the central figure of the Venezuelan political landscape since 1998 Venezuelan presidential election as a political outsider, died in office in early 2013, and was succeeded by Nicolás Maduro, initially as interim President, before winning 2013 Venezuelan presidential election and re-election in 2018 Venezuelan presidential election.",
+    "entities": [
+      {
+        "text": "Hugo Chávez",
+        "label": "politician",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "1998 Venezuelan presidential election",
+        "label": "election",
+        "start": 76,
+        "end": 113
+      },
+      {
+        "text": "Nicolás Maduro",
+        "label": "politician",
+        "start": 190,
+        "end": 204
+      },
+      {
+        "text": "2013 Venezuelan presidential election",
+        "label": "election",
+        "start": 253,
+        "end": 290
+      },
+      {
+        "text": "2018 Venezuelan presidential election",
+        "label": "election",
+        "start": 310,
+        "end": 347
+      }
+    ]
+  },
+  {
+    "text": "Brazil's major cities began to resemble 1932-33 Berlin with its street battles between the Communist Party of Germany and the Nazi Party.",
+    "entities": [
+      {
+        "text": "Berlin",
+        "label": "location",
+        "start": 48,
+        "end": 54
+      },
+      {
+        "text": "Communist Party of Germany",
+        "label": "politicalparty",
+        "start": 91,
+        "end": 117
+      },
+      {
+        "text": "Nazi Party",
+        "label": "politicalparty",
+        "start": 126,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "text": "Political scientists see European political parties such as Ecolo and Groen in Belgium, Alliance 90 / The Greens in Germany, or the Green Progressive Accord and GroenLinks in the Netherlands as coming out of the New Left and emphasizing spontaneous self-organisation, participatory democracy, decentralization and voluntarism, being contrasted to the bureaucratic or statist approach.",
+    "entities": [
+      {
+        "text": "Ecolo",
+        "label": "politicalparty",
+        "start": 60,
+        "end": 65
+      },
+      {
+        "text": "Groen",
+        "label": "politicalparty",
+        "start": 70,
+        "end": 75
+      },
+      {
+        "text": "Alliance 90",
+        "label": "politicalparty",
+        "start": 88,
+        "end": 99
+      },
+      {
+        "text": "The Greens",
+        "label": "politicalparty",
+        "start": 102,
+        "end": 112
+      },
+      {
+        "text": "Green Progressive Accord",
+        "label": "politicalparty",
+        "start": 132,
+        "end": 156
+      },
+      {
+        "text": "GroenLinks",
+        "label": "politicalparty",
+        "start": 161,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "text": "The Greek Civil War (o Emfýlios, the Civil War) was a civil war in Greece fought between the Greek government army (supported by the United Kingdom and the United States) and the Democratic Army of Greece (DSE) - the military branch of the Communist Party of Greece (supported by Yugoslavia, Albania and Bulgaria) from 1946 to 1949.",
+    "entities": [
+      {
+        "text": "Communist Party of Greece",
+        "label": "politicalparty",
+        "start": 240,
+        "end": 265
+      }
+    ]
+  },
+  {
+    "text": "That was TRUE, for example, for Synaspismos, Renewing Communist Ecological Left, Ecosocialists of Greece and Unitary Movement.",
+    "entities": [
+      {
+        "text": "Synaspismos",
+        "label": "politicalparty",
+        "start": 32,
+        "end": 43
+      },
+      {
+        "text": "Renewing Communist Ecological Left",
+        "label": "politicalparty",
+        "start": 45,
+        "end": 79
+      },
+      {
+        "text": "Ecosocialists of Greece",
+        "label": "politicalparty",
+        "start": 81,
+        "end": 104
+      },
+      {
+        "text": "Unitary Movement",
+        "label": "politicalparty",
+        "start": 109,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "Allies of the ACLU in legal actions have included the National Association for the Advancement of Colored People, the American Jewish Congress, People For the American Way, the National Rifle Association, the Electronic Frontier Foundation, Americans United for Separation of Church and State, and the National Organization for Women.",
+    "entities": [
+      {
+        "text": "ACLU",
+        "label": "organisation",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "National Association for the Advancement of Colored People",
+        "label": "organisation",
+        "start": 54,
+        "end": 112
+      },
+      {
+        "text": "American Jewish Congress",
+        "label": "organisation",
+        "start": 118,
+        "end": 142
+      },
+      {
+        "text": "People For the American Way",
+        "label": "organisation",
+        "start": 144,
+        "end": 171
+      },
+      {
+        "text": "National Rifle Association",
+        "label": "organisation",
+        "start": 177,
+        "end": 203
+      },
+      {
+        "text": "Electronic Frontier Foundation",
+        "label": "organisation",
+        "start": 209,
+        "end": 239
+      },
+      {
+        "text": "Americans United for Separation of Church and State",
+        "label": "organisation",
+        "start": 241,
+        "end": 292
+      },
+      {
+        "text": "National Organization for Women",
+        "label": "organisation",
+        "start": 302,
+        "end": 333
+      }
+    ]
+  },
+  {
+    "text": "The main line of conflict in France during the 19th century was between monarchists (mainly Legitimists and Orléanist s, but also Bonapartism) and republicans (Radical-Socialists, Opportunist Republicans, and later socialists).",
+    "entities": [
+      {
+        "text": "Opportunist Republicans",
+        "label": "organisation",
+        "start": 180,
+        "end": 203
+      }
+    ]
+  },
+  {
+    "text": "In almost every year, Wyden has maintained a 100 percent rating or close to it with pro-choice groups: NARAL Pro-Choice America, Planned Parenthood, and National Family Planning and Reproductive Health Association, and a 0 percent rating or close to it from pro-life group: the National Right to Life Committee.",
+    "entities": [
+      {
+        "text": "NARAL Pro-Choice America",
+        "label": "organisation",
+        "start": 103,
+        "end": 127
+      },
+      {
+        "text": "Planned Parenthood",
+        "label": "organisation",
+        "start": 129,
+        "end": 147
+      },
+      {
+        "text": "National Family Planning and Reproductive Health Association",
+        "label": "organisation",
+        "start": 153,
+        "end": 213
+      },
+      {
+        "text": "National Right to Life Committee",
+        "label": "organisation",
+        "start": 278,
+        "end": 310
+      }
+    ]
+  },
+  {
+    "text": "Following the 2014 European Parliament election in Germany, both governing parties in Germany - the Christian Democratic Union of Germany (CDU) and the Social Democratic Party (SPD) - backed Oettinger to remain as the German EU Commissioner in the incoming European Commission.",
+    "entities": [
+      {
+        "text": "2014 European Parliament election in Germany",
+        "label": "election",
+        "start": 14,
+        "end": 58
+      },
+      {
+        "text": "Christian Democratic Union of Germany",
+        "label": "politicalparty",
+        "start": 100,
+        "end": 137
+      },
+      {
+        "text": "CDU",
+        "label": "politicalparty",
+        "start": 139,
+        "end": 142
+      },
+      {
+        "text": "Social Democratic Party",
+        "label": "politicalparty",
+        "start": 152,
+        "end": 175
+      },
+      {
+        "text": "SPD",
+        "label": "politicalparty",
+        "start": 177,
+        "end": 180
+      },
+      {
+        "text": "EU",
+        "label": "organisation",
+        "start": 225,
+        "end": 227
+      }
+    ]
+  },
+  {
+    "text": "And in 2011, Retired General Otto Pérez Molina of the Patriotic Party won the presidential election in a runoff against populist Manuel Baldizón of the LIDER party.",
+    "entities": [
+      {
+        "text": "Otto Pérez Molina",
+        "label": "politician",
+        "start": 29,
+        "end": 46
+      },
+      {
+        "text": "Patriotic Party",
+        "label": "politicalparty",
+        "start": 54,
+        "end": 69
+      },
+      {
+        "text": "Manuel Baldizón",
+        "label": "politician",
+        "start": 129,
+        "end": 144
+      },
+      {
+        "text": "LIDER party",
+        "label": "politicalparty",
+        "start": 152,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "Prior to embarking on his political career, Tharoor also served on the board of overseers of the Fletcher School of Law and Diplomacy, the board of trustees of the Aspen Institute, and the advisory boards of the Indo-American Arts Council, the American India Foundation, the World Policy Journal, the Virtue Foundation, and the human rights organisation Breakthrough.",
+    "entities": [
+      {
+        "text": "Tharoor",
+        "label": "politician",
+        "start": 44,
+        "end": 51
+      },
+      {
+        "text": "Fletcher School of Law and Diplomacy",
+        "label": "location",
+        "start": 97,
+        "end": 133
+      },
+      {
+        "text": "Aspen Institute",
+        "label": "organisation",
+        "start": 164,
+        "end": 179
+      },
+      {
+        "text": "Indo-American Arts Council",
+        "label": "organisation",
+        "start": 212,
+        "end": 238
+      },
+      {
+        "text": "American India Foundation",
+        "label": "organisation",
+        "start": 244,
+        "end": 269
+      },
+      {
+        "text": "World Policy Journal",
+        "label": "organisation",
+        "start": 275,
+        "end": 295
+      },
+      {
+        "text": "Virtue Foundation",
+        "label": "organisation",
+        "start": 301,
+        "end": 318
+      }
+    ]
+  },
+  {
+    "text": "On February 23, 1945, La Pasionaria left Moscow on a trip to Tehran, Baghdad and Cairo.",
+    "entities": [
+      {
+        "text": "La Pasionaria",
+        "label": "politician",
+        "start": 22,
+        "end": 35
+      },
+      {
+        "text": "Moscow",
+        "label": "location",
+        "start": 41,
+        "end": 47
+      },
+      {
+        "text": "Tehran",
+        "label": "location",
+        "start": 61,
+        "end": 67
+      },
+      {
+        "text": "Baghdad",
+        "label": "location",
+        "start": 69,
+        "end": 76
+      },
+      {
+        "text": "Cairo",
+        "label": "location",
+        "start": 81,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "text": "The Imperial Court in Kyoto was the nominal ruling government of Japan from 794 AD until the Meiji period (1868-1912), after which the court was moved from Kyoto (formerly Heian-kyō) to Tokyo (formerly Edo) and integrated into the Meiji government.",
+    "entities": [
+      {
+        "text": "Imperial Court",
+        "label": "location",
+        "start": 4,
+        "end": 18
+      },
+      {
+        "text": "Kyoto",
+        "label": "location",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "Kyoto",
+        "label": "location",
+        "start": 156,
+        "end": 161
+      },
+      {
+        "text": "Heian-kyō",
+        "label": "location",
+        "start": 172,
+        "end": 181
+      },
+      {
+        "text": "Tokyo",
+        "label": "location",
+        "start": 186,
+        "end": 191
+      },
+      {
+        "text": "Edo",
+        "label": "location",
+        "start": 202,
+        "end": 205
+      }
+    ]
+  },
+  {
+    "text": "The on July 28, 1945, was part of the strategic bombing campaign waged by the United States against military and civilian targets and population centers during the Japan home islands campaign in the closing stages of World War II.",
+    "entities": []
+  },
+  {
+    "text": "In the negotiations to form a coalition government with the Christian Democrats - both the Christian Democratic Union of Germany (CDU) and the Christian Social Union in Bavaria (CSU) - and the Free Democratic Party (FDP) following the 2017 German federal election, Bütikofer is currently part of the 14-member delegation of the Green Party.",
+    "entities": [
+      {
+        "text": "Christian Democratic Union of Germany",
+        "label": "politicalparty",
+        "start": 91,
+        "end": 128
+      },
+      {
+        "text": "CDU",
+        "label": "politicalparty",
+        "start": 130,
+        "end": 133
+      },
+      {
+        "text": "Christian Social Union in Bavaria",
+        "label": "politicalparty",
+        "start": 143,
+        "end": 176
+      },
+      {
+        "text": "CSU",
+        "label": "politicalparty",
+        "start": 178,
+        "end": 181
+      },
+      {
+        "text": "Free Democratic Party",
+        "label": "politicalparty",
+        "start": 193,
+        "end": 214
+      },
+      {
+        "text": "FDP",
+        "label": "politicalparty",
+        "start": 216,
+        "end": 219
+      },
+      {
+        "text": "2017 German federal election",
+        "label": "election",
+        "start": 235,
+        "end": 263
+      },
+      {
+        "text": "Bütikofer",
+        "label": "politician",
+        "start": 265,
+        "end": 274
+      },
+      {
+        "text": "Green Party",
+        "label": "politicalparty",
+        "start": 328,
+        "end": 339
+      }
+    ]
+  }
+]

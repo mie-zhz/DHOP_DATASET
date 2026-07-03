@@ -1,0 +1,901 @@
+[
+  {
+    "text": "For her dancing goddesses number, animated in early 2018, Paley chose a song from the 1976 film ``Car Wash ``: ``You Got ta Believe ``, written by Norman Whitfield and performed by the Pointer Sisters, using Rose Royce as the backing band.",
+    "entities": [
+      {
+        "text": "Car Wash",
+        "label": "art",
+        "start": 98,
+        "end": 106
+      },
+      {
+        "text": "Norman Whitfield",
+        "label": "person",
+        "start": 147,
+        "end": 163
+      },
+      {
+        "text": "Pointer Sisters",
+        "label": "person",
+        "start": 185,
+        "end": 200
+      },
+      {
+        "text": "Rose Royce",
+        "label": "person",
+        "start": 208,
+        "end": 218
+      }
+    ]
+  },
+  {
+    "text": "``I Know Where I 've Been ``from the musical ``Hairspray ``is sung by Newell with Jones and a transgender choir.",
+    "entities": [
+      {
+        "text": "Hairspray",
+        "label": "art",
+        "start": 47,
+        "end": 56
+      },
+      {
+        "text": "Newell",
+        "label": "person",
+        "start": 70,
+        "end": 76
+      },
+      {
+        "text": "Jones",
+        "label": "person",
+        "start": 82,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "text": "He accompanied Hardayal on a speaking tour to Portland in 1914 and wrote a book for the Ghadar Party called ``Tarikh-I-Hind ``.",
+    "entities": [
+      {
+        "text": "Portland",
+        "label": "location",
+        "start": 46,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "In the following years, other memorials intended to benefit children were created, including Camp Riley for youth with disabilities.",
+    "entities": []
+  },
+  {
+    "text": "The reactors were supplied by NNC, the turbines and boilers by NEI.",
+    "entities": [
+      {
+        "text": "NNC",
+        "label": "organization",
+        "start": 30,
+        "end": 33
+      },
+      {
+        "text": "NEI",
+        "label": "organization",
+        "start": 63,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "MONA FOMA was established in 2008 by the Museum of Old and New Art, Ritchie and the Salamanca Arts Centre.",
+    "entities": [
+      {
+        "text": "Ritchie",
+        "label": "person",
+        "start": 68,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "The speakers themselves call the language ``Ñatho ``.",
+    "entities": []
+  },
+  {
+    "text": "The tournament was classified as a Tier II event on the 2007 WTA Tour.",
+    "entities": [
+      {
+        "text": "WTA Tour",
+        "label": "organization",
+        "start": 61,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "Attached to the division was the 15/2nd Foot Artillery company and the 23rd Chasseurs à Cheval, four squadrons strong.",
+    "entities": [
+      {
+        "text": "15/2nd Foot Artillery",
+        "label": "organization",
+        "start": 33,
+        "end": 54
+      },
+      {
+        "text": "23rd Chasseurs à Cheval",
+        "label": "organization",
+        "start": 71,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "text": "Sela won each of his singles matches in 5 sets, coming from behind to defeat Andreas Vinciguerra in his hometown and came from behind to stun 2002 Australian Open champion Thomas Johansson.",
+    "entities": [
+      {
+        "text": "Sela",
+        "label": "person",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Andreas Vinciguerra",
+        "label": "person",
+        "start": 77,
+        "end": 96
+      },
+      {
+        "text": "Thomas Johansson",
+        "label": "person",
+        "start": 172,
+        "end": 188
+      }
+    ]
+  },
+  {
+    "text": "won the tournament and earned the Atlantic Coast Conference's automatic bid to the 1998 NCAA Division I Baseball Tournament.",
+    "entities": [
+      {
+        "text": "Atlantic Coast Conference",
+        "label": "organization",
+        "start": 34,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "text": "Many ornamental carvings in Korčula and elsewhere are attributed to Marko Andrijić.",
+    "entities": [
+      {
+        "text": "Korčula",
+        "label": "location",
+        "start": 28,
+        "end": 35
+      },
+      {
+        "text": "Marko Andrijić",
+        "label": "person",
+        "start": 68,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "Circuit Court of Appeals ruled that Elián was too young to file for asylum; only his father could speak for him, and the relatives lacked legal standing.",
+    "entities": [
+      {
+        "text": "Elián",
+        "label": "person",
+        "start": 36,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "text": "Marines were withdrawn in 1971, and returned briefly in 1975 to evacuate Saigon and attempt a rescue of the crew of the SS ``Mayaguez ``.",
+    "entities": [
+      {
+        "text": "Saigon",
+        "label": "location",
+        "start": 73,
+        "end": 79
+      },
+      {
+        "text": "SS",
+        "label": "organization",
+        "start": 120,
+        "end": 122
+      },
+      {
+        "text": "Mayaguez",
+        "label": "product",
+        "start": 125,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "On 14 February 2001 Euroceltic began operating its first flights, from Waterford Airport in Ireland, to Liverpool Airport and London Luton in England.",
+    "entities": [
+      {
+        "text": "Euroceltic",
+        "label": "organization",
+        "start": 20,
+        "end": 30
+      },
+      {
+        "text": "Ireland",
+        "label": "location",
+        "start": 92,
+        "end": 99
+      },
+      {
+        "text": "London Luton",
+        "label": "location",
+        "start": 126,
+        "end": 138
+      },
+      {
+        "text": "England",
+        "label": "location",
+        "start": 142,
+        "end": 149
+      }
+    ]
+  },
+  {
+    "text": "``Bluebird ``, by Maurice Maeterlinck, in a new adaptation by EgoPo Productions, featuring live orchestration by Orchestra 2001",
+    "entities": [
+      {
+        "text": "Maurice Maeterlinck",
+        "label": "person",
+        "start": 18,
+        "end": 37
+      },
+      {
+        "text": "EgoPo Productions",
+        "label": "organization",
+        "start": 62,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "text": "Jianxi District established in July 1955, locate the west of Jian River and Xigong District is east by the Jian River.",
+    "entities": [
+      {
+        "text": "Jianxi District",
+        "label": "location",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Xigong District",
+        "label": "location",
+        "start": 76,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "He worked as a lawyer in Formosa.",
+    "entities": [
+      {
+        "text": "Formosa",
+        "label": "location",
+        "start": 25,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "There was fear of German sabotage, especially in the aftermath of the Black Tom explosion in 1916.",
+    "entities": [
+      {
+        "text": "German",
+        "label": "location",
+        "start": 18,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "He is the head men's basketball coach at Houston Baptist Universit y in Houston, Texas.",
+    "entities": [
+      {
+        "text": "Houston Baptist Universit",
+        "label": "organization",
+        "start": 41,
+        "end": 66
+      },
+      {
+        "text": "Houston",
+        "label": "location",
+        "start": 72,
+        "end": 79
+      },
+      {
+        "text": "Texas",
+        "label": "location",
+        "start": 81,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "text": "So all power stations under CLP Power burn ULSD instead of higher sulfur alternatives now.",
+    "entities": [
+      {
+        "text": "ULSD",
+        "label": "product",
+        "start": 43,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "text": "In 1444, the County of Veldenz met its end when Count Friedrich III of Veldenz died without a male heir.",
+    "entities": [
+      {
+        "text": "County of Veldenz",
+        "label": "location",
+        "start": 13,
+        "end": 30
+      },
+      {
+        "text": "Friedrich III of Veldenz",
+        "label": "person",
+        "start": 54,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "Gastón Gaudio was the defending singles champion of the Torneo Godó men's tennis tournament, but lost in the quarterfinals this year.",
+    "entities": [
+      {
+        "text": "Gastón Gaudio",
+        "label": "person",
+        "start": 0,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "Loaiza (2004) cites their great-grandson, who tells of how their Conservative enemies tracked the couple to Pijao, where they had built a house and farm.",
+    "entities": [
+      {
+        "text": "Pijao",
+        "label": "location",
+        "start": 108,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "Although Pongala festival is celebrated on a large scale mainly in the Attukal Temple, other temples where Pongala Samarpanam (though on a significantly smaller scale) is done are the Mankulam Parasakthi Devi Temple, Vellayani Devi Temple, Kovilvila Bhagavati Temple, Karikkakom Devi Temple, Puthiyakavu Bhagavathi Temple, Kanakathur Sree Kurumbakkavu Temple, Pulpally Seetha Devi Temple, Palakunnu Bhagavathi Temple, Mulluthara Devi Temple, Chakkulathukavu Temple, Anikkattilammakshethram and Thazhoor Bhagavathy Kshetram in Kerala.",
+    "entities": [
+      {
+        "text": "Kerala",
+        "label": "location",
+        "start": 526,
+        "end": 532
+      }
+    ]
+  },
+  {
+    "text": "Ojo Amos Olatunde (born 14 February 1963), is a Nigerian architect and the current clerk to the National Assembly of Nigeria since 30 September 2020, he previously served as the acting clerk from 17 July 2020 when he replaced Mohammed Sani-Omolori.",
+    "entities": [
+      {
+        "text": "Ojo Amos Olatunde",
+        "label": "person",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "Nigerian",
+        "label": "location",
+        "start": 48,
+        "end": 56
+      },
+      {
+        "text": "Mohammed Sani-Omolori",
+        "label": "person",
+        "start": 226,
+        "end": 247
+      }
+    ]
+  },
+  {
+    "text": "The club and course was lost in 1957 when Aberthaw Power Station was built on the site.",
+    "entities": []
+  },
+  {
+    "text": "The minority became the Marxist-Leninist Communist Party of Greece (M-L KKE).",
+    "entities": [
+      {
+        "text": "Marxist-Leninist Communist Party of Greece",
+        "label": "organization",
+        "start": 24,
+        "end": 66
+      },
+      {
+        "text": "M-L KKE",
+        "label": "organization",
+        "start": 68,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "The victory at Białystok–Minsk was the first of two major encirclements for Army Group Centre.",
+    "entities": [
+      {
+        "text": "Białystok–Minsk",
+        "label": "location",
+        "start": 15,
+        "end": 30
+      },
+      {
+        "text": "Army Group Centre",
+        "label": "organization",
+        "start": 76,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "text": "On December 10, the regiment was detached to the Duck River to build fortifications.",
+    "entities": [
+      {
+        "text": "the Duck River",
+        "label": "location",
+        "start": 45,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "text": "The museum includes a room dedicated to the works of Camille Claudel and one of the two castings of ``The Mature Age ``.",
+    "entities": [
+      {
+        "text": "Camille Claudel",
+        "label": "person",
+        "start": 53,
+        "end": 68
+      },
+      {
+        "text": "The Mature Age",
+        "label": "art",
+        "start": 102,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "text": "Jablonec () is a village and municipality in western Slovakia in Pezinok District in the Bratislava region.",
+    "entities": [
+      {
+        "text": "Jablonec",
+        "label": "location",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Slovakia",
+        "label": "location",
+        "start": 53,
+        "end": 61
+      },
+      {
+        "text": "Pezinok",
+        "label": "location",
+        "start": 65,
+        "end": 72
+      },
+      {
+        "text": "Bratislava",
+        "label": "location",
+        "start": 89,
+        "end": 99
+      }
+    ]
+  },
+  {
+    "text": "It consists of 10 to 14 tuned metal bars suspended over a tuned resonator of bamboo or metal, which are tapped with a mallet made of wooden disks (Bali) or a padded wooden disk (Java).",
+    "entities": [
+      {
+        "text": "Bali",
+        "label": "product",
+        "start": 147,
+        "end": 151
+      },
+      {
+        "text": "Java",
+        "label": "product",
+        "start": 178,
+        "end": 182
+      }
+    ]
+  },
+  {
+    "text": "System area networks (SAN) are high-performance, connection-oriented networks that link computer clusters.",
+    "entities": [
+      {
+        "text": "System area networks",
+        "label": "product",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "SAN",
+        "label": "product",
+        "start": 22,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "text": "Some reports indicate that they merged with Hezbollah afterwards, with their leader Imad Mughniyah appointed head of that party's overseas security apparatus.",
+    "entities": [
+      {
+        "text": "Imad Mughniyah",
+        "label": "person",
+        "start": 84,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "text": "The proceedings of the election of Pius II were the basis of the 2006 film ``The Conclave ``.",
+    "entities": [
+      {
+        "text": "Pius II",
+        "label": "person",
+        "start": 35,
+        "end": 42
+      },
+      {
+        "text": "The Conclave",
+        "label": "art",
+        "start": 77,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "text": "However, when the French arrived, they were fired on and there was a rush to hang out white flags on the barbed wire.",
+    "entities": [
+      {
+        "text": "French",
+        "label": "location",
+        "start": 18,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "The Mayor led Galway Corporation from 1485 to 1841 and again from 1937 to 2001.",
+    "entities": [
+      {
+        "text": "Galway Corporation",
+        "label": "organization",
+        "start": 14,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "His only main draw appearance as a singles player came at the 1994 Tel Aviv Open, where he made it through qualifying, before losing to Andrei Cherkasov in the first round.",
+    "entities": [
+      {
+        "text": "Andrei Cherkasov",
+        "label": "person",
+        "start": 136,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "text": "In May 2018, Hulu finalized a deal with Josh Schwartz and Stephanie Savage, and proceeded to order an eight-episode limited series based on the book.",
+    "entities": [
+      {
+        "text": "Hulu",
+        "label": "person",
+        "start": 13,
+        "end": 17
+      },
+      {
+        "text": "Josh Schwartz",
+        "label": "person",
+        "start": 40,
+        "end": 53
+      },
+      {
+        "text": "Stephanie Savage",
+        "label": "person",
+        "start": 58,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "text": "Ferries had operated from Newport to the south shore of Yaquina Bay since 1866.",
+    "entities": [
+      {
+        "text": "Newport",
+        "label": "location",
+        "start": 26,
+        "end": 33
+      },
+      {
+        "text": "Yaquina Bay",
+        "label": "location",
+        "start": 56,
+        "end": 67
+      }
+    ]
+  },
+  {
+    "text": "Bullfights are held every day during the festivities of San Isidro (Madrid's patron saint) from mid May to early June, and every Sunday, and public holiday, the rest of the season.",
+    "entities": []
+  },
+  {
+    "text": "It was the lowest-mass extrasolar planet apart from the pulsar planets orbiting PSR B1257+12 at the time of its discovery.",
+    "entities": []
+  },
+  {
+    "text": "She also portrayed the eponymous character on The CW series ``Significant Mother ``, and co-starred in ``Anger Management ``with Adam Sandler and in George Clooney's directorial Confessions of a Dangerous Mind with Sam Rockwell.",
+    "entities": [
+      {
+        "text": "Significant Mother",
+        "label": "art",
+        "start": 62,
+        "end": 80
+      },
+      {
+        "text": "Anger Management",
+        "label": "art",
+        "start": 105,
+        "end": 121
+      },
+      {
+        "text": "George Clooney",
+        "label": "person",
+        "start": 149,
+        "end": 163
+      },
+      {
+        "text": "Confessions of a Dangerous Mind",
+        "label": "art",
+        "start": 178,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "Bar Kokhba Revolt coinage were coins issued by the Judaean rebel state, headed by Simon Bar Kokhba, during the Bar Kokhba revolt against the Roman Empire of 132-135 CE.",
+    "entities": [
+      {
+        "text": "Roman",
+        "label": "location",
+        "start": 141,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "As of 2015, Mesa's United Express operations consisted of Embraer 175 flying out of the Houston hub and CRJ-700 flying out of the Washington Dulles hub.",
+    "entities": [
+      {
+        "text": "Mesa's United Express",
+        "label": "organization",
+        "start": 12,
+        "end": 33
+      },
+      {
+        "text": "Embraer 175",
+        "label": "product",
+        "start": 58,
+        "end": 69
+      },
+      {
+        "text": "Houston",
+        "label": "organization",
+        "start": 88,
+        "end": 95
+      },
+      {
+        "text": "CRJ-700",
+        "label": "product",
+        "start": 104,
+        "end": 111
+      },
+      {
+        "text": "Washington Dulles hub",
+        "label": "location",
+        "start": 130,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "The September 11 attacks also weakened Varig ’ s operational and financial situation.",
+    "entities": [
+      {
+        "text": "Varig",
+        "label": "organization",
+        "start": 39,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "``I ``(Tamil) grossed MYR 2,162,742 in Malaysia in first weekend.",
+    "entities": [
+      {
+        "text": "I",
+        "label": "art",
+        "start": 2,
+        "end": 3
+      },
+      {
+        "text": "Malaysia",
+        "label": "location",
+        "start": 39,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "text": "He was also governor of Egypt for a brief period of time.",
+    "entities": [
+      {
+        "text": "Egypt",
+        "label": "location",
+        "start": 24,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "The renamed Warner Music Group acquired Erato Records in 1992.",
+    "entities": [
+      {
+        "text": "Warner Music Group",
+        "label": "organization",
+        "start": 12,
+        "end": 30
+      },
+      {
+        "text": "Erato Records",
+        "label": "organization",
+        "start": 40,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "text": "Princess Victoria Royale was the eldest daughter of Queen Victoria.",
+    "entities": [
+      {
+        "text": "Victoria Royale",
+        "label": "person",
+        "start": 9,
+        "end": 24
+      },
+      {
+        "text": "Victoria",
+        "label": "person",
+        "start": 58,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "It was assumed that the guerrillas were in an unfavourable psychological situation and, despite assuming insufficient information about the guerrilla's defensive capacity, the Commander-in-Chief, General Louro de Sousa, believed that it should not to oppose the landing and occupation of the islands.",
+    "entities": [
+      {
+        "text": "Louro de Sousa",
+        "label": "person",
+        "start": 204,
+        "end": 218
+      }
+    ]
+  },
+  {
+    "text": "His reports concluded that Penicillin in this context, should be used early in the treatment of infected wound rather than at the later stage of chronic suppuration.",
+    "entities": []
+  },
+  {
+    "text": "Shanklin railway station is the terminus of the Island Line from Ryde, opened on 23 August 1864.",
+    "entities": [
+      {
+        "text": "Ryde",
+        "label": "location",
+        "start": 65,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "This led to the foundation by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "entities": [
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "label": "organization",
+        "start": 79,
+        "end": 122
+      }
+    ]
+  },
+  {
+    "text": "The Chambealic varieties are often considered separate languages, but at least some are 90–95% intelligible with Mandeali proper.",
+    "entities": []
+  },
+  {
+    "text": "He successfully reaches the Ashok Vatika, where he imparts Ram's message to a distraught Sita.",
+    "entities": [
+      {
+        "text": "Ashok Vatika",
+        "label": "location",
+        "start": 28,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "The Patriots own Gillette Stadium, the Red Sox own Fenway Park, and TD Garden is owned by Delaware North, owner of the Bruins.",
+    "entities": [
+      {
+        "text": "The Patriots",
+        "label": "organization",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "the Red Sox",
+        "label": "organization",
+        "start": 35,
+        "end": 46
+      },
+      {
+        "text": "Delaware North",
+        "label": "organization",
+        "start": 90,
+        "end": 104
+      },
+      {
+        "text": "the Bruins",
+        "label": "organization",
+        "start": 115,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "Special Branch suspected a political element to the crime based on Salnish's involvement, but as both Helfeld and Lepidus died during the chase, the motivation for the crime was never established.",
+    "entities": [
+      {
+        "text": "Salnish",
+        "label": "person",
+        "start": 67,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "text": "The Eastern Alps is separated from the Western Alps by a line from Lake Constance to Lake Como along the Alpine Rhine valley and via the Splügen Pass.",
+    "entities": [
+      {
+        "text": "Eastern Alps",
+        "label": "location",
+        "start": 4,
+        "end": 16
+      },
+      {
+        "text": "Western Alps",
+        "label": "location",
+        "start": 39,
+        "end": 51
+      }
+    ]
+  }
+]

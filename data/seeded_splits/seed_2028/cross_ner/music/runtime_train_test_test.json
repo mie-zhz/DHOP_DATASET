@@ -1,0 +1,2788 @@
+[
+  {
+    "text": "Deep Purple and Whitesnake ' s David Coverdale, Samson ' s Nicky Moore and Lone Star ' s John Sloman were all considered and Iommi states in his autobiography that Michael Bolton auditioned.",
+    "entities": [
+      {
+        "text": "Deep Purple",
+        "label": "band",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Whitesnake",
+        "label": "band",
+        "start": 16,
+        "end": 26
+      },
+      {
+        "text": "David Coverdale",
+        "label": "musicalartist",
+        "start": 31,
+        "end": 46
+      },
+      {
+        "text": "Samson",
+        "label": "band",
+        "start": 48,
+        "end": 54
+      },
+      {
+        "text": "Nicky Moore",
+        "label": "musicalartist",
+        "start": 59,
+        "end": 70
+      },
+      {
+        "text": "Lone Star",
+        "label": "band",
+        "start": 75,
+        "end": 84
+      },
+      {
+        "text": "John Sloman",
+        "label": "musicalartist",
+        "start": 89,
+        "end": 100
+      },
+      {
+        "text": "Iommi",
+        "label": "musicalartist",
+        "start": 125,
+        "end": 130
+      },
+      {
+        "text": "Michael Bolton",
+        "label": "musicalartist",
+        "start": 164,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "One of the main differences between American and European pop is that Europop is generally more Dance music and Trance music oriented.",
+    "entities": [
+      {
+        "text": "pop",
+        "label": "musicgenre",
+        "start": 58,
+        "end": 61
+      },
+      {
+        "text": "Europop",
+        "label": "musicgenre",
+        "start": 70,
+        "end": 77
+      },
+      {
+        "text": "Dance music",
+        "label": "musicgenre",
+        "start": 96,
+        "end": 107
+      },
+      {
+        "text": "Trance music",
+        "label": "musicgenre",
+        "start": 112,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "The Police won a number of music awards, including six Grammy Award s, two Brit Awards - winning Best British Group once, an MTV Video Music Award, and in 2003 were inducted into the Rock and Roll Hall of Fame .. Rolling Stone.",
+    "entities": [
+      {
+        "text": "The Police",
+        "label": "band",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Grammy Award",
+        "label": "award",
+        "start": 55,
+        "end": 67
+      },
+      {
+        "text": "Brit Awards",
+        "label": "award",
+        "start": 75,
+        "end": 86
+      },
+      {
+        "text": "Best British Group",
+        "label": "award",
+        "start": 97,
+        "end": 115
+      },
+      {
+        "text": "MTV Video Music Award",
+        "label": "award",
+        "start": 125,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "Chicago blues is influenced to a large extent by the Delta blues style, because many performers had migrated from the Mississippi region.",
+    "entities": [
+      {
+        "text": "Chicago blues",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Delta blues",
+        "label": "musicgenre",
+        "start": 53,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "text": "In the early 1990s, the rise of melodic death metal was recognized, with Swedish bands such as Dark Tranquillity, At the Gates, and In Flames.",
+    "entities": [
+      {
+        "text": "melodic death metal",
+        "label": "musicgenre",
+        "start": 32,
+        "end": 51
+      },
+      {
+        "text": "Dark Tranquillity",
+        "label": "band",
+        "start": 95,
+        "end": 112
+      },
+      {
+        "text": "At the Gates",
+        "label": "band",
+        "start": 114,
+        "end": 126
+      },
+      {
+        "text": "In Flames",
+        "label": "band",
+        "start": 132,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "Funk drumming creates a groove by emphasizing the drummer's feel and emotion, which including occasional tempo fluctuations, the use of Swing music feel in some songs (e.g., Cissy Strut by The Meters and I 'll Take You There by The Staple Singers, which have a half-swung feel), and less use of fills (as they can lessen the groove).",
+    "entities": [
+      {
+        "text": "Swing music",
+        "label": "musicgenre",
+        "start": 136,
+        "end": 147
+      },
+      {
+        "text": "The Meters",
+        "label": "band",
+        "start": 189,
+        "end": 199
+      },
+      {
+        "text": "The Staple Singers",
+        "label": "band",
+        "start": 228,
+        "end": 246
+      }
+    ]
+  },
+  {
+    "text": "New York's rock scene includes clubs such as Irving Plaza, while the city's avant-garde downtown scene includes The Kitchen, Roulette, and Knitting Factory.",
+    "entities": [
+      {
+        "text": "rock",
+        "label": "musicgenre",
+        "start": 11,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "The album entered the UK Albums Chart at number one and has been certified platinum by the British Phonographic Industry (BPI) and gold by the Recording Industry Association of America (RIAA).",
+    "entities": []
+  },
+  {
+    "text": "After releasing four albums, Crowded House, Temple of Low Men, Woodface, and Together Alone, the group broke up in 1996, and followed this action by releasing a greatest hits album Recurring Dream.",
+    "entities": [
+      {
+        "text": "Crowded House",
+        "label": "album",
+        "start": 29,
+        "end": 42
+      },
+      {
+        "text": "Temple of Low Men",
+        "label": "album",
+        "start": 44,
+        "end": 61
+      },
+      {
+        "text": "Woodface",
+        "label": "album",
+        "start": 63,
+        "end": 71
+      },
+      {
+        "text": "Together Alone",
+        "label": "album",
+        "start": 77,
+        "end": 91
+      },
+      {
+        "text": "Recurring Dream",
+        "label": "album",
+        "start": 181,
+        "end": 196
+      }
+    ]
+  },
+  {
+    "text": "Under the current voting system, in place since 2016, the highest-scoring winner is Salvador Sobral of Portugal who won the Eurovision Song Contest 2017 in Kiev, Ukraine, with 758 points; under the previous system, the highest-scoring winner was Alexander Rybak of Norway with 387 points in Eurovision Song Contest 2009.",
+    "entities": [
+      {
+        "text": "Salvador Sobral",
+        "label": "musicalartist",
+        "start": 84,
+        "end": 99
+      },
+      {
+        "text": "Alexander Rybak",
+        "label": "musicalartist",
+        "start": 246,
+        "end": 261
+      }
+    ]
+  },
+  {
+    "text": "House of Pain abruptly broke up in 1996 after the release of their third album, Truth Crushed to Earth Shall Rise Again, which featured guest appearances by rappers Sadat X of Brand Nubian, Guru of Gang Starr, Divine Styler and Cokni O 'Dire of the Scheme Team.",
+    "entities": [
+      {
+        "text": "House of Pain",
+        "label": "band",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Truth Crushed to Earth Shall Rise Again",
+        "label": "album",
+        "start": 80,
+        "end": 119
+      },
+      {
+        "text": "Sadat X",
+        "label": "musicalartist",
+        "start": 165,
+        "end": 172
+      },
+      {
+        "text": "Brand Nubian",
+        "label": "band",
+        "start": 176,
+        "end": 188
+      },
+      {
+        "text": "Guru",
+        "label": "musicalartist",
+        "start": 190,
+        "end": 194
+      },
+      {
+        "text": "Gang Starr",
+        "label": "band",
+        "start": 198,
+        "end": 208
+      },
+      {
+        "text": "Divine Styler",
+        "label": "musicalartist",
+        "start": 210,
+        "end": 223
+      },
+      {
+        "text": "Cokni O 'Dire",
+        "label": "musicalartist",
+        "start": 228,
+        "end": 241
+      },
+      {
+        "text": "Scheme Team",
+        "label": "band",
+        "start": 249,
+        "end": 260
+      }
+    ]
+  },
+  {
+    "text": "His songs for the group included Taxman, Within You Without You, While My Guitar Gently Weeps, Here Comes the Sun and Something.",
+    "entities": []
+  },
+  {
+    "text": "During their three years as a mainstream act, Nirvana was awarded an American Music Awards, Brit Awards, Grammy Award, seven MTV Video Music Award s and two NME Awards.",
+    "entities": [
+      {
+        "text": "Nirvana",
+        "label": "band",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "American Music Awards",
+        "label": "award",
+        "start": 69,
+        "end": 90
+      },
+      {
+        "text": "Brit Awards",
+        "label": "award",
+        "start": 92,
+        "end": 103
+      },
+      {
+        "text": "Grammy Award",
+        "label": "award",
+        "start": 105,
+        "end": 117
+      },
+      {
+        "text": "MTV Video Music Award",
+        "label": "award",
+        "start": 125,
+        "end": 146
+      },
+      {
+        "text": "NME Awards",
+        "label": "award",
+        "start": 157,
+        "end": 167
+      }
+    ]
+  },
+  {
+    "text": "In February 1969, RCA released the live album Bless Its Pointed Little Head, which was culled from 1968 performances at the Fillmore West on October 24-26 and the Fillmore East on November 28-30.",
+    "entities": [
+      {
+        "text": "Bless Its Pointed Little Head",
+        "label": "album",
+        "start": 46,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "For example, in Major Minus and Hurts Like Heaven, both from the album Mylo Xyloto (2011), Chris Martin ' s vocals are mostly vocoder-processed.",
+    "entities": [
+      {
+        "text": "Mylo Xyloto",
+        "label": "album",
+        "start": 71,
+        "end": 82
+      },
+      {
+        "text": "Chris Martin",
+        "label": "musicalartist",
+        "start": 91,
+        "end": 103
+      }
+    ]
+  },
+  {
+    "text": "Touring in support of Cross Purposes began in February with Morbid Angel and Motörhead in the U.S. The band filmed a live performance at the Hammersmith Apollo on 13 April 1994, which was released on VHS accompanied by a CD, titled Cross Purposes Live.",
+    "entities": [
+      {
+        "text": "Cross Purposes",
+        "label": "album",
+        "start": 22,
+        "end": 36
+      },
+      {
+        "text": "Morbid Angel",
+        "label": "band",
+        "start": 60,
+        "end": 72
+      },
+      {
+        "text": "Motörhead",
+        "label": "band",
+        "start": 77,
+        "end": 86
+      },
+      {
+        "text": "Cross Purposes Live",
+        "label": "album",
+        "start": 232,
+        "end": 251
+      }
+    ]
+  },
+  {
+    "text": "He traveled to Africa in 1973, where he visited Ethiopia, Kenya, Tanzania, Malawi, and South Africa.",
+    "entities": []
+  },
+  {
+    "text": "Despite this, The Godfather Part III went on to gather 7 Academy Awards nominations, including Academy Award for Best Director and Academy Award for Best Picture.",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 57,
+        "end": 71
+      },
+      {
+        "text": "Academy Award for Best Director",
+        "label": "award",
+        "start": 95,
+        "end": 126
+      },
+      {
+        "text": "Academy Award for Best Picture",
+        "label": "award",
+        "start": 131,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "Paul Gilbert composes music in a wide variety of styles, including Pop music, Rock and roll, metal, blues, and funk.",
+    "entities": [
+      {
+        "text": "Paul Gilbert",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Pop music",
+        "label": "musicgenre",
+        "start": 67,
+        "end": 76
+      },
+      {
+        "text": "Rock and roll",
+        "label": "musicgenre",
+        "start": 78,
+        "end": 91
+      },
+      {
+        "text": "metal",
+        "label": "musicgenre",
+        "start": 93,
+        "end": 98
+      },
+      {
+        "text": "blues",
+        "label": "musicgenre",
+        "start": 100,
+        "end": 105
+      },
+      {
+        "text": "funk",
+        "label": "musicgenre",
+        "start": 111,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "text": "Following the end of Nirvana, Novoselic worked on completing the With the Lights Out box set and From the Muddy Banks of the Wishkah album, as well as pushing for release of a Nevermind.",
+    "entities": [
+      {
+        "text": "Nirvana",
+        "label": "band",
+        "start": 21,
+        "end": 28
+      },
+      {
+        "text": "Novoselic",
+        "label": "musicalartist",
+        "start": 30,
+        "end": 39
+      },
+      {
+        "text": "With the Lights Out",
+        "label": "album",
+        "start": 65,
+        "end": 84
+      },
+      {
+        "text": "From the Muddy Banks of the Wishkah",
+        "label": "album",
+        "start": 97,
+        "end": 132
+      },
+      {
+        "text": "Nevermind",
+        "label": "album",
+        "start": 176,
+        "end": 185
+      }
+    ]
+  },
+  {
+    "text": "He also performed in The Rocky Horror Show, as the narrator, at the Churchill Theatre in Bromley and the New Wimbledon Theatre.",
+    "entities": []
+  },
+  {
+    "text": "Nitin Mishra came up with contemporary storylines like ' Hum Honge Kamyaab ' in 2010, which was his take on the controversies attached with the 2010 Commonwealth Games conducted in India in 2010.",
+    "entities": [
+      {
+        "text": "Nitin Mishra",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Grunge began as a mixture of Heavy metal music, punk rock and indie rock in the 1980s and gained mainstream prominence in the early 1990s.",
+    "entities": [
+      {
+        "text": "Grunge",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Heavy metal music",
+        "label": "musicgenre",
+        "start": 29,
+        "end": 46
+      },
+      {
+        "text": "punk rock",
+        "label": "musicgenre",
+        "start": 48,
+        "end": 57
+      },
+      {
+        "text": "indie rock",
+        "label": "musicgenre",
+        "start": 62,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "text": "A third UK tour for 2017 / 2018 opened at the Curve in Leicester, and also toured to the Birmingham Hippodrome, the Bord Gáis Energy Theatre in Dublin, the Wales Millennium Centre in Cardiff, the Edinburgh Festival Theatre, the Mayflower Theatre in Southampton and the Palace Theatre in Manchester.",
+    "entities": []
+  },
+  {
+    "text": "Three of the labels rejected her, saying that audiences wanted pop bands such as the Backstreet Boys and the Spice Girls, and there wasn 't going to be another Madonna, another Debbie Gibson, or another Tiffany.",
+    "entities": [
+      {
+        "text": "Backstreet Boys",
+        "label": "band",
+        "start": 85,
+        "end": 100
+      },
+      {
+        "text": "Spice Girls",
+        "label": "band",
+        "start": 109,
+        "end": 120
+      },
+      {
+        "text": "Madonna",
+        "label": "musicalartist",
+        "start": 160,
+        "end": 167
+      },
+      {
+        "text": "Debbie Gibson",
+        "label": "musicalartist",
+        "start": 177,
+        "end": 190
+      },
+      {
+        "text": "Tiffany",
+        "label": "musicalartist",
+        "start": 203,
+        "end": 210
+      }
+    ]
+  },
+  {
+    "text": "Franklin continued to record acclaimed albums such as I Never Loved a Man the Way I Love You (1967), Lady Soul (1968), Spirit in the Dark (1970), Young, Gifted and Black (1972), Amazing Grace (1972), and Sparkle (1976) before experiencing problems with her record company.",
+    "entities": [
+      {
+        "text": "Franklin",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "I Never Loved a Man the Way I Love You",
+        "label": "album",
+        "start": 54,
+        "end": 92
+      },
+      {
+        "text": "Lady Soul",
+        "label": "album",
+        "start": 101,
+        "end": 110
+      },
+      {
+        "text": "Spirit in the Dark",
+        "label": "album",
+        "start": 119,
+        "end": 137
+      },
+      {
+        "text": "Young, Gifted and Black",
+        "label": "album",
+        "start": 146,
+        "end": 169
+      },
+      {
+        "text": "Amazing Grace",
+        "label": "album",
+        "start": 178,
+        "end": 191
+      },
+      {
+        "text": "Sparkle",
+        "label": "album",
+        "start": 204,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "text": "Sometimes it is taken to include Greenland and historically the Baltic countries of Estonia, Latvia and Lithuania.",
+    "entities": []
+  },
+  {
+    "text": "The British and blues musicians of the early 1960s inspired a number of American blues rock fusion performers, including the The Doors, Canned Heat, the early Jefferson Airplane, Janis Joplin, Johnny Winter, The J. Geils Band, Ry Cooder, and the Allman Brothers Band.",
+    "entities": [
+      {
+        "text": "blues",
+        "label": "musicgenre",
+        "start": 16,
+        "end": 21
+      },
+      {
+        "text": "blues rock fusion",
+        "label": "musicgenre",
+        "start": 81,
+        "end": 98
+      },
+      {
+        "text": "The Doors",
+        "label": "band",
+        "start": 125,
+        "end": 134
+      },
+      {
+        "text": "Canned Heat",
+        "label": "band",
+        "start": 136,
+        "end": 147
+      },
+      {
+        "text": "Jefferson Airplane",
+        "label": "band",
+        "start": 159,
+        "end": 177
+      },
+      {
+        "text": "Johnny Winter",
+        "label": "musicalartist",
+        "start": 193,
+        "end": 206
+      },
+      {
+        "text": "The J. Geils Band",
+        "label": "band",
+        "start": 208,
+        "end": 225
+      },
+      {
+        "text": "Ry Cooder",
+        "label": "musicalartist",
+        "start": 227,
+        "end": 236
+      },
+      {
+        "text": "Allman Brothers Band",
+        "label": "band",
+        "start": 246,
+        "end": 266
+      }
+    ]
+  },
+  {
+    "text": "They won a Grammy Award in 1999 in the Grammy Award for Best Polka Album category for their album Polkasonic, and again in 2004 for their album Let's Kiss.",
+    "entities": [
+      {
+        "text": "Grammy Award",
+        "label": "award",
+        "start": 11,
+        "end": 23
+      },
+      {
+        "text": "Grammy Award for Best Polka Album",
+        "label": "award",
+        "start": 39,
+        "end": 72
+      },
+      {
+        "text": "Polkasonic",
+        "label": "album",
+        "start": 98,
+        "end": 108
+      },
+      {
+        "text": "Let's Kiss",
+        "label": "album",
+        "start": 144,
+        "end": 154
+      }
+    ]
+  },
+  {
+    "text": "It is based on the classic song The Guns of Brixton on The Clash ' s London Calling and has proven to be a success on the modern rock charts.",
+    "entities": [
+      {
+        "text": "The Clash",
+        "label": "band",
+        "start": 55,
+        "end": 64
+      },
+      {
+        "text": "London Calling",
+        "label": "album",
+        "start": 69,
+        "end": 83
+      },
+      {
+        "text": "rock",
+        "label": "musicgenre",
+        "start": 129,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "It won Gabriel a Grammy Award for Grammy Award for Best New Age Album and a nomination for a Golden Globe for Golden Globe Award for Best Original Score.",
+    "entities": [
+      {
+        "text": "Gabriel",
+        "label": "musicalartist",
+        "start": 7,
+        "end": 14
+      },
+      {
+        "text": "Grammy Award",
+        "label": "award",
+        "start": 17,
+        "end": 29
+      },
+      {
+        "text": "Grammy Award for Best New Age Album",
+        "label": "award",
+        "start": 34,
+        "end": 69
+      },
+      {
+        "text": "Golden Globe",
+        "label": "award",
+        "start": 93,
+        "end": 105
+      },
+      {
+        "text": "Golden Globe Award for Best Original Score",
+        "label": "award",
+        "start": 110,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "text": "Weir is on the board of directors of the Rex Foundation, the Furthur Foundation, and HeadCount .. He is also on the honorary board of directors of Little Kids Rock, a non-profit organization that provides free musical instruments and instruction to children in under-served public schools throughout the U.S.",
+    "entities": [
+      {
+        "text": "Weir",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "In addition, the film won the BAFTA Award for Best Film, BAFTA Award for Best Direction (Nichols), BAFTA Award for Most Promising Newcomer to Leading Film Roles (Hoffman), the BAFTA Award for Best Editing (Sam O 'Steen).",
+    "entities": [
+      {
+        "text": "BAFTA Award for Best Film",
+        "label": "award",
+        "start": 30,
+        "end": 55
+      },
+      {
+        "text": "BAFTA Award for Best Direction",
+        "label": "award",
+        "start": 57,
+        "end": 87
+      },
+      {
+        "text": "BAFTA Award for Most Promising Newcomer to Leading Film Roles",
+        "label": "award",
+        "start": 99,
+        "end": 160
+      },
+      {
+        "text": "BAFTA Award for Best Editing",
+        "label": "award",
+        "start": 176,
+        "end": 204
+      }
+    ]
+  },
+  {
+    "text": "By the mid-1980s, bands began proliferating and became increasingly popular, including the Sisters of Mercy, the Mission, Alien Sex Fiend, the March Violets, Xmal Deutschland, the Membranes, and Fields of the Nephilim.",
+    "entities": [
+      {
+        "text": "the Sisters of Mercy",
+        "label": "band",
+        "start": 87,
+        "end": 107
+      },
+      {
+        "text": "the Mission",
+        "label": "band",
+        "start": 109,
+        "end": 120
+      },
+      {
+        "text": "Alien Sex Fiend",
+        "label": "band",
+        "start": 122,
+        "end": 137
+      },
+      {
+        "text": "the March Violets",
+        "label": "band",
+        "start": 139,
+        "end": 156
+      },
+      {
+        "text": "Xmal Deutschland",
+        "label": "band",
+        "start": 158,
+        "end": 174
+      },
+      {
+        "text": "the Membranes",
+        "label": "band",
+        "start": 176,
+        "end": 189
+      },
+      {
+        "text": "Fields of the Nephilim",
+        "label": "band",
+        "start": 195,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "During the course of her career, Saariaho has received commissions from the Lincoln Center for the Kronos Quartet and from IRCAM for the Ensemble Intercontemporain, the BBC, the New York Philharmonic, the Salzburg Music Festival, the Théâtre du Châtelet in Paris, and the Finnish National Opera, among others.",
+    "entities": [
+      {
+        "text": "Saariaho",
+        "label": "musicalartist",
+        "start": 33,
+        "end": 41
+      },
+      {
+        "text": "Kronos Quartet",
+        "label": "band",
+        "start": 99,
+        "end": 113
+      },
+      {
+        "text": "Ensemble Intercontemporain",
+        "label": "band",
+        "start": 137,
+        "end": 163
+      },
+      {
+        "text": "New York Philharmonic",
+        "label": "band",
+        "start": 178,
+        "end": 199
+      }
+    ]
+  },
+  {
+    "text": "Stevens ' albums Tea for the Tillerman (1970) and Teaser and the Firecat (1971) were certified triple platinum in the US by the Recording Industry Association of America .. BBC News.",
+    "entities": [
+      {
+        "text": "Stevens",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Tea for the Tillerman",
+        "label": "album",
+        "start": 17,
+        "end": 38
+      },
+      {
+        "text": "Teaser and the Firecat",
+        "label": "album",
+        "start": 50,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "text": "Tens of thousands of medieval tombstones called Stećci are found in Bosnia and Hercegovina and neighboring areas in Montenegro, Serbia and Croatia.",
+    "entities": []
+  },
+  {
+    "text": "Buckingham's Go Your Own Way was the lead single, soaring into the US Top Ten; also on the album were Buckingham's Second Hand News and Never Going Back Again.",
+    "entities": [
+      {
+        "text": "Buckingham",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Buckingham",
+        "label": "musicalartist",
+        "start": 102,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "text": "As part of the 2010 leg of the My Christmas Tour, Bocelli gave two concerts in The O2 Arena, in London, and the Manchester Arena, in Manchester, and a concert at 3Arena, in Dublin, in late November 2010.",
+    "entities": [
+      {
+        "text": "Bocelli",
+        "label": "musicalartist",
+        "start": 50,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "text": "The musical was an immediate hit, winning Tony Award s for Tony Award for Best Musical, Tony Award for Best Actress in a Musical (for Lawrence) and Tony Award for Best Featured Actor in a Musical (for Brynner).",
+    "entities": [
+      {
+        "text": "Tony Award",
+        "label": "award",
+        "start": 42,
+        "end": 52
+      },
+      {
+        "text": "Tony Award for Best Musical",
+        "label": "award",
+        "start": 59,
+        "end": 86
+      },
+      {
+        "text": "Tony Award for Best Actress in a Musical",
+        "label": "award",
+        "start": 88,
+        "end": 128
+      },
+      {
+        "text": "Lawrence",
+        "label": "musicalartist",
+        "start": 134,
+        "end": 142
+      },
+      {
+        "text": "Tony Award for Best Featured Actor in a Musical",
+        "label": "award",
+        "start": 148,
+        "end": 195
+      },
+      {
+        "text": "Brynner",
+        "label": "musicalartist",
+        "start": 201,
+        "end": 208
+      }
+    ]
+  },
+  {
+    "text": "That January, the San Francisco band Blue Cheer released a cover of Eddie Cochran ' s classic Summertime Blues, from their debut album Vincebus Eruptum, that many consider the first TRUE heavy metal recording.McCleary (2004), pp. 240, 506.",
+    "entities": [
+      {
+        "text": "Blue Cheer",
+        "label": "band",
+        "start": 37,
+        "end": 47
+      },
+      {
+        "text": "Eddie Cochran",
+        "label": "musicalartist",
+        "start": 68,
+        "end": 81
+      },
+      {
+        "text": "Vincebus Eruptum",
+        "label": "album",
+        "start": 135,
+        "end": 151
+      },
+      {
+        "text": "heavy metal",
+        "label": "musicgenre",
+        "start": 187,
+        "end": 198
+      }
+    ]
+  },
+  {
+    "text": "Flush with artistic freedom, ' N Sync heads straight for the past: specifically the 1980s Rhythm and blues that sought to balance pretty melody atop Hip hop music ' s street-level beat.",
+    "entities": [
+      {
+        "text": "N Sync",
+        "label": "band",
+        "start": 31,
+        "end": 37
+      },
+      {
+        "text": "Rhythm and blues",
+        "label": "musicgenre",
+        "start": 90,
+        "end": 106
+      },
+      {
+        "text": "Hip hop music",
+        "label": "musicgenre",
+        "start": 149,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "text": "On 19 July 2014, Il Divo performed before a capacity crowd at Edinburgh Castle esplanade where a pop festival took place ahead of the 2014 Commonwealth Games.",
+    "entities": [
+      {
+        "text": "Il Divo",
+        "label": "band",
+        "start": 17,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "Australian Film Institute, Blockbuster Entertainment Awards, Empire Awards, Hollywood Film Festival, London Film Critics ' Circle, Russian Guild of Film Critics, Satellite Awards, and Southeastern Film Critics Association.",
+    "entities": [
+      {
+        "text": "Blockbuster Entertainment Awards",
+        "label": "award",
+        "start": 27,
+        "end": 59
+      },
+      {
+        "text": "Empire Awards",
+        "label": "award",
+        "start": 61,
+        "end": 74
+      },
+      {
+        "text": "Satellite Awards",
+        "label": "award",
+        "start": 162,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "text": "Early in their recording careers, Hall and Oates had trouble clearly defining their sound, alternating among Folk music, Soul music, rock and pop.",
+    "entities": [
+      {
+        "text": "Hall and Oates",
+        "label": "band",
+        "start": 34,
+        "end": 48
+      },
+      {
+        "text": "Folk music",
+        "label": "musicgenre",
+        "start": 109,
+        "end": 119
+      },
+      {
+        "text": "Soul music",
+        "label": "musicgenre",
+        "start": 121,
+        "end": 131
+      },
+      {
+        "text": "rock",
+        "label": "musicgenre",
+        "start": 133,
+        "end": 137
+      },
+      {
+        "text": "pop",
+        "label": "musicgenre",
+        "start": 142,
+        "end": 145
+      }
+    ]
+  },
+  {
+    "text": "Barney Bubbles directed several videos, including the Specials ' Ghost Town, Squeeze ' s Is That Love and Tempted, Elvis Costello ' s Clubland and New Lace Sleeves, and Fun Boy Three ' s The Lunatics Have Taken Over the Asylum.",
+    "entities": [
+      {
+        "text": "the Specials",
+        "label": "band",
+        "start": 50,
+        "end": 62
+      },
+      {
+        "text": "Squeeze",
+        "label": "band",
+        "start": 77,
+        "end": 84
+      },
+      {
+        "text": "Elvis Costello",
+        "label": "musicalartist",
+        "start": 115,
+        "end": 129
+      },
+      {
+        "text": "Fun Boy Three",
+        "label": "band",
+        "start": 169,
+        "end": 182
+      }
+    ]
+  },
+  {
+    "text": "Three albums, which again saw Moorcock contributing lyrics and vocals, were recorded for RCA / Active: Sonic Attack, the electronic Church of Hawkwind and Choose Your Masques.",
+    "entities": [
+      {
+        "text": "Moorcock",
+        "label": "musicalartist",
+        "start": 30,
+        "end": 38
+      },
+      {
+        "text": "RCA / Active",
+        "label": "album",
+        "start": 89,
+        "end": 101
+      },
+      {
+        "text": "Sonic Attack",
+        "label": "album",
+        "start": 103,
+        "end": 115
+      },
+      {
+        "text": "Church of Hawkwind",
+        "label": "album",
+        "start": 132,
+        "end": 150
+      },
+      {
+        "text": "Choose Your Masques",
+        "label": "album",
+        "start": 155,
+        "end": 174
+      }
+    ]
+  },
+  {
+    "text": "A recipient of many awards and honors, she is one of the few entertainers to have won an Emmy Award, a Grammy Award, an Academy Awards, and a Tony Award.",
+    "entities": [
+      {
+        "text": "Emmy Award",
+        "label": "award",
+        "start": 89,
+        "end": 99
+      },
+      {
+        "text": "Grammy Award",
+        "label": "award",
+        "start": 103,
+        "end": 115
+      },
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 120,
+        "end": 134
+      },
+      {
+        "text": "Tony Award",
+        "label": "award",
+        "start": 142,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "text": "Country influences combined with Punk rock and alternative rock to forge the cowpunk scene in Southern California during the 1980s, which included bands such as The Long Ryders, Lone Justice and The Beat Farmers, as well as the established punk group X, whose music had begun to include country and rockabilly influences.",
+    "entities": [
+      {
+        "text": "Punk rock",
+        "label": "musicgenre",
+        "start": 33,
+        "end": 42
+      },
+      {
+        "text": "alternative rock",
+        "label": "musicgenre",
+        "start": 47,
+        "end": 63
+      },
+      {
+        "text": "cowpunk",
+        "label": "musicgenre",
+        "start": 77,
+        "end": 84
+      },
+      {
+        "text": "The Long Ryders",
+        "label": "band",
+        "start": 161,
+        "end": 176
+      },
+      {
+        "text": "Lone Justice",
+        "label": "band",
+        "start": 178,
+        "end": 190
+      },
+      {
+        "text": "The Beat Farmers",
+        "label": "band",
+        "start": 195,
+        "end": 211
+      },
+      {
+        "text": "punk",
+        "label": "musicgenre",
+        "start": 240,
+        "end": 244
+      },
+      {
+        "text": "X",
+        "label": "band",
+        "start": 251,
+        "end": 252
+      },
+      {
+        "text": "country",
+        "label": "musicgenre",
+        "start": 287,
+        "end": 294
+      },
+      {
+        "text": "rockabilly",
+        "label": "musicgenre",
+        "start": 299,
+        "end": 309
+      }
+    ]
+  },
+  {
+    "text": "Located in downtown Los Angeles, The Music Center is home to the Dorothy Chandler Pavilion, Ahmanson Theater, Mark Taper Forum, Roy and Edna Disney / CalArts Theatre, and Walt Disney Concert Hall.",
+    "entities": []
+  },
+  {
+    "text": "Bedrock Records is an English record label for trance, house and techno started by Nick Muir and John Digweed.",
+    "entities": [
+      {
+        "text": "trance",
+        "label": "musicgenre",
+        "start": 47,
+        "end": 53
+      },
+      {
+        "text": "house",
+        "label": "musicgenre",
+        "start": 55,
+        "end": 60
+      },
+      {
+        "text": "techno",
+        "label": "musicgenre",
+        "start": 65,
+        "end": 71
+      },
+      {
+        "text": "Nick Muir",
+        "label": "musicalartist",
+        "start": 83,
+        "end": 92
+      },
+      {
+        "text": "John Digweed",
+        "label": "musicalartist",
+        "start": 97,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "Rebana is a Malay tambourine that is used in Islamic devotional music in Southeast Asia, particularly in Indonesia, Malaysia, Brunei, and Singapore.",
+    "entities": [
+      {
+        "text": "Islamic devotional music",
+        "label": "musicgenre",
+        "start": 45,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "Norwegian jazz accordionists include Asmund Bjørken, Stian Carstensen, Gabriel Fliflet, Frode Haltli, and Eivin One Pedersen.",
+    "entities": [
+      {
+        "text": "jazz",
+        "label": "musicgenre",
+        "start": 10,
+        "end": 14
+      },
+      {
+        "text": "Asmund Bjørken",
+        "label": "musicalartist",
+        "start": 37,
+        "end": 51
+      },
+      {
+        "text": "Stian Carstensen",
+        "label": "musicalartist",
+        "start": 53,
+        "end": 69
+      },
+      {
+        "text": "Gabriel Fliflet",
+        "label": "musicalartist",
+        "start": 71,
+        "end": 86
+      },
+      {
+        "text": "Frode Haltli",
+        "label": "musicalartist",
+        "start": 88,
+        "end": 100
+      },
+      {
+        "text": "Eivin One Pedersen",
+        "label": "musicalartist",
+        "start": 106,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "Urban male performers included popular black musicians of the era, such as Tampa Red, Big Bill Broonzy and Leroy Carr.",
+    "entities": [
+      {
+        "text": "Tampa Red",
+        "label": "musicalartist",
+        "start": 75,
+        "end": 84
+      },
+      {
+        "text": "Big Bill Broonzy",
+        "label": "musicalartist",
+        "start": 86,
+        "end": 102
+      },
+      {
+        "text": "Leroy Carr",
+        "label": "musicalartist",
+        "start": 107,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "text": "During the 1970s she returned to traditional jazz and recorded Judith Durham and The Hottest Band in Town and Judith Durham and The Hottest Band in Town Volume 2 and in 1978, The Hot Jazz Duo.",
+    "entities": [
+      {
+        "text": "traditional jazz",
+        "label": "musicgenre",
+        "start": 33,
+        "end": 49
+      },
+      {
+        "text": "Judith Durham and The Hottest Band in Town",
+        "label": "album",
+        "start": 63,
+        "end": 105
+      },
+      {
+        "text": "Judith Durham and The Hottest Band in Town Volume 2",
+        "label": "album",
+        "start": 110,
+        "end": 161
+      },
+      {
+        "text": "The Hot Jazz Duo",
+        "label": "album",
+        "start": 175,
+        "end": 191
+      }
+    ]
+  },
+  {
+    "text": "some of his performances will finish without some blues and Tejano music tunes playing as well as Surf music instrumentals.",
+    "entities": [
+      {
+        "text": "blues",
+        "label": "musicgenre",
+        "start": 50,
+        "end": 55
+      },
+      {
+        "text": "Tejano music",
+        "label": "musicgenre",
+        "start": 60,
+        "end": 72
+      },
+      {
+        "text": "Surf music",
+        "label": "musicgenre",
+        "start": 98,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "text": "Sidney Simien (April 9, 1938 - February 25, 1998), known as Rockin ' Sidney and Count Rockin ' Sidney, was an American Rhythm and blues, zydeco, and Soul music musician who began recording in the late 1950s and continued performing until his death.",
+    "entities": [
+      {
+        "text": "Sidney Simien",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Rockin ' Sidney",
+        "label": "musicalartist",
+        "start": 60,
+        "end": 75
+      },
+      {
+        "text": "Count Rockin ' Sidney",
+        "label": "musicalartist",
+        "start": 80,
+        "end": 101
+      },
+      {
+        "text": "Rhythm and blues",
+        "label": "musicgenre",
+        "start": 119,
+        "end": 135
+      },
+      {
+        "text": "zydeco",
+        "label": "musicgenre",
+        "start": 137,
+        "end": 143
+      },
+      {
+        "text": "Soul music",
+        "label": "musicgenre",
+        "start": 149,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "In 2012, the song topped an ITV poll in the UK to find The Nation's Favourite Number One over 60 years of music, ahead of Michael Jackson ' s Billie Jean (No. 2), Adele ' s Someone like You (No. 3), Oasis ' Don 't Look Back in Anger (No. 4) and The Beatles ' Hey Jude (No. 5).",
+    "entities": [
+      {
+        "text": "Nation's Favourite Number One",
+        "label": "award",
+        "start": 59,
+        "end": 88
+      },
+      {
+        "text": "Michael Jackson",
+        "label": "musicalartist",
+        "start": 122,
+        "end": 137
+      },
+      {
+        "text": "Adele",
+        "label": "musicalartist",
+        "start": 163,
+        "end": 168
+      },
+      {
+        "text": "The Beatles",
+        "label": "band",
+        "start": 245,
+        "end": 256
+      }
+    ]
+  },
+  {
+    "text": "The group has been nominated for 20 Grammy awards and has won five of them with Best Alternative Album for Dookie, Best Rock Album for American Idiot and 21st Century Breakdown, Record of the Year for Boulevard of Broken Dreams, and Best Musical Show Album for American Idiot: The Original Broadway Cast Recording.",
+    "entities": [
+      {
+        "text": "Grammy awards",
+        "label": "award",
+        "start": 36,
+        "end": 49
+      },
+      {
+        "text": "Best Alternative Album",
+        "label": "award",
+        "start": 80,
+        "end": 102
+      },
+      {
+        "text": "Dookie",
+        "label": "album",
+        "start": 107,
+        "end": 113
+      },
+      {
+        "text": "Best Rock Album",
+        "label": "award",
+        "start": 115,
+        "end": 130
+      },
+      {
+        "text": "American Idiot",
+        "label": "album",
+        "start": 135,
+        "end": 149
+      },
+      {
+        "text": "21st Century Breakdown",
+        "label": "album",
+        "start": 154,
+        "end": 176
+      },
+      {
+        "text": "Record of the Year",
+        "label": "award",
+        "start": 178,
+        "end": 196
+      },
+      {
+        "text": "Boulevard of Broken Dreams",
+        "label": "album",
+        "start": 201,
+        "end": 227
+      },
+      {
+        "text": "Best Musical Show Album",
+        "label": "award",
+        "start": 233,
+        "end": 256
+      },
+      {
+        "text": "American Idiot",
+        "label": "album",
+        "start": 261,
+        "end": 275
+      },
+      {
+        "text": "The Original Broadway Cast Recording",
+        "label": "album",
+        "start": 277,
+        "end": 313
+      }
+    ]
+  },
+  {
+    "text": "Two of his most popular recordings were Layla, recorded with Derek and the Dominos; and Robert Johnson ' s Cross Road Blues, recorded with Cream.",
+    "entities": [
+      {
+        "text": "Derek and the Dominos",
+        "label": "band",
+        "start": 61,
+        "end": 82
+      },
+      {
+        "text": "Robert Johnson",
+        "label": "musicalartist",
+        "start": 88,
+        "end": 102
+      },
+      {
+        "text": "Cream",
+        "label": "band",
+        "start": 139,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "Rob Sheffield in an AllMusic review feels that, like Mellow Gold, Odelay incorporates elements from various genres, including Folk music and Country music, grungy garage rock, stiff-boned electro, louche exotica, Old-school hip hop and noise rock.",
+    "entities": [
+      {
+        "text": "Rob Sheffield",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "Mellow Gold",
+        "label": "album",
+        "start": 53,
+        "end": 64
+      },
+      {
+        "text": "Odelay",
+        "label": "album",
+        "start": 66,
+        "end": 72
+      },
+      {
+        "text": "Folk music",
+        "label": "musicgenre",
+        "start": 126,
+        "end": 136
+      },
+      {
+        "text": "Country music",
+        "label": "musicgenre",
+        "start": 141,
+        "end": 154
+      },
+      {
+        "text": "grungy garage rock",
+        "label": "musicgenre",
+        "start": 156,
+        "end": 174
+      },
+      {
+        "text": "electro",
+        "label": "musicgenre",
+        "start": 188,
+        "end": 195
+      },
+      {
+        "text": "exotica",
+        "label": "musicgenre",
+        "start": 204,
+        "end": 211
+      },
+      {
+        "text": "Old-school hip hop",
+        "label": "musicgenre",
+        "start": 213,
+        "end": 231
+      },
+      {
+        "text": "noise rock",
+        "label": "musicgenre",
+        "start": 236,
+        "end": 246
+      }
+    ]
+  },
+  {
+    "text": "He hosted the television show Gastank, and recorded his first of several New-age music, ambient, and Christian music albums with Country Airs (1986) and The Gospels (1987), respectively.",
+    "entities": [
+      {
+        "text": "New-age music",
+        "label": "musicgenre",
+        "start": 73,
+        "end": 86
+      },
+      {
+        "text": "ambient",
+        "label": "musicgenre",
+        "start": 88,
+        "end": 95
+      },
+      {
+        "text": "Christian music",
+        "label": "musicgenre",
+        "start": 101,
+        "end": 116
+      },
+      {
+        "text": "Country Airs",
+        "label": "album",
+        "start": 129,
+        "end": 141
+      },
+      {
+        "text": "The Gospels",
+        "label": "album",
+        "start": 153,
+        "end": 164
+      }
+    ]
+  },
+  {
+    "text": "Schmidt was born in Pozsony (known in German as Pressburg), in the Hungary part of the Austria-Hungary (the city is now Bratislava, capital of Slovakia).",
+    "entities": []
+  },
+  {
+    "text": "| Invisible Children Invisible Children, Inc, To Write Love On Her Arms, Shirts for a Cure, Keep A Breast Foundation, and Hope For The Day to advocate about their cause.",
+    "entities": []
+  },
+  {
+    "text": "Since the early 1980s, the Zulu Nation has since established (autonomous) branches in Japanese hip hop, France, the British hip hop, Australian hip hop, Canada, Korean hip hop and the Cape Flats in Cape Town South Africa.",
+    "entities": [
+      {
+        "text": "Zulu Nation",
+        "label": "band",
+        "start": 27,
+        "end": 38
+      },
+      {
+        "text": "Japanese hip hop",
+        "label": "musicgenre",
+        "start": 86,
+        "end": 102
+      },
+      {
+        "text": "British hip hop",
+        "label": "musicgenre",
+        "start": 116,
+        "end": 131
+      },
+      {
+        "text": "Australian hip hop",
+        "label": "musicgenre",
+        "start": 133,
+        "end": 151
+      },
+      {
+        "text": "Korean hip hop",
+        "label": "musicgenre",
+        "start": 161,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "text": "In 2018, Buckingham was fired from the band and was replaced by Mike Campbell, formerly of Tom Petty and the Heartbreakers, and Neil Finn of Split Enz and Crowded House.",
+    "entities": [
+      {
+        "text": "Buckingham",
+        "label": "musicalartist",
+        "start": 9,
+        "end": 19
+      },
+      {
+        "text": "Mike Campbell",
+        "label": "musicalartist",
+        "start": 64,
+        "end": 77
+      },
+      {
+        "text": "Tom Petty and the Heartbreakers",
+        "label": "band",
+        "start": 91,
+        "end": 122
+      },
+      {
+        "text": "Neil Finn",
+        "label": "musicalartist",
+        "start": 128,
+        "end": 137
+      },
+      {
+        "text": "Split Enz",
+        "label": "band",
+        "start": 141,
+        "end": 150
+      },
+      {
+        "text": "Crowded House",
+        "label": "band",
+        "start": 155,
+        "end": 168
+      }
+    ]
+  },
+  {
+    "text": "He has also won three Grammy Awards, 14 Academy of Country Music awards, 11 Country Music Association (CMA) awards, 10 American Music Awards, and three People's Choice Awards.",
+    "entities": [
+      {
+        "text": "Grammy Awards",
+        "label": "award",
+        "start": 22,
+        "end": 35
+      },
+      {
+        "text": "Academy of Country Music awards",
+        "label": "award",
+        "start": 40,
+        "end": 71
+      },
+      {
+        "text": "Country Music Association (CMA) awards",
+        "label": "award",
+        "start": 76,
+        "end": 114
+      },
+      {
+        "text": "American Music Awards",
+        "label": "award",
+        "start": 119,
+        "end": 140
+      },
+      {
+        "text": "People's Choice Awards",
+        "label": "award",
+        "start": 152,
+        "end": 174
+      }
+    ]
+  },
+  {
+    "text": "Other artists influenced by McTell include Taj Mahal, Alvin Youngblood Hart, Ralph McTell, Chris Smither, Jack White, and the The White Stripes.",
+    "entities": [
+      {
+        "text": "McTell",
+        "label": "musicalartist",
+        "start": 28,
+        "end": 34
+      },
+      {
+        "text": "Taj Mahal",
+        "label": "musicalartist",
+        "start": 43,
+        "end": 52
+      },
+      {
+        "text": "Alvin Youngblood Hart",
+        "label": "musicalartist",
+        "start": 54,
+        "end": 75
+      },
+      {
+        "text": "Ralph McTell",
+        "label": "musicalartist",
+        "start": 77,
+        "end": 89
+      },
+      {
+        "text": "Chris Smither",
+        "label": "musicalartist",
+        "start": 91,
+        "end": 104
+      },
+      {
+        "text": "Jack White",
+        "label": "musicalartist",
+        "start": 106,
+        "end": 116
+      },
+      {
+        "text": "The White Stripes",
+        "label": "band",
+        "start": 126,
+        "end": 143
+      }
+    ]
+  },
+  {
+    "text": "Biafra was also working with a band known as Jello Biafra and the Guantanamo School of Medicine, which included Ralph Spight of Victims Family on guitar and Billy Gould of Faith No More on bass.",
+    "entities": [
+      {
+        "text": "Biafra",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Jello Biafra and the Guantanamo School of Medicine",
+        "label": "band",
+        "start": 45,
+        "end": 95
+      },
+      {
+        "text": "Ralph Spight",
+        "label": "musicalartist",
+        "start": 112,
+        "end": 124
+      },
+      {
+        "text": "Victims Family",
+        "label": "band",
+        "start": 128,
+        "end": 142
+      },
+      {
+        "text": "Billy Gould",
+        "label": "musicalartist",
+        "start": 157,
+        "end": 168
+      },
+      {
+        "text": "Faith No More",
+        "label": "band",
+        "start": 172,
+        "end": 185
+      }
+    ]
+  },
+  {
+    "text": "By the early 20th century, the United States had become a major center for folk music from around the world, including polka, Ukrainian and Polish fiddling, Ashkenazi, Klezmer, and several kinds of Latin music.",
+    "entities": [
+      {
+        "text": "folk music",
+        "label": "musicgenre",
+        "start": 75,
+        "end": 85
+      },
+      {
+        "text": "polka",
+        "label": "musicgenre",
+        "start": 119,
+        "end": 124
+      },
+      {
+        "text": "Ukrainian",
+        "label": "musicgenre",
+        "start": 126,
+        "end": 135
+      },
+      {
+        "text": "Polish fiddling",
+        "label": "musicgenre",
+        "start": 140,
+        "end": 155
+      },
+      {
+        "text": "Ashkenazi",
+        "label": "musicgenre",
+        "start": 157,
+        "end": 166
+      },
+      {
+        "text": "Klezmer",
+        "label": "musicgenre",
+        "start": 168,
+        "end": 175
+      },
+      {
+        "text": "Latin music",
+        "label": "musicgenre",
+        "start": 198,
+        "end": 209
+      }
+    ]
+  },
+  {
+    "text": "In 2014, the Robert David MacDonald and Jeremy Sams translation (previously used in 1994 at the Donmar Warehouse) toured the UK, presented by the Graeae Theatre Company with Nottingham Playhouse, New Wolsey Theatre Ipswich, Birmingham Repertory Theatre and West Yorkshire Playhouse.",
+    "entities": []
+  },
+  {
+    "text": "The groups released albums such as Maggot Brain (1971), Mothership Connection (1975), and One Nation Under a Groove (1978) to critical praise, and scored charting hits with singles such as Give Up the Funk (1976), One Nation Under a Groove (1978), and Flash Light (1978).",
+    "entities": [
+      {
+        "text": "Maggot Brain",
+        "label": "album",
+        "start": 35,
+        "end": 47
+      },
+      {
+        "text": "Mothership Connection",
+        "label": "album",
+        "start": 56,
+        "end": 77
+      },
+      {
+        "text": "One Nation Under a Groove",
+        "label": "album",
+        "start": 90,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "text": "He also co-wrote Posible, which has been used as a theme song for the 2005 Southeast Asian Games.",
+    "entities": []
+  },
+  {
+    "text": "The Eurasian Economic Union, the Gulf Cooperation Council, CARICOM and the European Union are current examples of single markets, although the Gulf Cooperation Council ' s single market has been described as malfunctioning in 2014.",
+    "entities": []
+  },
+  {
+    "text": "Annie Hall (1977) won four Academy Awards, including Academy Award for Best Picture, Academy Award for Best Actress for Diane Keaton, Academy Award for Best Original Screenplay and Academy Award for Best Director for Woody Allen.",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 27,
+        "end": 41
+      },
+      {
+        "text": "Academy Award for Best Picture",
+        "label": "award",
+        "start": 53,
+        "end": 83
+      },
+      {
+        "text": "Academy Award for Best Actress",
+        "label": "award",
+        "start": 85,
+        "end": 115
+      },
+      {
+        "text": "Academy Award for Best Original Screenplay",
+        "label": "award",
+        "start": 134,
+        "end": 176
+      },
+      {
+        "text": "Academy Award for Best Director",
+        "label": "award",
+        "start": 181,
+        "end": 212
+      }
+    ]
+  },
+  {
+    "text": "Their style has been described as Rock and roll with a renegade stance, what in later years would be dubbed ' Punk rock '.",
+    "entities": [
+      {
+        "text": "Rock and roll",
+        "label": "musicgenre",
+        "start": 34,
+        "end": 47
+      },
+      {
+        "text": "Punk rock",
+        "label": "musicgenre",
+        "start": 110,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "Folsom Field is also used as the finish line for the Bolder Boulder, a popular 10K run.",
+    "entities": []
+  },
+  {
+    "text": "One of the best-selling music groups of the 1960s, their biggest hits - including The Sound of Silence (1965), Mrs. Robinson (1968), The Boxer (1969), and Bridge over Troubled Water (1970) - reached number one on singles charts worldwide.",
+    "entities": [
+      {
+        "text": "Bridge over Troubled Water",
+        "label": "album",
+        "start": 155,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "... Baby One More Time earned Spears Grammy Award nominations for Grammy Award for Best New Artist and Grammy Award for Best Female Pop Vocal Performance for ... Baby One More Time at the 42nd Annual Grammy Awards in 2000.",
+    "entities": [
+      {
+        "text": "Grammy Award",
+        "label": "award",
+        "start": 37,
+        "end": 49
+      },
+      {
+        "text": "Grammy Award for Best New Artist",
+        "label": "award",
+        "start": 66,
+        "end": 98
+      },
+      {
+        "text": "Grammy Award for Best Female Pop Vocal Performance",
+        "label": "award",
+        "start": 103,
+        "end": 153
+      },
+      {
+        "text": "42nd Annual Grammy Awards",
+        "label": "award",
+        "start": 188,
+        "end": 213
+      }
+    ]
+  },
+  {
+    "text": "He liked to surround himself with jazz musicians such as John McLaughlin and Binky McKenzie and often performed with a horn section drawn from a pool that included, among others, saxophone players Art Themen, Mel Collins, Dick Heckstall-Smith, Lol Coxhill, Dick Morrissey, John Surman and trombonist Mike Zwerin.",
+    "entities": [
+      {
+        "text": "jazz",
+        "label": "musicgenre",
+        "start": 34,
+        "end": 38
+      },
+      {
+        "text": "John McLaughlin",
+        "label": "musicalartist",
+        "start": 57,
+        "end": 72
+      },
+      {
+        "text": "Binky McKenzie",
+        "label": "musicalartist",
+        "start": 77,
+        "end": 91
+      },
+      {
+        "text": "Art Themen",
+        "label": "musicalartist",
+        "start": 197,
+        "end": 207
+      },
+      {
+        "text": "Mel Collins",
+        "label": "musicalartist",
+        "start": 209,
+        "end": 220
+      },
+      {
+        "text": "Dick Heckstall-Smith",
+        "label": "musicalartist",
+        "start": 222,
+        "end": 242
+      },
+      {
+        "text": "Lol Coxhill",
+        "label": "musicalartist",
+        "start": 244,
+        "end": 255
+      },
+      {
+        "text": "Dick Morrissey",
+        "label": "musicalartist",
+        "start": 257,
+        "end": 271
+      },
+      {
+        "text": "John Surman",
+        "label": "musicalartist",
+        "start": 273,
+        "end": 284
+      },
+      {
+        "text": "Mike Zwerin",
+        "label": "musicalartist",
+        "start": 300,
+        "end": 311
+      }
+    ]
+  },
+  {
+    "text": "Jimmie Rodgers, Moon Mullican, Bob Wills, Bill Monroe and Hank Williams have all described themselves as blues singers and their music has a blues feel that is different, at first glance at least, from the later country pop of artists like Eddy Arnold.",
+    "entities": [
+      {
+        "text": "Jimmie Rodgers",
+        "label": "musicalartist",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "Moon Mullican",
+        "label": "musicalartist",
+        "start": 16,
+        "end": 29
+      },
+      {
+        "text": "Bob Wills",
+        "label": "musicalartist",
+        "start": 31,
+        "end": 40
+      },
+      {
+        "text": "Bill Monroe",
+        "label": "musicalartist",
+        "start": 42,
+        "end": 53
+      },
+      {
+        "text": "Hank Williams",
+        "label": "musicalartist",
+        "start": 58,
+        "end": 71
+      },
+      {
+        "text": "blues",
+        "label": "musicgenre",
+        "start": 105,
+        "end": 110
+      },
+      {
+        "text": "country pop",
+        "label": "musicgenre",
+        "start": 212,
+        "end": 223
+      },
+      {
+        "text": "Eddy Arnold",
+        "label": "musicalartist",
+        "start": 240,
+        "end": 251
+      }
+    ]
+  },
+  {
+    "text": "Soundgarden achieved its biggest success with the 1994 album Superunknown, which debuted at number one on the Billboard 200 and yielded the Grammy Award -winning singles Spoonman and Black Hole Sun.",
+    "entities": [
+      {
+        "text": "Soundgarden",
+        "label": "band",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Superunknown",
+        "label": "album",
+        "start": 61,
+        "end": 73
+      },
+      {
+        "text": "Grammy Award",
+        "label": "award",
+        "start": 140,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "text": "The music arose as a synthesis of traditional Creole music, some Cajun music influences, and African-American traditions, including Rhythm and blues, blues, jazz, and Gospel music.",
+    "entities": [
+      {
+        "text": "Creole music",
+        "label": "musicgenre",
+        "start": 46,
+        "end": 58
+      },
+      {
+        "text": "Cajun music",
+        "label": "musicgenre",
+        "start": 65,
+        "end": 76
+      },
+      {
+        "text": "Rhythm and blues",
+        "label": "musicgenre",
+        "start": 132,
+        "end": 148
+      },
+      {
+        "text": "blues",
+        "label": "musicgenre",
+        "start": 150,
+        "end": 155
+      },
+      {
+        "text": "jazz",
+        "label": "musicgenre",
+        "start": 157,
+        "end": 161
+      },
+      {
+        "text": "Gospel music",
+        "label": "musicgenre",
+        "start": 167,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "text": "69-70. with hundreds of performances each year throughout the world in venues including Carnegie Hall, Lincoln Center, Kennedy Center, Walt Disney Concert Hall, Vatican City, Sydney Opera House and Westminster Abbey.",
+    "entities": []
+  },
+  {
+    "text": "Indie band Rilo Kiley, in keeping with their tendency to explore a variety of rockish styles, incorporated funk into their song The Moneymaker on the album Under the Blacklight.",
+    "entities": [
+      {
+        "text": "Rilo Kiley",
+        "label": "band",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "text": "funk",
+        "label": "musicgenre",
+        "start": 107,
+        "end": 111
+      },
+      {
+        "text": "Under the Blacklight",
+        "label": "album",
+        "start": 156,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "White audiences ' interest in the blues during the 1960s increased due to the Chicago-based Paul Butterfield featuring guitarist Mike Bloomfield, and the British blues movement.",
+    "entities": [
+      {
+        "text": "blues",
+        "label": "musicgenre",
+        "start": 34,
+        "end": 39
+      },
+      {
+        "text": "Paul Butterfield",
+        "label": "musicalartist",
+        "start": 92,
+        "end": 108
+      },
+      {
+        "text": "Mike Bloomfield",
+        "label": "musicalartist",
+        "start": 129,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "Burton's work on Sweeney Todd won the National Board of Review Award for Best Director, and won an Academy Awards for Academy Award for Best Production Design.",
+    "entities": [
+      {
+        "text": "National Board of Review Award for Best Director",
+        "label": "award",
+        "start": 38,
+        "end": 86
+      },
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 99,
+        "end": 113
+      },
+      {
+        "text": "Academy Award for Best Production Design",
+        "label": "award",
+        "start": 118,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "text": "In 1970, Korner and Thorup formed a big-band ensemble, CCS - short for The Collective Consciousness Society - which had several hit singles produced by Mickie Most, including a version of Led Zeppelin ' s Whole Lotta Love, which was used as the theme for BBC's Top of the Pops between 1970 and 1981.",
+    "entities": [
+      {
+        "text": "Korner",
+        "label": "musicalartist",
+        "start": 9,
+        "end": 15
+      },
+      {
+        "text": "Thorup",
+        "label": "musicalartist",
+        "start": 20,
+        "end": 26
+      },
+      {
+        "text": "CCS",
+        "label": "band",
+        "start": 55,
+        "end": 58
+      },
+      {
+        "text": "Collective Consciousness Society",
+        "label": "band",
+        "start": 75,
+        "end": 107
+      },
+      {
+        "text": "Mickie Most",
+        "label": "musicalartist",
+        "start": 152,
+        "end": 163
+      },
+      {
+        "text": "Led Zeppelin",
+        "label": "band",
+        "start": 188,
+        "end": 200
+      }
+    ]
+  },
+  {
+    "text": "The movie also featured a soundtrack of popular songs, including a cover version of The Troggs ' Love Is All Around performed by Wet Wet Wet that remained at number 1 on the UK Singles Chart for fifteen weeks and was then the ninth (now twelfth) biggest selling single of all time in Britain.",
+    "entities": [
+      {
+        "text": "The Troggs",
+        "label": "band",
+        "start": 84,
+        "end": 94
+      },
+      {
+        "text": "Wet Wet Wet",
+        "label": "band",
+        "start": 129,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "Beginning after World War I through the 1970s, corps and competitions were often sponsored by the Veterans of Foreign Wars, Scout troop s, churches, the Royal Canadian Legion, and the American Legion.",
+    "entities": []
+  },
+  {
+    "text": "In this era, Chicago radio jocks The Hot Mix 5, and club DJs Ron Hardy and Frankie Knuckles played various styles of dance music, including older disco records, newer Italo disco and electro funk tracks, B-boy hip hop music by Man Parrish, Jellybean Benitez, Arthur Baker and John Robie as well as Electropop music by Kraftwerk and Yellow Magic Orchestra.",
+    "entities": [
+      {
+        "text": "Hot Mix 5",
+        "label": "band",
+        "start": 37,
+        "end": 46
+      },
+      {
+        "text": "Ron Hardy",
+        "label": "musicalartist",
+        "start": 61,
+        "end": 70
+      },
+      {
+        "text": "Frankie Knuckles",
+        "label": "musicalartist",
+        "start": 75,
+        "end": 91
+      },
+      {
+        "text": "dance music",
+        "label": "musicgenre",
+        "start": 117,
+        "end": 128
+      },
+      {
+        "text": "disco",
+        "label": "musicgenre",
+        "start": 146,
+        "end": 151
+      },
+      {
+        "text": "Italo disco",
+        "label": "musicgenre",
+        "start": 167,
+        "end": 178
+      },
+      {
+        "text": "electro funk",
+        "label": "musicgenre",
+        "start": 183,
+        "end": 195
+      },
+      {
+        "text": "hip hop music",
+        "label": "musicgenre",
+        "start": 210,
+        "end": 223
+      },
+      {
+        "text": "Man Parrish",
+        "label": "musicalartist",
+        "start": 227,
+        "end": 238
+      },
+      {
+        "text": "Jellybean Benitez",
+        "label": "musicalartist",
+        "start": 240,
+        "end": 257
+      },
+      {
+        "text": "Arthur Baker",
+        "label": "musicalartist",
+        "start": 259,
+        "end": 271
+      },
+      {
+        "text": "John Robie",
+        "label": "musicalartist",
+        "start": 276,
+        "end": 286
+      },
+      {
+        "text": "Electropop",
+        "label": "musicgenre",
+        "start": 298,
+        "end": 308
+      },
+      {
+        "text": "music",
+        "label": "musicgenre",
+        "start": 309,
+        "end": 314
+      },
+      {
+        "text": "Kraftwerk",
+        "label": "band",
+        "start": 318,
+        "end": 327
+      },
+      {
+        "text": "Yellow Magic Orchestra",
+        "label": "band",
+        "start": 332,
+        "end": 354
+      }
+    ]
+  },
+  {
+    "text": "Western music, influenced by the cowboy ballads, New Mexico music, Texas country music and Tejano music rhythms of the Southwestern United States and Northern Mexico, reached its peak in popularity in the late 1950s, most notably with the song El Paso, first recorded by Marty Robbins in September 1959.",
+    "entities": [
+      {
+        "text": "Western music",
+        "label": "musicgenre",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "New Mexico music",
+        "label": "musicgenre",
+        "start": 49,
+        "end": 65
+      },
+      {
+        "text": "Texas country music",
+        "label": "musicgenre",
+        "start": 67,
+        "end": 86
+      },
+      {
+        "text": "Tejano music",
+        "label": "musicgenre",
+        "start": 91,
+        "end": 103
+      },
+      {
+        "text": "Marty Robbins",
+        "label": "musicalartist",
+        "start": 271,
+        "end": 284
+      }
+    ]
+  },
+  {
+    "text": "In Finland, there emerged a scene that mixed the first wave black metal style with elements of death metal and grindcore; this included Beherit, Archgoat and Impaled Nazarene, whose debut album Tol Cormpt Norz Norz Norz Rock Hard journalist Wolf-Rüdiger Mühlmann considers a part of war metal's roots.",
+    "entities": [
+      {
+        "text": "black metal",
+        "label": "musicgenre",
+        "start": 60,
+        "end": 71
+      },
+      {
+        "text": "death metal",
+        "label": "musicgenre",
+        "start": 95,
+        "end": 106
+      },
+      {
+        "text": "grindcore",
+        "label": "musicgenre",
+        "start": 111,
+        "end": 120
+      },
+      {
+        "text": "Beherit",
+        "label": "band",
+        "start": 136,
+        "end": 143
+      },
+      {
+        "text": "Archgoat",
+        "label": "band",
+        "start": 145,
+        "end": 153
+      },
+      {
+        "text": "Impaled Nazarene",
+        "label": "band",
+        "start": 158,
+        "end": 174
+      },
+      {
+        "text": "Tol Cormpt Norz Norz Norz",
+        "label": "album",
+        "start": 194,
+        "end": 219
+      },
+      {
+        "text": "war metal",
+        "label": "musicgenre",
+        "start": 283,
+        "end": 292
+      }
+    ]
+  },
+  {
+    "text": "The band have received a total of 11 nominations for ARIA Music Awards in ARIA Music Awards of 1999, ARIA Music Awards of 2001 and ARIA Music Awards of 2003.",
+    "entities": [
+      {
+        "text": "ARIA Music Awards",
+        "label": "award",
+        "start": 53,
+        "end": 70
+      },
+      {
+        "text": "ARIA Music Awards of 1999",
+        "label": "award",
+        "start": 74,
+        "end": 99
+      },
+      {
+        "text": "ARIA Music Awards of 2001",
+        "label": "award",
+        "start": 101,
+        "end": 126
+      },
+      {
+        "text": "ARIA Music Awards of 2003",
+        "label": "award",
+        "start": 131,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "The film won Academy Award for Best Picture, Academy Award for Best Director and Academy Award for Best Adapted Screenplay, and Hopkins also picked up his first BAFTA for Best Actor.",
+    "entities": [
+      {
+        "text": "Academy Award for Best Picture",
+        "label": "award",
+        "start": 13,
+        "end": 43
+      },
+      {
+        "text": "Academy Award for Best Director",
+        "label": "award",
+        "start": 45,
+        "end": 76
+      },
+      {
+        "text": "Academy Award for Best Adapted Screenplay",
+        "label": "award",
+        "start": 81,
+        "end": 122
+      },
+      {
+        "text": "BAFTA for Best Actor",
+        "label": "award",
+        "start": 161,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "text": "On September 12, 2010, during the Chilean bicentennial festivities, President Sebastián Piñera announced that the capacity of the stadium will be increased so as to reach 70,000 seats for the 2014 South American Games that will take place in Santiago.",
+    "entities": []
+  },
+  {
+    "text": "In January 1970 Lucian K. Truscott IV reviewing Led Zeppelin II for the Village Voice described the sound as heavy and made comparisons with Blue Cheer and Vanilla Fudge .. January 22, 1970.",
+    "entities": [
+      {
+        "text": "Led Zeppelin II",
+        "label": "album",
+        "start": 48,
+        "end": 63
+      },
+      {
+        "text": "Blue Cheer",
+        "label": "band",
+        "start": 141,
+        "end": 151
+      },
+      {
+        "text": "Vanilla Fudge",
+        "label": "band",
+        "start": 156,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "Black Holes and Revelations (2006) incorporated Electronic music and Pop music elements, displayed in singles such as Supermassive Black Hole, Their seventh album, Drones (2015), was a concept album about drone warfare and returned to a harder rock sound.",
+    "entities": [
+      {
+        "text": "Black Holes and Revelations",
+        "label": "album",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "Electronic music",
+        "label": "musicgenre",
+        "start": 48,
+        "end": 64
+      },
+      {
+        "text": "Pop music",
+        "label": "musicgenre",
+        "start": 69,
+        "end": 78
+      },
+      {
+        "text": "Drones",
+        "label": "album",
+        "start": 164,
+        "end": 170
+      },
+      {
+        "text": "drone warfare",
+        "label": "album",
+        "start": 205,
+        "end": 218
+      },
+      {
+        "text": "rock",
+        "label": "musicgenre",
+        "start": 244,
+        "end": 248
+      }
+    ]
+  },
+  {
+    "text": "The West African community is also very large, integrated by people from Senegal, Mali, Ivory Coast, and Guinea.",
+    "entities": []
+  },
+  {
+    "text": "The film was nominated for the Academy Awards for Academy Award for Best Picture, as well as Academy Award for Best Production Design (Carroll Clark and Van Nest Polglase), Academy Award for Best Original Song (Irving Berlin for Cheek to Cheek), and Dance Direction (Hermes Pan for Piccolino and Top Hat).",
+    "entities": [
+      {
+        "text": "Academy Awards",
+        "label": "award",
+        "start": 31,
+        "end": 45
+      },
+      {
+        "text": "Academy Award for Best Picture",
+        "label": "award",
+        "start": 50,
+        "end": 80
+      },
+      {
+        "text": "Academy Award for Best Production Design",
+        "label": "award",
+        "start": 93,
+        "end": 133
+      },
+      {
+        "text": "Academy Award for Best Original Song",
+        "label": "award",
+        "start": 173,
+        "end": 209
+      },
+      {
+        "text": "Irving Berlin",
+        "label": "musicalartist",
+        "start": 211,
+        "end": 224
+      },
+      {
+        "text": "Dance Direction",
+        "label": "award",
+        "start": 250,
+        "end": 265
+      }
+    ]
+  }
+]

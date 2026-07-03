@@ -1,0 +1,1391 @@
+[
+  {
+    "text": "The Macavity is named for T.S.",
+    "entities": []
+  },
+  {
+    "text": "The 1998 Grote Prijs Jef Scherens was the 32nd edition of the Grote Prijs Jef Scherens cycle race and was held on 6 September 1998.",
+    "entities": [
+      {
+        "text": "Grote Prijs Jef Scherens",
+        "label": "organization",
+        "start": 9,
+        "end": 33
+      },
+      {
+        "text": "Grote Prijs Jef Scherens",
+        "label": "organization",
+        "start": 62,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "text": "In mid-November 2017, Warner Bros. Pictures, which distributed Heyman's ``Harry Potter ``films and was already distributing the ``Paddington ``films in Spain, acquired the film's North American distribution rights for $32 million (£24 million), making it the first film in the series to do so.",
+    "entities": [
+      {
+        "text": "Warner Bros. Pictures",
+        "label": "organization",
+        "start": 22,
+        "end": 43
+      },
+      {
+        "text": "Harry Potter",
+        "label": "art",
+        "start": 74,
+        "end": 86
+      },
+      {
+        "text": "Paddington",
+        "label": "art",
+        "start": 130,
+        "end": 140
+      },
+      {
+        "text": "Spain",
+        "label": "location",
+        "start": 152,
+        "end": 157
+      },
+      {
+        "text": "American",
+        "label": "location",
+        "start": 185,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "It even charted on the Billboard Hot 200, peaking at # 116.",
+    "entities": []
+  },
+  {
+    "text": "Michael McLaughlin became the leader in 1975 and won the BM new support from the growing racist skinhead and football hooligan movements.",
+    "entities": [
+      {
+        "text": "Michael McLaughlin",
+        "label": "person",
+        "start": 0,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "Using the Bowen Bridge the road travels over the River Derwent in semi-highway road layout.",
+    "entities": [
+      {
+        "text": "River Derwent",
+        "label": "location",
+        "start": 49,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "He signed a contract to be the assistant of Georges Leekens in the Tunisian team in 2014.",
+    "entities": [
+      {
+        "text": "Tunisian",
+        "label": "organization",
+        "start": 67,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "text": "He escaped slavery in the 1840s to New England and returned after the US Civil War.",
+    "entities": [
+      {
+        "text": "New England",
+        "label": "location",
+        "start": 35,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "Rippy won the 1967 NCAA Championship while at Odessa College in Odessa, Texas.",
+    "entities": [
+      {
+        "text": "Odessa College",
+        "label": "organization",
+        "start": 46,
+        "end": 60
+      },
+      {
+        "text": "Odessa",
+        "label": "location",
+        "start": 64,
+        "end": 70
+      },
+      {
+        "text": "Texas",
+        "label": "location",
+        "start": 72,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "Following delays caused by failure of Flight 19 SpaceX agreed to provide extra thrust to the SES-9 satellite to take it supersynchronous.",
+    "entities": [
+      {
+        "text": "Flight 19 SpaceX",
+        "label": "product",
+        "start": 38,
+        "end": 54
+      },
+      {
+        "text": "SES-9",
+        "label": "product",
+        "start": 93,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "text": "The episode focuses on characters played by guest stars Bruno Kirby and Richard Edson, with the detectives who normally serve as the protagonists here serving the function as secondary characters.",
+    "entities": [
+      {
+        "text": "Bruno Kirby",
+        "label": "person",
+        "start": 56,
+        "end": 67
+      },
+      {
+        "text": "Richard Edson",
+        "label": "person",
+        "start": 72,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "He crashed into a hillside near Boulogne-sur-Mer and was buried in Boulogne Eastern Cemetery, France.",
+    "entities": [
+      {
+        "text": "Boulogne-sur-Mer",
+        "label": "location",
+        "start": 32,
+        "end": 48
+      },
+      {
+        "text": "France",
+        "label": "location",
+        "start": 94,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "text": "Internal evidence suggests that the poet hailed from the County of Champagne in France or from the vicinity of Bouillon in the Duchy of Lower Lorraine.",
+    "entities": [
+      {
+        "text": "County of Champagne",
+        "label": "location",
+        "start": 57,
+        "end": 76
+      },
+      {
+        "text": "France",
+        "label": "location",
+        "start": 80,
+        "end": 86
+      },
+      {
+        "text": "Bouillon",
+        "label": "location",
+        "start": 111,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "text": "The Footwork FA13 was a Formula One car used by the Footwork Arrows team in the 1992 Formula One season and was updated to become FA13B for the first two races of the 1993 Formula One season.",
+    "entities": [
+      {
+        "text": "Footwork Arrows",
+        "label": "organization",
+        "start": 52,
+        "end": 67
+      }
+    ]
+  },
+  {
+    "text": "Air engagements are handled by the heat-seeking Sidewinder and the radar guided AMRAAM missiles along with the M61 Vulcan cannon for close range dogfighting.",
+    "entities": [
+      {
+        "text": "Sidewinder",
+        "label": "product",
+        "start": 48,
+        "end": 58
+      },
+      {
+        "text": "AMRAAM",
+        "label": "product",
+        "start": 80,
+        "end": 86
+      },
+      {
+        "text": "M61 Vulcan",
+        "label": "product",
+        "start": 111,
+        "end": 121
+      }
+    ]
+  },
+  {
+    "text": "Gardiner took office on 7 January 1878.",
+    "entities": [
+      {
+        "text": "Gardiner",
+        "label": "person",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Another Sanskrit Buddhist poet was Mātṛceṭa, who composed various pious hymns in slokas.",
+    "entities": [
+      {
+        "text": "Mātṛceṭa",
+        "label": "person",
+        "start": 35,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "By the time the album was released, Monkey Mafia had expanded into a full band, including Douge Reuben on vocals, Dan Peppe on bass, Tom Symmons on drums, DJ Krash Slaughta (aka Paul Smith) on turntables, and Carter himself on samplers and keyboard programming.",
+    "entities": [
+      {
+        "text": "Monkey Mafia",
+        "label": "person",
+        "start": 36,
+        "end": 48
+      },
+      {
+        "text": "Douge Reuben",
+        "label": "person",
+        "start": 90,
+        "end": 102
+      },
+      {
+        "text": "Dan Peppe",
+        "label": "person",
+        "start": 114,
+        "end": 123
+      },
+      {
+        "text": "Tom Symmons",
+        "label": "person",
+        "start": 133,
+        "end": 144
+      },
+      {
+        "text": "Krash Slaughta",
+        "label": "person",
+        "start": 158,
+        "end": 172
+      },
+      {
+        "text": "Paul Smith",
+        "label": "person",
+        "start": 178,
+        "end": 188
+      },
+      {
+        "text": "Carter",
+        "label": "person",
+        "start": 209,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "Ethan Allen Brown (July 4, 1776February 24, 1852) was a Democratic-Republican politician.",
+    "entities": [
+      {
+        "text": "Ethan Allen Brown",
+        "label": "person",
+        "start": 0,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "text": "During the mid 1970s the squadron also operated a SAR 'D ' flight at RAF Manston.",
+    "entities": [
+      {
+        "text": "SAR 'D '",
+        "label": "product",
+        "start": 50,
+        "end": 58
+      },
+      {
+        "text": "RAF Manston",
+        "label": "organization",
+        "start": 69,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "The VIM or Vickers Instructional Machine was a trainer biplane aircraft built for the Republic of China by Vickers from war-surplus stocks of Royal Aircraft Factory F.E.2d parts, powered by a surplus Rolls Royce Eagle engine, but fitted with an entirely new nacelle, providing dual controls for the pupil and instructor.",
+    "entities": [
+      {
+        "text": "VIM",
+        "label": "product",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "Vickers Instructional Machine",
+        "label": "product",
+        "start": 11,
+        "end": 40
+      },
+      {
+        "text": "Republic of China",
+        "label": "location",
+        "start": 86,
+        "end": 103
+      },
+      {
+        "text": "Vickers",
+        "label": "product",
+        "start": 107,
+        "end": 114
+      },
+      {
+        "text": "Royal Aircraft Factory",
+        "label": "organization",
+        "start": 142,
+        "end": 164
+      },
+      {
+        "text": "F.E.2d",
+        "label": "product",
+        "start": 165,
+        "end": 171
+      },
+      {
+        "text": "Rolls Royce Eagle",
+        "label": "product",
+        "start": 200,
+        "end": 217
+      }
+    ]
+  },
+  {
+    "text": "The eponymous duke has been argued to be a number of the bearers of that title, particularly Prince Frederick, Duke of York and Albany (1763–1827) and its lyrics have become proverbial for futile action.",
+    "entities": [
+      {
+        "text": "Frederick",
+        "label": "person",
+        "start": 100,
+        "end": 109
+      },
+      {
+        "text": "York",
+        "label": "location",
+        "start": 119,
+        "end": 123
+      },
+      {
+        "text": "Albany",
+        "label": "location",
+        "start": 128,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "Such strong opposition from Kinnick's teammates, relatives, and fans scuttled Tosaw's plans.",
+    "entities": [
+      {
+        "text": "Kinnick",
+        "label": "person",
+        "start": 28,
+        "end": 35
+      },
+      {
+        "text": "Tosaw",
+        "label": "person",
+        "start": 78,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "text": "The core of the system, serving most sfm lines, is the ``passante ferroviario ``, a tunnel running 8 km through the city from north to south, at a maximum depth of 18 meters.",
+    "entities": [
+      {
+        "text": "passante ferroviario",
+        "label": "location",
+        "start": 57,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "text": "A treaty was signed on 7 May 1886 between Siam and France recognizing Siamese suzerainty over Luang Phrabang and neighboring Lao kingdoms.",
+    "entities": [
+      {
+        "text": "Siam",
+        "label": "location",
+        "start": 42,
+        "end": 46
+      },
+      {
+        "text": "France",
+        "label": "location",
+        "start": 51,
+        "end": 57
+      },
+      {
+        "text": "Siamese",
+        "label": "location",
+        "start": 70,
+        "end": 77
+      },
+      {
+        "text": "Luang Phrabang",
+        "label": "location",
+        "start": 94,
+        "end": 108
+      },
+      {
+        "text": "Lao",
+        "label": "location",
+        "start": 125,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "In the PNE Treaty, the signatories agreed: not to carry out any individual nuclear explosions having a yield exceeding 150 kilotons TNT equivalent; not to carry out any group explosion (consisting of a number of individual explosions) having an aggregate yield exceeding 1,500 kilotons; and not to carry out any group explosion having an aggregate yield exceeding 150 kilotons unless the individual explosions in the group could be identified and measured by agreed verification procedures.",
+    "entities": []
+  },
+  {
+    "text": "PBS had won a majority in the Sabah State Legislative Assembly, but the defections allowed BN to form government.",
+    "entities": [
+      {
+        "text": "Sabah",
+        "label": "location",
+        "start": 30,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "text": "Malotki himself acknowledges that the conceptualizations are different, but because he ignores Whorf's use of scare quotes around the word ``time'' and the qualifier ``what we call,'' takes Whorf to be arguing that the Hopi have no concept of time at all.",
+    "entities": []
+  },
+  {
+    "text": "The East Coast Greenway continues into the parking lot up to the Reedbird Avenue intersection, where it turns south to use the Maryland Route 2 bridges, extending down the Bellegrove Sidepath to the BWI Trail and the Baltimore and Annapolis Trail.",
+    "entities": [
+      {
+        "text": "East Coast Greenway",
+        "label": "location",
+        "start": 4,
+        "end": 23
+      },
+      {
+        "text": "Reedbird Avenue",
+        "label": "location",
+        "start": 65,
+        "end": 80
+      },
+      {
+        "text": "Maryland Route",
+        "label": "location",
+        "start": 127,
+        "end": 141
+      },
+      {
+        "text": "Bellegrove Sidepath",
+        "label": "location",
+        "start": 172,
+        "end": 191
+      },
+      {
+        "text": "BWI Trail",
+        "label": "location",
+        "start": 199,
+        "end": 208
+      },
+      {
+        "text": "Baltimore",
+        "label": "location",
+        "start": 217,
+        "end": 226
+      },
+      {
+        "text": "Annapolis Trail",
+        "label": "location",
+        "start": 231,
+        "end": 246
+      }
+    ]
+  },
+  {
+    "text": "In Brazil, the ``Praieira Revolt,'' a movement in Pernambuco, lasted from November 1848 to 1852.",
+    "entities": [
+      {
+        "text": "Brazil",
+        "label": "location",
+        "start": 3,
+        "end": 9
+      },
+      {
+        "text": "Pernambuco",
+        "label": "location",
+        "start": 50,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "An extension of the freeway north to Arch Street near Green Island was completed by 1977.",
+    "entities": [
+      {
+        "text": "Arch Street",
+        "label": "location",
+        "start": 37,
+        "end": 48
+      },
+      {
+        "text": "Green Island",
+        "label": "location",
+        "start": 54,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "The first PWF Chairman, who presented the belts to the winners in title bouts, was Lord James Blears.",
+    "entities": [
+      {
+        "text": "PWF",
+        "label": "organization",
+        "start": 10,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "Filmmakers K Balachandar, Balu Mahendra, Bharathiraaja and Mani Ratnam in Tamil cinema, Adoor Gopalakrishnan, Shaji N. Karun, John Abraham and G. Aravindan in Malayalam cinema, and K. N. T. Sastry and B. Narsing Rao in Telugu cinema produced realistic parallel cinema throughout the 1970s.",
+    "entities": []
+  },
+  {
+    "text": "In March 1942, agent Charles K. Feldman planned on making a film adaptation of the Chamberlain novel, with Howard Hawks as a proposed producer.",
+    "entities": [
+      {
+        "text": "Chamberlain",
+        "label": "person",
+        "start": 83,
+        "end": 94
+      }
+    ]
+  },
+  {
+    "text": "The International Professional Hockey League began play in 1904 with teams from Houghton, Michigan (Houghton-Portage Lakes), Pittsburgh, Pennsylvania (Pittsburgh Professionals), Calumet, Michigan (Calumet-Laurium Miners), Sault Ste.",
+    "entities": [
+      {
+        "text": "International Professional Hockey League",
+        "label": "organization",
+        "start": 4,
+        "end": 44
+      },
+      {
+        "text": "Houghton",
+        "label": "location",
+        "start": 80,
+        "end": 88
+      },
+      {
+        "text": "Michigan",
+        "label": "location",
+        "start": 90,
+        "end": 98
+      },
+      {
+        "text": "Houghton-Portage Lakes",
+        "label": "organization",
+        "start": 100,
+        "end": 122
+      },
+      {
+        "text": "Pittsburgh",
+        "label": "location",
+        "start": 125,
+        "end": 135
+      },
+      {
+        "text": "Pennsylvania",
+        "label": "location",
+        "start": 137,
+        "end": 149
+      },
+      {
+        "text": "Pittsburgh Professionals",
+        "label": "organization",
+        "start": 151,
+        "end": 175
+      },
+      {
+        "text": "Calumet",
+        "label": "location",
+        "start": 178,
+        "end": 185
+      },
+      {
+        "text": "Michigan",
+        "label": "location",
+        "start": 187,
+        "end": 195
+      },
+      {
+        "text": "Calumet-Laurium Miners",
+        "label": "organization",
+        "start": 197,
+        "end": 219
+      }
+    ]
+  },
+  {
+    "text": "Four members have served as Kings of Cambodia, and three as Prime Ministers.",
+    "entities": [
+      {
+        "text": "Cambodia",
+        "label": "product",
+        "start": 37,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "Joshua Taylor Scobee (born June 23, 1982) is a former American football placekicker.",
+    "entities": [
+      {
+        "text": "Joshua Taylor Scobee",
+        "label": "person",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "American",
+        "label": "location",
+        "start": 54,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "Local restauranteur Ramzy Hattar owns the taqueria, along with neighboring establishments River Pig and Two Wrongs.",
+    "entities": []
+  },
+  {
+    "text": "Archetypal literary criticism is a type of critical theory that interprets a text by focusing on recurring myths and archetypes (from the Greek ``archē'', ``beginning'', and ``typos'', ``imprint'') in the narrative, symbols, images, and character types in literary works.",
+    "entities": []
+  },
+  {
+    "text": "As a result, women with hemoglobin F as & gt; 70% of total hemoglobin are much more likely to have fetuses that are small for their gestational age compared women with & lt; 70% hemoglobin F (at a rate of 100% compared to 8%, respectively).",
+    "entities": []
+  },
+  {
+    "text": "It was released on November 29, 2002 in Germany, and in North America on October 28, 2003.",
+    "entities": [
+      {
+        "text": "Germany,",
+        "label": "location",
+        "start": 40,
+        "end": 48
+      },
+      {
+        "text": "America",
+        "label": "location",
+        "start": 62,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "It functions as a secondary remote control for the television, with up and down on the D-pad able to change channels, and as a controller for available Nintendo 64 game s on the LodgeNet service.",
+    "entities": [
+      {
+        "text": "D-pad",
+        "label": "product",
+        "start": 87,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "Science Park was renamed AmberGlen Business Center.",
+    "entities": [
+      {
+        "text": "Science Park",
+        "label": "location",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "He acquired Japanese citizenship in April 2017.",
+    "entities": [
+      {
+        "text": "Japanese",
+        "label": "location",
+        "start": 12,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "The most famous Earl was the 7th Earl, who removed and transported to Britain the so-called Elgin Marbles from the Parthenon.",
+    "entities": [
+      {
+        "text": "Britain",
+        "label": "location",
+        "start": 70,
+        "end": 77
+      },
+      {
+        "text": "Elgin Marbles",
+        "label": "art",
+        "start": 92,
+        "end": 105
+      }
+    ]
+  },
+  {
+    "text": "The island of Vormsi has homeowners from several countries and regions: Estonia, Sweden, Finland, Switzerland, Åland Islands.",
+    "entities": [
+      {
+        "text": "Vormsi",
+        "label": "location",
+        "start": 14,
+        "end": 20
+      },
+      {
+        "text": "Estonia",
+        "label": "location",
+        "start": 72,
+        "end": 79
+      },
+      {
+        "text": "Sweden",
+        "label": "location",
+        "start": 81,
+        "end": 87
+      },
+      {
+        "text": "Finland",
+        "label": "location",
+        "start": 89,
+        "end": 96
+      },
+      {
+        "text": "Switzerland",
+        "label": "location",
+        "start": 98,
+        "end": 109
+      },
+      {
+        "text": "Åland Islands",
+        "label": "location",
+        "start": 111,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "Weimar High School also fields strong UIL academic teams in addition to an award-winning FFA Chapter-",
+    "entities": [
+      {
+        "text": "Weimar High School",
+        "label": "organization",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "UIL",
+        "label": "organization",
+        "start": 38,
+        "end": 41
+      },
+      {
+        "text": "FFA",
+        "label": "organization",
+        "start": 89,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "text": "He was a brother of Ferdinand VII, as well as the uncle and father-in-law of Isabella II.",
+    "entities": [
+      {
+        "text": "Ferdinand VII",
+        "label": "person",
+        "start": 20,
+        "end": 33
+      },
+      {
+        "text": "Isabella II",
+        "label": "person",
+        "start": 77,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "text": "Co-located with the Kalmar Nyckel is the home port to the U.S. Coast Guard Auxiliary's Search and Rescue Detachment (SARDET) Wilmington.",
+    "entities": [
+      {
+        "text": "Kalmar Nyckel",
+        "label": "product",
+        "start": 20,
+        "end": 33
+      },
+      {
+        "text": "U.S. Coast Guard Auxiliary's Search",
+        "label": "organization",
+        "start": 58,
+        "end": 93
+      },
+      {
+        "text": "Rescue Detachment (SARDET)",
+        "label": "organization",
+        "start": 98,
+        "end": 124
+      },
+      {
+        "text": "Wilmington",
+        "label": "location",
+        "start": 125,
+        "end": 135
+      }
+    ]
+  },
+  {
+    "text": "Allied Chemical and Dye Corporation became Allied Chemical Corporation in 1958.",
+    "entities": [
+      {
+        "text": "Allied Chemical and Dye Corporation",
+        "label": "organization",
+        "start": 0,
+        "end": 35
+      },
+      {
+        "text": "Allied Chemical Corporation",
+        "label": "organization",
+        "start": 43,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "text": "IBM produced the ``5153 Personal Computer Color Display ``for use with the CGA, but this was not available at release and would not be released until March 1983.",
+    "entities": [
+      {
+        "text": "IBM",
+        "label": "organization",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "5153 Personal Computer Color Display",
+        "label": "product",
+        "start": 19,
+        "end": 55
+      },
+      {
+        "text": "CGA",
+        "label": "product",
+        "start": 75,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "text": "There are fixed-dose combination drugs, such as ACE inhibitor and thiazide combinations.",
+    "entities": []
+  },
+  {
+    "text": "A Carmichael, California branch of the bank was robbed by several members of the Symbionese Liberation Army on April 21, 1975.",
+    "entities": [
+      {
+        "text": "Carmichael",
+        "label": "organization",
+        "start": 2,
+        "end": 12
+      },
+      {
+        "text": "California",
+        "label": "location",
+        "start": 14,
+        "end": 24
+      },
+      {
+        "text": "Symbionese Liberation Army",
+        "label": "organization",
+        "start": 81,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "In an unusual move at the time, the Commission requested allocations for four stations which would air the same programming at all times, fed from a central studio in Birmingham.",
+    "entities": [
+      {
+        "text": "Commission",
+        "label": "organization",
+        "start": 36,
+        "end": 46
+      },
+      {
+        "text": "Birmingham",
+        "label": "location",
+        "start": 167,
+        "end": 177
+      }
+    ]
+  },
+  {
+    "text": "An elevated EPL or LY30 suggests fibrinolysis and may be treated with an antifibrinolytic, such as tranexamic acid or aminocaproic acid, in the appropriate clinical setting.",
+    "entities": []
+  },
+  {
+    "text": "A short report by Ángel Manuel Rodríguez was released.",
+    "entities": [
+      {
+        "text": "Ángel Manuel Rodríguez",
+        "label": "person",
+        "start": 18,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "The inheritance of Montréal was, however, to prove controversial: Stephanie had gained it on the death of her young niece, Beatrice of Brisebarre.",
+    "entities": [
+      {
+        "text": "Montréal",
+        "label": "person",
+        "start": 19,
+        "end": 27
+      },
+      {
+        "text": "Stephanie",
+        "label": "person",
+        "start": 66,
+        "end": 75
+      },
+      {
+        "text": "Beatrice",
+        "label": "person",
+        "start": 123,
+        "end": 131
+      }
+    ]
+  },
+  {
+    "text": "Sansum Narrows is a strait or channel between Vancouver Island (W) and Saltspring Island (E) in the Southern Gulf Islands region of British Columbia, Canada.",
+    "entities": [
+      {
+        "text": "Vancouver Island",
+        "label": "location",
+        "start": 46,
+        "end": 62
+      },
+      {
+        "text": "Saltspring Island",
+        "label": "location",
+        "start": 71,
+        "end": 88
+      },
+      {
+        "text": "Southern Gulf Islands",
+        "label": "location",
+        "start": 100,
+        "end": 121
+      },
+      {
+        "text": "British Columbia",
+        "label": "location",
+        "start": 132,
+        "end": 148
+      },
+      {
+        "text": "Canada",
+        "label": "location",
+        "start": 150,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "Epaminondas Pantelakis (, born 10 February 1995) is a Greek professional footballer who plays as a centre-back for Super League club PAS Giannina.",
+    "entities": [
+      {
+        "text": "Super League",
+        "label": "organization",
+        "start": 115,
+        "end": 127
+      },
+      {
+        "text": "PAS Giannina",
+        "label": "organization",
+        "start": 133,
+        "end": 145
+      }
+    ]
+  },
+  {
+    "text": "2005 Club has senior sides in EDFL for first time playing Westmeadows in round one.",
+    "entities": [
+      {
+        "text": "Westmeadows",
+        "label": "organization",
+        "start": 58,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "Phillips was born in Birmingham, Warwickshire in 1914, and began his acting career at Birmingham Rep in the 1930s.",
+    "entities": [
+      {
+        "text": "Birmingham",
+        "label": "location",
+        "start": 21,
+        "end": 31
+      },
+      {
+        "text": "Warwickshire",
+        "label": "location",
+        "start": 33,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "Even less is known about ``Caithness Norn ``than about Orkney and Shetland Norn.",
+    "entities": []
+  },
+  {
+    "text": "They were followed by Glebe, Granville, Past Grammars, Present Grammars and Pialba.",
+    "entities": [
+      {
+        "text": "Glebe",
+        "label": "organization",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "Granville",
+        "label": "organization",
+        "start": 29,
+        "end": 38
+      },
+      {
+        "text": "Past Grammars",
+        "label": "organization",
+        "start": 40,
+        "end": 53
+      },
+      {
+        "text": "Present Grammars",
+        "label": "organization",
+        "start": 55,
+        "end": 71
+      },
+      {
+        "text": "Pialba",
+        "label": "organization",
+        "start": 76,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "Following the review by Ofcom, the government announced on 3 August 2011, that sections 17 and 18 of the act were to be dropped as they were not practically enforceable, and also as the Copyright, Designs and Patents Act 1988 had been successfully used to block access to a website on the grounds of copyright infringement.",
+    "entities": [
+      {
+        "text": "Ofcom",
+        "label": "organization",
+        "start": 24,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "Ribeira Palace had been the primary Lisbon residence of the King of Portugal since the 16th century, when it substituted the Royal Alcáçova at São Jorge Castle.",
+    "entities": [
+      {
+        "text": "Lisbon",
+        "label": "location",
+        "start": 36,
+        "end": 42
+      },
+      {
+        "text": "Portugal",
+        "label": "location",
+        "start": 68,
+        "end": 76
+      },
+      {
+        "text": "Alcáçova",
+        "label": "person",
+        "start": 131,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "text": "In January 1916, the brigade left Zeitoun and headed east camping that night beside the Great Bitter Lake on the Suez Canal.",
+    "entities": [
+      {
+        "text": "Zeitoun",
+        "label": "location",
+        "start": 34,
+        "end": 41
+      },
+      {
+        "text": "Great Bitter Lake",
+        "label": "location",
+        "start": 88,
+        "end": 105
+      },
+      {
+        "text": "Suez Canal",
+        "label": "location",
+        "start": 113,
+        "end": 123
+      }
+    ]
+  },
+  {
+    "text": "Malfunkshun dissolved in 1988 to become Lords of the Wasteland, which featured Stone Gossard and Jeff Ament in their lineup, with Andrew Wood and Regan Hagar.",
+    "entities": [
+      {
+        "text": "Malfunkshun",
+        "label": "organization",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Lords of the Wasteland",
+        "label": "organization",
+        "start": 40,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "Despite having started its participation almost from the dawn of the category, in the thirties, the presence of the Dodge brand within the Turismo Carretera only acquired notoriety during much of the eighties, where by the hand of pilots such as Roberto Mouras, Oscar Castellano and Oscar Angeletti won almost all of the titles of the period, having as its main tool the new Dodge GTX, a large-sized passenger car with an aerodynamic design, which was nothing more than the coupe variant of the Dodge Polara model.",
+    "entities": [
+      {
+        "text": "Dodge",
+        "label": "organization",
+        "start": 116,
+        "end": 121
+      }
+    ]
+  },
+  {
+    "text": "Don Priestley (born 1940) is a video game programmer who wrote for the ZX81 and ZX Spectrum between 1982 and 1989.",
+    "entities": [
+      {
+        "text": "Don Priestley",
+        "label": "person",
+        "start": 0,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "The ``De Vita Christi ``written by Ludolph of Saxony inspired Loyola to abandon his previous worldly life and devote himself to labour for God, following the example of spiritual leaders such as Francis of Assisi.",
+    "entities": [
+      {
+        "text": "Ludolph of Saxony",
+        "label": "person",
+        "start": 35,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "text": "The Mozart Regiment suffered 96 casualties, including every member of the color guard killed or wounded.",
+    "entities": [
+      {
+        "text": "Mozart Regiment",
+        "label": "organization",
+        "start": 4,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "Nitrapyrin functions as an inhibitor of the urease enzyme in the nitrifying bacteria Nitrosomonas, preventing hydrolytic action on urea.",
+    "entities": []
+  },
+  {
+    "text": "The Bachelor of Science in Elementary Education was added in 1982.",
+    "entities": []
+  },
+  {
+    "text": "MOMIX was also featured in PBS's “ Dance in America ” series and on Canadian television with Charles Dutoit and the Montreal Symphony in the Rhombus Media film of Mussorgsky's “ Pictures at an Exhibition, ” winner of an International Emmy for Best Performing Arts Special.",
+    "entities": [
+      {
+        "text": "“ Dance in America ”",
+        "label": "art",
+        "start": 33,
+        "end": 53
+      },
+      {
+        "text": "Canadian",
+        "label": "location",
+        "start": 68,
+        "end": 76
+      },
+      {
+        "text": "Charles Dutoit",
+        "label": "person",
+        "start": 93,
+        "end": 107
+      },
+      {
+        "text": "Rhombus Media",
+        "label": "organization",
+        "start": 141,
+        "end": 154
+      },
+      {
+        "text": "Mussorgsky",
+        "label": "person",
+        "start": 163,
+        "end": 173
+      },
+      {
+        "text": "Pictures at an Exhibition",
+        "label": "art",
+        "start": 178,
+        "end": 203
+      }
+    ]
+  },
+  {
+    "text": "It absorbed Morland USD 280 in 2002.",
+    "entities": [
+      {
+        "text": "Morland",
+        "label": "location",
+        "start": 12,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "Sassafras is a locality and township within Greater Melbourne, beyond the Melbourne metropolitan area Urban Growth Boundary, 43 km east of Melbourne's Central Business District, located within the City of Knox and Shire of Yarra Ranges local government areas.",
+    "entities": [
+      {
+        "text": "Sassafras",
+        "label": "location",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Greater Melbourne",
+        "label": "location",
+        "start": 44,
+        "end": 61
+      },
+      {
+        "text": "Melbourne",
+        "label": "location",
+        "start": 74,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "text": "Kim Anderson and R.L.",
+    "entities": [
+      {
+        "text": "Kim Anderson",
+        "label": "person",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "Before the 2009–10 season, Ridsdale travelled to the Far East to try to get a business deal which he promised would see Cardiff's debt problem dealt with, and creation of an academy in the Far East.",
+    "entities": [
+      {
+        "text": "Far East",
+        "label": "location",
+        "start": 53,
+        "end": 61
+      },
+      {
+        "text": "Far East",
+        "label": "location",
+        "start": 189,
+        "end": 197
+      }
+    ]
+  },
+  {
+    "text": "``The Walking Dead ``, ``Under The Dome ``and ``Person of Interest ``are other US shows added to the channel's schedule.",
+    "entities": [
+      {
+        "text": "The Walking Dead",
+        "label": "art",
+        "start": 2,
+        "end": 18
+      },
+      {
+        "text": "Under The Dome",
+        "label": "art",
+        "start": 25,
+        "end": 39
+      },
+      {
+        "text": "Person of Interest",
+        "label": "art",
+        "start": 48,
+        "end": 66
+      },
+      {
+        "text": "US",
+        "label": "location",
+        "start": 79,
+        "end": 81
+      }
+    ]
+  },
+  {
+    "text": "His last fight in mixed martial arts competition, came at a losing effort at UFC 37: High Impact at the CenturyTel Center in Bossier City, Louisiana on May 10, 2002 against B.J.",
+    "entities": [
+      {
+        "text": "Bossier",
+        "label": "location",
+        "start": 125,
+        "end": 132
+      },
+      {
+        "text": "Louisiana",
+        "label": "location",
+        "start": 139,
+        "end": 148
+      }
+    ]
+  }
+]

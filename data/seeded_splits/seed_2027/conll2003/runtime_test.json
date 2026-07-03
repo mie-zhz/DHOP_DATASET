@@ -1,0 +1,704 @@
+[
+  {
+    "text": "The emergency rule governor's office said in a statement that 10 rebels from the Kurdistan Workers Party (PKK) were killed in fighting in Tunceli province.",
+    "entities": [
+      {
+        "text": "Kurdistan Workers Party",
+        "label": "ORG",
+        "start": 81,
+        "end": 104
+      },
+      {
+        "text": "PKK",
+        "label": "ORG",
+        "start": 106,
+        "end": 109
+      },
+      {
+        "text": "Tunceli",
+        "label": "LOC",
+        "start": 138,
+        "end": 145
+      }
+    ]
+  },
+  {
+    "text": "If approached by a stray dog, children should be taught to stand still with fists folded underneath the neck, elbows in, and gaze forward until the dog goes away.",
+    "entities": []
+  },
+  {
+    "text": "Leeds 3 1 1 1 4 5 4",
+    "entities": [
+      {
+        "text": "Leeds",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "2. Kusunose Shiho (Japan) 1:24.77",
+    "entities": [
+      {
+        "text": "Kusunose Shiho",
+        "label": "PER",
+        "start": 3,
+        "end": 17
+      },
+      {
+        "text": "Japan",
+        "label": "LOC",
+        "start": 19,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "In the past, Mobutu has been elected without opposition.",
+    "entities": [
+      {
+        "text": "Mobutu",
+        "label": "PER",
+        "start": 13,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "Bowling:",
+    "entities": []
+  },
+  {
+    "text": "Barrick gets 93 pct of Arequipa.",
+    "entities": [
+      {
+        "text": "Barrick",
+        "label": "ORG",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Arequipa",
+        "label": "ORG",
+        "start": 23,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "A spokesman for the American Stock Exchange would neither confirm or deny whether the exchange was looking into trading.",
+    "entities": [
+      {
+        "text": "American Stock Exchange",
+        "label": "ORG",
+        "start": 20,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "text": "Lakes Rally which ended on Monday:",
+    "entities": []
+  },
+  {
+    "text": "A Chinese truck maker in which Ford Motor Co has a 20 percent stake said it posted a 77 percent drop in post-tax profits in the first half of 1996.",
+    "entities": [
+      {
+        "text": "Ford Motor Co",
+        "label": "ORG",
+        "start": 31,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "It blamed the drop in profits on a weak vehicle market and said as its engine plant had only just started trial production, the company's results would not improve in the short-term.",
+    "entities": []
+  },
+  {
+    "text": "Mostostal, based in southern Poland, wants to offer the bonds to large investors in a public offering, paying an annual coupon of no more than 80 percent of the yield of the benchmark 52-week T-bill.",
+    "entities": [
+      {
+        "text": "Mostostal",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Poland",
+        "label": "LOC",
+        "start": 29,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "text": "matches on Tuesday:",
+    "entities": []
+  },
+  {
+    "text": "Since the project began almost two years ago, corps volunteers have focused on African American troops, preparing records in time for the unveiling in Washington this year of a special memorial to black soldiers who fought in the war.",
+    "entities": [
+      {
+        "text": "Washington",
+        "label": "LOC",
+        "start": 151,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "Government attempts to link the rioting to foreign influence has been treated with derision by those in the streets who blame the protests on severe economic hardships.",
+    "entities": []
+  },
+  {
+    "text": "Daniel Vacek (Czech Republic) beat 13 - Jason Stoltenberg",
+    "entities": [
+      {
+        "text": "Daniel Vacek",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Czech Republic",
+        "label": "LOC",
+        "start": 14,
+        "end": 28
+      },
+      {
+        "text": "Jason Stoltenberg",
+        "label": "PER",
+        "start": 40,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "text": "She was last seen being collected by the pair from school in Velten near Berlin on Monday.",
+    "entities": [
+      {
+        "text": "Velten",
+        "label": "LOC",
+        "start": 61,
+        "end": 67
+      },
+      {
+        "text": "Berlin",
+        "label": "LOC",
+        "start": 73,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "text": "It was the second time Brunswijk had been charged with attempted murder in less than two years.",
+    "entities": [
+      {
+        "text": "Brunswijk",
+        "label": "PER",
+        "start": 23,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "Leading results in the",
+    "entities": []
+  },
+  {
+    "text": "CRICKET - ENGLISH COUNTY CHAMPIONSHIP SCORES.",
+    "entities": []
+  },
+  {
+    "text": "Last Thursday the EU sold 34,277 tonnes of German intervention barley at a minimum price of 109.36 Ecus per tonne, which was seen as worth $149 per tonne fob.",
+    "entities": [
+      {
+        "text": "EU",
+        "label": "ORG",
+        "start": 18,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "text": "He also estimated that only 25 percent of bites were reported because medical attention was not needed.",
+    "entities": []
+  },
+  {
+    "text": "Richard Finn",
+    "entities": [
+      {
+        "text": "Richard Finn",
+        "label": "PER",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "text": "soccer matches on Wednesday:",
+    "entities": []
+  },
+  {
+    "text": "Plastic surgery is booming, especially among men, as Brazilians spend much of their new-found wealth on the latest beauty treatments, said the organisers of a four-day international plastic surgery conference that opened on Friday.",
+    "entities": []
+  },
+  {
+    "text": "Peter Smerdon",
+    "entities": [
+      {
+        "text": "Peter Smerdon",
+        "label": "PER",
+        "start": 0,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "C. Cairns b Saqlain 10",
+    "entities": [
+      {
+        "text": "C. Cairns",
+        "label": "PER",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Saqlain",
+        "label": "PER",
+        "start": 12,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "USDA gross cutout hide and offal value.",
+    "entities": [
+      {
+        "text": "USDA",
+        "label": "ORG",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "St Pauli 3 1 1 1 7 7 4",
+    "entities": [
+      {
+        "text": "St Pauli",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Zadar police said in a statement they had launched an investigation and were doing their best to find the perpetrators.",
+    "entities": [
+      {
+        "text": "Zadar",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "Attendance:",
+    "entities": []
+  },
+  {
+    "text": "Compared with the end of last year, when T&N predicted a sluggish first half and a rebound later in 1996, Hope said: \" I think the difference (now) is the first half has not actually been as bad as some felt it was going to be, but equally we 're certainly not predicting a recovery in the second half. \"",
+    "entities": [
+      {
+        "text": "T&N",
+        "label": "ORG",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "Hope",
+        "label": "PER",
+        "start": 106,
+        "end": 110
+      }
+    ]
+  },
+  {
+    "text": "Wigan 3 2 1 0 5 2 7",
+    "entities": [
+      {
+        "text": "Wigan",
+        "label": "ORG",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "text": "ATHLETICS - MASTERKOVA BREAKS SECOND WORLD RECORD IN 10 DAYS.",
+    "entities": [
+      {
+        "text": "MASTERKOVA",
+        "label": "PER",
+        "start": 12,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "Result: Pakistan won by 9 wickets",
+    "entities": [
+      {
+        "text": "Pakistan",
+        "label": "LOC",
+        "start": 8,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "Feyenoord 2 Graafschap Doetinchem 1",
+    "entities": [
+      {
+        "text": "Feyenoord",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Graafschap Doetinchem",
+        "label": "ORG",
+        "start": 12,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "Ijaz Ahmad c Spearman b Vaughan 59",
+    "entities": [
+      {
+        "text": "Ijaz Ahmad",
+        "label": "PER",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Spearman",
+        "label": "PER",
+        "start": 13,
+        "end": 21
+      },
+      {
+        "text": "Vaughan",
+        "label": "PER",
+        "start": 24,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "Any deal, friendly or hostile, would almost assuredly be a stock swap, which is necessary to preserve the tax-free, pooling-of-interest accounting, they said.",
+    "entities": []
+  },
+  {
+    "text": "MONTREAL 1996-08-28",
+    "entities": [
+      {
+        "text": "MONTREAL",
+        "label": "LOC",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "the feat.",
+    "entities": []
+  },
+  {
+    "text": "1. Williams 149 points",
+    "entities": [
+      {
+        "text": "Williams",
+        "label": "ORG",
+        "start": 3,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "text": "\" In these weekly lunches we are going to get to know the problems of the Indian, mixed-race, black and peasant sectors, \" he said.",
+    "entities": []
+  },
+  {
+    "text": "Leicester 1 (Marshall 78) Blackburn 1 (Sutton 34).",
+    "entities": [
+      {
+        "text": "Leicester",
+        "label": "ORG",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Marshall",
+        "label": "PER",
+        "start": 13,
+        "end": 21
+      },
+      {
+        "text": "Blackburn",
+        "label": "ORG",
+        "start": 26,
+        "end": 35
+      },
+      {
+        "text": "Sutton",
+        "label": "PER",
+        "start": 39,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "text": "Young Boys 9 1 0 8 6 19 3",
+    "entities": [
+      {
+        "text": "Young Boys",
+        "label": "ORG",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "text": "South Africa's Truth and Reconciliation Commission said on Wednesday it would subpoena persons accused of human rights violations to appear before it.",
+    "entities": [
+      {
+        "text": "South Africa",
+        "label": "LOC",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Truth and Reconciliation Commission",
+        "label": "ORG",
+        "start": 15,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "text": "\" When the (profit) figures will bounce back up again is just a function of markets recovering just a fraction, \" he added.",
+    "entities": []
+  },
+  {
+    "text": "OB 42 6 61 .413 20",
+    "entities": [
+      {
+        "text": "OB",
+        "label": "ORG",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "text": "Recriminations built up over how the scandal's central figure, convicted child rapist Marc Dutroux, managed to prey on children unhindered for so long.",
+    "entities": [
+      {
+        "text": "Marc Dutroux",
+        "label": "PER",
+        "start": 86,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "text": "Bonn says Moscow has promised to observe ceasefire.",
+    "entities": [
+      {
+        "text": "Bonn",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Moscow",
+        "label": "LOC",
+        "start": 10,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "President Boris Yeltsin signed a decree on fighting crime in July and handed wide-ranging powers to security chief Alexander Lebed, currently engaged in making peace in breakaway Chechnya.",
+    "entities": [
+      {
+        "text": "Boris Yeltsin",
+        "label": "PER",
+        "start": 10,
+        "end": 23
+      },
+      {
+        "text": "Alexander Lebed",
+        "label": "PER",
+        "start": 115,
+        "end": 130
+      },
+      {
+        "text": "Chechnya",
+        "label": "LOC",
+        "start": 179,
+        "end": 187
+      }
+    ]
+  },
+  {
+    "text": "At Leicester: Leicestershire 343-8 (P. Simmons 108, P. Nixon",
+    "entities": [
+      {
+        "text": "Leicester",
+        "label": "LOC",
+        "start": 3,
+        "end": 12
+      },
+      {
+        "text": "Leicestershire",
+        "label": "ORG",
+        "start": 14,
+        "end": 28
+      },
+      {
+        "text": "P. Simmons",
+        "label": "PER",
+        "start": 36,
+        "end": 46
+      },
+      {
+        "text": "P. Nixon",
+        "label": "PER",
+        "start": 52,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "' ' In January or February, we 'll have some very close contacts with Mexico to add the issue of services and advance on the issue of investments, ' ' Aninat told reporters after signing a free trade deal with Canada.",
+    "entities": [
+      {
+        "text": "Mexico",
+        "label": "LOC",
+        "start": 70,
+        "end": 76
+      },
+      {
+        "text": "Aninat",
+        "label": "PER",
+        "start": 151,
+        "end": 157
+      },
+      {
+        "text": "Canada",
+        "label": "LOC",
+        "start": 210,
+        "end": 216
+      }
+    ]
+  },
+  {
+    "text": "2. Ludmila Engquist (Sweden) 12.74",
+    "entities": [
+      {
+        "text": "Ludmila Engquist",
+        "label": "PER",
+        "start": 3,
+        "end": 19
+      },
+      {
+        "text": "Sweden",
+        "label": "LOC",
+        "start": 21,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "ST LOUIS 70 65 .519 2 1/2",
+    "entities": [
+      {
+        "text": "ST LOUIS",
+        "label": "ORG",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "Earlier, Tendulkar completed his ninth century in one-day cricket, taking 138 balls to do it before being run out.",
+    "entities": [
+      {
+        "text": "Tendulkar",
+        "label": "PER",
+        "start": 9,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "Friday, August 30:",
+    "entities": []
+  },
+  {
+    "text": "Lierse 4 1 3 0 7 3 6",
+    "entities": [
+      {
+        "text": "Lierse",
+        "label": "ORG",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "The girl, Abyss DeJesus, suffers from a \" hairy nevus \" on the right side of her face, a condition that has only been reported a few times in medical journals, the St. Christopher Children's Hospital said.",
+    "entities": [
+      {
+        "text": "Abyss DeJesus",
+        "label": "PER",
+        "start": 10,
+        "end": 23
+      },
+      {
+        "text": "St. Christopher Children's Hospital",
+        "label": "LOC",
+        "start": 164,
+        "end": 199
+      }
+    ]
+  },
+  {
+    "text": "U.S. says still committed to Cuba migration pacts.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "Cuba",
+        "label": "LOC",
+        "start": 29,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "text": "Note: Top eight teams qualify for the quarter-finals.",
+    "entities": []
+  }
+]

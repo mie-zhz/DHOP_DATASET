@@ -1,0 +1,2472 @@
+[
+  {
+    "text": "We can see its echo in the works of such very different writers as Daniel Defoe, William Makepeace Thackeray, the Brontës, Samuel Taylor Coleridge, T. S. Eliot and even Dorothy L. Sayers.",
+    "entities": [
+      {
+        "text": "Daniel Defoe",
+        "label": "writer",
+        "start": 67,
+        "end": 79
+      },
+      {
+        "text": "William Makepeace Thackeray",
+        "label": "writer",
+        "start": 81,
+        "end": 108
+      },
+      {
+        "text": "Brontës",
+        "label": "writer",
+        "start": 114,
+        "end": 121
+      },
+      {
+        "text": "Samuel Taylor Coleridge",
+        "label": "writer",
+        "start": 123,
+        "end": 146
+      },
+      {
+        "text": "T. S. Eliot",
+        "label": "writer",
+        "start": 148,
+        "end": 159
+      },
+      {
+        "text": "Dorothy L. Sayers",
+        "label": "writer",
+        "start": 169,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "text": "In the late 1980s, Coppola started considering concepts for a motion picture based upon the 19th-century novel The Adventures of Pinocchio, and in 1991 Coppola and Warner Bros. began discussing the project as well as two others involving the life of J. Edgar Hoover and the children's novel The Secret Garden.",
+    "entities": [
+      {
+        "text": "Coppola",
+        "label": "writer",
+        "start": 19,
+        "end": 26
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 105,
+        "end": 110
+      },
+      {
+        "text": "The Adventures of Pinocchio",
+        "label": "book",
+        "start": 111,
+        "end": 138
+      },
+      {
+        "text": "Coppola",
+        "label": "writer",
+        "start": 152,
+        "end": 159
+      },
+      {
+        "text": "J. Edgar Hoover",
+        "label": "writer",
+        "start": 250,
+        "end": 265
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 285,
+        "end": 290
+      },
+      {
+        "text": "The Secret Garden",
+        "label": "book",
+        "start": 291,
+        "end": 308
+      }
+    ]
+  },
+  {
+    "text": "Years later, Lead Me On would be chosen as the greatest Contemporary Christian album of all time by CCM Magazine.",
+    "entities": []
+  },
+  {
+    "text": "It is partially a science-fictional pastiche of Moby-Dick by Herman Melville.",
+    "entities": [
+      {
+        "text": "science-fictional",
+        "label": "literarygenre",
+        "start": 18,
+        "end": 35
+      },
+      {
+        "text": "Moby-Dick",
+        "label": "book",
+        "start": 48,
+        "end": 57
+      },
+      {
+        "text": "Herman Melville",
+        "label": "writer",
+        "start": 61,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "text": "At Analog, Bova won six Hugo Award s for Hugo Award for Best Professional Editor.",
+    "entities": [
+      {
+        "text": "Bova",
+        "label": "writer",
+        "start": 11,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "text": "Diaries had been written by men in Chinese for some time, but in the early tenth century Ki no Tsurayuki chose to write his Tosa Nikki from the standpoint of a woman, in kana.",
+    "entities": [
+      {
+        "text": "Ki no Tsurayuki",
+        "label": "writer",
+        "start": 89,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "He dedicated his poem Fragments of Olympian Gossip to Viereck, a work in which Tesla ridiculed the scientific establishment of the day.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 17,
+        "end": 21
+      },
+      {
+        "text": "Viereck",
+        "label": "location",
+        "start": 54,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "text": "In the early 6th century BC, the Kingdom of Judah rebelled against the Neo-Babylonian Empire and was destroyed.",
+    "entities": []
+  },
+  {
+    "text": "Disraeli's early silver fork novels Vivian Grey (1826) and The Young Duke (1831) featured romanticised depictions of aristocratic life (despite his ignorance of it) with character sketches of well-known public figures lightly disguised.",
+    "entities": [
+      {
+        "text": "Disraeli",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "silver fork novels",
+        "label": "literarygenre",
+        "start": 17,
+        "end": 35
+      },
+      {
+        "text": "Vivian Grey",
+        "label": "book",
+        "start": 36,
+        "end": 47
+      },
+      {
+        "text": "The Young Duke",
+        "label": "book",
+        "start": 59,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "text": "He reprised the role in Evil Under the Sun (1982) and Appointment with Death (1988).",
+    "entities": [
+      {
+        "text": "Evil Under the Sun",
+        "label": "book",
+        "start": 24,
+        "end": 42
+      },
+      {
+        "text": "Appointment with Death",
+        "label": "book",
+        "start": 54,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "text": "Alan Moore had this to say about the use of the Guy Fawkes motif adopted from his comic V for Vendetta, in an interview with Entertainment Weekly:",
+    "entities": [
+      {
+        "text": "Alan Moore",
+        "label": "writer",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Guy Fawkes",
+        "label": "person",
+        "start": 48,
+        "end": 58
+      },
+      {
+        "text": "V for Vendetta",
+        "label": "book",
+        "start": 88,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "text": "She subsequently received critical acclaim for her performances in films such as Silkwood (1983), Mask (1985), The Witches of Eastwick (1987), and Moonstruck (1987), with the latter having earned her the Academy Award for Best Actress.",
+    "entities": []
+  },
+  {
+    "text": "In 1965, he founded with Daniel Weissbort the journal Modern Poetry in Translation, which involved bringing to the attention of the West the work of Czesław Miłosz, who would later go on to win the Nobel Prize in Literature.",
+    "entities": [
+      {
+        "text": "Daniel Weissbort",
+        "label": "writer",
+        "start": 25,
+        "end": 41
+      },
+      {
+        "text": "Czesław Miłosz",
+        "label": "writer",
+        "start": 149,
+        "end": 163
+      }
+    ]
+  },
+  {
+    "text": "In 1550, one year after Marguerite's death, a tributary poem, Hecatodistichon, was published in England.",
+    "entities": [
+      {
+        "text": "Marguerite",
+        "label": "writer",
+        "start": 24,
+        "end": 34
+      },
+      {
+        "text": "tributary poem",
+        "label": "literarygenre",
+        "start": 46,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "Adapted by Anne Washburn and directed by Laurence Olivier Award winner Richard Jones, and will be based on stories from the original series by Rod Serling, Charles Beaumont and Richard Matheson.",
+    "entities": [
+      {
+        "text": "Anne Washburn",
+        "label": "writer",
+        "start": 11,
+        "end": 24
+      },
+      {
+        "text": "Richard Jones",
+        "label": "person",
+        "start": 71,
+        "end": 84
+      },
+      {
+        "text": "Rod Serling",
+        "label": "writer",
+        "start": 143,
+        "end": 154
+      },
+      {
+        "text": "Charles Beaumont",
+        "label": "writer",
+        "start": 156,
+        "end": 172
+      },
+      {
+        "text": "Richard Matheson",
+        "label": "writer",
+        "start": 177,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "text": "Andy Warhol was commissioned in 1984 by collector and gallerist Alexander Iolas to produce work based on Leonardo da Vinci ' s The Last Supper for an exhibition at the old refectory of the Palazzo delle Stelline in Milan, opposite from the Santa Maria delle Grazie where Leonardo da Vinci's mural can be seen.",
+    "entities": [
+      {
+        "text": "Andy Warhol",
+        "label": "writer",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Alexander Iolas",
+        "label": "person",
+        "start": 64,
+        "end": 79
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "label": "person",
+        "start": 105,
+        "end": 122
+      },
+      {
+        "text": "Palazzo delle Stelline",
+        "label": "location",
+        "start": 189,
+        "end": 211
+      },
+      {
+        "text": "Milan",
+        "label": "location",
+        "start": 215,
+        "end": 220
+      },
+      {
+        "text": "Santa Maria delle Grazie",
+        "label": "location",
+        "start": 240,
+        "end": 264
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "label": "person",
+        "start": 271,
+        "end": 288
+      }
+    ]
+  },
+  {
+    "text": "He was the Playboy interview subject in December 1965, in a conversation conducted by Alvin Toffler.",
+    "entities": [
+      {
+        "text": "Alvin Toffler",
+        "label": "writer",
+        "start": 86,
+        "end": 99
+      }
+    ]
+  },
+  {
+    "text": "His fictional work, Redburn (1849), and his non-fiction White-Jacket (1850) were given better reviews but did not provide financial security.",
+    "entities": [
+      {
+        "text": "fictional work",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 18
+      },
+      {
+        "text": "Redburn",
+        "label": "book",
+        "start": 20,
+        "end": 27
+      },
+      {
+        "text": "White-Jacket",
+        "label": "book",
+        "start": 56,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "text": "Eventually, under the guidance of L. Sprague de Camp and Lin Carter, the stories were edited, revised, and sometimes rewritten.",
+    "entities": [
+      {
+        "text": "L. Sprague de Camp",
+        "label": "writer",
+        "start": 34,
+        "end": 52
+      },
+      {
+        "text": "Lin Carter",
+        "label": "writer",
+        "start": 57,
+        "end": 67
+      }
+    ]
+  },
+  {
+    "text": "He was a court poet of Udaya Varma (1446-1475) and the author of Krishnagatha, a poem which is considered a landmark in the development of Malayalam literature.",
+    "entities": [
+      {
+        "text": "Udaya Varma",
+        "label": "person",
+        "start": 23,
+        "end": 34
+      },
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 81,
+        "end": 85
+      },
+      {
+        "text": "Malayalam literature",
+        "label": "literarygenre",
+        "start": 139,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "See Gubbinal and The Snow Man for other experiments in perspective.",
+    "entities": []
+  },
+  {
+    "text": "Hasanaginica was the only authentic ballad included into La Guzla, an 1827 literary hoax of Prosper Mérimée.",
+    "entities": [
+      {
+        "text": "Hasanaginica",
+        "label": "book",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Prosper Mérimée",
+        "label": "writer",
+        "start": 92,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "text": "Percy is known for his philosophical novels set in and around New Orleans; the first, The Moviegoer, won the U.S. National Book Award for Fiction.",
+    "entities": [
+      {
+        "text": "Percy",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "philosophical novels",
+        "label": "literarygenre",
+        "start": 23,
+        "end": 43
+      },
+      {
+        "text": "New Orleans",
+        "label": "location",
+        "start": 62,
+        "end": 73
+      },
+      {
+        "text": "The Moviegoer",
+        "label": "book",
+        "start": 86,
+        "end": 99
+      }
+    ]
+  },
+  {
+    "text": "The several characters live within a divided United States, in which the Empire of Japan takes the Pacific states, governing them as a puppet, Nazi Germany takes the East Coast of the United States and parts of the Midwest, with the remnants of the old United States ' government as the Neutral Zone, a buffer state between the two superpowers.",
+    "entities": [
+      {
+        "text": "Pacific states",
+        "label": "location",
+        "start": 99,
+        "end": 113
+      },
+      {
+        "text": "East Coast of the United States",
+        "label": "location",
+        "start": 166,
+        "end": 197
+      },
+      {
+        "text": "Midwest",
+        "label": "location",
+        "start": 215,
+        "end": 222
+      },
+      {
+        "text": "Neutral Zone",
+        "label": "location",
+        "start": 287,
+        "end": 299
+      }
+    ]
+  },
+  {
+    "text": "Among his awards for particular works were: Hugo Award s, in 1963 for The Dragon Masters, in 1967 for The Last Castle, and in 2010 for his memoir This is Me, Jack Vance!; a Nebula Award in 1966, also for The Last Castle; the Jupiter Award in 1975; the World Fantasy Award in 1990 for Lyonesse: Madouc.",
+    "entities": [
+      {
+        "text": "The Dragon Masters",
+        "label": "book",
+        "start": 70,
+        "end": 88
+      },
+      {
+        "text": "The Last Castle",
+        "label": "book",
+        "start": 102,
+        "end": 117
+      },
+      {
+        "text": "This is Me, Jack Vance!",
+        "label": "book",
+        "start": 146,
+        "end": 169
+      },
+      {
+        "text": "The Last Castle",
+        "label": "book",
+        "start": 204,
+        "end": 219
+      },
+      {
+        "text": "Lyonesse: Madouc",
+        "label": "book",
+        "start": 284,
+        "end": 300
+      }
+    ]
+  },
+  {
+    "text": "William wrote the Arthurian epic Gesta Regum Britanniae, in Latin hexameters, which he completed just after 1236.",
+    "entities": [
+      {
+        "text": "William",
+        "label": "writer",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "The title is taken from his poem The Negro Speaks of Rivers.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 28,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "text": "Frances Yates in her 1966 study The Art of Memory argues that a brief passage of the Confessions, 10.8.12, in which Augustine writes of walking up a flight of stairs and entering the vast fields of memory technique for organizing large amounts of information.",
+    "entities": [
+      {
+        "text": "Frances Yates",
+        "label": "writer",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "The Art of Memory",
+        "label": "book",
+        "start": 32,
+        "end": 49
+      },
+      {
+        "text": "Confessions",
+        "label": "book",
+        "start": 85,
+        "end": 96
+      },
+      {
+        "text": "Augustine",
+        "label": "writer",
+        "start": 116,
+        "end": 125
+      }
+    ]
+  },
+  {
+    "text": "Other biographers, such as Peter Ackroyd, have offered a more sympathetic picture of More as both a sophisticated philosopher and man of letters, as well as a zealous Catholic who believed in the authority of the Holy See over Christendom.",
+    "entities": [
+      {
+        "text": "Peter Ackroyd",
+        "label": "writer",
+        "start": 27,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "text": "The work was such a popular success that the poet wrote a sequel, Remedia Amoris (Remedies for Love).",
+    "entities": []
+  },
+  {
+    "text": "But in 1950, he starred as the teenager Bigger Thomas (Wright was 42) in an Argentina film version of Native Son.",
+    "entities": [
+      {
+        "text": "Bigger Thomas",
+        "label": "person",
+        "start": 40,
+        "end": 53
+      },
+      {
+        "text": "Wright",
+        "label": "person",
+        "start": 55,
+        "end": 61
+      },
+      {
+        "text": "Native Son",
+        "label": "book",
+        "start": 102,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "text": "On June 17, 1915, shortly after submitting his patent application for the doll's design, Johnny Gruelle applied for a registered trademark for the Raggedy Ann name, which he created by combining words from two of James Whitcomb Riley poems, The Raggedy Man and Little Orphant Annie.",
+    "entities": [
+      {
+        "text": "Johnny Gruelle",
+        "label": "person",
+        "start": 89,
+        "end": 103
+      },
+      {
+        "text": "James Whitcomb Riley",
+        "label": "writer",
+        "start": 213,
+        "end": 233
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 234,
+        "end": 239
+      }
+    ]
+  },
+  {
+    "text": "This uses the words of war poet Wilfred Owen ' s At a Calvary near the Ancre.",
+    "entities": [
+      {
+        "text": "Wilfred Owen",
+        "label": "writer",
+        "start": 32,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "text": "He also gave a lecture at the Beethovensaal in Berlin on 13 October 1922, which appeared in Neue Rundschau in November 1922 in which he developed his eccentric defence of the Republic, based on extensive close readings of Novalis and Walt Whitman.",
+    "entities": [
+      {
+        "text": "Beethovensaal",
+        "label": "location",
+        "start": 30,
+        "end": 43
+      },
+      {
+        "text": "Berlin",
+        "label": "location",
+        "start": 47,
+        "end": 53
+      },
+      {
+        "text": "Novalis",
+        "label": "writer",
+        "start": 222,
+        "end": 229
+      },
+      {
+        "text": "Walt Whitman",
+        "label": "writer",
+        "start": 234,
+        "end": 246
+      }
+    ]
+  },
+  {
+    "text": "Rolling Stone magazine ranked him number 13 in its list of 100 Greatest Artists.",
+    "entities": []
+  },
+  {
+    "text": "Spears has earned numerous awards and accolades, including a Grammy Award; seven Guinness World Records; six MTV Video Music Awards, including the Michael Jackson Video Vanguard Award; seven Billboard Music Awards, including the Millennium Award; the inaugural Radio Disney Icon Award; the GLAAD Media Award ' s Vanguard Award and a star on the Hollywood Walk of Fame.",
+    "entities": [
+      {
+        "text": "Spears",
+        "label": "writer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Guinness World Records",
+        "label": "book",
+        "start": 81,
+        "end": 103
+      },
+      {
+        "text": "Hollywood Walk of Fame",
+        "label": "location",
+        "start": 345,
+        "end": 367
+      }
+    ]
+  },
+  {
+    "text": "Landing in Boston, he devoted the rest of the month to a round of dinners with such notables as Ralph Waldo Emerson, Henry Wadsworth Longfellow, and his American publisher, James Thomas Fields.",
+    "entities": [
+      {
+        "text": "Boston",
+        "label": "location",
+        "start": 11,
+        "end": 17
+      },
+      {
+        "text": "Ralph Waldo Emerson",
+        "label": "writer",
+        "start": 96,
+        "end": 115
+      },
+      {
+        "text": "Henry Wadsworth Longfellow",
+        "label": "writer",
+        "start": 117,
+        "end": 143
+      },
+      {
+        "text": "James Thomas Fields",
+        "label": "writer",
+        "start": 173,
+        "end": 192
+      }
+    ]
+  },
+  {
+    "text": "It was during the 1960s that Warhol began to make paintings of iconic American objects such as dollar bills, mushroom cloud s, electric chair s, Campbell's Soup Cans, Coca-Cola bottles, celebrities such as Marilyn Monroe, Elvis Presley, Marlon Brando, Troy Donahue, Muhammad Ali, and Elizabeth Taylor, as well as newspaper headlines or photographs of police dogs attacking African-American protesters during the Birmingham campaign in the civil rights movement.",
+    "entities": [
+      {
+        "text": "Warhol",
+        "label": "writer",
+        "start": 29,
+        "end": 35
+      },
+      {
+        "text": "Marilyn Monroe",
+        "label": "person",
+        "start": 206,
+        "end": 220
+      },
+      {
+        "text": "Elvis Presley",
+        "label": "person",
+        "start": 222,
+        "end": 235
+      },
+      {
+        "text": "Marlon Brando",
+        "label": "person",
+        "start": 237,
+        "end": 250
+      },
+      {
+        "text": "Troy Donahue",
+        "label": "person",
+        "start": 252,
+        "end": 264
+      },
+      {
+        "text": "Muhammad Ali",
+        "label": "person",
+        "start": 266,
+        "end": 278
+      },
+      {
+        "text": "Elizabeth Taylor",
+        "label": "person",
+        "start": 284,
+        "end": 300
+      }
+    ]
+  },
+  {
+    "text": "Conversely, Joe Haldeman ' s 1974 anti-war, Hugo Award - and Nebula Award -winning science fiction novel The Forever War is popularly thought to be a direct reply to Starship Troopers, and though Haldeman has stated that it is actually a result of his personal experiences in the Vietnam War, he has admitted to being influenced by Starship Troopers.",
+    "entities": [
+      {
+        "text": "Joe Haldeman",
+        "label": "writer",
+        "start": 12,
+        "end": 24
+      },
+      {
+        "text": "science fiction novel",
+        "label": "literarygenre",
+        "start": 83,
+        "end": 104
+      },
+      {
+        "text": "The Forever War",
+        "label": "book",
+        "start": 105,
+        "end": 120
+      },
+      {
+        "text": "Starship Troopers",
+        "label": "book",
+        "start": 166,
+        "end": 183
+      },
+      {
+        "text": "Haldeman",
+        "label": "writer",
+        "start": 196,
+        "end": 204
+      },
+      {
+        "text": "Starship Troopers",
+        "label": "book",
+        "start": 332,
+        "end": 349
+      }
+    ]
+  },
+  {
+    "text": "February 2015 saw Ellis release his first album as Zarelli, Soft Rains on the Seriés Aphōnos label - a mostly instrumental synthesizer record, featuring the voice of Leonard Nimoy reading the Ray Bradbury short story There Will Come Soft Rains.",
+    "entities": [
+      {
+        "text": "Ellis",
+        "label": "person",
+        "start": 18,
+        "end": 23
+      },
+      {
+        "text": "Zarelli",
+        "label": "person",
+        "start": 51,
+        "end": 58
+      },
+      {
+        "text": "Leonard Nimoy",
+        "label": "person",
+        "start": 166,
+        "end": 179
+      },
+      {
+        "text": "Ray Bradbury",
+        "label": "writer",
+        "start": 192,
+        "end": 204
+      },
+      {
+        "text": "short story",
+        "label": "literarygenre",
+        "start": 205,
+        "end": 216
+      }
+    ]
+  },
+  {
+    "text": "His books include those of Timeline 191 (a.k.a. Southern Victory, also known as TL-191), in which, while the Confederate States of America won the American Civil War, the Union and German Empire defeat the Entente Powers in the two Great War s of the 1910s and 1940s (with a Nazi-esque Confederate government attempting to exterminate its Black population), and the Worldwar series, in which aliens invaded Earth during World War II.",
+    "entities": [
+      {
+        "text": "Timeline 191",
+        "label": "book",
+        "start": 27,
+        "end": 39
+      },
+      {
+        "text": "Southern Victory",
+        "label": "book",
+        "start": 48,
+        "end": 64
+      },
+      {
+        "text": "TL-191",
+        "label": "book",
+        "start": 80,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "text": "Examples include the chansons de geste, Macaire, the Entre en Espagne written by Niccola of Padua, the Prise de Pampelune, and others.",
+    "entities": [
+      {
+        "text": "Niccola of Padua",
+        "label": "writer",
+        "start": 81,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "Her last novel, Unless (2002), was nominated for the 2002 Giller Prize, the Governor General of Canada Literary Award, the Booker Prize and the 2003 Orange Prize for Fiction.",
+    "entities": [
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "text": "Unless",
+        "label": "book",
+        "start": 16,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "text": "Among his most celebrated tales are The Call of Cthulhu, The Rats in the Walls, At the Mountains of Madness, The Shadow over Innsmouth, and The Shadow Out of Time.",
+    "entities": [
+      {
+        "text": "The Call of Cthulhu",
+        "label": "book",
+        "start": 36,
+        "end": 55
+      },
+      {
+        "text": "The Rats in the Walls",
+        "label": "book",
+        "start": 57,
+        "end": 78
+      },
+      {
+        "text": "At the Mountains of Madness",
+        "label": "book",
+        "start": 80,
+        "end": 107
+      },
+      {
+        "text": "The Shadow over Innsmouth",
+        "label": "book",
+        "start": 109,
+        "end": 134
+      },
+      {
+        "text": "The Shadow Out of Time",
+        "label": "book",
+        "start": 140,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "text": "Iain Moncreiffe and Don Pottinger jokingly mentioned in their 1956 book Blood Royal the sentence: Without Little Father need for Big Brother, referring to the Russian Revolution and the Soviet Union.",
+    "entities": [
+      {
+        "text": "Iain Moncreiffe",
+        "label": "writer",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "Don Pottinger",
+        "label": "writer",
+        "start": 20,
+        "end": 33
+      },
+      {
+        "text": "Blood Royal",
+        "label": "book",
+        "start": 72,
+        "end": 83
+      },
+      {
+        "text": "Little Father",
+        "label": "person",
+        "start": 106,
+        "end": 119
+      },
+      {
+        "text": "Big Brother",
+        "label": "person",
+        "start": 129,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "text": "In 1974 he received his PhD in English from the University at Buffalo with a thesis on Djuna Barnes, Malcolm Lowry, and Nathanael West .ref name = En",
+    "entities": [
+      {
+        "text": "Djuna Barnes",
+        "label": "writer",
+        "start": 87,
+        "end": 99
+      },
+      {
+        "text": "Malcolm Lowry",
+        "label": "writer",
+        "start": 101,
+        "end": 114
+      },
+      {
+        "text": "Nathanael West",
+        "label": "writer",
+        "start": 120,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "text": "The Saga of Eric Brighteyes is an epic viking novel by H. Rider Haggard that concerns the adventures of its eponymous principal character in 10th-century Iceland.",
+    "entities": [
+      {
+        "text": "The Saga of Eric Brighteyes",
+        "label": "book",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "epic viking novel",
+        "label": "literarygenre",
+        "start": 34,
+        "end": 51
+      },
+      {
+        "text": "H. Rider Haggard",
+        "label": "writer",
+        "start": 55,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "text": "Truffaut is admired among other filmmakers and several tributes to his work have appeared in other films such as Almost Famous, Face and The Diving Bell and the Butterfly, as well as novelist Haruki Murakami ' s Kafka on the Shore.",
+    "entities": [
+      {
+        "text": "Truffaut",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Haruki Murakami",
+        "label": "writer",
+        "start": 192,
+        "end": 207
+      },
+      {
+        "text": "Kafka on the Shore",
+        "label": "book",
+        "start": 212,
+        "end": 230
+      }
+    ]
+  },
+  {
+    "text": "They had the opportunity to win the cup permanently, but lost 2-1 to Barcelona at Camp Nou in the Inter-Cities Fairs Cup Trophy Play-Off.",
+    "entities": [
+      {
+        "text": "Barcelona",
+        "label": "location",
+        "start": 69,
+        "end": 78
+      },
+      {
+        "text": "Camp Nou",
+        "label": "location",
+        "start": 82,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "text": "In The New York Review of Books Christopher Ricks wrote of the refinement of self-consciousness, usually flawless in its execution and Larkin's summoning up of the world of all of us, the place where, in the end, we find our happiness, or not at all.",
+    "entities": [
+      {
+        "text": "Christopher Ricks",
+        "label": "writer",
+        "start": 32,
+        "end": 49
+      },
+      {
+        "text": "Larkin",
+        "label": "writer",
+        "start": 135,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "Early in his career, he published short stories and poetry and edited the literary magazine Oxford Poetry, before going on to publish travel writing, satire, and screenplays.",
+    "entities": [
+      {
+        "text": "short stories",
+        "label": "literarygenre",
+        "start": 34,
+        "end": 47
+      },
+      {
+        "text": "poetry",
+        "label": "literarygenre",
+        "start": 52,
+        "end": 58
+      },
+      {
+        "text": "satire",
+        "label": "literarygenre",
+        "start": 150,
+        "end": 156
+      }
+    ]
+  },
+  {
+    "text": "One of his poems, Ikke Bødlen, was featured as one of the best poems on Human Rights on a 1979 book published by Amnesty International Denmark, and would be later translated into the first verse of Roger Waters ' song Each Small Candle.",
+    "entities": [
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 11,
+        "end": 16
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 63,
+        "end": 68
+      },
+      {
+        "text": "verse",
+        "label": "literarygenre",
+        "start": 189,
+        "end": 194
+      },
+      {
+        "text": "Roger Waters",
+        "label": "writer",
+        "start": 198,
+        "end": 210
+      }
+    ]
+  },
+  {
+    "text": "Adams's posthumously published work, The Salmon of Doubt, features several articles by him on the subject of technology, including reprints of articles that originally ran in MacUser magazine, and in The Independent on Sunday newspaper.",
+    "entities": [
+      {
+        "text": "Adams",
+        "label": "writer",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "The Salmon of Doubt",
+        "label": "book",
+        "start": 37,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "text": "In 1900, Potter revised her tale about the four little rabbits, and fashioned a dummy book of it - it has been suggested, in imitation of Helen Bannerman ' s 1899 bestseller The Story of Little Black Sambo .Stevenson, Laura C. A Vogue for Small Books: The Tale of Peter Rabbit and its Contemporary Competitors to reproduce her watercolours.",
+    "entities": [
+      {
+        "text": "Potter",
+        "label": "writer",
+        "start": 9,
+        "end": 15
+      },
+      {
+        "text": "Helen Bannerman",
+        "label": "writer",
+        "start": 138,
+        "end": 153
+      },
+      {
+        "text": "The Story of Little Black Sambo",
+        "label": "book",
+        "start": 174,
+        "end": 205
+      },
+      {
+        "text": ".Stevenson, Laura C.",
+        "label": "writer",
+        "start": 206,
+        "end": 226
+      },
+      {
+        "text": "A Vogue for Small Books: The Tale of Peter Rabbit",
+        "label": "book",
+        "start": 227,
+        "end": 276
+      }
+    ]
+  },
+  {
+    "text": "For example, Holmes falls in love and marries in Laurie R. King ' s Mary Russell series, is re-animated after his death to fight future crime in the animated series Sherlock Holmes in the 22nd Century, and is meshed with the setting of H. P. Lovecraft ' s Cthulhu Mythos in Neil Gaiman ' s A Study in Emerald (which won the 2004 Hugo Award for Best Short Story).",
+    "entities": [
+      {
+        "text": "Holmes",
+        "label": "person",
+        "start": 13,
+        "end": 19
+      },
+      {
+        "text": "Laurie R. King",
+        "label": "writer",
+        "start": 49,
+        "end": 63
+      },
+      {
+        "text": "H. P. Lovecraft",
+        "label": "writer",
+        "start": 236,
+        "end": 251
+      },
+      {
+        "text": "Cthulhu Mythos",
+        "label": "book",
+        "start": 256,
+        "end": 270
+      },
+      {
+        "text": "Neil Gaiman",
+        "label": "writer",
+        "start": 274,
+        "end": 285
+      },
+      {
+        "text": "A Study in Emerald",
+        "label": "book",
+        "start": 290,
+        "end": 308
+      }
+    ]
+  },
+  {
+    "text": "Vernor Steffen Vinge (He has won the Hugo Award for his novels and novellas A Fire Upon the Deep (1992), A Deepness in the Sky (1999), Rainbows End (2006), Fast Times at Fairmont High (2002), and The Cookie Monster (2004).",
+    "entities": [
+      {
+        "text": "Vernor Steffen Vinge",
+        "label": "writer",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 56,
+        "end": 62
+      },
+      {
+        "text": "novellas",
+        "label": "literarygenre",
+        "start": 67,
+        "end": 75
+      },
+      {
+        "text": "A Fire Upon the Deep",
+        "label": "book",
+        "start": 76,
+        "end": 96
+      },
+      {
+        "text": "A Deepness in the Sky",
+        "label": "book",
+        "start": 105,
+        "end": 126
+      },
+      {
+        "text": "Rainbows End",
+        "label": "book",
+        "start": 135,
+        "end": 147
+      },
+      {
+        "text": "Fast Times at Fairmont High",
+        "label": "book",
+        "start": 156,
+        "end": 183
+      },
+      {
+        "text": "The Cookie Monster",
+        "label": "book",
+        "start": 196,
+        "end": 214
+      }
+    ]
+  },
+  {
+    "text": "It is similar to the Historia Regum Britanniae by Geoffrey of Monmouth and was meant to rival the epic Alexandreis by Walter of Châtillon",
+    "entities": [
+      {
+        "text": "Historia Regum Britanniae",
+        "label": "book",
+        "start": 21,
+        "end": 46
+      },
+      {
+        "text": "Geoffrey of Monmouth",
+        "label": "writer",
+        "start": 50,
+        "end": 70
+      },
+      {
+        "text": "Walter of Châtillon",
+        "label": "writer",
+        "start": 118,
+        "end": 137
+      }
+    ]
+  },
+  {
+    "text": "Owen's experiences with religion also heavily influenced his poetry, notably in poems such as Anthem for Doomed Youth, in which the ceremony of a funeral is re-enacted not in a church, but on the battlefield itself, and At a Calvary near the Ancre, which comments on the Crucifixion of Christ.",
+    "entities": [
+      {
+        "text": "Owen",
+        "label": "writer",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "poetry",
+        "label": "literarygenre",
+        "start": 61,
+        "end": 67
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 80,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "text": "The poem's major source is Guido delle Colonne ' s Historia destructionis Troiae.",
+    "entities": [
+      {
+        "text": "poem",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "Guido delle Colonne",
+        "label": "writer",
+        "start": 27,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "text": "H. G. Wells praised Growth of the Soil (1917) for which Hamsun was awarded the Nobel Prize in Literature.",
+    "entities": [
+      {
+        "text": "H. G. Wells",
+        "label": "writer",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "Growth of the Soil",
+        "label": "book",
+        "start": 20,
+        "end": 38
+      },
+      {
+        "text": "Hamsun",
+        "label": "writer",
+        "start": 56,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "text": "In addition to receiving a star on the Hollywood Walk of Fame, media appearances included write-ups in CCM Magazine, and a performance on The View.",
+    "entities": [
+      {
+        "text": "Hollywood Walk of Fame",
+        "label": "location",
+        "start": 39,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "text": "In Rebuilding Russia, an essay first published in 1990 in Komsomolskaya Pravda Solzhenitsyn urged the Soviet Union to grant independence to all the non-Slav republics, which he claimed were sapping the Russian nation and he called for the creation of a new Slavic state bringing together Russia, Ukraine, Belarus, and parts of Kazakhstan that he considered to be Russified.",
+    "entities": [
+      {
+        "text": "Rebuilding Russia",
+        "label": "book",
+        "start": 3,
+        "end": 20
+      },
+      {
+        "text": "Solzhenitsyn",
+        "label": "writer",
+        "start": 79,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "text": "The Great Hunt is a fantasy novel by United States author Robert Jordan, the second book of The Wheel of Time series.",
+    "entities": [
+      {
+        "text": "The Great Hunt",
+        "label": "book",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "fantasy novel",
+        "label": "literarygenre",
+        "start": 20,
+        "end": 33
+      },
+      {
+        "text": "Robert Jordan",
+        "label": "writer",
+        "start": 58,
+        "end": 71
+      },
+      {
+        "text": "The Wheel of Time",
+        "label": "book",
+        "start": 92,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "text": "Examples of allegory in popular culture that may or may not have been intended include the works of Bertolt Brecht, and even some works of science fiction and fantasy, such as The Chronicles of Narnia by C. S. Lewis.",
+    "entities": [
+      {
+        "text": "Bertolt Brecht",
+        "label": "writer",
+        "start": 100,
+        "end": 114
+      },
+      {
+        "text": "science fiction",
+        "label": "literarygenre",
+        "start": 139,
+        "end": 154
+      },
+      {
+        "text": "fantasy",
+        "label": "literarygenre",
+        "start": 159,
+        "end": 166
+      },
+      {
+        "text": "The Chronicles of Narnia",
+        "label": "book",
+        "start": 176,
+        "end": 200
+      },
+      {
+        "text": "C. S. Lewis",
+        "label": "writer",
+        "start": 204,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "In 2005, McEntire starred as Nellie Forbush in the Carnegie Hall concert production of the Broadway musical South Pacific with Alec Baldwin as Luther Billis and Brian Stokes Mitchell as Emile de Becque, directed by Walter Bobbie and with an adapted script by David Ives.",
+    "entities": [
+      {
+        "text": "McEntire",
+        "label": "person",
+        "start": 9,
+        "end": 17
+      },
+      {
+        "text": "Nellie Forbush",
+        "label": "person",
+        "start": 29,
+        "end": 43
+      },
+      {
+        "text": "Carnegie Hall concert",
+        "label": "location",
+        "start": 51,
+        "end": 72
+      },
+      {
+        "text": "Alec Baldwin",
+        "label": "person",
+        "start": 127,
+        "end": 139
+      },
+      {
+        "text": "Luther Billis",
+        "label": "person",
+        "start": 143,
+        "end": 156
+      },
+      {
+        "text": "Brian Stokes Mitchell",
+        "label": "person",
+        "start": 161,
+        "end": 182
+      },
+      {
+        "text": "Emile de Becque",
+        "label": "person",
+        "start": 186,
+        "end": 201
+      },
+      {
+        "text": "Walter Bobbie",
+        "label": "person",
+        "start": 215,
+        "end": 228
+      },
+      {
+        "text": "David Ives",
+        "label": "writer",
+        "start": 259,
+        "end": 269
+      }
+    ]
+  },
+  {
+    "text": "In Ginsberg's first year at Columbia he met fellow undergraduate Lucien Carr, who introduced him to a number of future Beat writers, including Jack Kerouac, William S. Burroughs, and John Clellon Holmes.",
+    "entities": [
+      {
+        "text": "Ginsberg",
+        "label": "writer",
+        "start": 3,
+        "end": 11
+      },
+      {
+        "text": "Columbia",
+        "label": "location",
+        "start": 28,
+        "end": 36
+      },
+      {
+        "text": "Lucien Carr",
+        "label": "writer",
+        "start": 65,
+        "end": 76
+      },
+      {
+        "text": "Jack Kerouac",
+        "label": "writer",
+        "start": 143,
+        "end": 155
+      },
+      {
+        "text": "William S. Burroughs",
+        "label": "writer",
+        "start": 157,
+        "end": 177
+      },
+      {
+        "text": "John Clellon Holmes",
+        "label": "writer",
+        "start": 183,
+        "end": 202
+      }
+    ]
+  },
+  {
+    "text": "In 1985, Spielberg released The Color Purple, an adaptation of Alice Walker ' s Pulitzer Prize -winning The Color Purple, about a generation of empowered African-American women during depression-era America.",
+    "entities": [
+      {
+        "text": "Spielberg",
+        "label": "writer",
+        "start": 9,
+        "end": 18
+      },
+      {
+        "text": "The Color Purple",
+        "label": "book",
+        "start": 28,
+        "end": 44
+      },
+      {
+        "text": "Alice Walker",
+        "label": "writer",
+        "start": 63,
+        "end": 75
+      },
+      {
+        "text": "The Color Purple",
+        "label": "book",
+        "start": 104,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "From Adam Bede to The Mill on the Floss and Silas Marner, Eliot presented the cases of social outsiders and small-town persecution.",
+    "entities": [
+      {
+        "text": "Adam Bede",
+        "label": "book",
+        "start": 5,
+        "end": 14
+      },
+      {
+        "text": "The Mill on the Floss",
+        "label": "book",
+        "start": 18,
+        "end": 39
+      },
+      {
+        "text": "Silas Marner",
+        "label": "book",
+        "start": 44,
+        "end": 56
+      },
+      {
+        "text": "Eliot",
+        "label": "writer",
+        "start": 58,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "text": "In 1857, Dickens hired professional actresses for the play The Frozen Deep, written by him and his protégé, Wilkie Collins.",
+    "entities": [
+      {
+        "text": "Dickens",
+        "label": "writer",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "The Frozen Deep",
+        "label": "book",
+        "start": 59,
+        "end": 74
+      },
+      {
+        "text": "Wilkie Collins",
+        "label": "writer",
+        "start": 108,
+        "end": 122
+      }
+    ]
+  },
+  {
+    "text": "Tarkovsky studied film at Moscow's State Institute of Cinematography under filmmaker Mikhail Romm, and subsequently directed his first five feature film s in the Soviet Union: Ivan's Childhood (1962), Andrei Rublev (1966), Solaris (1972), Mirror (1975), and Stalker (1979).",
+    "entities": [
+      {
+        "text": "Tarkovsky",
+        "label": "writer",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "Moscow",
+        "label": "location",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "text": "Mikhail Romm",
+        "label": "person",
+        "start": 85,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "text": "Carl Solomon introduced Ginsberg to the work of Antonin Artaud (To Have Done with the Judgement of God and Van Gogh: The Man Suicided by Society), and Jean Genet (Our Lady of the Flowers).",
+    "entities": [
+      {
+        "text": "Carl Solomon",
+        "label": "writer",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "Ginsberg",
+        "label": "writer",
+        "start": 24,
+        "end": 32
+      },
+      {
+        "text": "Antonin Artaud",
+        "label": "writer",
+        "start": 48,
+        "end": 62
+      },
+      {
+        "text": "To Have Done with the Judgement of God",
+        "label": "book",
+        "start": 64,
+        "end": 102
+      },
+      {
+        "text": "Van Gogh",
+        "label": "writer",
+        "start": 107,
+        "end": 115
+      },
+      {
+        "text": "The Man Suicided by Society",
+        "label": "book",
+        "start": 117,
+        "end": 144
+      },
+      {
+        "text": "Jean Genet",
+        "label": "writer",
+        "start": 151,
+        "end": 161
+      },
+      {
+        "text": "Our Lady of the Flowers",
+        "label": "book",
+        "start": 163,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "text": "His interest in space, however, was his primary focus, especially after reading science fiction stories by writers such as H. G. Wells and Edgar Rice Burroughs, which stirred his imagination about life on other planets such as Mars.",
+    "entities": [
+      {
+        "text": "science fiction stories",
+        "label": "literarygenre",
+        "start": 80,
+        "end": 103
+      },
+      {
+        "text": "H. G. Wells",
+        "label": "writer",
+        "start": 123,
+        "end": 134
+      },
+      {
+        "text": "Edgar Rice Burroughs",
+        "label": "writer",
+        "start": 139,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "text": "Davy was a baronet, President of the Royal Society (PRS), Royal Irish Academy, and Geological Society of London.",
+    "entities": [
+      {
+        "text": "Davy",
+        "label": "person",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "text": "Richards has received numerous awards including two Gemini Awards for scriptwriting for Small Gifts and For Those Who Hunt the Wounded Down, the Alden Nowlan Award for Excellence in the Arts, and the Canadian Authors Association Award for his novel Evening Snow Will Bring Such Peace.",
+    "entities": [
+      {
+        "text": "Richards",
+        "label": "writer",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Small Gifts",
+        "label": "book",
+        "start": 88,
+        "end": 99
+      },
+      {
+        "text": "For Those Who Hunt the Wounded Down",
+        "label": "book",
+        "start": 104,
+        "end": 139
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 243,
+        "end": 248
+      },
+      {
+        "text": "Evening Snow Will Bring Such Peace",
+        "label": "book",
+        "start": 249,
+        "end": 283
+      }
+    ]
+  },
+  {
+    "text": "1933), and by Random House in 1934, which also included The Orators and The Dance of Death.",
+    "entities": []
+  },
+  {
+    "text": "Her novels have inspired many films, from 1940's Pride and Prejudice to more recent productions like Sense and Sensibility (1995), Emma (1996), Mansfield Park (1999), Pride & Prejudice (2005), Love & Friendship (2016), and.",
+    "entities": [
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 10
+      },
+      {
+        "text": "Pride and Prejudice",
+        "label": "book",
+        "start": 49,
+        "end": 68
+      },
+      {
+        "text": "Sense and Sensibility",
+        "label": "book",
+        "start": 101,
+        "end": 122
+      },
+      {
+        "text": "Emma",
+        "label": "book",
+        "start": 131,
+        "end": 135
+      },
+      {
+        "text": "Mansfield Park",
+        "label": "book",
+        "start": 144,
+        "end": 158
+      },
+      {
+        "text": "Pride & Prejudice",
+        "label": "book",
+        "start": 167,
+        "end": 184
+      },
+      {
+        "text": "Love & Friendship",
+        "label": "book",
+        "start": 193,
+        "end": 210
+      }
+    ]
+  },
+  {
+    "text": "The film was presented at the Cannes Film Festival, won the Grand Prix Spécial du Jury and the FIPRESCI prize, and was nominated for the Palme d 'Or.",
+    "entities": []
+  },
+  {
+    "text": "With the publications of Sense and Sensibility (1811), Pride and Prejudice (1813), Mansfield Park (1814) and Emma (1816), she achieved success as a published writer.",
+    "entities": [
+      {
+        "text": "Sense and Sensibility",
+        "label": "book",
+        "start": 25,
+        "end": 46
+      },
+      {
+        "text": "Pride and Prejudice",
+        "label": "book",
+        "start": 55,
+        "end": 74
+      },
+      {
+        "text": "Mansfield Park",
+        "label": "book",
+        "start": 83,
+        "end": 97
+      },
+      {
+        "text": "Emma",
+        "label": "book",
+        "start": 109,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "In 1351, during the reign of Emperor Toghon Temür of the Yuan dynasty, 93rd-generation descendant Kong Huan (孔浣) ' s 2nd son Kong Shao (孔昭) moved from China to Korea during the Goryeo, and was received courteously by Princess Noguk (the Mongolian-born wife of the future king Gongmin).",
+    "entities": [
+      {
+        "text": "Emperor Toghon Temür",
+        "label": "person",
+        "start": 29,
+        "end": 49
+      },
+      {
+        "text": "Kong Huan",
+        "label": "writer",
+        "start": 98,
+        "end": 107
+      },
+      {
+        "text": "孔浣",
+        "label": "writer",
+        "start": 109,
+        "end": 111
+      },
+      {
+        "text": "Kong Shao",
+        "label": "writer",
+        "start": 125,
+        "end": 134
+      },
+      {
+        "text": "孔昭",
+        "label": "writer",
+        "start": 136,
+        "end": 138
+      },
+      {
+        "text": "Princess Noguk",
+        "label": "person",
+        "start": 217,
+        "end": 231
+      },
+      {
+        "text": "Gongmin",
+        "label": "person",
+        "start": 276,
+        "end": 283
+      }
+    ]
+  },
+  {
+    "text": "Kornbluth also wrote several novels under his own name, including The Syndic and Not This August.",
+    "entities": [
+      {
+        "text": "Kornbluth",
+        "label": "writer",
+        "start": 0,
+        "end": 9
+      },
+      {
+        "text": "novels",
+        "label": "literarygenre",
+        "start": 29,
+        "end": 35
+      },
+      {
+        "text": "The Syndic",
+        "label": "book",
+        "start": 66,
+        "end": 76
+      },
+      {
+        "text": "Not This August",
+        "label": "book",
+        "start": 81,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "text": "Polanski's next film, An Officer and a Spy, centers on the notorious 19th century Dreyfus affair, The film stars Jean Dujardin as French officer Georges Picquart and follows his struggle from 1896-1906 to expose the truth about the doctored evidence that led to Alfred Dreyfus, one of the few Jewish members of the French Army's general staff, being wrongly convicted of passing military secrets to the German Empire and sent to Devil's Island.",
+    "entities": [
+      {
+        "text": "Polanski",
+        "label": "person",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "text": "Jean Dujardin",
+        "label": "person",
+        "start": 113,
+        "end": 126
+      },
+      {
+        "text": "Georges Picquart",
+        "label": "person",
+        "start": 145,
+        "end": 161
+      },
+      {
+        "text": "Alfred Dreyfus",
+        "label": "person",
+        "start": 262,
+        "end": 276
+      },
+      {
+        "text": "Devil's Island",
+        "label": "location",
+        "start": 429,
+        "end": 443
+      }
+    ]
+  },
+  {
+    "text": "In his book The Mask of Sanity, Cleckley refers to Finnegans Wake as a 628-page collection of erudite gibberish indistinguishable to most people from the familiar word salad produced by hebephrenic patients on the back wards of any state hospital.",
+    "entities": [
+      {
+        "text": "The Mask of Sanity",
+        "label": "book",
+        "start": 12,
+        "end": 30
+      },
+      {
+        "text": "Cleckley",
+        "label": "writer",
+        "start": 32,
+        "end": 40
+      },
+      {
+        "text": "Finnegans Wake",
+        "label": "book",
+        "start": 51,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "text": "The poems he had written during his time in prison were so effective that Dudley Randall, a poet and owner of Broadside Press, published Knight's first volume of verse, Poems from Prison, and hailed Knight as one of the major poets of the Black Arts Movement.",
+    "entities": [
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 4,
+        "end": 9
+      },
+      {
+        "text": "Dudley Randall",
+        "label": "writer",
+        "start": 74,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "text": "Hunter S. Thompson wrote a scathing piece denouncing Nixon for Rolling Stone, entitled He Was a Crook (which also appeared a month later in The Atlantic) .ref name = atlantic In his article, Thompson described Nixon as a political monster straight out of Grendel and a very dangerous enemy.",
+    "entities": [
+      {
+        "text": "Hunter S. Thompson",
+        "label": "writer",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "Nixon",
+        "label": "person",
+        "start": 53,
+        "end": 58
+      },
+      {
+        "text": "Thompson",
+        "label": "writer",
+        "start": 191,
+        "end": 199
+      },
+      {
+        "text": "Nixon",
+        "label": "person",
+        "start": 210,
+        "end": 215
+      }
+    ]
+  },
+  {
+    "text": "Shortly after, he signed a contract with RCA Victor and one of his early singles, Trouble in the Amen Corner reached the 1960 country music Top 25.",
+    "entities": []
+  },
+  {
+    "text": "In November 1924 he was awarded the Nobel Prize for Literature over rivals Thomas Mann, George Bernard Shaw and Thomas Hardy, after he had been nominated by Anders Österling, member of the Swedish Academy.",
+    "entities": [
+      {
+        "text": "Thomas Mann",
+        "label": "writer",
+        "start": 75,
+        "end": 86
+      },
+      {
+        "text": "George Bernard Shaw",
+        "label": "writer",
+        "start": 88,
+        "end": 107
+      },
+      {
+        "text": "Thomas Hardy",
+        "label": "writer",
+        "start": 112,
+        "end": 124
+      },
+      {
+        "text": "Anders Österling",
+        "label": "writer",
+        "start": 157,
+        "end": 173
+      }
+    ]
+  },
+  {
+    "text": "The remainder were distributed off a ferry near Hong Kong, the ferry between Hainan Island and the Chinese mainland, a ferry in Vietnam, White's Ferry on the Potomac River in Virginia on Father's Day 2007, and on author H. P. Lovecraft ' s grave in Providence, Rhode Island on December 17, 2005.",
+    "entities": [
+      {
+        "text": "Hong Kong",
+        "label": "location",
+        "start": 48,
+        "end": 57
+      },
+      {
+        "text": "Hainan Island",
+        "label": "location",
+        "start": 77,
+        "end": 90
+      },
+      {
+        "text": "Chinese mainland",
+        "label": "location",
+        "start": 99,
+        "end": 115
+      },
+      {
+        "text": "Potomac River",
+        "label": "location",
+        "start": 158,
+        "end": 171
+      },
+      {
+        "text": "Virginia",
+        "label": "location",
+        "start": 175,
+        "end": 183
+      },
+      {
+        "text": "H. P. Lovecraft",
+        "label": "writer",
+        "start": 220,
+        "end": 235
+      },
+      {
+        "text": "Providence",
+        "label": "location",
+        "start": 249,
+        "end": 259
+      },
+      {
+        "text": "Rhode Island",
+        "label": "location",
+        "start": 261,
+        "end": 273
+      }
+    ]
+  },
+  {
+    "text": "His books Difference and Repetition (1968) and The Logic of Sense (1969) led Michel Foucault to declare that one day, perhaps, this century will be called Deleuzian.",
+    "entities": [
+      {
+        "text": "Difference and Repetition",
+        "label": "book",
+        "start": 10,
+        "end": 35
+      },
+      {
+        "text": "The Logic of Sense",
+        "label": "book",
+        "start": 47,
+        "end": 65
+      },
+      {
+        "text": "Michel Foucault",
+        "label": "writer",
+        "start": 77,
+        "end": 92
+      },
+      {
+        "text": "Deleuzian",
+        "label": "writer",
+        "start": 155,
+        "end": 164
+      }
+    ]
+  },
+  {
+    "text": "In 1960, aged 42, he approached Aleksandr Tvardovsky, a poet and the chief editor of the Novy Mir magazine, with the manuscript of One Day in the Life of Ivan Denisovich.",
+    "entities": [
+      {
+        "text": "Aleksandr Tvardovsky",
+        "label": "writer",
+        "start": 32,
+        "end": 52
+      },
+      {
+        "text": "One Day in the Life of Ivan Denisovich",
+        "label": "book",
+        "start": 131,
+        "end": 169
+      }
+    ]
+  },
+  {
+    "text": "This included The 500 Hats of Bartholomew Cubbins in 1938, as well as The King's Stilts and The Seven Lady Godivas in 1939, all of which were in prose, atypically for him.",
+    "entities": [
+      {
+        "text": "The 500 Hats of Bartholomew Cubbins",
+        "label": "book",
+        "start": 14,
+        "end": 49
+      },
+      {
+        "text": "The King's Stilts",
+        "label": "book",
+        "start": 70,
+        "end": 87
+      },
+      {
+        "text": "The Seven Lady Godivas",
+        "label": "book",
+        "start": 92,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "text": "Caravaggio was entered into the 36th Berlin International Film Festival, where it won the Silver Bear for an outstanding single achievement.",
+    "entities": []
+  },
+  {
+    "text": "The details of their narrative of the war were copied, for example, in the Laud Troy Book and Lydgate Troy Books and also in Raoul Lefevre ' s Recuyell of the Historyes of Troye.",
+    "entities": [
+      {
+        "text": "Lydgate",
+        "label": "writer",
+        "start": 94,
+        "end": 101
+      },
+      {
+        "text": "Raoul Lefevre",
+        "label": "writer",
+        "start": 125,
+        "end": 138
+      },
+      {
+        "text": "Recuyell of the Historyes of Troye",
+        "label": "book",
+        "start": 143,
+        "end": 177
+      }
+    ]
+  },
+  {
+    "text": "A final folktale, Wag by Wall, was published posthumously by The Horn Book Magazine in 1944.",
+    "entities": [
+      {
+        "text": "folktale",
+        "label": "literarygenre",
+        "start": 8,
+        "end": 16
+      },
+      {
+        "text": "Wag by Wall",
+        "label": "book",
+        "start": 18,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "text": "Celebrated Puerto Rican novelists who write in English and Spanish include Giannina Braschi, author of the Spanglish classic Yo-Yo Boing! and Rosario Ferré, best known for Eccentric Neighborhoods Puerto Rico has also produced important playwrights such as René Marqués, Luis Rafael Sánchez, and José Rivera and New York based poets such as Julia de Burgos, Giannina Braschi and Pedro Pietri, as well as various members of the Nuyorican Poets Café.",
+    "entities": [
+      {
+        "text": "Giannina Braschi",
+        "label": "writer",
+        "start": 75,
+        "end": 91
+      },
+      {
+        "text": "Yo-Yo Boing!",
+        "label": "book",
+        "start": 125,
+        "end": 137
+      },
+      {
+        "text": "Rosario Ferré",
+        "label": "writer",
+        "start": 142,
+        "end": 155
+      },
+      {
+        "text": "Eccentric Neighborhoods",
+        "label": "book",
+        "start": 172,
+        "end": 195
+      },
+      {
+        "text": "Puerto Rico",
+        "label": "location",
+        "start": 196,
+        "end": 207
+      },
+      {
+        "text": "René Marqués",
+        "label": "writer",
+        "start": 256,
+        "end": 268
+      },
+      {
+        "text": "Luis Rafael Sánchez",
+        "label": "writer",
+        "start": 270,
+        "end": 289
+      },
+      {
+        "text": "José Rivera",
+        "label": "writer",
+        "start": 295,
+        "end": 306
+      },
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 311,
+        "end": 319
+      },
+      {
+        "text": "Julia de Burgos",
+        "label": "writer",
+        "start": 340,
+        "end": 355
+      },
+      {
+        "text": "Giannina Braschi",
+        "label": "writer",
+        "start": 357,
+        "end": 373
+      },
+      {
+        "text": "Pedro Pietri",
+        "label": "writer",
+        "start": 378,
+        "end": 390
+      },
+      {
+        "text": "Nuyorican Poets Café",
+        "label": "location",
+        "start": 426,
+        "end": 446
+      }
+    ]
+  },
+  {
+    "text": "It was praised by scientists such as Darwin (to whom the book was dedicated), and Charles Lyell, and by non-scientists such as the novelist Joseph Conrad, who called it his favorite bedside companion and used it as source of information for several of his novels, especially Lord Jim.",
+    "entities": [
+      {
+        "text": "Darwin",
+        "label": "person",
+        "start": 37,
+        "end": 43
+      },
+      {
+        "text": "Charles Lyell",
+        "label": "person",
+        "start": 82,
+        "end": 95
+      },
+      {
+        "text": "Joseph Conrad",
+        "label": "writer",
+        "start": 140,
+        "end": 153
+      },
+      {
+        "text": "Lord Jim",
+        "label": "writer",
+        "start": 275,
+        "end": 283
+      }
+    ]
+  },
+  {
+    "text": "Highly regarded in his lifetime and for a period thereafter, he is now largely remembered for his anti-slavery writings and his poems Barbara Frietchie, The Barefoot Boy, Maud Muller and Snow-Bound.",
+    "entities": [
+      {
+        "text": "anti-slavery writings",
+        "label": "literarygenre",
+        "start": 98,
+        "end": 119
+      },
+      {
+        "text": "poems",
+        "label": "literarygenre",
+        "start": 128,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "text": "Kubrick based his adapted screenplay on William Makepeace Thackeray ' s The Luck of Barry Lyndon (republished as the novel Memoirs of Barry Lyndon, Esq.",
+    "entities": [
+      {
+        "text": "Kubrick",
+        "label": "writer",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "William Makepeace Thackeray",
+        "label": "writer",
+        "start": 40,
+        "end": 67
+      },
+      {
+        "text": "The Luck of Barry Lyndon",
+        "label": "book",
+        "start": 72,
+        "end": 96
+      },
+      {
+        "text": "novel",
+        "label": "literarygenre",
+        "start": 117,
+        "end": 122
+      },
+      {
+        "text": "Memoirs of Barry Lyndon",
+        "label": "book",
+        "start": 123,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "text": "The English Patient (1992) won the Booker Prize, the Canada Australia Prize, and the Governor General's Award.",
+    "entities": [
+      {
+        "text": "The English Patient",
+        "label": "book",
+        "start": 0,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "text": "During his visits to England in these years, Swift published A Tale of a Tub and The Battle of the Books (1704) and began to gain a reputation as a writer.",
+    "entities": [
+      {
+        "text": "Swift",
+        "label": "writer",
+        "start": 45,
+        "end": 50
+      },
+      {
+        "text": "A Tale of a Tub",
+        "label": "book",
+        "start": 61,
+        "end": 76
+      },
+      {
+        "text": "The Battle of the Books",
+        "label": "book",
+        "start": 81,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "These were later collected and published in book form as My Disillusionment in Russia (1923) and My Further Disillusionment in Russia (1924).",
+    "entities": [
+      {
+        "text": "My Disillusionment in Russia",
+        "label": "book",
+        "start": 57,
+        "end": 85
+      },
+      {
+        "text": "My Further Disillusionment in Russia",
+        "label": "book",
+        "start": 97,
+        "end": 133
+      }
+    ]
+  }
+]

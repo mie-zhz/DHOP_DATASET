@@ -1,0 +1,863 @@
+[
+  {
+    "text": "Cassini visualized her as an American Queen and Mrs. Kennedy acknowledged that ``Oleg dressed me for the part''.",
+    "entities": [
+      {
+        "text": "American",
+        "label": "location",
+        "start": 29,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "text": "Youngblood's first solo recording, ``Heartbreak ``became a hit and help him work as bandleader for Faye Adams, Buster Brown, and Baby Washington.",
+    "entities": [
+      {
+        "text": "Youngblood",
+        "label": "organization",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "Faye Adams",
+        "label": "organization",
+        "start": 99,
+        "end": 109
+      },
+      {
+        "text": "Buster Brown",
+        "label": "organization",
+        "start": 111,
+        "end": 123
+      },
+      {
+        "text": "Baby Washington",
+        "label": "organization",
+        "start": 129,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "text": "It is rumored that Sharon Stone received a portion of the soundtrack profit, so she agreed to appear in the music video for this song.",
+    "entities": [
+      {
+        "text": "Sharon Stone",
+        "label": "person",
+        "start": 19,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "text": "Pinza became a member of Westchester Country Club in Rye, New York, and lived in a house adjacent to the fifth golf hole of the South Course.",
+    "entities": [
+      {
+        "text": "Westchester Country Club",
+        "label": "organization",
+        "start": 25,
+        "end": 49
+      },
+      {
+        "text": "Rye",
+        "label": "location",
+        "start": 53,
+        "end": 56
+      },
+      {
+        "text": "New York",
+        "label": "location",
+        "start": 58,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "text": "As of December 2011, 32 osteopathic nuclear medicine physicians held active certification with the AOBNM.",
+    "entities": [
+      {
+        "text": "AOBNM",
+        "label": "organization",
+        "start": 99,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "After that he worked at Městská divadla pražská.",
+    "entities": []
+  },
+  {
+    "text": "Lee Marrs supplied a few pictures.",
+    "entities": [
+      {
+        "text": "Lee Marrs",
+        "label": "person",
+        "start": 0,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "text": "This time, the disagreement was over whether the portion of West Florida that was first under British and then Spanish control since 1763 (between the Mississippi and Perdido Rivers) was included in the 1801 treaty and thus the Louisiana Purchase.",
+    "entities": [
+      {
+        "text": "West Florida",
+        "label": "location",
+        "start": 60,
+        "end": 72
+      },
+      {
+        "text": "British",
+        "label": "location",
+        "start": 94,
+        "end": 101
+      },
+      {
+        "text": "Spanish",
+        "label": "location",
+        "start": 111,
+        "end": 118
+      },
+      {
+        "text": "Louisiana Purchase",
+        "label": "location",
+        "start": 228,
+        "end": 246
+      }
+    ]
+  },
+  {
+    "text": "Fenton agreed to sit on the contract until a permanent bass player was found.",
+    "entities": [
+      {
+        "text": "Fenton",
+        "label": "person",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "text": "Goalkeeper Iker Casillas won the golden glove for only conceding two goals during the tournament.",
+    "entities": [
+      {
+        "text": "Iker Casillas",
+        "label": "person",
+        "start": 11,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "Ragapravaham, the brain child of these young brothers has over a short period of time become an instant hit all over the world.",
+    "entities": [
+      {
+        "text": "Ragapravaham,",
+        "label": "product",
+        "start": 0,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "text": "The 1981 Avon Championships of Seattle was a women's tennis tournament played on indoor carpet courts at the Seattle Center Coliseum in Seattle, Washington in the United States that was part of the 1981 Avon Championships Circuit.",
+    "entities": [
+      {
+        "text": "Seattle",
+        "label": "location",
+        "start": 136,
+        "end": 143
+      },
+      {
+        "text": "Washington",
+        "label": "location",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "the United States",
+        "label": "location",
+        "start": 159,
+        "end": 176
+      }
+    ]
+  },
+  {
+    "text": "Founded in 1088, the University of Bologne is considered the first, and the oldest continually operating university.",
+    "entities": [
+      {
+        "text": "University of Bologne",
+        "label": "organization",
+        "start": 21,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "text": "Tritium leakage from the rods during reactor operations limits the number that can be used in any reactor without exceeding the maximum allowed tritium levels in the coolant.",
+    "entities": []
+  },
+  {
+    "text": "The 193 million birr Arba Minch Textile Mill was opened on 6 May 1992 in the presence of Ethiopian Prime Minister Tamirat Layne.",
+    "entities": [
+      {
+        "text": "birr Arba Minch Textile Mill",
+        "label": "organization",
+        "start": 16,
+        "end": 44
+      },
+      {
+        "text": "Ethiopian",
+        "label": "location",
+        "start": 89,
+        "end": 98
+      },
+      {
+        "text": "Tamirat Layne",
+        "label": "person",
+        "start": 114,
+        "end": 127
+      }
+    ]
+  },
+  {
+    "text": "The British Rail Class 25 diesel locomotives, also known as Sulzer Type 2 were a class of 327 locomotives built between 1961 and 1967 for British Rail.",
+    "entities": [
+      {
+        "text": "British Rail",
+        "label": "location",
+        "start": 138,
+        "end": 150
+      }
+    ]
+  },
+  {
+    "text": "The band toured through the mid west and east coast including numerous dates on the Warped Tour.",
+    "entities": []
+  },
+  {
+    "text": "After a second division loan at SD Eibar, Hurtado returned as an important midfield element, renewing his contract until 2009 and scoring his first goal for the club in 2006–07, a 2–1 home win over RC Celta de Vigo in the league opener– during that campaign, he also collected 12 yellow cards.",
+    "entities": [
+      {
+        "text": "SD Eibar",
+        "label": "organization",
+        "start": 32,
+        "end": 40
+      },
+      {
+        "text": "RC Celta de Vigo",
+        "label": "organization",
+        "start": 198,
+        "end": 214
+      }
+    ]
+  },
+  {
+    "text": "When he finished, he told Anansi to sleep there, but Anansi replied that he couldn't, because he was Nyame's Soul-washer and only slept in a room with an open veranda.",
+    "entities": [
+      {
+        "text": "Anansi",
+        "label": "person",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "text": "Anansi",
+        "label": "person",
+        "start": 53,
+        "end": 59
+      },
+      {
+        "text": "Nyame",
+        "label": "person",
+        "start": 101,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "text": "His group was involved in an intense battle with the U.S. army near Spin Boldak.",
+    "entities": [
+      {
+        "text": "U.S.",
+        "label": "organization",
+        "start": 53,
+        "end": 57
+      },
+      {
+        "text": "Spin Boldak",
+        "label": "location",
+        "start": 68,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "text": "The following month, a small Confederate picket force defeated a Union cavalry patrol north of Tucson at the Battle of Picacho Pass.",
+    "entities": [
+      {
+        "text": "Confederate",
+        "label": "organization",
+        "start": 29,
+        "end": 40
+      },
+      {
+        "text": "Union",
+        "label": "organization",
+        "start": 65,
+        "end": 70
+      },
+      {
+        "text": "Tucson",
+        "label": "location",
+        "start": 95,
+        "end": 101
+      }
+    ]
+  },
+  {
+    "text": "Also, all games except ``Urban Champion ``were included as unlockables in the GameCube game ``Animal Crossing ``, in full two-player mode where applicable, and all games except Golf were included in Wii's Virtual Console.",
+    "entities": [
+      {
+        "text": "Wii's Virtual Console",
+        "label": "product",
+        "start": 199,
+        "end": 220
+      }
+    ]
+  },
+  {
+    "text": "Russell's naval career spanned the American Revolutionary War, French Revolutionary War and Napoleonic War.",
+    "entities": [
+      {
+        "text": "Russell",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "text": "These platforms were closed after international services moved to St Pancras International in 2007.",
+    "entities": []
+  },
+  {
+    "text": "It took place at the Qizhong Forest Sports City Arena in Shanghai, China, from November 11 through November 18, 2007.",
+    "entities": [
+      {
+        "text": "Shanghai",
+        "label": "location",
+        "start": 57,
+        "end": 65
+      },
+      {
+        "text": "China",
+        "label": "location",
+        "start": 67,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "text": "Furthermore, the complicated political status of Jerusalem makes reconstruction difficult, while Al-Aqsa Mosque and the Dome of the Rock have been constructed at the traditional physical location of the Temple.",
+    "entities": [
+      {
+        "text": "Jerusalem",
+        "label": "organization",
+        "start": 49,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "text": "He studied Risshū school at first and then converted to Chan Buddhism.",
+    "entities": [
+      {
+        "text": "Risshū school",
+        "label": "organization",
+        "start": 11,
+        "end": 24
+      },
+      {
+        "text": "Chan Buddhism",
+        "label": "organization",
+        "start": 56,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "text": "They can not bundle multiple files into a single archive – to do this an archiving program is used first, such as tar.",
+    "entities": [
+      {
+        "text": "tar",
+        "label": "product",
+        "start": 114,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "text": "Harvard and Wright won numerous preseason honors.",
+    "entities": [
+      {
+        "text": "Harvard",
+        "label": "person",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "Wright",
+        "label": "person",
+        "start": 12,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "text": "In addition, Carter worked as an intern with Levenson and Hill, a marketing and advertisement firm in the Las Colinas suburb of Dallas, Texas.",
+    "entities": [
+      {
+        "text": "Levenson and Hill",
+        "label": "organization",
+        "start": 45,
+        "end": 62
+      },
+      {
+        "text": "Las Colinas",
+        "label": "organization",
+        "start": 106,
+        "end": 117
+      },
+      {
+        "text": "Dallas",
+        "label": "location",
+        "start": 128,
+        "end": 134
+      },
+      {
+        "text": "Texas",
+        "label": "location",
+        "start": 136,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "text": "A production of ``Twelfth Night ``was directed by Patrick Garland in the gardens with Oz Clarke as Sir Toby Belch and Francis Matthews.",
+    "entities": [
+      {
+        "text": "Twelfth Night",
+        "label": "art",
+        "start": 18,
+        "end": 31
+      },
+      {
+        "text": "Patrick Garland",
+        "label": "person",
+        "start": 50,
+        "end": 65
+      },
+      {
+        "text": "gardens",
+        "label": "art",
+        "start": 73,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "text": "The airline has its own maintenance unit which has capabilities on McDonnell Douglas MD-80 series and Boeing 737 Classic series aircraft covering airframe, engines and landing gear services and overhaul of aircraft components.",
+    "entities": [
+      {
+        "text": "McDonnell Douglas MD-80",
+        "label": "product",
+        "start": 67,
+        "end": 90
+      },
+      {
+        "text": "Boeing 737 Classic",
+        "label": "product",
+        "start": 102,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "text": "He was Liberal candidate for the Leicester West division at the 1931 General Election.",
+    "entities": [
+      {
+        "text": "Leicester",
+        "label": "location",
+        "start": 33,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "text": "Some have hypothesized that Tiwanaku's modern name is related to the Aymara term ``taypiqala'', meaning ``stone in the center'', alluding to the belief that it lay at the center of the world.",
+    "entities": []
+  },
+  {
+    "text": "The name United Rhodesia Party and the acronym, URP, refer to two political parties in Southern Rhodesia.",
+    "entities": [
+      {
+        "text": "Southern Rhodesia",
+        "label": "location",
+        "start": 87,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "text": "By 1990, Hercules used 35 acres of their 3500 acre lease held through the Bureau of Indian Affairs and employed 17 people on site.",
+    "entities": [
+      {
+        "text": "Hercules",
+        "label": "organization",
+        "start": 9,
+        "end": 17
+      },
+      {
+        "text": "Bureau of Indian Affairs",
+        "label": "organization",
+        "start": 74,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "text": "Fassbinder ’ s play ``Die bitteren Tränen der Petra von Kant, ``shown at Deutsches Theater in Berlin.",
+    "entities": [
+      {
+        "text": "Die bitteren Tränen der Petra von Kant,",
+        "label": "art",
+        "start": 22,
+        "end": 61
+      },
+      {
+        "text": "Berlin",
+        "label": "location",
+        "start": 94,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "text": "His parents are Martha Philpotts, a teacher, and Dennis Page, a graphic designer.",
+    "entities": [
+      {
+        "text": "Martha Philpotts",
+        "label": "person",
+        "start": 16,
+        "end": 32
+      },
+      {
+        "text": "Dennis Page",
+        "label": "person",
+        "start": 49,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "text": "(The WRP was not founded until 1973, but its forerunner, the Socialist Labour League had many sympathisers in the RSC.)",
+    "entities": [
+      {
+        "text": "WRP",
+        "label": "organization",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "Socialist Labour League",
+        "label": "organization",
+        "start": 61,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "text": "Liverpool and Manchester both have extensive local passenger rail networks operating high-frequency commuter trains.",
+    "entities": [
+      {
+        "text": "Manchester",
+        "label": "location",
+        "start": 14,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "text": "Kane died from the disease at the Cedars-Sinai Medical Center in Los Angeles on May 6, 2016, aged 54.",
+    "entities": [
+      {
+        "text": "Los Angeles",
+        "label": "location",
+        "start": 65,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "text": "The Hebrew Bible is composed of three parts; the Torah (Instruction, the Septuagint translated the Hebrew to ``nomos'' or ``Law''), the Nevi'im (Prophets) and the Ketuvim (Writings).",
+    "entities": [
+      {
+        "text": "Hebrew Bible",
+        "label": "art",
+        "start": 4,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "text": "The foundation of the House of Bokassa began in March 1972, when Jean-Bédel Bokassa proclaimed himself marshal and president-for-life of the Central African Republic.",
+    "entities": [
+      {
+        "text": "Jean-Bédel Bokassa",
+        "label": "person",
+        "start": 65,
+        "end": 83
+      },
+      {
+        "text": "the Central African Republic",
+        "label": "location",
+        "start": 137,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "text": "Genetic counseling in China (mainland) has been primarily provided by pediatricians or obstetricians for prenatal or birth defect diagnoses.",
+    "entities": [
+      {
+        "text": "China",
+        "label": "location",
+        "start": 22,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "text": "This protein has a length of 421 amino acids, among which, we have to highlight the Glutamine number 58 (Gln or Q), which is crucial for catalytic activity.",
+    "entities": []
+  },
+  {
+    "text": "The award is a bronze statuette of Peer Gynt riding a reindeer buck (``Peer Gynt-statuetten ``), made by artist Carl Bilgrei.",
+    "entities": [
+      {
+        "text": "Peer Gynt",
+        "label": "person",
+        "start": 35,
+        "end": 44
+      },
+      {
+        "text": "Peer Gynt-statuetten",
+        "label": "art",
+        "start": 71,
+        "end": 91
+      },
+      {
+        "text": "Carl Bilgrei",
+        "label": "person",
+        "start": 112,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "text": "She has done extensive work at the Scripps Research Institute in La Jolla, California and was President of the International Society on Thrombosis and Hemostasis from 1992 to 1994.",
+    "entities": [
+      {
+        "text": "La Jolla",
+        "label": "location",
+        "start": 65,
+        "end": 73
+      },
+      {
+        "text": "California",
+        "label": "location",
+        "start": 75,
+        "end": 85
+      },
+      {
+        "text": "International Society on Thrombosis and Hemostasis",
+        "label": "organization",
+        "start": 111,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "text": "The neighborhood extends from the Ala Wai Canal (a channel dug to drain one-time wetlands) on the west and north, to Diamond Head (``Lēahi,'' tuna brow) on the east.",
+    "entities": [
+      {
+        "text": "Diamond Head",
+        "label": "location",
+        "start": 117,
+        "end": 129
+      },
+      {
+        "text": "Lēahi",
+        "label": "location",
+        "start": 133,
+        "end": 138
+      },
+      {
+        "text": "tuna brow",
+        "label": "location",
+        "start": 142,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "text": "The school was named after photographer, film director and local icon Gordon Parks.",
+    "entities": [
+      {
+        "text": "Gordon Parks",
+        "label": "person",
+        "start": 70,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "text": "In the 1980s, Congressman William J. Hughes proposed a freeway along the US 40 corridor in order to alleviate increased traffic along that route following the legalization of gambling in Atlantic City.",
+    "entities": [
+      {
+        "text": "William J. Hughes",
+        "label": "person",
+        "start": 26,
+        "end": 43
+      },
+      {
+        "text": "US 40",
+        "label": "location",
+        "start": 73,
+        "end": 78
+      },
+      {
+        "text": "Atlantic City",
+        "label": "location",
+        "start": 187,
+        "end": 200
+      }
+    ]
+  },
+  {
+    "text": "She gave several other performances with her husband, at cafés, friends ' homes and at the Hermitage Theatre between 1916 and 1918.",
+    "entities": []
+  },
+  {
+    "text": "Norman ducal patronage financed the spectacular Norman architecture of the abbey in subsequent centuries.",
+    "entities": [
+      {
+        "text": "Norman",
+        "label": "location",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "Norman",
+        "label": "location",
+        "start": 48,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "text": "A further A $2.5 million was spent to relocate, install and modify the roller coaster, as well as to develop the roller coaster's new theme.",
+    "entities": []
+  },
+  {
+    "text": "EDS appealed the Otahuhu C resource consents granted by Auckland Regional Council.",
+    "entities": [
+      {
+        "text": "EDS",
+        "label": "organization",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "text": "Animation historian Greg Ford writes, ``Much of the mythic resonance of Wile E. Coyote's all-consuming, Sisyphean scrambles after the Road Runner would seem to stem from the lunar emptiness of the desert and the absence of any more civilized environment.",
+    "entities": [
+      {
+        "text": "Sisyphean",
+        "label": "location",
+        "start": 104,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "text": "The headwind was very strong and Van Dijk couldn ’ t stay away.",
+    "entities": [
+      {
+        "text": "Van Dijk",
+        "label": "person",
+        "start": 33,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "text": "In 2019, Lifetime produced a remake television film titled ``Death of a Cheerleader ``, starring Aubrey Peeples and Sarah Dugdale, with Kellie Martin also appearing.",
+    "entities": [
+      {
+        "text": "Lifetime",
+        "label": "organization",
+        "start": 9,
+        "end": 17
+      },
+      {
+        "text": "Death of a Cheerleader",
+        "label": "art",
+        "start": 61,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "text": "However, the program of Nobre da Costa's government was never approved and two months later, da Costa was replaced by Mota Pinto who would govern with extreme difficulties for less than one year.",
+    "entities": [
+      {
+        "text": "Nobre da Costa",
+        "label": "person",
+        "start": 24,
+        "end": 38
+      },
+      {
+        "text": "da Costa",
+        "label": "person",
+        "start": 93,
+        "end": 101
+      },
+      {
+        "text": "Mota Pinto",
+        "label": "person",
+        "start": 118,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "text": "The Navy sold her in 1816.",
+    "entities": [
+      {
+        "text": "Navy",
+        "label": "organization",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "text": "In 1940, together with Daniel I. Arnon, he received the AAAS Newcomb Cleveland Prize for the work ``Availability of Nutrients with Special Reference to Physiological Aspects ``.",
+    "entities": []
+  }
+]
